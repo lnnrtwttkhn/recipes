@@ -10,7 +10,7 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Tue, 12 Dec 2023 15:30:17 GMT</lastBuildDate>
+<lastBuildDate>Tue, 12 Dec 2023 15:34:57 GMT</lastBuildDate>
 <item>
   <title>Pancakes</title>
   <link>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</link>
@@ -58,7 +58,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Tue, 12 Dec 2023 15:30:17 GMT</pubDate>
+  <pubDate>Tue, 12 Dec 2023 15:34:57 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
