@@ -11,7 +11,7 @@ categories:
 ## Not vegan, contains eggs and milk!
 :::
 
-## Ingredients
+## {{< fa basket-shopping >}} Ingredients
 
 - [ ]   250 g flour
 - [ ]   2 tablespoons baking powder
@@ -19,7 +19,7 @@ categories:
 - [ ]   2 or 3 eggs
 - [ ]   A bit of butter
 
-## Preparation
+## {{< fa kitchen-set >}} Preparation
 
 1.  Mix the flour and the baking powder
 2.  Slowly add the milk and mix
