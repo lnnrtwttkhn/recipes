@@ -1,7 +1,7 @@
 ---
 listing:
   - id: recipes
-    type: table
+    type: default
     contents: recipes
     sort: false
     sort-ui: true
@@ -9,6 +9,6 @@ listing:
     categories: numbered
     feed: true
     date-format: long
-    image-height: 100px
-    fields: [image, title, categories]
+    image-height: 80px
+    fields: [image, title, categories, description, file-modified]
 ---
