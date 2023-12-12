@@ -3,27 +3,27 @@ project:
   execute-dir: project
   output-dir: _site
   preview:
-    port: 5600
+    port: 6700
     host: 127.0.0.1
     browser: true
     watch-inputs: true
     navigate: true
 
 website:
-  title: "Quarto Website"
-  description: "This is the description of the website"
-  site-url: "https://lennartwittkuhn.com/quarto-website/"
-  repo-url: "https://github.com/lnnrtwttkhn/quarto-website/"
+  title: "Recipes"
+  site-url: "https://lennartwittkuhn.com/recipes/"
+  repo-url: "https://github.com/lnnrtwttkhn/recipes/"
   repo-branch: main
-  issue-url: "https://github.com/lnnrtwttkhn/quarto-website/issues"
+  issue-url: "https://github.com/lnnrtwttkhn/recipes/issues"
   repo-actions: [edit, source, issue]
   reader-mode: false
   navbar:
+    title: false
     background: light
     search: true
     left:
       - href: index.qmd
-        text: "{{< fa home-user >}} Home"
+        text: "{{< fa utensils >}} Recipes"
     right:
       - icon: envelope
         aria-label: Email
