@@ -1,0 +1,41 @@
+project:
+  type: website
+  execute-dir: project
+  output-dir: _site
+  preview:
+    port: 5600
+    host: 127.0.0.1
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+website:
+  title: "Quarto Website"
+  description: "This is the description of the website"
+  site-url: "https://lennartwittkuhn.com/quarto-website/"
+  repo-url: "https://github.com/lnnrtwttkhn/quarto-website/"
+  repo-branch: main
+  issue-url: "https://github.com/lnnrtwttkhn/quarto-website/issues"
+  repo-actions: [edit, source, issue]
+  reader-mode: false
+  navbar:
+    background: light
+    search: true
+    left:
+      - href: index.qmd
+        text: "{{< fa home-user >}} Home"
+    right:
+      - icon: envelope
+        aria-label: Email
+        href: "{{< var mailto >}}"
+      - icon: github
+        aria-label: GitHub
+        href: "{{< var repo-url >}}"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-newwindow: true
+    include-after-body: plausible.html

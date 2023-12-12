@@ -1,0 +1,4 @@
+site-url: "https://lennartwittkuhn.com/quarto-website/"
+repo-url: "https://github.com/lnnrtwttkhn/quarto-website/"
+email: "lennart.wittkuhn@tutanota.com"
+mailto: "mailto:{{< var email >}}"
