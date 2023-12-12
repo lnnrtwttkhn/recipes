@@ -1,0 +1,28 @@
+---
+title: "Pancakes"
+image: https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg
+image-alt: https://commons.wikimedia.org/wiki/File:Thin_pancakes.jpg
+categories:
+  - sweet
+  - vegetarian
+---
+
+::: callout-warning
+## Not vegan, contains eggs and milk!
+:::
+
+## Ingredients
+
+- [ ]   250 g flour
+- [ ]   2 tablespoons baking powder
+- [ ]   500 g milk
+- [ ]   2 or 3 eggs
+- [ ]   A bit of butter
+
+## Preparation
+
+1.  Mix the flour and the baking powder
+2.  Slowly add the milk and mix
+3.  Add the eggs and mix
+4.  Add a bit of butter to a large pan and heat
+5.  Make the pancakes
