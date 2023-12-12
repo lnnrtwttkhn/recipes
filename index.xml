@@ -10,7 +10,7 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Tue, 12 Dec 2023 15:34:57 GMT</lastBuildDate>
+<lastBuildDate>Tue, 12 Dec 2023 15:51:40 GMT</lastBuildDate>
 <item>
   <title>Pancakes</title>
   <link>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</link>
@@ -31,8 +31,8 @@ Not vegan, contains eggs and milk!
 
 </div>
 </div>
-<section id="ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="ingredients">Ingredients</h2>
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
 <ul class="task-list">
 <li><input type="checkbox">250 g flour</li>
 <li><input type="checkbox">2 tablespoons baking powder</li>
@@ -41,8 +41,8 @@ Not vegan, contains eggs and milk!
 <li><input type="checkbox">A bit of butter</li>
 </ul>
 </section>
-<section id="preparation" class="level2">
-<h2 class="anchored" data-anchor-id="preparation">Preparation</h2>
+<section id="fa-kitchen-set-preparation" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-preparation"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Preparation</h2>
 <ol type="1">
 <li>Mix the flour and the baking powder</li>
 <li>Slowly add the milk and mix</li>
@@ -58,7 +58,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Tue, 12 Dec 2023 15:34:57 GMT</pubDate>
+  <pubDate>Tue, 12 Dec 2023 15:51:40 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>

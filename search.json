@@ -7,17 +7,17 @@
     "text": "Not vegan, contains eggs and milk!"
   },
   {
-    "objectID": "recipes/pancakes.html#ingredients",
-    "href": "recipes/pancakes.html#ingredients",
+    "objectID": "recipes/pancakes.html#fa-basket-shopping-ingredients",
+    "href": "recipes/pancakes.html#fa-basket-shopping-ingredients",
     "title": "Pancakes",
-    "section": "Ingredients",
+    "section": " Ingredients",
     "text": "Ingredients\n\n250 g flour\n2 tablespoons baking powder\n500 g milk\n2 or 3 eggs\nA bit of butter"
   },
   {
-    "objectID": "recipes/pancakes.html#preparation",
-    "href": "recipes/pancakes.html#preparation",
+    "objectID": "recipes/pancakes.html#fa-kitchen-set-preparation",
+    "href": "recipes/pancakes.html#fa-kitchen-set-preparation",
     "title": "Pancakes",
-    "section": "Preparation",
+    "section": " Preparation",
     "text": "Preparation\n\nMix the flour and the baking powder\nSlowly add the milk and mix\nAdd the eggs and mix\nAdd a bit of butter to a large pan and heat\nMake the pancakes"
   },
   {
@@ -25,6 +25,6 @@
     "href": "index.html",
     "title": "Recipes",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\n\n\n\nPancakes\n\n\nsweet,vegetarian\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Modified - Oldest\n        \n         \n          Modified - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nPancakes\n\n\n\n\n\n\n\nsweet\n\n\nvegetarian\n\n\n\n\n\n\n\n\n\n\n\nDecember 12, 2023\n\n\n\n\n\n\nNo matching items"
   }
 ]
