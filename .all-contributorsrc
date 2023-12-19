@@ -34,6 +34,17 @@
         "review",
         "talk"
       ]
+    },
+    {
+      "login": "matteocarpi",
+      "name": "Matteo Carpi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16087032?v=4",
+      "profile": "http://www.tametodesign.it",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
