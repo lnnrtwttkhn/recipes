@@ -10,7 +10,7 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Tue, 19 Dec 2023 12:53:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 19 Dec 2023 12:53:04 GMT</lastBuildDate>
 <item>
   <title>Pancakes</title>
   <link>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</link>
@@ -58,11 +58,12 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Tue, 19 Dec 2023 12:53:00 GMT</pubDate>
+  <pubDate>Tue, 19 Dec 2023 12:53:04 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Tiramisù</title>
+  <dc:creator>Matteo Carpi</dc:creator>
   <link>https://lennartwittkuhn.com/recipes/recipes/tiramisu.html</link>
   <description><![CDATA[ 
 
@@ -107,7 +108,7 @@ Contains raw eggs
 </ol>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://lennartwittkuhn.com/recipes/recipes/3dab9f48-53e3-49be-961d-3d8fe461ebdc-matilda_sony2.png" class="img-fluid figure-img"></p>
+<p><img src="https://lennartwittkuhn.com/recipes/recipes/https:/imgix.bustle.com/uploads/image/2017/10/18/3dab9f48-53e3-49be-961d-3d8fe461ebdc-matilda_sony2.png?w=540&amp;fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=50&amp;dpr=2" class="img-fluid figure-img"></p>
 <figcaption class="figure-caption">Yummy</figcaption>
 </figure>
 </div>
@@ -119,7 +120,7 @@ Contains raw eggs
   <category>dessert</category>
   <category>Italian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiramisu.html</guid>
-  <pubDate>Tue, 19 Dec 2023 12:53:00 GMT</pubDate>
+  <pubDate>Tue, 19 Dec 2023 12:53:04 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tiramisu_-_Raffaele_Diomede.jpg/2560px-Tiramisu_-_Raffaele_Diomede.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
