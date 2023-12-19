@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "recipes/tiramisu.html",
+    "href": "recipes/tiramisu.html",
+    "title": "Tiramisù",
+    "section": "",
+    "text": "Contains raw eggs"
+  },
+  {
+    "objectID": "recipes/tiramisu.html#fa-basket-shopping-ingredients",
+    "href": "recipes/tiramisu.html#fa-basket-shopping-ingredients",
+    "title": "Tiramisù",
+    "section": " Ingredients",
+    "text": "Ingredients\n\n4 fresh eggs\n100g sugar\n500g mascarpone\nSavoiardi (Ladyfingers)\nEspresso coffee\nCocoa powder"
+  },
+  {
+    "objectID": "recipes/tiramisu.html#fa-kitchen-set-procedure",
+    "href": "recipes/tiramisu.html#fa-kitchen-set-procedure",
+    "title": "Tiramisù",
+    "section": " Procedure",
+    "text": "Procedure\n\nPut 4 egg yolks and 50g of sugar together, mix them well so they become a bit foamy.\nAdd 500g mascarpone and mix to make it homogeneous.\nMix 4 egg whites so they become like snow, towards the end add the other 50g of sugar.\nMix the two mixtures together.\nPut a thin layer of the cream on the bottom of the tray.\nDip the savoiardi in coffee (don’t make them too soaked as they will soften slowly and if you put too much coffee they become too liquid).\nAs you dip the savoiardi, place them in the tray.\nCover everything with the rest of the cream.\nSprinkle cocoa powder on top before serving.\n\n\n\n\nYummy"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Recipes",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Modified - Oldest\n        \n         \n          Modified - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nPancakes\n\n\n\n\n\n\n\nsweet\n\n\nvegetarian\n\n\n\n\n\n\n\n\n\n\n\nDecember 19, 2023\n\n\n\n\n\n\n  \n\n\n\n\nTiramisù\n\n\n\n\n\n\n\ndessert\n\n\nItalian\n\n\n\n\n\n\n\n\n\n\n\nDecember 19, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "recipes/pancakes.html",
     "href": "recipes/pancakes.html",
     "title": "Pancakes",
@@ -19,12 +47,5 @@
     "title": "Pancakes",
     "section": " Preparation",
     "text": "Preparation\n\nMix the flour and the baking powder\nSlowly add the milk and mix\nAdd the eggs and mix\nAdd a bit of butter to a large pan and heat\nMake the pancakes"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Recipes",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Modified - Oldest\n        \n         \n          Modified - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nPancakes\n\n\n\n\n\n\n\nsweet\n\n\nvegetarian\n\n\n\n\n\n\n\n\n\n\n\nDecember 19, 2023\n\n\n\n\n\n\nNo matching items"
   }
 ]

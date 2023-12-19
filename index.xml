@@ -10,7 +10,7 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Tue, 19 Dec 2023 12:17:39 GMT</lastBuildDate>
+<lastBuildDate>Tue, 19 Dec 2023 12:53:00 GMT</lastBuildDate>
 <item>
   <title>Pancakes</title>
   <link>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</link>
@@ -58,8 +58,69 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Tue, 19 Dec 2023 12:17:39 GMT</pubDate>
+  <pubDate>Tue, 19 Dec 2023 12:53:00 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Tiramisù</title>
+  <link>https://lennartwittkuhn.com/recipes/recipes/tiramisu.html</link>
+  <description><![CDATA[ 
+
+
+
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Contains raw eggs
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">4 fresh eggs</li>
+<li><input type="checkbox">100g sugar</li>
+<li><input type="checkbox">500g mascarpone</li>
+<li><input type="checkbox">Savoiardi (Ladyfingers)</li>
+<li><input type="checkbox">Espresso coffee</li>
+<li><input type="checkbox">Cocoa powder</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Put 4 egg yolks and 50g of sugar together, mix them well so they become a bit foamy.</li>
+<li>Add 500g mascarpone and mix to make it homogeneous.</li>
+<li>Mix 4 egg whites so they become like snow, towards the end add the other 50g of sugar.</li>
+<li>Mix the two mixtures together.</li>
+<li>Put a thin layer of the cream on the bottom of the tray.</li>
+<li>Dip the savoiardi in coffee (don’t make them too soaked as they will soften slowly and if you put too much coffee they become too liquid).</li>
+<li>As you dip the savoiardi, place them in the tray.</li>
+<li>Cover everything with the rest of the cream.</li>
+<li>Sprinkle cocoa powder on top before serving.</li>
+</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://lennartwittkuhn.com/recipes/recipes/3dab9f48-53e3-49be-961d-3d8fe461ebdc-matilda_sony2.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Yummy</figcaption>
+</figure>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>dessert</category>
+  <category>Italian</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/tiramisu.html</guid>
+  <pubDate>Tue, 19 Dec 2023 12:53:00 GMT</pubDate>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tiramisu_-_Raffaele_Diomede.jpg/2560px-Tiramisu_-_Raffaele_Diomede.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
