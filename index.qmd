@@ -3,7 +3,7 @@ listing:
   - id: recipes
     type: default
     contents: recipes
-    sort: false
+    sort: "date desc"
     sort-ui: true
     filter-ui: true
     categories: numbered
