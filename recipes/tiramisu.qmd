@@ -1,5 +1,8 @@
 ---
 title: "Tiramisù"
+author:
+  - name: Matteo Carpi
+    url: https://github.com/matteocarpi
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tiramisu_-_Raffaele_Diomede.jpg/2560px-Tiramisu_-_Raffaele_Diomede.jpg
 image-alt: https://preppykitchen.com/wp-content/uploads/2023/10/Tiramisu-Feature.jpg
 categories:
@@ -27,9 +30,9 @@ categories:
 3. Mix 4 egg whites so they become like snow, towards the end add the other 50g of sugar.
 4. Mix the two mixtures together.
 5. Put a thin layer of the cream on the bottom of the tray.
-6. Dip the savoiardi in coffee (don’t make them too soaked as they will soften slowly and if you put too much coffee they become too liquid).
+6. Dip the savoiardi in coffee (don't make them too soaked as they will soften slowly and if you put too much coffee they become too liquid).
 7. As you dip the savoiardi, place them in the tray.
 8. Cover everything with the rest of the cream.
 9. Sprinkle cocoa powder on top before serving.
 
-![Yummy](3dab9f48-53e3-49be-961d-3d8fe461ebdc-matilda_sony2.png)
+![Yummy](https://imgix.bustle.com/uploads/image/2017/10/18/3dab9f48-53e3-49be-961d-3d8fe461ebdc-matilda_sony2.png?w=540&fit=crop&crop=faces&auto=format%2Ccompress&q=50&dpr=2)
