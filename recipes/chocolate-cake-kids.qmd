@@ -1,0 +1,40 @@
+---
+title: "Chocolate Cake for Kids"
+image: https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg
+categories:
+  - sweet
+---
+
+
+## {{< fa basket-shopping >}} Ingredients
+
+- [ ]   180 g Soft-Datteln ohne Stein
+- [ ]   200 ml Sahne
+- [ ]   3 Ei(er)
+- [ ]   1/2 Vanilleschote(n)
+- [ ]   4 EL gehäuftes Kakaopulver
+- [ ]   100 g Mehl
+- [ ]   1,5 TL Natron
+- [ ]   80 g Butter
+- [ ]   etwas Butter für die Form 
+
+## {{< fa kitchen-set >}} Preparation
+
+Den Backofen auf 170 °C Umluft vorheizen.
+
+Datteln mit Sahne, Mark der Vanilleschote und Kakaopulver fein pürieren. Anschließend Eidotter und Butter hinzugeben und pürieren, bis die Masse homogen und glatt ist.
+
+Das Eiweiß steif schlagen. Das Mehl und das Natron unter die Kakaomasse mixen und anschließend den Eischnee vorsichtig unterheben. Die Kuchenmasse in eine beliebige, mit Butter gefettete Backform gießen.
+
+Im heißen Backofen auf mittlerer Schiene ca. 40 Min. backen.
+
+Das Rezept ergibt 16 Stücke und eignet sich auch für Muffinformen. Du kannst den Kuchen auch lecker mit Orangenschalenabrieb, gemahlenen Nüssen, Nussmus, Chili, Zimt, Ingwer und Kardamom oder Kirschen verfeinern.
+
+Das Rezept für die Glasur, sowie zuckerfreie Marmeladen und weitere süße Rezepte ohne Zuckerzusatz findest du auf meinem Profil.
+
+Hinweis:
+Ich verwende Soft-Datteln, diese sind weicher als herkömmliche Datteln. Solltest du nur feste Datteln bekommen, bitte diese ca 4 Std. in etwas warmem Wasser einlegen.
+
+Ich verwende eine Tortenform mit einem Durchmesser von 18 cm.
+
+Source: <https://www.chefkoch.de/rezepte/3186881474309297/Feiner-Schokokuchen-ohne-Zuckerzusatz.html>
