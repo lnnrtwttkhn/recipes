@@ -10,7 +10,7 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Fri, 22 Dec 2023 19:10:28 GMT</lastBuildDate>
+<lastBuildDate>Fri, 12 Jan 2024 10:34:24 GMT</lastBuildDate>
 <item>
   <title>Black Forest Cherry Dessert</title>
   <link>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</link>
@@ -101,7 +101,7 @@
   <category>desert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</guid>
-  <pubDate>Fri, 22 Dec 2023 19:10:28 GMT</pubDate>
+  <pubDate>Fri, 12 Jan 2024 10:34:24 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -151,8 +151,50 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Fri, 22 Dec 2023 19:10:28 GMT</pubDate>
+  <pubDate>Fri, 12 Jan 2024 10:34:24 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Chocolate Cake for Kids</title>
+  <link>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">180 g Soft-Datteln ohne Stein</li>
+<li><input type="checkbox">200 ml Sahne</li>
+<li><input type="checkbox">3 Ei(er)</li>
+<li><input type="checkbox">1/2 Vanilleschote(n)</li>
+<li><input type="checkbox">4 EL gehäuftes Kakaopulver</li>
+<li><input type="checkbox">100 g Mehl</li>
+<li><input type="checkbox">1,5 TL Natron</li>
+<li><input type="checkbox">80 g Butter</li>
+<li><input type="checkbox">etwas Butter für die Form</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-preparation" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-preparation"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Preparation</h2>
+<p>Den Backofen auf 170 °C Umluft vorheizen.</p>
+<p>Datteln mit Sahne, Mark der Vanilleschote und Kakaopulver fein pürieren. Anschließend Eidotter und Butter hinzugeben und pürieren, bis die Masse homogen und glatt ist.</p>
+<p>Das Eiweiß steif schlagen. Das Mehl und das Natron unter die Kakaomasse mixen und anschließend den Eischnee vorsichtig unterheben. Die Kuchenmasse in eine beliebige, mit Butter gefettete Backform gießen.</p>
+<p>Im heißen Backofen auf mittlerer Schiene ca. 40 Min. backen.</p>
+<p>Das Rezept ergibt 16 Stücke und eignet sich auch für Muffinformen. Du kannst den Kuchen auch lecker mit Orangenschalenabrieb, gemahlenen Nüssen, Nussmus, Chili, Zimt, Ingwer und Kardamom oder Kirschen verfeinern.</p>
+<p>Das Rezept für die Glasur, sowie zuckerfreie Marmeladen und weitere süße Rezepte ohne Zuckerzusatz findest du auf meinem Profil.</p>
+<p>Hinweis: Ich verwende Soft-Datteln, diese sind weicher als herkömmliche Datteln. Solltest du nur feste Datteln bekommen, bitte diese ca 4 Std. in etwas warmem Wasser einlegen.</p>
+<p>Ich verwende eine Tortenform mit einem Durchmesser von 18 cm.</p>
+<p>Source: <a href="https://www.chefkoch.de/rezepte/3186881474309297/Feiner-Schokokuchen-ohne-Zuckerzusatz.html" class="uri">https://www.chefkoch.de/rezepte/3186881474309297/Feiner-Schokokuchen-ohne-Zuckerzusatz.html</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>sweet</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
+  <pubDate>Fri, 12 Jan 2024 10:34:24 GMT</pubDate>
+  <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Tiramisù</title>
@@ -213,7 +255,7 @@ Contains raw eggs
   <category>dessert</category>
   <category>Italian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiramisu.html</guid>
-  <pubDate>Fri, 22 Dec 2023 19:10:28 GMT</pubDate>
+  <pubDate>Fri, 12 Jan 2024 10:34:24 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tiramisu_-_Raffaele_Diomede.jpg/2560px-Tiramisu_-_Raffaele_Diomede.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
