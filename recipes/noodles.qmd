@@ -2,15 +2,12 @@
 title: "Noodles"
 author:
   - name: Max
-
 ---
-
 
 ## {{< fa basket-shopping >}} Ingredients
 
 - [ ] 150 g Noodles
 - [ ] Sauce
-
 
 ## {{< fa kitchen-set >}} Procedure
 
