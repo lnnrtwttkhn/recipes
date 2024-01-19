@@ -1,0 +1,17 @@
+---
+title: "Noodles"
+author:
+  - name: Max
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+- [ ] 150 g Noodles
+- [ ] Sauce
+
+## {{< fa kitchen-set >}} Procedure
+
+1. Boil the noodles in water
+2. Add the sauce
+3. ???
+4. Profit
