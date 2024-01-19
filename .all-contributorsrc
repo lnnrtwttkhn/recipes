@@ -45,6 +45,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "elmwdow",
+      "name": "Max W",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153852938?v=4",
+      "profile": "https://github.com/elmwdow",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
