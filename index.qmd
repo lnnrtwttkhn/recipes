@@ -3,12 +3,12 @@ listing:
   - id: recipes
     type: default
     contents: recipes
-    sort: "date desc"
+    sort: "file-modified desc"
     sort-ui: true
     filter-ui: true
     categories: numbered
     feed: true
     date-format: long
     image-height: 80px
-    fields: [image, title, categories, description, file-modified]
+    fields: [image, title, categories, file-modified]
 ---
