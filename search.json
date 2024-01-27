@@ -1,24 +1,80 @@
 [
   {
-    "objectID": "recipes/tiramisu.html",
-    "href": "recipes/tiramisu.html",
-    "title": "Tiramisù",
+    "objectID": "recipes/noodles.html",
+    "href": "recipes/noodles.html",
+    "title": "Noodles",
     "section": "",
-    "text": "Contains raw eggs"
+    "text": "150 g Noodles\nSauce"
   },
   {
-    "objectID": "recipes/tiramisu.html#fa-basket-shopping-ingredients",
-    "href": "recipes/tiramisu.html#fa-basket-shopping-ingredients",
-    "title": "Tiramisù",
-    "section": " Ingredients",
-    "text": "Ingredients\n\n4 fresh eggs\n100g sugar\n500g mascarpone\nSavoiardi (Ladyfingers)\nEspresso coffee\nCocoa powder"
+    "objectID": "recipes/noodles.html#fa-basket-shopping-ingredients",
+    "href": "recipes/noodles.html#fa-basket-shopping-ingredients",
+    "title": "Noodles",
+    "section": "",
+    "text": "150 g Noodles\nSauce"
   },
   {
-    "objectID": "recipes/tiramisu.html#fa-kitchen-set-procedure",
-    "href": "recipes/tiramisu.html#fa-kitchen-set-procedure",
-    "title": "Tiramisù",
+    "objectID": "recipes/noodles.html#fa-kitchen-set-procedure",
+    "href": "recipes/noodles.html#fa-kitchen-set-procedure",
+    "title": "Noodles",
     "section": " Procedure",
-    "text": "Procedure\n\nPut 4 egg yolks and 50g of sugar together, mix them well so they become a bit foamy.\nAdd 500g mascarpone and mix to make it homogeneous.\nMix 4 egg whites so they become like snow, towards the end add the other 50g of sugar.\nMix the two mixtures together.\nPut a thin layer of the cream on the bottom of the tray.\nDip the savoiardi in coffee (don’t make them too soaked as they will soften slowly and if you put too much coffee they become too liquid).\nAs you dip the savoiardi, place them in the tray.\nCover everything with the rest of the cream.\nSprinkle cocoa powder on top before serving.\n\n\n\n\nYummy"
+    "text": "Procedure\n\nBoil the noodles in water\nAdd the sauce\n???\nProfit"
+  },
+  {
+    "objectID": "recipes/chocolate-cake-kids.html",
+    "href": "recipes/chocolate-cake-kids.html",
+    "title": "Chocolate Cake for Kids",
+    "section": "",
+    "text": "180 g Soft Dates, pitted\n200 ml Cream\n3 Eggs\n1/2 Vanilla Bean(s)\n4 tbsp Heaped Cocoa Powder\n100 g Flour\n1.5 tsp Baking Soda\n80 g Butter\nSome Butter for greasing the pan"
+  },
+  {
+    "objectID": "recipes/chocolate-cake-kids.html#fa-basket-shopping-ingredients",
+    "href": "recipes/chocolate-cake-kids.html#fa-basket-shopping-ingredients",
+    "title": "Chocolate Cake for Kids",
+    "section": "",
+    "text": "180 g Soft Dates, pitted\n200 ml Cream\n3 Eggs\n1/2 Vanilla Bean(s)\n4 tbsp Heaped Cocoa Powder\n100 g Flour\n1.5 tsp Baking Soda\n80 g Butter\nSome Butter for greasing the pan"
+  },
+  {
+    "objectID": "recipes/chocolate-cake-kids.html#fa-kitchen-set-preparation",
+    "href": "recipes/chocolate-cake-kids.html#fa-kitchen-set-preparation",
+    "title": "Chocolate Cake for Kids",
+    "section": " Preparation",
+    "text": "Preparation\n\nPreheat the oven to 170 °C (convection).\nPuree dates with cream, vanilla bean seeds, and cocoa powder until smooth.\nThen add egg yolks and butter, and blend until the mixture is homogeneous and smooth.\nBeat the egg whites until stiff peaks form.\nMix the flour and baking soda into the cocoa mixture.\nGently fold in the beaten egg whites.\nPour the cake batter into any buttered baking pan.\nBake in the preheated oven on the middle rack for approximately 40 minutes."
+  },
+  {
+    "objectID": "recipes/chocolate-cake-kids.html#notes",
+    "href": "recipes/chocolate-cake-kids.html#notes",
+    "title": "Chocolate Cake for Kids",
+    "section": "Notes",
+    "text": "Notes\nThe recipe yields 16 pieces and is also suitable for muffin molds. You can enhance the cake with orange zest, ground nuts, nut butter, chili, cinnamon, ginger, cardamom, or cherries. I use soft dates, which are softer than regular dates. If you only have firm dates, soak them in warm water for about 4 hours. I would use a cake pan with a diameter of 18 cm. Source: https://www.chefkoch.de/rezepte/3186881474309297/Feiner-Schokokuchen-ohne-Zuckerzusatz.html"
+  },
+  {
+    "objectID": "recipes/bananabread.html",
+    "href": "recipes/bananabread.html",
+    "title": "Bananabread",
+    "section": "",
+    "text": "125 grams all-purpose flour (unbleached)\n125 grams whole wheat or spelt flour\n125 grams brown sugar\n150 grams small seeds (whatever you like/have: sunflower seeds, pumpkin seeds, walnut kernels, pine nuts, chia seeds, etc.)\n1 good pinch of sea salt\n1 teaspoon baking powder\n3 medium-sized ripe bananas, peeled\nZest and juice of 1 lemon\n2 tablespoons olive oil\n2 tablespoons natural or unsweetened soy yogurt or coconut yogurt\n2 eggs, preferably organic or free-range, beaten\n\n\n\n\n\n1 tablespoon tahini\n3 tablespoons golden powdered sugar or liquid honey\nJuice of 1 lemon"
+  },
+  {
+    "objectID": "recipes/bananabread.html#fa-basket-shopping-ingredients",
+    "href": "recipes/bananabread.html#fa-basket-shopping-ingredients",
+    "title": "Bananabread",
+    "section": "",
+    "text": "125 grams all-purpose flour (unbleached)\n125 grams whole wheat or spelt flour\n125 grams brown sugar\n150 grams small seeds (whatever you like/have: sunflower seeds, pumpkin seeds, walnut kernels, pine nuts, chia seeds, etc.)\n1 good pinch of sea salt\n1 teaspoon baking powder\n3 medium-sized ripe bananas, peeled\nZest and juice of 1 lemon\n2 tablespoons olive oil\n2 tablespoons natural or unsweetened soy yogurt or coconut yogurt\n2 eggs, preferably organic or free-range, beaten\n\n\n\n\n\n1 tablespoon tahini\n3 tablespoons golden powdered sugar or liquid honey\nJuice of 1 lemon"
+  },
+  {
+    "objectID": "recipes/bananabread.html#fa-kitchen-set-procedure",
+    "href": "recipes/bananabread.html#fa-kitchen-set-procedure",
+    "title": "Bananabread",
+    "section": " Procedure",
+    "text": "Procedure\n\nPreheat the oven to 200°C (400°F).\nGrease a non-stick loaf pan with butter and dust it with flour (if the loaf pan is not non-stick, you can also line it with parchment paper).\nCombine all the dry ingredients in a mixing bowl - flours, sugar, seeds, salt, and baking powder - and mix well.\nIn another bowl, mash the bananas with a fork (leaving them slightly chunky if desired), then add lemon juice and zest, olive oil, yogurt, and beaten eggs, mixing well.\nAdd the wet ingredients to the bowl of dry ingredients and gently mix - just enough to combine everything.\nTransfer the mixture into the loaf pan and bake for 40 to 45 minutes, or until a toothpick comes out clean.\nOptional: While the cake is baking, prepare the Lemon Drizzle. Stir tahini and powdered sugar in a bowl until smooth, add lemon juice, and mix well.\nRemove the cake from the oven and let it cool in the pan until it’s cool enough to transfer to a wire rack. While the cake is still warm, place a large plate under the rack, then poke the cake all over with a skewer, pour the drizzle over it, and let it soak in."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Recipes",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Modified - Oldest\n        \n         \n          Modified - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nBlack Forest Cherry Dessert\n\n\n\n\n\n\n\nsweet\n\n\ndessert\n\n\nvegetarian\n\n\n \n\n\n\n\nJanuary 27, 2024\n\n\n\n\n\n\n  \n\n\n\n\nChocolate Cake for Kids\n\n\n\n\n\n\n\nsweet\n\n\nbaking\n\n\n \n\n\n\n\nJanuary 27, 2024\n\n\n\n\n\n\n  \n\n\n\n\nBananabread\n\n\n\n\n\n\n\ndessert\n\n\ncake\n\n\nbaking\n\n\n \n\n\n\n\nJanuary 27, 2024\n\n\n\n\n\n\n  \n\n\n\n\nNoodles\n\n\n\n\n\n\n\n\n\nJanuary 19, 2024\n\n\n\n\n\n\n  \n\n\n\n\nTiramisù\n\n\n\n\n\n\n\ndessert\n\n\nItalian\n\n\n \n\n\n\n\nDecember 19, 2023\n\n\n\n\n\n\n  \n\n\n\n\nPancakes\n\n\n\n\n\n\n\nsweet\n\n\nvegetarian\n\n\n \n\n\n\n\nDecember 12, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "recipes/pancakes.html",
@@ -42,53 +98,46 @@
     "text": "Preparation\n\nMix the flour and the baking powder\nSlowly add the milk and mix\nAdd the eggs and mix\nAdd a bit of butter to a large pan and heat\nMake the pancakes"
   },
   {
-    "objectID": "recipes/noodles.html",
-    "href": "recipes/noodles.html",
-    "title": "Noodles",
+    "objectID": "recipes/tiramisu.html",
+    "href": "recipes/tiramisu.html",
+    "title": "Tiramisù",
     "section": "",
-    "text": "150 g Noodles\nSauce"
+    "text": "Contains raw eggs"
   },
   {
-    "objectID": "recipes/noodles.html#fa-basket-shopping-ingredients",
-    "href": "recipes/noodles.html#fa-basket-shopping-ingredients",
-    "title": "Noodles",
-    "section": "",
-    "text": "150 g Noodles\nSauce"
+    "objectID": "recipes/tiramisu.html#fa-basket-shopping-ingredients",
+    "href": "recipes/tiramisu.html#fa-basket-shopping-ingredients",
+    "title": "Tiramisù",
+    "section": " Ingredients",
+    "text": "Ingredients\n\n4 fresh eggs\n100g sugar\n500g mascarpone\nSavoiardi (Ladyfingers)\nEspresso coffee\nCocoa powder"
   },
   {
-    "objectID": "recipes/noodles.html#fa-kitchen-set-procedure",
-    "href": "recipes/noodles.html#fa-kitchen-set-procedure",
-    "title": "Noodles",
+    "objectID": "recipes/tiramisu.html#fa-kitchen-set-procedure",
+    "href": "recipes/tiramisu.html#fa-kitchen-set-procedure",
+    "title": "Tiramisù",
     "section": " Procedure",
-    "text": "Procedure\n\nBoil the noodles in water\nAdd the sauce\n???\nProfit"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Recipes",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Modified - Oldest\n        \n         \n          Modified - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nNoodles\n\n\n\n\n\n\n\n\n\n\n\n\nJanuary 19, 2024\n\n\n\n\n\n\n  \n\n\n\n\nBlack Forest Cherry Dessert\n\n\n\n\n\n\n\nsweet\n\n\ndesert\n\n\nvegetarian\n\n\n\n\n\n\n\n\n\n\n\nDecember 22, 2023\n\n\n\n\n\n\n  \n\n\n\n\nPancakes\n\n\n\n\n\n\n\nsweet\n\n\nvegetarian\n\n\n\n\n\n\n\n\n\n\n\nDecember 12, 2023\n\n\n\n\n\n\n  \n\n\n\n\nChocolate Cake for Kids\n\n\n\n\n\n\n\nsweet\n\n\n\n\n\n\n\n\n\n\n\nJanuary 12, 2024\n\n\n\n\n\n\n  \n\n\n\n\nTiramisù\n\n\n\n\n\n\n\ndessert\n\n\nItalian\n\n\n\n\n\n\n\n\n\n\n\nDecember 19, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "Procedure\n\nPut 4 egg yolks and 50g of sugar together, mix them well so they become a bit foamy.\nAdd 500g mascarpone and mix to make it homogeneous.\nMix 4 egg whites so they become like snow, towards the end add the other 50g of sugar.\nMix the two mixtures together.\nPut a thin layer of the cream on the bottom of the tray.\nDip the savoiardi in coffee (don’t make them too soaked as they will soften slowly and if you put too much coffee they become too liquid).\nAs you dip the savoiardi, place them in the tray.\nCover everything with the rest of the cream.\nSprinkle cocoa powder on top before serving.\n\n\n\n\nYummy"
   },
   {
     "objectID": "recipes/black-forest-cherry-dessert.html",
     "href": "recipes/black-forest-cherry-dessert.html",
     "title": "Black Forest Cherry Dessert",
     "section": "",
-    "text": "200 g Zartbitterschokolade\n125 g weiche Butter\n1 Pck. Vanillezucker\n3 Eier\n200 g brauner Zucker\n150 g Mehl\n1 TL Backpulver\n1 Prise Salz\n1 EL Kakaopulver\n\n\n\n\n\n1 Glas Schattenmorellen inklusive Kirschsaft (Abtropfgewicht ca. 350g)\n2 TL Speisestärke\n2 EL Puderzucker\n400 g Sahne\n250 g Magerquark\n4 EL Puderzucker"
+    "text": "200 g Dark Chocolate\n125 g Softened Butter\n1 Pack Vanilla Sugar\n3 Eggs\n200 g Brown Sugar\n150 g Flour\n1 tsp Baking Powder\n1 Pinch of Salt\n1 tbsp Cocoa Powder\n\n\n\n\n\n1 Jar Morello Cherries including Cherry Juice (Drained weight approx. 350g)\n2 tsp Cornstarch\n2 tbsp Powdered Sugar\n400 g Cream\n250 g Low-Fat Quark\n4 tbsp Powdered Sugar"
   },
   {
-    "objectID": "recipes/black-forest-cherry-dessert.html#fa-basket-shopping-zutaten",
-    "href": "recipes/black-forest-cherry-dessert.html#fa-basket-shopping-zutaten",
+    "objectID": "recipes/black-forest-cherry-dessert.html#fa-basket-shopping-ingredients",
+    "href": "recipes/black-forest-cherry-dessert.html#fa-basket-shopping-ingredients",
     "title": "Black Forest Cherry Dessert",
     "section": "",
-    "text": "200 g Zartbitterschokolade\n125 g weiche Butter\n1 Pck. Vanillezucker\n3 Eier\n200 g brauner Zucker\n150 g Mehl\n1 TL Backpulver\n1 Prise Salz\n1 EL Kakaopulver\n\n\n\n\n\n1 Glas Schattenmorellen inklusive Kirschsaft (Abtropfgewicht ca. 350g)\n2 TL Speisestärke\n2 EL Puderzucker\n400 g Sahne\n250 g Magerquark\n4 EL Puderzucker"
+    "text": "200 g Dark Chocolate\n125 g Softened Butter\n1 Pack Vanilla Sugar\n3 Eggs\n200 g Brown Sugar\n150 g Flour\n1 tsp Baking Powder\n1 Pinch of Salt\n1 tbsp Cocoa Powder\n\n\n\n\n\n1 Jar Morello Cherries including Cherry Juice (Drained weight approx. 350g)\n2 tsp Cornstarch\n2 tbsp Powdered Sugar\n400 g Cream\n250 g Low-Fat Quark\n4 tbsp Powdered Sugar"
   },
   {
-    "objectID": "recipes/black-forest-cherry-dessert.html#fa-kitchen-set-zubereitung",
-    "href": "recipes/black-forest-cherry-dessert.html#fa-kitchen-set-zubereitung",
+    "objectID": "recipes/black-forest-cherry-dessert.html#fa-kitchen-set-preparation",
+    "href": "recipes/black-forest-cherry-dessert.html#fa-kitchen-set-preparation",
     "title": "Black Forest Cherry Dessert",
-    "section": " Zubereitung",
-    "text": "Zubereitung\n\nBrownies\n\nZartbitterschokolade mit Butter im Wasserbad schmelzen. Kurz abkühlen lassen.\nVanillezucker, brauner Zucker und Eier miteinander verrühren.\nSchoko-Buttermasse hinzugeben und verrühren.\nMehl mit Backpulver, Salz und Kakaopulver vermischen und unter den restlichen Teig rühren.\nBrownie-Blech (28,5 x 23 cm) einfetten.\nOfen auf 180 Grad (Umluft: 160 Grad) vorheizen.\nTeig in die Form geben und im vorgeheizten Ofen ca. 20-25 Min. backen.\nBrownies vollständig auskühlen lassen.\n\n\n\nKirsch-Grütze\n\nFür die Kirsch-Grütze das Glas Schattenmorellen über einem Sieb abgießen. 400ml Saft davon auffangen. 1. Saft in einen Topf geben.\nCa. 2 EL des Safts mit der Speisestärke und Puderzucker glatt rühren.\nRestlichen Saft im Topf erwärmen. 1. Stärke-Saftmasse hinzugeben und alles aufkochen, bis es anfängt anzudicken.\nJetzt die abgetropften Kirschen hinzugeben und gut durchrühren.\nEtwas abkühlen lassen.\n\n\n\nSahne-Quarkcreme\n\nSahne steif schlagen und mit Magerquark und Puderzucker verrühren. 1. 1-2 Esslöffel Kirschmasse auf die Browniestücke im Glas geben.\nSahne-Quarkcreme in einen Spritzbeutel füllen.\n\n\n\nZusammenfügen\n\nJeweils 1 EL von den Brownies herausnehmen und in kleine Stücke brechen.\nBrowniestücke in die Dessertgläser (Füllmenge ca. 125ml) geben.\nJeweils eine Schicht Creme auf die Kirschmasse spritzen.\nAuf diese Weise in jedes Dessertglas nochmal eine Schicht füllen.\nDessertgläser bis zum Servieren kaltstellen."
+    "section": " Preparation",
+    "text": "Preparation\n\nBrownies\n\nMelt dark chocolate with butter in a double boiler. Let it cool briefly.\nMix vanilla sugar, brown sugar, and eggs together.\nAdd the chocolate-butter mixture and mix.\nMix flour with baking powder, salt, and cocoa powder, and stir into the remaining batter.\nGrease a brownie pan (28.5 x 23 cm).\nPreheat the oven to 180 degrees Celsius (convection: 160 degrees).\nPour the batter into the pan and bake in the preheated oven for about 20-25 minutes.\nAllow the brownies to cool completely.\n\n\n\nCherry Compote\n\nDrain the Morello cherries over a sieve, collecting 400ml of juice.\nMix about 2 tbsp of the juice with cornstarch and powdered sugar until smooth.\nHeat the remaining juice in a pot. Add the starch-juice mixture and bring to a boil until it starts to thicken.\nAdd the drained cherries and stir well.\nLet it cool slightly.\n\n\n\nCreamy Quark Cream\n\nWhip the cream until stiff and mix with low-fat quark and powdered sugar.\nSpoon 1-2 tablespoons of the cherry mixture onto the brownie pieces in the glass.\n\n\n\nAssembly\n\nTake 1 tablespoon of brownies and break it into small pieces.\nPlace brownie pieces in dessert glasses (approx. 125ml filling capacity).\nPipe a layer of cream onto the cherry mixture in each glass.\nRepeat this process for another layer in each dessert glass.\nRefrigerate dessert glasses until ready to serve."
   },
   {
     "objectID": "recipes/black-forest-cherry-dessert.html#source",
@@ -96,26 +145,5 @@
     "title": "Black Forest Cherry Dessert",
     "section": "Source",
     "text": "Source\nhttps://www.einfachbacken.de/rezepte/schwarzwaelder-kirsch-dessert-einfach-selber-machen"
-  },
-  {
-    "objectID": "recipes/chocolate-cake-kids.html",
-    "href": "recipes/chocolate-cake-kids.html",
-    "title": "Chocolate Cake for Kids",
-    "section": "",
-    "text": "180 g Soft-Datteln ohne Stein\n200 ml Sahne\n3 Ei(er)\n1/2 Vanilleschote(n)\n4 EL gehäuftes Kakaopulver\n100 g Mehl\n1,5 TL Natron\n80 g Butter\netwas Butter für die Form"
-  },
-  {
-    "objectID": "recipes/chocolate-cake-kids.html#fa-basket-shopping-ingredients",
-    "href": "recipes/chocolate-cake-kids.html#fa-basket-shopping-ingredients",
-    "title": "Chocolate Cake for Kids",
-    "section": "",
-    "text": "180 g Soft-Datteln ohne Stein\n200 ml Sahne\n3 Ei(er)\n1/2 Vanilleschote(n)\n4 EL gehäuftes Kakaopulver\n100 g Mehl\n1,5 TL Natron\n80 g Butter\netwas Butter für die Form"
-  },
-  {
-    "objectID": "recipes/chocolate-cake-kids.html#fa-kitchen-set-preparation",
-    "href": "recipes/chocolate-cake-kids.html#fa-kitchen-set-preparation",
-    "title": "Chocolate Cake for Kids",
-    "section": " Preparation",
-    "text": "Preparation\nDen Backofen auf 170 °C Umluft vorheizen.\nDatteln mit Sahne, Mark der Vanilleschote und Kakaopulver fein pürieren. Anschließend Eidotter und Butter hinzugeben und pürieren, bis die Masse homogen und glatt ist.\nDas Eiweiß steif schlagen. Das Mehl und das Natron unter die Kakaomasse mixen und anschließend den Eischnee vorsichtig unterheben. Die Kuchenmasse in eine beliebige, mit Butter gefettete Backform gießen.\nIm heißen Backofen auf mittlerer Schiene ca. 40 Min. backen.\nDas Rezept ergibt 16 Stücke und eignet sich auch für Muffinformen. Du kannst den Kuchen auch lecker mit Orangenschalenabrieb, gemahlenen Nüssen, Nussmus, Chili, Zimt, Ingwer und Kardamom oder Kirschen verfeinern.\nDas Rezept für die Glasur, sowie zuckerfreie Marmeladen und weitere süße Rezepte ohne Zuckerzusatz findest du auf meinem Profil.\nHinweis: Ich verwende Soft-Datteln, diese sind weicher als herkömmliche Datteln. Solltest du nur feste Datteln bekommen, bitte diese ca 4 Std. in etwas warmem Wasser einlegen.\nIch verwende eine Tortenform mit einem Durchmesser von 18 cm.\nSource: https://www.chefkoch.de/rezepte/3186881474309297/Feiner-Schokokuchen-ohne-Zuckerzusatz.html"
   }
 ]

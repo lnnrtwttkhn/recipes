@@ -2,11 +2,12 @@
   {
     "listing": "/index.html",
     "items": [
-      "/recipes/noodles.html",
       "/recipes/black-forest-cherry-dessert.html",
-      "/recipes/pancakes.html",
       "/recipes/chocolate-cake-kids.html",
-      "/recipes/tiramisu.html"
+      "/recipes/bananabread.html",
+      "/recipes/noodles.html",
+      "/recipes/tiramisu.html",
+      "/recipes/pancakes.html"
     ]
   }
 ]
