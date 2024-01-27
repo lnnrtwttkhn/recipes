@@ -1,0 +1,44 @@
+---
+title: "Bananabread"
+image: https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg
+image-alt: https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg
+categories:
+  - dessert
+  - cake
+  - baking
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+### For the cake
+
+- [ ] 125 grams all-purpose flour (unbleached)
+- [ ] 125 grams whole wheat or spelt flour
+- [ ] 125 grams brown sugar
+- [ ] 150 grams small seeds (whatever you like/have: sunflower seeds, pumpkin seeds, walnut kernels, pine nuts, chia seeds, etc.)
+- [ ] 1 good pinch of sea salt
+- [ ] 1 teaspoon baking powder
+- [ ] 3 medium-sized ripe bananas, peeled
+- [ ] Zest and juice of 1 lemon
+- [ ] 2 tablespoons olive oil
+- [ ] 2 tablespoons natural or unsweetened soy yogurt or coconut yogurt
+- [ ] 2 eggs, preferably organic or free-range, beaten
+
+### For the Lemon-Sesame Drizzle (optional)
+
+- [ ] 1 tablespoon tahini
+- [ ] 3 tablespoons golden powdered sugar or liquid honey
+- [ ] Juice of 1 lemon
+
+## {{< fa kitchen-set >}} Procedure
+
+1. Preheat the oven to 200°C (400°F).
+1. Grease a non-stick loaf pan with butter and dust it with flour (if the loaf pan is not non-stick, you can also line it with parchment paper).
+1. Combine all the dry ingredients in a mixing bowl - flours, sugar, seeds, salt, and baking powder - and mix well.
+1. In another bowl, mash the bananas with a fork (leaving them slightly chunky if desired), then add lemon juice and zest, olive oil, yogurt, and beaten eggs, mixing well.
+1. Add the wet ingredients to the bowl of dry ingredients and gently mix - just enough to combine everything.
+1. Transfer the mixture into the loaf pan and bake for 40 to 45 minutes, or until a toothpick comes out clean.
+1. Optional: While the cake is baking, prepare the Lemon Drizzle.
+Stir tahini and powdered sugar in a bowl until smooth, add lemon juice, and mix well.
+1. Remove the cake from the oven and let it cool in the pan until it's cool enough to transfer to a wire rack.
+While the cake is still warm, place a large plate under the rack, then poke the cake all over with a skewer, pour the drizzle over it, and let it soak in.
