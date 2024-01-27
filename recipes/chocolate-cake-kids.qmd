@@ -3,38 +3,36 @@ title: "Chocolate Cake for Kids"
 image: https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg
 categories:
   - sweet
+  - baking
 ---
-
 
 ## {{< fa basket-shopping >}} Ingredients
 
-- [ ]   180 g Soft-Datteln ohne Stein
-- [ ]   200 ml Sahne
-- [ ]   3 Ei(er)
-- [ ]   1/2 Vanilleschote(n)
-- [ ]   4 EL gehäuftes Kakaopulver
-- [ ]   100 g Mehl
-- [ ]   1,5 TL Natron
+- [ ]   180 g Soft Dates, pitted
+- [ ]   200 ml Cream
+- [ ]   3 Eggs
+- [ ]   1/2 Vanilla Bean(s)
+- [ ]   4 tbsp Heaped Cocoa Powder
+- [ ]   100 g Flour
+- [ ]   1.5 tsp Baking Soda
 - [ ]   80 g Butter
-- [ ]   etwas Butter für die Form 
+- [ ]   Some Butter for greasing the pan
 
 ## {{< fa kitchen-set >}} Preparation
 
-Den Backofen auf 170 °C Umluft vorheizen.
+1.    Preheat the oven to 170 °C (convection).
+1.    Puree dates with cream, vanilla bean seeds, and cocoa powder until smooth.
+1.    Then add egg yolks and butter, and blend until the mixture is homogeneous and smooth.
+1.    Beat the egg whites until stiff peaks form.
+1.    Mix the flour and baking soda into the cocoa mixture.
+1.    Gently fold in the beaten egg whites.
+1.    Pour the cake batter into any buttered baking pan.
+1.    Bake in the preheated oven on the middle rack for approximately 40 minutes.
 
-Datteln mit Sahne, Mark der Vanilleschote und Kakaopulver fein pürieren. Anschließend Eidotter und Butter hinzugeben und pürieren, bis die Masse homogen und glatt ist.
+## Notes
 
-Das Eiweiß steif schlagen. Das Mehl und das Natron unter die Kakaomasse mixen und anschließend den Eischnee vorsichtig unterheben. Die Kuchenmasse in eine beliebige, mit Butter gefettete Backform gießen.
-
-Im heißen Backofen auf mittlerer Schiene ca. 40 Min. backen.
-
-Das Rezept ergibt 16 Stücke und eignet sich auch für Muffinformen. Du kannst den Kuchen auch lecker mit Orangenschalenabrieb, gemahlenen Nüssen, Nussmus, Chili, Zimt, Ingwer und Kardamom oder Kirschen verfeinern.
-
-Das Rezept für die Glasur, sowie zuckerfreie Marmeladen und weitere süße Rezepte ohne Zuckerzusatz findest du auf meinem Profil.
-
-Hinweis:
-Ich verwende Soft-Datteln, diese sind weicher als herkömmliche Datteln. Solltest du nur feste Datteln bekommen, bitte diese ca 4 Std. in etwas warmem Wasser einlegen.
-
-Ich verwende eine Tortenform mit einem Durchmesser von 18 cm.
-
+The recipe yields 16 pieces and is also suitable for muffin molds. You can enhance the cake with orange zest, ground nuts, nut butter, chili, cinnamon, ginger, cardamom, or cherries.
+I use soft dates, which are softer than regular dates.
+If you only have firm dates, soak them in warm water for about 4 hours.
+I would use a cake pan with a diameter of 18 cm.
 Source: <https://www.chefkoch.de/rezepte/3186881474309297/Feiner-Schokokuchen-ohne-Zuckerzusatz.html>

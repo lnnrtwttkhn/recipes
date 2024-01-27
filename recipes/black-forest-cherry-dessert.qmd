@@ -3,70 +3,68 @@ title: "Black Forest Cherry Dessert"
 image: https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg
 categories:
   - sweet
-  - desert
+  - dessert
   - vegetarian
 ---
 
-## {{< fa basket-shopping >}} Zutaten
+## {{< fa basket-shopping >}} Ingredients
 
+### For the Brownies
 
-### Für die Brownies
+- [ ]   200 g Dark Chocolate
+- [ ]   125 g Softened Butter
+- [ ]   1 Pack Vanilla Sugar
+- [ ]   3 Eggs
+- [ ]   200 g Brown Sugar
+- [ ]   150 g Flour
+- [ ]   1 tsp Baking Powder
+- [ ]   1 Pinch of Salt
+- [ ]   1 tbsp Cocoa Powder
 
-- [ ]   200 g Zartbitterschokolade
-- [ ]   125 g weiche Butter
-- [ ]   1 Pck. Vanillezucker
-- [ ]   3 Eier
-- [ ]   200 g brauner Zucker
-- [ ]   150 g Mehl
-- [ ]   1 TL Backpulver
-- [ ]   1 Prise Salz
-- [ ]   1 EL Kakaopulver
+### For the Dessert
 
-### Für das Dessert
+- [ ]   1 Jar Morello Cherries including Cherry Juice (Drained weight approx. 350g)
+- [ ]   2 tsp Cornstarch
+- [ ]   2 tbsp Powdered Sugar
+- [ ]   400 g Cream
+- [ ]   250 g Low-Fat Quark
+- [ ]   4 tbsp Powdered Sugar
 
-- [ ]   1 Glas Schattenmorellen inklusive Kirschsaft (Abtropfgewicht ca. 350g)
-- [ ]   2 TL Speisestärke
-- [ ]   2 EL Puderzucker
-- [ ]   400 g Sahne
-- [ ]   250 g Magerquark
-- [ ]   4 EL Puderzucker
-
-## {{< fa kitchen-set >}} Zubereitung
+## {{< fa kitchen-set >}} Preparation
 
 ### Brownies
 
-1.  Zartbitterschokolade mit Butter im Wasserbad schmelzen. Kurz abkühlen lassen.
-1.  Vanillezucker, brauner Zucker und Eier miteinander verrühren.
-1.  Schoko-Buttermasse hinzugeben und verrühren.
-1.  Mehl mit Backpulver, Salz und Kakaopulver vermischen und unter den restlichen Teig rühren.
-1.  Brownie-Blech (28,5 x 23 cm) einfetten.
+1.    Melt dark chocolate with butter in a double boiler.
+Let it cool briefly.
+2.    Mix vanilla sugar, brown sugar, and eggs together.
+3.    Add the chocolate-butter mixture and mix.
+4.    Mix flour with baking powder, salt, and cocoa powder, and stir into the remaining batter.
+5.    Grease a brownie pan (28.5 x 23 cm).
+6.    Preheat the oven to 180 degrees Celsius (convection: 160 degrees).
+7.    Pour the batter into the pan and bake in the preheated oven for about 20-25 minutes.
+8.    Allow the brownies to cool completely.
 
-1.  Ofen auf 180 Grad (Umluft: 160 Grad) vorheizen.
-1.  Teig in die Form geben und im vorgeheizten Ofen ca. 20-25 Min. backen.
-1.  Brownies vollständig auskühlen lassen.
+### Cherry Compote
 
-### Kirsch-Grütze
+1.    Drain the Morello cherries over a sieve, collecting 400ml of juice. 
+2.    Mix about 2 tbsp of the juice with cornstarch and powdered sugar until smooth.
+3.    Heat the remaining juice in a pot. Add the starch-juice mixture and bring to a boil until it starts to thicken.
+4.    Add the drained cherries and stir well.
+5.    Let it cool slightly.
 
-1.  Für die Kirsch-Grütze das Glas Schattenmorellen über einem Sieb abgießen. 400ml Saft davon auffangen. 1.  Saft in einen Topf geben.
-1.  Ca. 2 EL des Safts mit der Speisestärke und Puderzucker glatt rühren.
-1.  Restlichen Saft im Topf erwärmen. 1.  Stärke-Saftmasse hinzugeben und alles aufkochen, bis es anfängt anzudicken.
-1.  Jetzt die abgetropften Kirschen hinzugeben und gut durchrühren.
-1.  Etwas abkühlen lassen.
+### Creamy Quark Cream
 
-### Sahne-Quarkcreme
+1.    Whip the cream until stiff and mix with low-fat quark and powdered sugar.
+2.    Spoon 1-2 tablespoons of the cherry mixture onto the brownie pieces in the glass.
 
-1.  Sahne steif schlagen und mit Magerquark und Puderzucker verrühren. 1.  1-2 Esslöffel Kirschmasse auf die Browniestücke im Glas geben.
-1.  Sahne-Quarkcreme in einen Spritzbeutel füllen.
+### Assembly
 
-### Zusammenfügen
-
-1.  Jeweils 1 EL von den Brownies herausnehmen und in kleine Stücke brechen.
-1.  Browniestücke in die Dessertgläser (Füllmenge ca. 125ml) geben.
-1.  Jeweils eine Schicht Creme auf die Kirschmasse spritzen.
-1.  Auf diese Weise in jedes Dessertglas nochmal eine Schicht füllen.
-1.  Dessertgläser bis zum Servieren kaltstellen.
+1.    Take 1 tablespoon of brownies and break it into small pieces.
+2.    Place brownie pieces in dessert glasses (approx. 125ml filling capacity).
+3.    Pipe a layer of cream onto the cherry mixture in each glass.
+4.    Repeat this process for another layer in each dessert glass.
+5.    Refrigerate dessert glasses until ready to serve.
 
 ## Source
 
 <https://www.einfachbacken.de/rezepte/schwarzwaelder-kirsch-dessert-einfach-selber-machen>
-
