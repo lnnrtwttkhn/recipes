@@ -1,14 +1,12 @@
 ---
-title: "recipes.qmd"
-format: html
-editor: visual
-author: Paul
-theme: solar
+title: "tomatosoup.qmd"
+author: Paul Schreiner
+image: https://commons.wikimedia.org/wiki/Category:Tomato_soup#/media/File:Basil_and_Organic_Tomato_Soup.jpg
 ---
 
 This is my recipe for **tomatosoup** passed down for generations. The **tomatosoup** is quite tasty.
 
-# Ingredients
+#  \##{{< fa basket-shopping >}} Ingredients
 
 -   Butter -- use unsalted butter to sautee onions
 
@@ -30,7 +28,7 @@ This is my recipe for **tomatosoup** passed down for generations. The **tomatoso
 
 -   Parmesan cheese -- adds saltiness to the soup and balances acidity. Adding parmesan adds enough salt and I usually don't add more.
 
-## **Actual Cooking**
+## **\##** {{< fa kitchen-set >}} **Preparation**
 
 -   *Saute Aromatics* -- heat a non-reactive pot over medium heat. Melt in 4 Tbsp butter then sautee onions until softened and golden (10-12 min). Add minced garlic and saute another minute.
 
@@ -40,4 +38,4 @@ This is my recipe for **tomatosoup** passed down for generations. The **tomatoso
 
 -   *Add cream and parmesan* -- stir in the heavy cream and shredded parmesan. Return to a simmer and season to taste if needed. Serve -- ladle into warm bowls and garnish with more parmesan and basil.
 
-![](tomatosup.jfif)
+<https://commons.wikimedia.org/wiki/Category:Tomato_soup#/media/File:Basil_and_Organic_Tomato_Soup.jpg>
