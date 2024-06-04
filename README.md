@@ -9,6 +9,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Contributing
+
+I welcome contributions to this project! Please see my [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get started.
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
