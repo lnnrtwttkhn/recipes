@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "recipes/noodles.html",
-    "href": "recipes/noodles.html",
-    "title": "Noodles",
-    "section": "",
-    "text": "150 g Noodles\nSauce"
-  },
-  {
-    "objectID": "recipes/noodles.html#fa-basket-shopping-ingredients",
-    "href": "recipes/noodles.html#fa-basket-shopping-ingredients",
-    "title": "Noodles",
-    "section": "",
-    "text": "150 g Noodles\nSauce"
-  },
-  {
-    "objectID": "recipes/noodles.html#fa-kitchen-set-procedure",
-    "href": "recipes/noodles.html#fa-kitchen-set-procedure",
-    "title": "Noodles",
-    "section": " Procedure",
-    "text": "Procedure\n\nBoil the noodles in water\nAdd the sauce\n???\nProfit"
-  },
-  {
     "objectID": "recipes/chocolate-cake-kids.html",
     "href": "recipes/chocolate-cake-kids.html",
     "title": "Chocolate Cake for Kids",
@@ -47,6 +26,27 @@
     "title": "Chocolate Cake for Kids",
     "section": "Notes",
     "text": "Notes\nThe recipe yields 16 pieces and is also suitable for muffin molds. You can enhance the cake with orange zest, ground nuts, nut butter, chili, cinnamon, ginger, cardamom, or cherries. I use soft dates, which are softer than regular dates. If you only have firm dates, soak them in warm water for about 4 hours. I would use a cake pan with a diameter of 18 cm. Source: https://www.chefkoch.de/rezepte/3186881474309297/Feiner-Schokokuchen-ohne-Zuckerzusatz.html"
+  },
+  {
+    "objectID": "recipes/noodles.html",
+    "href": "recipes/noodles.html",
+    "title": "Noodles",
+    "section": "",
+    "text": "150 g Noodles\nSauce"
+  },
+  {
+    "objectID": "recipes/noodles.html#fa-basket-shopping-ingredients",
+    "href": "recipes/noodles.html#fa-basket-shopping-ingredients",
+    "title": "Noodles",
+    "section": "",
+    "text": "150 g Noodles\nSauce"
+  },
+  {
+    "objectID": "recipes/noodles.html#fa-kitchen-set-procedure",
+    "href": "recipes/noodles.html#fa-kitchen-set-procedure",
+    "title": "Noodles",
+    "section": " Procedure",
+    "text": "Procedure\n\nBoil the noodles in water\nAdd the sauce\n???\nProfit"
   },
   {
     "objectID": "recipes/bananabread.html",
@@ -77,25 +77,25 @@
     "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Modified - Oldest\n        \n         \n          Modified - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nBlack Forest Cherry Dessert\n\n\n\n\n\n\n\nsweet\n\n\ndessert\n\n\nvegetarian\n\n\n \n\n\n\n\nJanuary 27, 2024\n\n\n\n\n\n\n  \n\n\n\n\nChocolate Cake for Kids\n\n\n\n\n\n\n\nsweet\n\n\nbaking\n\n\n \n\n\n\n\nJanuary 27, 2024\n\n\n\n\n\n\n  \n\n\n\n\nBananabread\n\n\n\n\n\n\n\ndessert\n\n\ncake\n\n\nbaking\n\n\n \n\n\n\n\nJanuary 27, 2024\n\n\n\n\n\n\n  \n\n\n\n\nNoodles\n\n\n\n\n\n\n\n\n\nJanuary 19, 2024\n\n\n\n\n\n\n  \n\n\n\n\nTiramisù\n\n\n\n\n\n\n\ndessert\n\n\nItalian\n\n\n \n\n\n\n\nDecember 19, 2023\n\n\n\n\n\n\n  \n\n\n\n\nPancakes\n\n\n\n\n\n\n\nsweet\n\n\nvegetarian\n\n\n \n\n\n\n\nDecember 12, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "recipes/pancakes.html",
-    "href": "recipes/pancakes.html",
-    "title": "Pancakes",
+    "objectID": "CONTRIBUTING.html",
+    "href": "CONTRIBUTING.html",
+    "title": "Contributing to Our Project",
     "section": "",
-    "text": "Not vegan, contains eggs and milk!"
+    "text": "I welcome contributions to this project! Whether you’re fixing bugs, improving documentation, or adding new recipes, your input is greatly appreciated. Please follow the guidelines below to contribute to the project effectively.\n\n\n\n\nTo add a new recipe to the repository, please follow these steps:\n\nNavigate to the Recipes Folder: Locate the /recipes subfolder in the project directory.\nCreate a New Recipe File: Create a new .qmd file within the /recipes subfolder for your recipe. To simplify this process, you can copy an existing recipe file as a template.\nAdd Your Recipe: Populate the new .qmd file with your recipe details. Make sure to follow the formatting and structure of the existing recipes for consistency.\nCommit Your Changes: Once you’ve added your recipe, commit your changes with a meaningful commit message. For example:\ngit commit -m \"Add new recipe for [Recipe Name]\"\n\n\n\n\n\nBy contributing to this project, you agree that your contributions will be licensed under its MIT License. Thank you for your contributions! Together, we can make this project even better."
   },
   {
-    "objectID": "recipes/pancakes.html#fa-basket-shopping-ingredients",
-    "href": "recipes/pancakes.html#fa-basket-shopping-ingredients",
-    "title": "Pancakes",
-    "section": " Ingredients",
-    "text": "Ingredients\n\n250 g flour\n2 tablespoons baking powder\n500 g milk\n2 or 3 eggs\nA bit of butter"
+    "objectID": "CONTRIBUTING.html#how-to-contribute",
+    "href": "CONTRIBUTING.html#how-to-contribute",
+    "title": "Contributing to Our Project",
+    "section": "",
+    "text": "To add a new recipe to the repository, please follow these steps:\n\nNavigate to the Recipes Folder: Locate the /recipes subfolder in the project directory.\nCreate a New Recipe File: Create a new .qmd file within the /recipes subfolder for your recipe. To simplify this process, you can copy an existing recipe file as a template.\nAdd Your Recipe: Populate the new .qmd file with your recipe details. Make sure to follow the formatting and structure of the existing recipes for consistency.\nCommit Your Changes: Once you’ve added your recipe, commit your changes with a meaningful commit message. For example:\ngit commit -m \"Add new recipe for [Recipe Name]\""
   },
   {
-    "objectID": "recipes/pancakes.html#fa-kitchen-set-preparation",
-    "href": "recipes/pancakes.html#fa-kitchen-set-preparation",
-    "title": "Pancakes",
-    "section": " Preparation",
-    "text": "Preparation\n\nMix the flour and the baking powder\nSlowly add the milk and mix\nAdd the eggs and mix\nAdd a bit of butter to a large pan and heat\nMake the pancakes"
+    "objectID": "CONTRIBUTING.html#license",
+    "href": "CONTRIBUTING.html#license",
+    "title": "Contributing to Our Project",
+    "section": "",
+    "text": "By contributing to this project, you agree that your contributions will be licensed under its MIT License. Thank you for your contributions! Together, we can make this project even better."
   },
   {
     "objectID": "recipes/tiramisu.html",
@@ -145,5 +145,26 @@
     "title": "Black Forest Cherry Dessert",
     "section": "Source",
     "text": "Source\nhttps://www.einfachbacken.de/rezepte/schwarzwaelder-kirsch-dessert-einfach-selber-machen"
+  },
+  {
+    "objectID": "recipes/pancakes.html",
+    "href": "recipes/pancakes.html",
+    "title": "Pancakes",
+    "section": "",
+    "text": "Not vegan, contains eggs and milk!"
+  },
+  {
+    "objectID": "recipes/pancakes.html#fa-basket-shopping-ingredients",
+    "href": "recipes/pancakes.html#fa-basket-shopping-ingredients",
+    "title": "Pancakes",
+    "section": " Ingredients",
+    "text": "Ingredients\n\n250 g flour\n2 tablespoons baking powder\n500 g milk\n2 or 3 eggs\nA bit of butter"
+  },
+  {
+    "objectID": "recipes/pancakes.html#fa-kitchen-set-preparation",
+    "href": "recipes/pancakes.html#fa-kitchen-set-preparation",
+    "title": "Pancakes",
+    "section": " Preparation",
+    "text": "Preparation\n\nMix the flour and the baking powder\nSlowly add the milk and mix\nAdd the eggs and mix\nAdd a bit of butter to a large pan and heat\nMake the pancakes"
   }
 ]
