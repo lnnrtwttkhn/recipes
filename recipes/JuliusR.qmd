@@ -8,14 +8,25 @@ categories:
 
 ## {{< fa basket-shopping >}} Ingredients
 
-- [ ] Add your ingredients here
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+Zutaten:
+
+4 Hähnchenfilets
+3 EL Olivenöl
+2 Knoblauchzehen, fein gehackt
+Saft einer Zitrone
+1 TL Zitronenschale, abgerieben
+1 TL getrockneter Oregano
+1 TL getrockneter Thymian
+Salz und Pfeffer nach Geschmack
+Frische Kräuter (Petersilie, Basilikum) zum Garnieren
 
 ## {{< fa kitchen-set >}} Procedure
 
-1. Step 1
-1. Step 2
-1. Step 3
+Zubereitung:
+
+1. Marinade vorbereiten: In einer Schüssel das Olivenöl, den gehackten Knoblauch, den Zitronensaft, die Zitronenschale, den Oregano und den Thymian vermischen. Mit Salz und Pfeffer abschmecken.
+2. Hähnchenfilets marinieren: Die Hähnchenfilets in einen großen Gefrierbeutel oder eine flache Schale legen. Die Marinade darüber gießen und die Filets gut damit einreiben. Den Beutel verschließen oder die Schale abdecken und das Hähnchen mindestens 30 Minuten im Kühlschrank marinieren lassen. Für intensiveren Geschmack kann es auch über Nacht marinieren.
+3. Grill vorheizen: Einen Grill oder eine Grillpfanne auf mittlere bis hohe Hitze vorheizen.
+4. Hähnchen grillen: Die Hähnchenfilets aus der Marinade nehmen und überschüssige Marinade abtropfen lassen. Die Filets auf den heißen Grill legen und etwa 6-8 Minuten pro Seite grillen, bis sie durchgegart sind und eine schöne Grillmarkierung haben. Die genaue Grillzeit hängt von der Dicke der Filets ab.
+5. Servieren: Die gegrillten Hähnchenfilets auf Teller legen und mit frischen Kräutern garnieren. Dazu passt ein frischer Salat oder gegrilltes Gemüse.
+Guten Appetit!
