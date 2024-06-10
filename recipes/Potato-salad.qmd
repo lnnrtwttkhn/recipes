@@ -1,0 +1,21 @@
+---
+title: "Template for new recipe"
+image: "Add the URL to the image here"
+image-alt: "Add the URL to the image here"
+categories:
+  - Add a list of catgeories here
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+- [ ] Add your ingredients here
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+## {{< fa kitchen-set >}} Procedure
+
+1. Step 1
+1. Step 2
+1. Step 3
