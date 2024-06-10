@@ -1,7 +1,7 @@
-Poke Bowl with Tofu and Peanut Sauce
-Ingredients
+### Poke Bowl with Tofu and Peanut Sauce
+### Ingredients
 
-For the Poke Bowl:
+### For the Poke Bowl:
 
     200 grams firm tofu
     150 grams sushi rice
@@ -19,7 +19,7 @@ For the Poke Bowl:
     1 teaspoon sesame oil
     1 tablespoon vegetable oil (for frying tofu)
 
-For the Peanut Sauce:
+### For the Peanut Sauce:
 
     3 tablespoons peanut butter
     2 tablespoons soy sauce
@@ -29,7 +29,7 @@ For the Peanut Sauce:
     1 garlic clove, finely chopped
     2-3 tablespoons water (to thin the sauce)
 
-Procedure
+### Procedure
 
     Prepare the Rice:
         Rinse the sushi rice under cold water until the water runs clear.
