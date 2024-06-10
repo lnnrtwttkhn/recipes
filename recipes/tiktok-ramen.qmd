@@ -1,0 +1,34 @@
+---
+title: "TikTok Ramen"
+image: https://www.eatclub.tv/wp-content/uploads/2021/12/tiktok-ramen.jpg
+image-alt: "Delicious TikTok Ramen"
+categories:
+  - main course
+  - noodles
+  - Asian cuisine
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+### For the Ramen
+
+-   [ ] 125 grams ramen noodles
+-   [ ] 2 garlic cloves
+-   [ ] 30 grams plant-based butter
+-   [ ] 1 teaspoon chili flakes
+-   [ ] 2 teaspoons brown sugar
+-   [ ] 3 tablespoons soy sauce
+-   [ ] 1 leek
+-   [ ] 2 eggs (optional)
+
+## {{< fa kitchen-set >}} Procedure
+
+1.  Cook the ramen in boiling salted water for about 4 minutes.
+2.  Meanwhile, peel and finely chop the garlic cloves.
+3.  Heat the plant-based butter in a pan and sauté the garlic. Stir in the chili flakes.
+4.  Stir in the brown sugar and dissolve. Add soy sauce and mix in the ramen noodles.
+5.  Remove the pan from heat and stir until the noodles are evenly coated.
+6.  Slice the leek and set it aside for garnish.
+7.  For the non-vegan version, beat two eggs and cook them in a pan until scrambled. Mix the scrambled eggs with the noodles and serve everything together.
+
+Enjoy your meal!
