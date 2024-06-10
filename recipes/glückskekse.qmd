@@ -1,0 +1,32 @@
+---
+title: "Fortune cookies"
+image: https://www.smarticular.net/wp-content/uploads/2019/12/glueckskekse-selber-machen-backen-rezept-1-fb.jpg
+image-alt: "Mit diesem Rezept kannst du aus nur vier Zutaten Glückskekse selber machen! An Silvester oder zu anderen Anlässen sorgt die DIY-Alternative für jede Menge Orakel-Spaß."
+categories:
+  - dessert
+  - baked goods
+  - Asian cuisine
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+### For the Glückskekse
+
+-   [ ] Egg white of 3 eggs 
+-   [ ] 60g powder sugar
+-   [ ] 45g margarine
+-   [ ] 60g flour
+-   [ ] a pinch of salt 
+
+## {{< fa kitchen-set >}} Procedure
+
+1.  preheat the oven on 180°C
+2.  melt the margarine
+3.  beat the egg white the salt until it is fluffy
+4.  mix the melted margarine with the powder sugar, the fluffy egg white and the flour
+5.  Using a spoon, spread a tablespoon of the dough thinly into a circle on a baking tray lined with baking paper (or a suitable alternative). 
+6.  bake it 5-7 minutes
+7. Now everything has to happen very quickly (it's best if everyone helps): carefully remove the still soft cookies from the paper with a knife and place a prepared note message on top.
+8. Fold the cookies into semicircles and quickly fold them again with the straight side over the edge of a bowl or glass to create the typical fortune cookie shape.
+
+Enjoy your fortune! 
