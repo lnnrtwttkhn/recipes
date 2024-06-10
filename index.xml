@@ -10,48 +10,48 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Mon, 10 Jun 2024 09:28:07 GMT</lastBuildDate>
+<lastBuildDate>Mon, 10 Jun 2024 09:40:24 GMT</lastBuildDate>
 <item>
-  <title>tomatosoup.qmd</title>
+  <title>Tomatosoup</title>
   <dc:creator>Paul Schreiner</dc:creator>
   <link>https://lennartwittkuhn.com/recipes/recipes/tomatosoup.html</link>
   <description><![CDATA[ 
 
 
 
-<p>This is my recipe for <strong>tomatosoup</strong> passed down for generations. The <strong>tomatosoup</strong> is quite tasty.</p>
-<section id="fa-basket-shopping-ingredients" class="level1">
-<h1>##<i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h1>
-<ul>
-<li><p>Butter – use unsalted butter to saute onions</p></li>
-<li><p>Yellow onion – it seems like a ton of onion but it disappears into the soup adding a balanced sweetness</p></li>
-<li><p>Garlic – you’ll need 1 Tbsp minced from about 3 cloves</p></li>
-<li><p>Crushed tomatoes – with their juice, preferably</p></li>
-<li><p>San Marzano tomatoes Chicken stock – for the best flavor use homemade chicken broth Basil – chop and add</p></li>
-<li><p>1/4 cup fresh basil, plus more to serve. Basil leaves are easily bruised so chop by stacking a bunch of leaves then roll them into a log and cut into thin strips.</p></li>
-<li><p>Sugar – It’s just 1 Tbsp, but necessary to combat the tomato acidity.</p></li>
-<li><p>Black pepper – start with 1/2 tsp and add more to taste</p></li>
-<li><p>Whipping cream – adds a creaminess to the soup and offsets acidity.</p></li>
-<li><p>Parmesan cheese – adds saltiness to the soup and balances acidity. Adding parmesan adds enough salt and I usually don’t add more.</p></li>
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">Butter – use unsalted butter to saute onions</li>
+<li><input type="checkbox">Yellow onion – it seems like a ton of onion but it disappears into the soup adding a balanced sweetness</li>
+<li><input type="checkbox">Garlic – you’ll need 1 Tbsp minced from about 3 cloves</li>
+<li><input type="checkbox">Crushed tomatoes – with their juice, preferably</li>
+<li><input type="checkbox">San Marzano tomatoes Chicken stock – for the best flavor use homemade chicken broth</li>
+<li><input type="checkbox">1/4 cup fresh basil, plus more to serve. Basil leaves are easily bruised so chop by stacking a bunch of leaves then roll them into a log and cut into thin strips.</li>
+<li><input type="checkbox">Sugar – It’s just 1 Tbsp, but necessary to combat the tomato acidity.</li>
+<li><input type="checkbox">Black pepper – start with 1/2 tsp and add more to taste</li>
+<li><input type="checkbox">Whipping cream – adds a creaminess to the soup and offsets acidity.</li>
+<li><input type="checkbox">Parmesan cheese – adds saltiness to the soup and balances acidity. Adding parmesan adds enough salt and I usually don’t add more.</li>
 </ul>
-<section id="fa-kitchen-set-preparation" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-preparation"><strong>##</strong> <i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> <strong>Preparation</strong></h2>
-<ul>
-<li><p><em>Saute Aromatics</em> – heat a non-reactive pot over medium heat. Melt in 4 Tbsp butter then sautee onions until softened and golden (10-12 min). Add minced garlic and saute another minute.</p></li>
-<li><p><em>Make the tomato soup base</em> – stir in two 28 oz cans of crushed tomatoes with their juice, your chicken stock, chopped basil, sugar and black pepper. Bring to a boil then reduce heat, partially cover and simmer 10 minutes.</p></li>
-<li><p><em>Blend if desired</em> – use an immersion blender in the pot or blend in batches using a blender (be careful not to overfill the blender with hot liquid) and return soup to the pot.</p></li>
-<li><p><em>Add cream and parmesan</em> – stir in the heavy cream and shredded parmesan. Return to a simmer and season to taste if needed. Serve – ladle into warm bowls and garnish with more parmesan and basil.</p></li>
-</ul>
-<p><a href="https://commons.wikimedia.org/wiki/Category:Tomato_soup#/media/File:Basil_and_Organic_Tomato_Soup.jpg" class="uri">https://commons.wikimedia.org/wiki/Category:Tomato_soup#/media/File:Basil_and_Organic_Tomato_Soup.jpg</a></p>
-
-
 </section>
+<section id="fa-kitchen-set-preparation" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-preparation"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Preparation</h2>
+<ol type="1">
+<li><em>Saute Aromatics</em> – heat a non-reactive pot over medium heat. Melt in 4 Tbsp butter then sautee onions until softened and golden (10-12 min). Add minced garlic and saute another minute.</li>
+<li><em>Make the tomato soup base</em> – stir in two 28 oz cans of crushed tomatoes with their juice, your chicken stock, chopped basil, sugar and black pepper. Bring to a boil then reduce heat, partially cover and simmer 10 minutes.</li>
+<li><em>Blend if desired</em> – use an immersion blender in the pot or blend in batches using a blender (be careful not to overfill the blender with hot liquid) and return soup to the pot.</li>
+<li><em>Add cream and parmesan</em> – stir in the heavy cream and shredded parmesan. Return to a simmer and season to taste if needed.</li>
+<li>Serve – ladle into warm bowls and garnish with more parmesan and basil.</li>
+</ol>
+<p><img src="https://lennartwittkuhn.com/recipes/recipes/https:/upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" class="img-fluid"></p>
+
+
 </section>
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tomatosoup.html</guid>
-  <pubDate>Mon, 10 Jun 2024 09:28:07 GMT</pubDate>
-  <media:content url="https://commons.wikimedia.org/wiki/Category:Tomato_soup#/media/File:Basil_and_Organic_Tomato_Soup.jpg" medium="image" type="image/jpeg"/>
+  <pubDate>Mon, 10 Jun 2024 09:40:24 GMT</pubDate>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Black Forest Cherry Dessert</title>
@@ -143,7 +143,7 @@
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</guid>
-  <pubDate>Mon, 10 Jun 2024 09:28:07 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 09:40:24 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -191,7 +191,7 @@
   <category>sweet</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
-  <pubDate>Mon, 10 Jun 2024 09:28:07 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 09:40:24 GMT</pubDate>
   <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -249,7 +249,7 @@
   <category>cake</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
-  <pubDate>Mon, 10 Jun 2024 09:28:07 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 09:40:24 GMT</pubDate>
   <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -281,7 +281,7 @@
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/noodles.html</guid>
-  <pubDate>Mon, 10 Jun 2024 09:28:07 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 09:40:24 GMT</pubDate>
 </item>
 <item>
   <title>Tiramisù</title>
@@ -342,7 +342,7 @@ Contains raw eggs
   <category>dessert</category>
   <category>Italian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiramisu.html</guid>
-  <pubDate>Mon, 10 Jun 2024 09:28:07 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 09:40:24 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tiramisu_-_Raffaele_Diomede.jpg/2560px-Tiramisu_-_Raffaele_Diomede.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -392,7 +392,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Mon, 10 Jun 2024 09:28:07 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 09:40:24 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>

@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-categories','listing-file-modified',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-author','listing-title','listing-categories','listing-file-modified',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
@@ -160,6 +160,9 @@ ul.task-list li input[type="checkbox"] {
          <option value="listing-title" data-direction="asc">
           Title
         </option>
+         <option value="listing-author" data-direction="asc">
+          Author
+        </option>
          <option value="listing-file-modified-sort" data-direction="asc">
           Modified - Oldest
         </option>
@@ -174,14 +177,14 @@ ul.task-list li input[type="checkbox"] {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1718011564000" data-listing-reading-time-sort="2">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1718012316000" data-listing-reading-time-sort="2">
 <div class="thumbnail">
-<p><a href="./recipes/tomatosoup.html"> <img src="https://commons.wikimedia.org/wiki/Category:Tomato_soup#/media/File:Basil_and_Organic_Tomato_Soup.jpg" class="thumbnail-image" style="height: 80px;"> </a></p>
+<p><a href="./recipes/tomatosoup.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" class="thumbnail-image" style="height: 80px;"> </a></p>
 </div>
 <div class="body">
 <a href="./recipes/tomatosoup.html">
 <h3 class="no-anchor listing-title">
-tomatosoup.qmd
+Tomatosoup
 </h3>
 <div class="listing-subtitle">
 
@@ -190,6 +193,9 @@ tomatosoup.qmd
 </div>
 <div class="metadata">
 <a href="./recipes/tomatosoup.html">
+<div class="listing-author">
+Paul Schreiner
+</div>
 <div class="metadata-value listing-file-modified">
 June 10, 2024
 </div>
@@ -311,6 +317,9 @@ Noodles
 </div>
 <div class="metadata">
 <a href="./recipes/noodles.html">
+<div class="listing-author">
+Max
+</div>
 <div class="metadata-value listing-file-modified">
 January 19, 2024
 </div>
@@ -342,6 +351,9 @@ Italian
 </div>
 <div class="metadata">
 <a href="./recipes/tiramisu.html">
+<div class="listing-author">
+Matteo Carpi
+</div>
 <div class="metadata-value listing-file-modified">
 December 19, 2023
 </div>

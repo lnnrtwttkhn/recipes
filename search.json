@@ -123,7 +123,7 @@
     "href": "index.html",
     "title": "Recipes",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Modified - Oldest\n        \n         \n          Modified - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\ntomatosoup.qmd\n\n\n\n\n\n\n\n\n\nJune 10, 2024\n\n\n\n\n\n\n  \n\n\n\n\nBlack Forest Cherry Dessert\n\n\n\n\n\n\n\nsweet\n\n\ndessert\n\n\nvegetarian\n\n\n \n\n\n\n\nJanuary 27, 2024\n\n\n\n\n\n\n  \n\n\n\n\nChocolate Cake for Kids\n\n\n\n\n\n\n\nsweet\n\n\nbaking\n\n\n \n\n\n\n\nJanuary 27, 2024\n\n\n\n\n\n\n  \n\n\n\n\nBananabread\n\n\n\n\n\n\n\ndessert\n\n\ncake\n\n\nbaking\n\n\n \n\n\n\n\nJanuary 27, 2024\n\n\n\n\n\n\n  \n\n\n\n\nNoodles\n\n\n\n\n\n\n\n\n\nJanuary 19, 2024\n\n\n\n\n\n\n  \n\n\n\n\nTiramisù\n\n\n\n\n\n\n\ndessert\n\n\nItalian\n\n\n \n\n\n\n\nDecember 19, 2023\n\n\n\n\n\n\n  \n\n\n\n\nPancakes\n\n\n\n\n\n\n\nsweet\n\n\nvegetarian\n\n\n \n\n\n\n\nDecember 12, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Modified - Oldest\n        \n         \n          Modified - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nTomatosoup\n\n\n\n\n\n\n\n\n\nPaul Schreiner\n\n\nJune 10, 2024\n\n\n\n\n\n\n  \n\n\n\n\nBlack Forest Cherry Dessert\n\n\n\n\n\n\n\nsweet\n\n\ndessert\n\n\nvegetarian\n\n\n \n\n\n\n\nJanuary 27, 2024\n\n\n\n\n\n\n  \n\n\n\n\nChocolate Cake for Kids\n\n\n\n\n\n\n\nsweet\n\n\nbaking\n\n\n \n\n\n\n\nJanuary 27, 2024\n\n\n\n\n\n\n  \n\n\n\n\nBananabread\n\n\n\n\n\n\n\ndessert\n\n\ncake\n\n\nbaking\n\n\n \n\n\n\n\nJanuary 27, 2024\n\n\n\n\n\n\n  \n\n\n\n\nNoodles\n\n\n\n\n\n\n\n\n\nMax\n\n\nJanuary 19, 2024\n\n\n\n\n\n\n  \n\n\n\n\nTiramisù\n\n\n\n\n\n\n\ndessert\n\n\nItalian\n\n\n \n\n\n\n\nMatteo Carpi\n\n\nDecember 19, 2023\n\n\n\n\n\n\n  \n\n\n\n\nPancakes\n\n\n\n\n\n\n\nsweet\n\n\nvegetarian\n\n\n \n\n\n\n\nDecember 12, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "recipes/bananabread.html",
@@ -170,15 +170,22 @@
   {
     "objectID": "recipes/tomatosoup.html",
     "href": "recipes/tomatosoup.html",
-    "title": "tomatosoup.qmd",
+    "title": "Tomatosoup",
     "section": "",
-    "text": "This is my recipe for tomatosoup passed down for generations. The tomatosoup is quite tasty."
+    "text": "Butter – use unsalted butter to saute onions\nYellow onion – it seems like a ton of onion but it disappears into the soup adding a balanced sweetness\nGarlic – you’ll need 1 Tbsp minced from about 3 cloves\nCrushed tomatoes – with their juice, preferably\nSan Marzano tomatoes Chicken stock – for the best flavor use homemade chicken broth\n1/4 cup fresh basil, plus more to serve. Basil leaves are easily bruised so chop by stacking a bunch of leaves then roll them into a log and cut into thin strips.\nSugar – It’s just 1 Tbsp, but necessary to combat the tomato acidity.\nBlack pepper – start with 1/2 tsp and add more to taste\nWhipping cream – adds a creaminess to the soup and offsets acidity.\nParmesan cheese – adds saltiness to the soup and balances acidity. Adding parmesan adds enough salt and I usually don’t add more."
+  },
+  {
+    "objectID": "recipes/tomatosoup.html#fa-basket-shopping-ingredients",
+    "href": "recipes/tomatosoup.html#fa-basket-shopping-ingredients",
+    "title": "Tomatosoup",
+    "section": "",
+    "text": "Butter – use unsalted butter to saute onions\nYellow onion – it seems like a ton of onion but it disappears into the soup adding a balanced sweetness\nGarlic – you’ll need 1 Tbsp minced from about 3 cloves\nCrushed tomatoes – with their juice, preferably\nSan Marzano tomatoes Chicken stock – for the best flavor use homemade chicken broth\n1/4 cup fresh basil, plus more to serve. Basil leaves are easily bruised so chop by stacking a bunch of leaves then roll them into a log and cut into thin strips.\nSugar – It’s just 1 Tbsp, but necessary to combat the tomato acidity.\nBlack pepper – start with 1/2 tsp and add more to taste\nWhipping cream – adds a creaminess to the soup and offsets acidity.\nParmesan cheese – adds saltiness to the soup and balances acidity. Adding parmesan adds enough salt and I usually don’t add more."
   },
   {
     "objectID": "recipes/tomatosoup.html#fa-kitchen-set-preparation",
     "href": "recipes/tomatosoup.html#fa-kitchen-set-preparation",
-    "title": "tomatosoup.qmd",
-    "section": "##  Preparation",
-    "text": "##  Preparation\n\nSaute Aromatics – heat a non-reactive pot over medium heat. Melt in 4 Tbsp butter then sautee onions until softened and golden (10-12 min). Add minced garlic and saute another minute.\nMake the tomato soup base – stir in two 28 oz cans of crushed tomatoes with their juice, your chicken stock, chopped basil, sugar and black pepper. Bring to a boil then reduce heat, partially cover and simmer 10 minutes.\nBlend if desired – use an immersion blender in the pot or blend in batches using a blender (be careful not to overfill the blender with hot liquid) and return soup to the pot.\nAdd cream and parmesan – stir in the heavy cream and shredded parmesan. Return to a simmer and season to taste if needed. Serve – ladle into warm bowls and garnish with more parmesan and basil.\n\nhttps://commons.wikimedia.org/wiki/Category:Tomato_soup#/media/File:Basil_and_Organic_Tomato_Soup.jpg"
+    "title": "Tomatosoup",
+    "section": " Preparation",
+    "text": "Preparation\n\nSaute Aromatics – heat a non-reactive pot over medium heat. Melt in 4 Tbsp butter then sautee onions until softened and golden (10-12 min). Add minced garlic and saute another minute.\nMake the tomato soup base – stir in two 28 oz cans of crushed tomatoes with their juice, your chicken stock, chopped basil, sugar and black pepper. Bring to a boil then reduce heat, partially cover and simmer 10 minutes.\nBlend if desired – use an immersion blender in the pot or blend in batches using a blender (be careful not to overfill the blender with hot liquid) and return soup to the pot.\nAdd cream and parmesan – stir in the heavy cream and shredded parmesan. Return to a simmer and season to taste if needed.\nServe – ladle into warm bowls and garnish with more parmesan and basil."
   }
 ]
