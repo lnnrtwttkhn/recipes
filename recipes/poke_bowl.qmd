@@ -1,3 +1,10 @@
+title: "Poke Bowl with Tofu and Peanut Sauce"
+image: https://www.okonomikitchen.com/wp-content/uploads/2019/09/easy-vegan-tofu-poke-bowl-with-ponzu-sauce-recipe-1-1-of-1-1-1024x683.jpg
+image-alt: https://www.okonomikitchen.com/wp-content/uploads/2019/09/easy-vegan-tofu-poke-bowl-with-ponzu-sauce-recipe-1-1-of-1-1-1024x683.jpg
+categories:
+  - vegan
+  - vietnamese
+
 ### Poke Bowl with Tofu and Peanut Sauce
 ### Ingredients
 
