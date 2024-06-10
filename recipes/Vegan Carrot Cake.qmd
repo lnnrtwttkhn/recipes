@@ -1,0 +1,34 @@
+title: "Template for new recipe"
+image: "https://biancazapatka.com/en/moist-and-simple-carrot-cake-vegan/"
+image-alt: "Add the URL to the image here"
+categories:
+  - Add a list of catgeories here
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+- [ ] Add your ingredients here
+- [1] 250g Carrots
+- [2] 125g Vegan Butter at room temperature
+- [3] 100g sugar/maple syrup
+- [4] 1 pinch salt
+- [5] 1 pinch vanilla extract
+- [6] 2 flax eggs
+- [7] 125g all-purpose flour
+- [8] 1/2 tsp cinnamon
+- [9] 1 1/2 tsp baking powder
+- [10] 100g almonds
+- [11] 1 tsp apple cider vinegar
+- [12] 1/2 tsp baking soda
+
+## {{< fa kitchen-set >}} Procedure
+
+1. Preheat Oven to 180°C top and bottom heat. Grease a round baking pan.
+1. For the batter, peel the carrots and finely grate them.
+1. Beat the soft butter with sugar, salt and vanilla until creamy in a mixing bowl. Then stir in the grated carrots and flax eggs.
+1. Now sift in the flour, cinnamon, and baking powder. Also add the almonds, vinegar and baking soda and stir everything briefly until just combined.
+1. Fill tFill the batter into the prepared baking pan, smooth it out and bake on medium rack for 30-40 minutes.he batter into the prepared baking pan, smooth it out and bake on medium rack for 30-40 minutes.
+
+
+
+
