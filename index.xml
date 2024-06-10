@@ -10,7 +10,53 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Mon, 10 Jun 2024 09:40:24 GMT</lastBuildDate>
+<lastBuildDate>Mon, 10 Jun 2024 09:48:36 GMT</lastBuildDate>
+<item>
+  <title>Lentil Bolognese</title>
+  <link>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">1 clove of garlic</li>
+<li><input type="checkbox">1 onion</li>
+<li><input type="checkbox">1 carrot</li>
+<li><input type="checkbox">1 stalk of celery</li>
+<li><input type="checkbox">1 tbsp olive oil</li>
+<li><input type="checkbox">2 tablespoons tomato paste</li>
+<li><input type="checkbox">150 g red lentils</li>
+<li><input type="checkbox">400 g strained tomatoes - or chopped tomatoes (= 1 tin)</li>
+<li><input type="checkbox">250 ml vegetable stock</li>
+<li><input type="checkbox">1 tbsp Italian herbs</li>
+<li><input type="checkbox">salt</li>
+<li><input type="checkbox">pepper</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Wash the lentils thoroughly, then set aside.</li>
+<li>Finely chop the garlic and onion, dice the carrot and celery.</li>
+<li>Heat the oil in a pan and sauté the onions.</li>
+<li>Add the carrots and celery and fry for 5 minutes over a medium heat.</li>
+<li>Stir in the tomato purée, garlic and herbs.</li>
+<li>Add the tomato purée, vegetable stock and lentils, bring to the boil, cover and simmer over a medium heat for 15 minutes. Add water if necessary.</li>
+</ol>
+<p>Source: <a href="https://www.gaumenfreundin.de/rote-linsenbolognese-einfach-und-vegan/" class="uri">https://www.gaumenfreundin.de/rote-linsenbolognese-einfach-und-vegan/</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>vegetarian</category>
+  <category>pasta</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</guid>
+  <pubDate>Mon, 10 Jun 2024 09:48:36 GMT</pubDate>
+  <media:content url="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Tomatosoup</title>
   <dc:creator>Paul Schreiner</dc:creator>
@@ -50,7 +96,7 @@
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tomatosoup.html</guid>
-  <pubDate>Mon, 10 Jun 2024 09:40:24 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 09:48:36 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -143,7 +189,7 @@
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</guid>
-  <pubDate>Mon, 10 Jun 2024 09:40:24 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 09:48:36 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -191,7 +237,7 @@
   <category>sweet</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
-  <pubDate>Mon, 10 Jun 2024 09:40:24 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 09:48:36 GMT</pubDate>
   <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -249,7 +295,7 @@
   <category>cake</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
-  <pubDate>Mon, 10 Jun 2024 09:40:24 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 09:48:36 GMT</pubDate>
   <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -281,7 +327,7 @@
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/noodles.html</guid>
-  <pubDate>Mon, 10 Jun 2024 09:40:24 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 09:48:36 GMT</pubDate>
 </item>
 <item>
   <title>Tiramisù</title>
@@ -342,7 +388,7 @@ Contains raw eggs
   <category>dessert</category>
   <category>Italian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiramisu.html</guid>
-  <pubDate>Mon, 10 Jun 2024 09:40:24 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 09:48:36 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tiramisu_-_Raffaele_Diomede.jpg/2560px-Tiramisu_-_Raffaele_Diomede.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -392,7 +438,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Mon, 10 Jun 2024 09:40:24 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 09:48:36 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
