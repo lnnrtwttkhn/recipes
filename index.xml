@@ -10,7 +10,50 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Mon, 10 Jun 2024 10:49:25 GMT</lastBuildDate>
+<lastBuildDate>Mon, 10 Jun 2024 12:21:23 GMT</lastBuildDate>
+<item>
+  <title>Iranian Stew Fesenjan</title>
+  <link>https://lennartwittkuhn.com/recipes/recipes/fesenjan.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><p><input type="checkbox">Walnuts: To create the luscious sauce, I finely grind the walnuts.</p></li>
+<li><p><input type="checkbox">Onion: Imbues the dish with a fresh aromatic flavor.</p></li>
+<li><p><input type="checkbox">Chicken Thighs: When it comes to slow-cooking thighs are a top choice. Alternatively, you can use chicken drumsticks or quarters. Remove the skin but leave the bone in for further flavor.</p></li>
+<li><p><input type="checkbox">Extra Virgin Olive Oil: The walnuts release a lot of oil so you only need a little extra virgin olive oil to fry the onions.</p></li>
+<li><p><input type="checkbox">Turmeric, Cinnamon and Saffron: These spices flavor the stew with subtle earthy (turmeric), woody (cinnamon) and floral (saffron) tones. The overall feeling from this stew is warm. If you’re curious about saffron, one of the world’s most interesting spices, learn all about it in our What Is Saffron? Essential Guide.</p></li>
+<li><p><input type="checkbox">Water: The cooking liquid and basis of the rich pomegranate molasses and walnut sauce.</p></li>
+<li><p><input type="checkbox">Pomegranate Molasses: This gives the stew the sour flavor and helps to balance the richness of the walnuts in the sauce. It also gives the fesenjan its beautiful dark brown color. You can purchase it or make it yourself by using this homemade pomegranate molasses recipe.</p></li>
+<li><p><input type="checkbox">Sugar balances and complements the tartness of the pomegranate molasses.</p></li>
+<li><p><input type="checkbox">Salt and freshly ground black pepper elevates the other flavors and adds a subtle heat.</p></li>
+<li><p><input type="checkbox">Pomegranate Seeds: Sprinkle these little jewel-toned bursts of flavor over the top of the stew as a garnish just before serving.</p></li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Grind the Walnuts</li>
+<li>Toast the Walnuts</li>
+<li>Cook Onions</li>
+<li>Cook Chicken Thighs</li>
+<li>Add the Ground Walnuts</li>
+<li>Add Pomegranate Molasses, Sugar and Saffron</li>
+<li>Add the Chicken, Simmer and Season</li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>international</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/fesenjan.html</guid>
+  <pubDate>Mon, 10 Jun 2024 12:21:23 GMT</pubDate>
+  <media:content url="https://cdn.faradeed.ir/thumbnail/LeNflz9GOtZN/KoeEnxIUgNp8HPWtyR4f3njefZWpQsc5QSfH7y-wEmOGb45E_dImxEpQi9avqdGE/Khoresh-e-Fesenjan-Tilda-Pure-Basmati-2-scaled.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>TikTok Ramen</title>
   <link>https://lennartwittkuhn.com/recipes/recipes/tiktok-ramen.html</link>
@@ -55,7 +98,7 @@
   <category>noodles</category>
   <category>Asian cuisine</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiktok-ramen.html</guid>
-  <pubDate>Mon, 10 Jun 2024 10:49:25 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 12:21:23 GMT</pubDate>
   <media:content url="https://www.eatclub.tv/wp-content/uploads/2021/12/tiktok-ramen.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -101,7 +144,7 @@
   <category>vegetarian</category>
   <category>pasta</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</guid>
-  <pubDate>Mon, 10 Jun 2024 10:49:25 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 12:21:23 GMT</pubDate>
   <media:content url="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -143,7 +186,7 @@
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tomatosoup.html</guid>
-  <pubDate>Mon, 10 Jun 2024 10:49:25 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 12:21:23 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -236,7 +279,7 @@
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</guid>
-  <pubDate>Mon, 10 Jun 2024 10:49:25 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 12:21:23 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -284,7 +327,7 @@
   <category>sweet</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
-  <pubDate>Mon, 10 Jun 2024 10:49:25 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 12:21:23 GMT</pubDate>
   <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -342,7 +385,7 @@
   <category>cake</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
-  <pubDate>Mon, 10 Jun 2024 10:49:25 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 12:21:23 GMT</pubDate>
   <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -374,7 +417,7 @@
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/noodles.html</guid>
-  <pubDate>Mon, 10 Jun 2024 10:49:25 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 12:21:23 GMT</pubDate>
 </item>
 <item>
   <title>Tiramisù</title>
@@ -435,7 +478,7 @@ Contains raw eggs
   <category>dessert</category>
   <category>Italian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiramisu.html</guid>
-  <pubDate>Mon, 10 Jun 2024 10:49:25 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 12:21:23 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tiramisu_-_Raffaele_Diomede.jpg/2560px-Tiramisu_-_Raffaele_Diomede.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -485,7 +528,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Mon, 10 Jun 2024 10:49:25 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 12:21:23 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
