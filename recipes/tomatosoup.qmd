@@ -8,9 +8,9 @@ This is my recipe for **tomatosoup** passed down for generations. The **tomatoso
 
 #  \##{{< fa basket-shopping >}} Ingredients
 
--   Butter -- use unsalted butter to sautee onions
+-   Butter -- use unsalted butter to saute onions
 
--   Yellow onion -- it seems like a ton of onion but it dissapears into the soup adding a balanced sweetness
+-   Yellow onion -- it seems like a ton of onion but it disappears into the soup adding a balanced sweetness
 
 -   Garlic -- you'll need 1 Tbsp minced from about 3 cloves
 
