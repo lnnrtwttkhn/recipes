@@ -10,5 +10,5 @@ listing:
     feed: true
     date-format: long
     image-height: 80px
-    fields: [image, title, categories, file-modified]
+    fields: [image, author, title, categories, file-modified]
 ---
