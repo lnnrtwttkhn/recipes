@@ -1,8 +1,6 @@
 ---
 title: "Very Crispy Potatoes"
 author: "Mira Rufeger"
-format: html
-editor: visual
 ---
 
 ## ZUTATEN
