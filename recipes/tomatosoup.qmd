@@ -2,9 +2,8 @@
 title: "Tomatosoup"
 author: "Paul Schreiner"
 image: https://upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg
+abstract: This is my recipe for **tomatosoup** passed down for generations. The **tomatosoup** is quite tasty.
 ---
-
-This is my recipe for **tomatosoup** passed down for generations. The **tomatosoup** is quite tasty.
 
 ## {{< fa basket-shopping >}} Ingredients
 
