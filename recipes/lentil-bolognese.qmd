@@ -1,0 +1,35 @@
+---
+title: "Lentil Bolognese"
+image: https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg
+image-alt: https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg
+categories:
+  - vegetarian
+  - pasta
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+- [ ] 1 clove of garlic
+- [ ] 1 onion
+- [ ] 1 carrot
+- [ ] 1 stalk of celery
+- [ ] 1 tbsp olive oil
+- [ ] 2 tablespoons tomato paste
+- [ ] 150 g red lentils
+- [ ] 400 g strained tomatoes - or chopped tomatoes (= 1 tin)
+- [ ] 250 ml vegetable stock
+- [ ] 1 tbsp Italian herbs
+- [ ] salt
+- [ ] pepper
+
+## {{< fa kitchen-set >}} Procedure
+
+1. Wash the lentils thoroughly, then set aside.
+1. Finely chop the garlic and onion, dice the carrot and celery.
+1. Heat the oil in a pan and sauté the onions.
+1. Add the carrots and celery and fry for 5 minutes over a medium heat.
+1. Stir in the tomato purée, garlic and herbs.
+1. Add the tomato purée, vegetable stock and lentils, bring to the boil, cover and simmer over a medium heat for 15 minutes.
+Add water if necessary.
+
+Source: <https://www.gaumenfreundin.de/rote-linsenbolognese-einfach-und-vegan/>
