@@ -1,0 +1,66 @@
+---
+title: "Cinnamon Rolls"
+author: "Carolyn Jakubeit"
+image: https://en.wikipedia.org/wiki/Cinnamon_roll#/media/File:Cinnamon_roll_in_Stockholm.jpg
+categories:
+  - sweet
+  - dessert
+  - vegetarian
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+### For the dough:
+
+-   [ ] 500g all-purpose flour
+-   [ ] 7g (1 packet) instant yeast
+-   [ ] 250ml warm milk
+-   [ ] 75g granulated sugar
+-   [ ] 75g unsalted butter, melted
+-   [ ] 1 teaspoon salt
+-   [ ] 1 large egg
+
+### For the filling:
+
+-   [ ] 75g unsalted butter, softened
+-   [ ] 100g brown sugar
+-   [ ] 2 tablespoons ground cinnamon
+
+### For the glaze:
+
+-   [ ] 100g powdered sugar
+-   [ ] 2-3 tablespoons milk
+-   [ ] 1 teaspoon vanilla extract (optional)
+
+## {{< fa kitchen-set >}} Preparation
+
+### Prepare the Dough:
+
+1.  In a large mixing bowl, combine the warm milk and instant yeast.
+2.  Let it sit for 5-10 minutes until foamy.
+3.  Add the melted butter, sugar, salt, and egg to the yeast mixture.
+4.  Stir until well combined.
+5.  Gradually add the flour to the mixture, stirring until a dough forms.
+6.  Turn the dough out onto a floured surface and knead for about 5-7 minutes, until the dough is smooth and elastic.
+7.  Place the dough in a greased bowl, cover with a clean kitchen towel, and let it rise in a warm place for about 1 hour, or until doubled in size.
+8.  Prepare the Filling: In a small bowl, mix together the softened butter, brown sugar, and ground cinnamon until well combined.
+
+### Assemble the Rolls:
+
+1.  Once the dough has risen, punch it down and roll it out on a floured surface into a large rectangle, about 1/4 inch thick.
+2.  Spread the cinnamon-sugar filling evenly over the dough.
+3.  Starting from one long edge, tightly roll up the dough into a log.
+4.  Use a sharp knife to cut the log into 12 equal-sized rolls.
+
+#### Bake the Rolls:
+
+1.  Place the rolls in a greased baking dish, leaving a little space between each roll.
+2.  Cover the dish with a clean kitchen towel and let the rolls rise for another 30-45 minutes.
+3.  Preheat the oven to 180°C (350°F).
+4.  Once risen, bake the rolls in the preheated oven for 20-25 minutes, or until golden brown and cooked through.
+
+### Make the Glaze:
+
+1.  In a small bowl, whisk together the powdered sugar, milk, and vanilla extract until smooth.
+2.  Adjust the consistency by adding more milk if needed.
+3.  Serve: Once the rolls are baked, let them cool for a few minutes before drizzling the glaze over the top. Serve warm and enjoy your homemade Zimtschnecken!
