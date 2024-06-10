@@ -1,9 +1,10 @@
 ---
 title: "Gyoza"
+autor: Karo
 image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcrispy-pork-gyoza--395542779777568469%2F&psig=AOvVaw2ipnJCY1OVUTrS-coBjojI&ust=1718103802111000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCWhM_x0IYDFQAAAAAdAAAAABAJ"
 image-alt: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcrispy-pork-gyoza--395542779777568469%2F&psig=AOvVaw2ipnJCY1OVUTrS-coBjojI&ust=1718103802111000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCWhM_x0IYDFQAAAAAdAAAAABAJ"
 categories:
-  - vegeterian
+  - vegetarian
   - vegan
   - Asian
   - Date Night Food
@@ -17,7 +18,7 @@ categories:
 - [ ] 180 g flour
 - [ ] 108 ml boiling water
 - [ ] 1 tbsp soy sauce
-- [ ] 1 garlic glove 
+- [ ] 1 garlic clove 
 - [ ] 1 tsp stock powder
 - [ ] 1 tsp white wine
 - [ ] 1 tsp sesame oil
@@ -27,11 +28,11 @@ categories:
 
 ## {{< fa kitchen-set >}} Procedure
 
-1. Mix flour, 1 tsp of salt and boiling water. When cold enough, start kneading until a smooth dough forms. Leave the dough to rest in cling film for 15 minutes.
+1. Mix flour, 1 tsp of salt and boiling water. When cool enough, start kneading until a smooth dough forms. Leave the dough to rest in cling film for 15 minutes.
 2. Finely chop cabbage, garlic, carrots (and tofu) and mix with soy sauce, stock powder, sesame oil and white wine.
-3. Divide the dough into thirds, roll the thirds into rolls and cut into 12 pieces. Shape the pieces into "flat cakes" and roll in potato starch. Roll out each piece into a thin circle using a rolling pin.
-4. Fill each dough piece with one tbsp of the cabbage mixture. Wet the edge of the circle with some water. Next fold it into a half circle and pinch the edges together.
-5. Heat cooking oil in a pan. Add Gyoza for about 3 min until they brown on the bottom. Add about half a cup of water mixed with a tbsp of Flour to the bottom of the pan. Cover the Gyoza for about 8 minutes and let it simmer. Then remove the top and keep the heat on until the water is gone and a crispy bottom has formed.
+3. Divide the dough into thirds, roll the thirds into rolls, and cut into 12 pieces. Shape the pieces into "flat cakes" and roll each one in potato starch. Roll out each piece into a thin circle using a rolling pin.
+4. Fill each dough piece with one tbsp of the cabbage mixture. Wet the edge of the circle with some water. Next, fold it into a half circle and pinch the edges together.
+5. Heat cooking oil in a pan. Add Gyoza for about 3 minutes until they brown on the bottom. Add about half a cup of water mixed with a tbsp of flour to the bottom of the pan. Cover the Gyoza for about 8 minutes and let it simmer. Then remove the top and keep the heat on until the water is gone and a crispy bottom has formed.
 6. Enjoy!
 
-Pro Tipp: The recipes works much faster and makes much more fun when you do it with another person, which is why it is the perfect food for a date or an evening with friends:)
+Pro Tipp: The recipes works much faster and makes much more fun when you do it with another person, which is why it is the perfect food for a date or an evening with friends :)
