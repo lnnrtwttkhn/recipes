@@ -6,15 +6,13 @@ categories:
   - international
 ---
 
-\## {{< fa basket-shopping >}} Ingredients
-
--   [ ] Add your ingredients here
+## {{< fa basket-shopping >}} Ingredients
 
 -   [ ] Walnuts: To create the luscious sauce, I finely grind the walnuts.
 
 -   [ ] Onion: Imbues the dish with a fresh aromatic flavor.
 
--   [ ] Chicken Thighs: When it comes to slow-cooking thighs are a top choice. Alternatively, you can use chicken drumsticks or quarters. Remove the skin but leave the bone in for further flavor.\
+-   [ ] Chicken Thighs: When it comes to slow-cooking thighs are a top choice. Alternatively, you can use chicken drumsticks or quarters. Remove the skin but leave the bone in for further flavor.
 
 -   [ ] Extra Virgin Olive Oil: The walnuts release a lot of oil so you only need a little extra virgin olive oil to fry the onions.
 
