@@ -3,6 +3,8 @@ listing:
   - id: recipes
     type: default
     contents: recipes
+    exclude:
+      title: "Template*"
     sort: "file-modified desc"
     sort-ui: true
     filter-ui: true

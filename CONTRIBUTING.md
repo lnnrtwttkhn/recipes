@@ -15,7 +15,7 @@ Locate the `/recipes` subfolder in the project directory.
    
 2. **Create a New Recipe File**: 
 Create a new `.qmd` file within the `/recipes` subfolder for your recipe. 
-To simplify this process, you can copy an existing recipe file as a template.
+To simplify this process, you can copy an existing recipe file as a template or use the [`template.qmd` file](recipes/template.qmd) as a starting point.
 
 3. **Add Your Recipe**:
 Populate the new `.qmd` file with your recipe details.
