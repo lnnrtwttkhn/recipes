@@ -36,7 +36,7 @@ categories:
     1 garlic clove, finely chopped
     2-3 tablespoons water (to thin the sauce)
 
-### Procedure
+## {{< fa kitchen-set >}} Procedure
 
     Prepare the Rice:
         Rinse the sushi rice under cold water until the water runs clear.
