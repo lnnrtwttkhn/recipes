@@ -10,7 +10,54 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Mon, 10 Jun 2024 13:24:33 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Jun 2024 08:57:28 GMT</lastBuildDate>
+<item>
+  <title>Banana brownies</title>
+  <link>https://lennartwittkuhn.com/recipes/recipes/banana_brownies.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">3 bananas</li>
+<li><input type="checkbox">300 g Dark chocolate coating</li>
+<li><input type="checkbox">250 g butter</li>
+<li><input type="checkbox">3 eggs (size M)</li>
+<li><input type="checkbox">250 g sugar</li>
+<li><input type="checkbox">50 ml of neutral oil (e.g.&nbsp;sunflower oil)</li>
+<li><input type="checkbox">2 TSP vanilla extract</li>
+<li><input type="checkbox">200 g wheat flour (type 405)</li>
+<li><input type="checkbox">30 g Baking cocoa</li>
+<li><input type="checkbox">1 TSP baking powder</li>
+<li><input type="checkbox">some butter and wheat flour for the cake pan</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Preheat the oven to 180 degrees top/bottom heat (fan oven: 160 degrees). Grease a baking tin (20 cm x 23 cm) with a little butter and dust with flour. For the batter, peel the bananas and mash with a fork to a fine paste.</li>
+<li>Finely chop the dark chocolate coating and melt it together with the butter in a metal bowl over a hot water bath. Beat the eggs and sugar until frothy, then mix in the melted chocolate mixture and the oil. Stir in the mashed bananas and vanilla extract.</li>
+<li>Mix the flour, cocoa powder and baking powder in a bowl and sieve into the batter. Mix in briefly, then pour into the prepared tin and smooth out.</li>
+<li>Bake the brownies in a preheated oven for approx. 30-35 minutes. Leave to cool for at least 2 hours after baking.</li>
+</ol>
+</section>
+<section id="source" class="level2">
+<h2 class="anchored" data-anchor-id="source">Source</h2>
+<p><a href="https://www.einfachbacken.de/rezepte/bananen-brownies-so-saftig-schokoladig" class="uri">https://www.einfachbacken.de/rezepte/bananen-brownies-so-saftig-schokoladig</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>sweet</category>
+  <category>dessert</category>
+  <category>vegetarian</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/banana_brownies.html</guid>
+  <pubDate>Thu, 13 Jun 2024 08:57:28 GMT</pubDate>
+  <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/1500_1130/public/2024-01/bananen_brownies_1.jpg?h=6adb09fa&amp;itok=w3gYvR7B" medium="image"/>
+</item>
 <item>
   <title>Iranian Stew Fesenjan</title>
   <dc:creator>Reza Hakimazar</dc:creator>
@@ -52,7 +99,7 @@
  ]]></description>
   <category>international</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/fesenjan.html</guid>
-  <pubDate>Mon, 10 Jun 2024 13:24:33 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 08:57:28 GMT</pubDate>
   <media:content url="https://cdn.faradeed.ir/thumbnail/LeNflz9GOtZN/KoeEnxIUgNp8HPWtyR4f3njefZWpQsc5QSfH7y-wEmOGb45E_dImxEpQi9avqdGE/Khoresh-e-Fesenjan-Tilda-Pure-Basmati-2-scaled.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -99,7 +146,7 @@
   <category>noodles</category>
   <category>Asian cuisine</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiktok-ramen.html</guid>
-  <pubDate>Mon, 10 Jun 2024 13:24:33 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 08:57:28 GMT</pubDate>
   <media:content url="https://www.eatclub.tv/wp-content/uploads/2021/12/tiktok-ramen.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -145,7 +192,7 @@
   <category>vegetarian</category>
   <category>pasta</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</guid>
-  <pubDate>Mon, 10 Jun 2024 13:24:33 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 08:57:28 GMT</pubDate>
   <media:content url="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -187,7 +234,7 @@
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tomatosoup.html</guid>
-  <pubDate>Mon, 10 Jun 2024 13:24:33 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 08:57:28 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -280,7 +327,7 @@
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</guid>
-  <pubDate>Mon, 10 Jun 2024 13:24:33 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 08:57:28 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -328,7 +375,7 @@
   <category>sweet</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
-  <pubDate>Mon, 10 Jun 2024 13:24:33 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 08:57:28 GMT</pubDate>
   <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -386,7 +433,7 @@
   <category>cake</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
-  <pubDate>Mon, 10 Jun 2024 13:24:33 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 08:57:28 GMT</pubDate>
   <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -418,7 +465,7 @@
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/noodles.html</guid>
-  <pubDate>Mon, 10 Jun 2024 13:24:33 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 08:57:28 GMT</pubDate>
 </item>
 <item>
   <title>Tiramisù</title>
@@ -479,7 +526,7 @@ Contains raw eggs
   <category>dessert</category>
   <category>Italian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiramisu.html</guid>
-  <pubDate>Mon, 10 Jun 2024 13:24:33 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 08:57:28 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tiramisu_-_Raffaele_Diomede.jpg/2560px-Tiramisu_-_Raffaele_Diomede.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -529,7 +576,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Mon, 10 Jun 2024 13:24:33 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 08:57:28 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
