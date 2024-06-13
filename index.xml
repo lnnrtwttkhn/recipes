@@ -10,10 +10,11 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Thu, 13 Jun 2024 09:32:03 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Jun 2024 09:47:09 GMT</lastBuildDate>
 <item>
-  <title>Banana brownies</title>
-  <link>https://lennartwittkuhn.com/recipes/recipes/banana_brownies.html</link>
+  <title>Banana Brownies</title>
+  <dc:creator>Gloria Röhrig</dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/banana-brownies.html</link>
   <description><![CDATA[ 
 
 
@@ -54,14 +55,14 @@
   <category>sweet</category>
   <category>dessert</category>
   <category>vegetarian</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/banana_brownies.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/banana-brownies.html</guid>
+  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/1500_1130/public/2024-01/bananen_brownies_1.jpg?h=6adb09fa&amp;itok=w3gYvR7B" medium="image"/>
 </item>
 <item>
   <title>Cinnamon Rolls</title>
   <dc:creator>Carolyn Jakubeit</dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/CinnamonRolls.html</link>
+  <link>https://lennartwittkuhn.com/recipes/recipes/cinnamon-rolls.html</link>
   <description><![CDATA[ 
 
 
@@ -120,15 +121,15 @@
 <li>Starting from one long edge, tightly roll up the dough into a log.</li>
 <li>Use a sharp knife to cut the log into 12 equal-sized rolls.</li>
 </ol>
-<section id="bake-the-rolls" class="level4">
-<h4 class="anchored" data-anchor-id="bake-the-rolls">Bake the Rolls:</h4>
+</section>
+<section id="bake-the-rolls" class="level3">
+<h3 class="anchored" data-anchor-id="bake-the-rolls">Bake the Rolls:</h3>
 <ol type="1">
 <li>Place the rolls in a greased baking dish, leaving a little space between each roll.</li>
 <li>Cover the dish with a clean kitchen towel and let the rolls rise for another 30-45 minutes.</li>
 <li>Preheat the oven to 180°C (350°F).</li>
 <li>Once risen, bake the rolls in the preheated oven for 20-25 minutes, or until golden brown and cooked through.</li>
 </ol>
-</section>
 </section>
 <section id="make-the-glaze" class="level3">
 <h3 class="anchored" data-anchor-id="make-the-glaze">Make the Glaze:</h3>
@@ -146,56 +147,72 @@
   <category>sweet</category>
   <category>dessert</category>
   <category>vegetarian</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/CinnamonRolls.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
-  <media:content url="https://en.wikipedia.org/wiki/Cinnamon_roll#/media/File:Cinnamon_roll_in_Stockholm.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/cinnamon-rolls.html</guid>
+  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Cinnamon_roll_in_Stockholm.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Iranian Stew Fesenjan</title>
-  <dc:creator>Reza Hakimazar</dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/fesenjan.html</link>
+  <title>Bananabread</title>
+  <dc:creator>Lennart Wittkuhn</dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</link>
   <description><![CDATA[ 
 
 
 
 <section id="fa-basket-shopping-ingredients" class="level2">
 <h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<section id="for-the-cake" class="level3">
+<h3 class="anchored" data-anchor-id="for-the-cake">For the cake</h3>
 <ul class="task-list">
-<li><p><input type="checkbox">Walnuts: To create the luscious sauce, I finely grind the walnuts.</p></li>
-<li><p><input type="checkbox">Onion: Imbues the dish with a fresh aromatic flavor.</p></li>
-<li><p><input type="checkbox">Chicken Thighs: When it comes to slow-cooking thighs are a top choice. Alternatively, you can use chicken drumsticks or quarters. Remove the skin but leave the bone in for further flavor.</p></li>
-<li><p><input type="checkbox">Extra Virgin Olive Oil: The walnuts release a lot of oil so you only need a little extra virgin olive oil to fry the onions.</p></li>
-<li><p><input type="checkbox">Turmeric, Cinnamon and Saffron: These spices flavor the stew with subtle earthy (turmeric), woody (cinnamon) and floral (saffron) tones. The overall feeling from this stew is warm. If you’re curious about saffron, one of the world’s most interesting spices, learn all about it in our What Is Saffron? Essential Guide.</p></li>
-<li><p><input type="checkbox">Water: The cooking liquid and basis of the rich pomegranate molasses and walnut sauce.</p></li>
-<li><p><input type="checkbox">Pomegranate Molasses: This gives the stew the sour flavor and helps to balance the richness of the walnuts in the sauce. It also gives the fesenjan its beautiful dark brown color. You can purchase it or make it yourself by using this homemade pomegranate molasses recipe.</p></li>
-<li><p><input type="checkbox">Sugar balances and complements the tartness of the pomegranate molasses.</p></li>
-<li><p><input type="checkbox">Salt and freshly ground black pepper elevates the other flavors and adds a subtle heat.</p></li>
-<li><p><input type="checkbox">Pomegranate Seeds: Sprinkle these little jewel-toned bursts of flavor over the top of the stew as a garnish just before serving.</p></li>
+<li><input type="checkbox">125 grams all-purpose flour (unbleached)</li>
+<li><input type="checkbox">125 grams whole wheat or spelt flour</li>
+<li><input type="checkbox">125 grams brown sugar</li>
+<li><input type="checkbox">150 grams small seeds (whatever you like/have: sunflower seeds, pumpkin seeds, walnut kernels, pine nuts, chia seeds, etc.)</li>
+<li><input type="checkbox">1 good pinch of sea salt</li>
+<li><input type="checkbox">1 teaspoon baking powder</li>
+<li><input type="checkbox">3 medium-sized ripe bananas, peeled</li>
+<li><input type="checkbox">Zest and juice of 1 lemon</li>
+<li><input type="checkbox">2 tablespoons olive oil</li>
+<li><input type="checkbox">2 tablespoons natural or unsweetened soy yogurt or coconut yogurt</li>
+<li><input type="checkbox">2 eggs, preferably organic or free-range, beaten</li>
 </ul>
+</section>
+<section id="for-the-lemon-sesame-drizzle-optional" class="level3">
+<h3 class="anchored" data-anchor-id="for-the-lemon-sesame-drizzle-optional">For the Lemon-Sesame Drizzle (optional)</h3>
+<ul class="task-list">
+<li><input type="checkbox">1 tablespoon tahini</li>
+<li><input type="checkbox">3 tablespoons golden powdered sugar or liquid honey</li>
+<li><input type="checkbox">Juice of 1 lemon</li>
+</ul>
+</section>
 </section>
 <section id="fa-kitchen-set-procedure" class="level2">
 <h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
 <ol type="1">
-<li>Grind the Walnuts</li>
-<li>Toast the Walnuts</li>
-<li>Cook Onions</li>
-<li>Cook Chicken Thighs</li>
-<li>Add the Ground Walnuts</li>
-<li>Add Pomegranate Molasses, Sugar and Saffron</li>
-<li>Add the Chicken, Simmer and Season</li>
+<li>Preheat the oven to 200°C (400°F).</li>
+<li>Grease a non-stick loaf pan with butter and dust it with flour (if the loaf pan is not non-stick, you can also line it with parchment paper).</li>
+<li>Combine all the dry ingredients in a mixing bowl - flours, sugar, seeds, salt, and baking powder - and mix well.</li>
+<li>In another bowl, mash the bananas with a fork (leaving them slightly chunky if desired), then add lemon juice and zest, olive oil, yogurt, and beaten eggs, mixing well.</li>
+<li>Add the wet ingredients to the bowl of dry ingredients and gently mix - just enough to combine everything.</li>
+<li>Transfer the mixture into the loaf pan and bake for 40 to 45 minutes, or until a toothpick comes out clean.</li>
+<li>Optional: While the cake is baking, prepare the Lemon Drizzle. Stir tahini and powdered sugar in a bowl until smooth, add lemon juice, and mix well.</li>
+<li>Remove the cake from the oven and let it cool in the pan until it’s cool enough to transfer to a wire rack. While the cake is still warm, place a large plate under the rack, then poke the cake all over with a skewer, pour the drizzle over it, and let it soak in.</li>
 </ol>
 
 
 </section>
 
  ]]></description>
-  <category>international</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/fesenjan.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
-  <media:content url="https://cdn.faradeed.ir/thumbnail/LeNflz9GOtZN/KoeEnxIUgNp8HPWtyR4f3njefZWpQsc5QSfH7y-wEmOGb45E_dImxEpQi9avqdGE/Khoresh-e-Fesenjan-Tilda-Pure-Basmati-2-scaled.jpg" medium="image" type="image/jpeg"/>
+  <category>dessert</category>
+  <category>cake</category>
+  <category>baking</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
+  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
+  <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>TikTok Ramen</title>
+  <dc:creator>Konrad Pagenstedt</dc:creator>
   <link>https://lennartwittkuhn.com/recipes/recipes/tiktok-ramen.html</link>
   <description><![CDATA[ 
 
@@ -238,11 +255,12 @@
   <category>noodles</category>
   <category>Asian cuisine</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiktok-ramen.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
   <media:content url="https://www.eatclub.tv/wp-content/uploads/2021/12/tiktok-ramen.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Lentil Bolognese</title>
+  <dc:creator>Lennart Wittkuhn</dc:creator>
   <link>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</link>
   <description><![CDATA[ 
 
@@ -284,53 +302,12 @@
   <category>vegetarian</category>
   <category>pasta</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
   <media:content url="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Tomatosoup</title>
-  <dc:creator>Paul Schreiner</dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/tomatosoup.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<ul class="task-list">
-<li><input type="checkbox">Butter – use unsalted butter to saute onions</li>
-<li><input type="checkbox">Yellow onion – it seems like a ton of onion but it disappears into the soup adding a balanced sweetness</li>
-<li><input type="checkbox">Garlic – you’ll need 1 Tbsp minced from about 3 cloves</li>
-<li><input type="checkbox">Crushed tomatoes – with their juice, preferably</li>
-<li><input type="checkbox">San Marzano tomatoes Chicken stock – for the best flavor use homemade chicken broth</li>
-<li><input type="checkbox">1/4 cup fresh basil, plus more to serve. Basil leaves are easily bruised so chop by stacking a bunch of leaves then roll them into a log and cut into thin strips.</li>
-<li><input type="checkbox">Sugar – It’s just 1 Tbsp, but necessary to combat the tomato acidity.</li>
-<li><input type="checkbox">Black pepper – start with 1/2 tsp and add more to taste</li>
-<li><input type="checkbox">Whipping cream – adds a creaminess to the soup and offsets acidity.</li>
-<li><input type="checkbox">Parmesan cheese – adds saltiness to the soup and balances acidity. Adding parmesan adds enough salt and I usually don’t add more.</li>
-</ul>
-</section>
-<section id="fa-kitchen-set-preparation" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-preparation"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Preparation</h2>
-<ol type="1">
-<li><em>Saute Aromatics</em> – heat a non-reactive pot over medium heat. Melt in 4 Tbsp butter then sautee onions until softened and golden (10-12 min). Add minced garlic and saute another minute.</li>
-<li><em>Make the tomato soup base</em> – stir in two 28 oz cans of crushed tomatoes with their juice, your chicken stock, chopped basil, sugar and black pepper. Bring to a boil then reduce heat, partially cover and simmer 10 minutes.</li>
-<li><em>Blend if desired</em> – use an immersion blender in the pot or blend in batches using a blender (be careful not to overfill the blender with hot liquid) and return soup to the pot.</li>
-<li><em>Add cream and parmesan</em> – stir in the heavy cream and shredded parmesan. Return to a simmer and season to taste if needed.</li>
-<li>Serve – ladle into warm bowls and garnish with more parmesan and basil.</li>
-</ol>
-<p><img src="https://lennartwittkuhn.com/recipes/recipes/https:/upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" class="img-fluid"></p>
-
-
-</section>
-
- ]]></description>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/tomatosoup.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
-  <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
   <title>Black Forest Cherry Dessert</title>
+  <dc:creator>Lennart Wittkuhn</dc:creator>
   <link>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</link>
   <description><![CDATA[ 
 
@@ -419,11 +396,12 @@
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Chocolate Cake for Kids</title>
+  <dc:creator>Lennart Wittkuhn</dc:creator>
   <link>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</link>
   <description><![CDATA[ 
 
@@ -467,66 +445,94 @@
   <category>sweet</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
   <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Bananabread</title>
-  <link>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</link>
+  <title>Iranian Stew Fesenjan</title>
+  <dc:creator>Reza Hakimazar</dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/fesenjan.html</link>
   <description><![CDATA[ 
 
 
 
 <section id="fa-basket-shopping-ingredients" class="level2">
 <h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<section id="for-the-cake" class="level3">
-<h3 class="anchored" data-anchor-id="for-the-cake">For the cake</h3>
 <ul class="task-list">
-<li><input type="checkbox">125 grams all-purpose flour (unbleached)</li>
-<li><input type="checkbox">125 grams whole wheat or spelt flour</li>
-<li><input type="checkbox">125 grams brown sugar</li>
-<li><input type="checkbox">150 grams small seeds (whatever you like/have: sunflower seeds, pumpkin seeds, walnut kernels, pine nuts, chia seeds, etc.)</li>
-<li><input type="checkbox">1 good pinch of sea salt</li>
-<li><input type="checkbox">1 teaspoon baking powder</li>
-<li><input type="checkbox">3 medium-sized ripe bananas, peeled</li>
-<li><input type="checkbox">Zest and juice of 1 lemon</li>
-<li><input type="checkbox">2 tablespoons olive oil</li>
-<li><input type="checkbox">2 tablespoons natural or unsweetened soy yogurt or coconut yogurt</li>
-<li><input type="checkbox">2 eggs, preferably organic or free-range, beaten</li>
+<li><p><input type="checkbox">Walnuts: To create the luscious sauce, I finely grind the walnuts.</p></li>
+<li><p><input type="checkbox">Onion: Imbues the dish with a fresh aromatic flavor.</p></li>
+<li><p><input type="checkbox">Chicken Thighs: When it comes to slow-cooking thighs are a top choice. Alternatively, you can use chicken drumsticks or quarters. Remove the skin but leave the bone in for further flavor.</p></li>
+<li><p><input type="checkbox">Extra Virgin Olive Oil: The walnuts release a lot of oil so you only need a little extra virgin olive oil to fry the onions.</p></li>
+<li><p><input type="checkbox">Turmeric, Cinnamon and Saffron: These spices flavor the stew with subtle earthy (turmeric), woody (cinnamon) and floral (saffron) tones. The overall feeling from this stew is warm. If you’re curious about saffron, one of the world’s most interesting spices, learn all about it in our What Is Saffron? Essential Guide.</p></li>
+<li><p><input type="checkbox">Water: The cooking liquid and basis of the rich pomegranate molasses and walnut sauce.</p></li>
+<li><p><input type="checkbox">Pomegranate Molasses: This gives the stew the sour flavor and helps to balance the richness of the walnuts in the sauce. It also gives the fesenjan its beautiful dark brown color. You can purchase it or make it yourself by using this homemade pomegranate molasses recipe.</p></li>
+<li><p><input type="checkbox">Sugar balances and complements the tartness of the pomegranate molasses.</p></li>
+<li><p><input type="checkbox">Salt and freshly ground black pepper elevates the other flavors and adds a subtle heat.</p></li>
+<li><p><input type="checkbox">Pomegranate Seeds: Sprinkle these little jewel-toned bursts of flavor over the top of the stew as a garnish just before serving.</p></li>
 </ul>
-</section>
-<section id="for-the-lemon-sesame-drizzle-optional" class="level3">
-<h3 class="anchored" data-anchor-id="for-the-lemon-sesame-drizzle-optional">For the Lemon-Sesame Drizzle (optional)</h3>
-<ul class="task-list">
-<li><input type="checkbox">1 tablespoon tahini</li>
-<li><input type="checkbox">3 tablespoons golden powdered sugar or liquid honey</li>
-<li><input type="checkbox">Juice of 1 lemon</li>
-</ul>
-</section>
 </section>
 <section id="fa-kitchen-set-procedure" class="level2">
 <h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
 <ol type="1">
-<li>Preheat the oven to 200°C (400°F).</li>
-<li>Grease a non-stick loaf pan with butter and dust it with flour (if the loaf pan is not non-stick, you can also line it with parchment paper).</li>
-<li>Combine all the dry ingredients in a mixing bowl - flours, sugar, seeds, salt, and baking powder - and mix well.</li>
-<li>In another bowl, mash the bananas with a fork (leaving them slightly chunky if desired), then add lemon juice and zest, olive oil, yogurt, and beaten eggs, mixing well.</li>
-<li>Add the wet ingredients to the bowl of dry ingredients and gently mix - just enough to combine everything.</li>
-<li>Transfer the mixture into the loaf pan and bake for 40 to 45 minutes, or until a toothpick comes out clean.</li>
-<li>Optional: While the cake is baking, prepare the Lemon Drizzle. Stir tahini and powdered sugar in a bowl until smooth, add lemon juice, and mix well.</li>
-<li>Remove the cake from the oven and let it cool in the pan until it’s cool enough to transfer to a wire rack. While the cake is still warm, place a large plate under the rack, then poke the cake all over with a skewer, pour the drizzle over it, and let it soak in.</li>
+<li>Grind the Walnuts</li>
+<li>Toast the Walnuts</li>
+<li>Cook Onions</li>
+<li>Cook Chicken Thighs</li>
+<li>Add the Ground Walnuts</li>
+<li>Add Pomegranate Molasses, Sugar and Saffron</li>
+<li>Add the Chicken, Simmer and Season</li>
 </ol>
 
 
 </section>
 
  ]]></description>
-  <category>dessert</category>
-  <category>cake</category>
-  <category>baking</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
-  <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
+  <category>international</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/fesenjan.html</guid>
+  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
+  <media:content url="https://cdn.faradeed.ir/thumbnail/LeNflz9GOtZN/KoeEnxIUgNp8HPWtyR4f3njefZWpQsc5QSfH7y-wEmOGb45E_dImxEpQi9avqdGE/Khoresh-e-Fesenjan-Tilda-Pure-Basmati-2-scaled.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Tomatosoup</title>
+  <dc:creator>Paul Schreiner</dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/tomatosoup.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">Butter – use unsalted butter to saute onions</li>
+<li><input type="checkbox">Yellow onion – it seems like a ton of onion but it disappears into the soup adding a balanced sweetness</li>
+<li><input type="checkbox">Garlic – you’ll need 1 Tbsp minced from about 3 cloves</li>
+<li><input type="checkbox">Crushed tomatoes – with their juice, preferably</li>
+<li><input type="checkbox">San Marzano tomatoes Chicken stock – for the best flavor use homemade chicken broth</li>
+<li><input type="checkbox">1/4 cup fresh basil, plus more to serve. Basil leaves are easily bruised so chop by stacking a bunch of leaves then roll them into a log and cut into thin strips.</li>
+<li><input type="checkbox">Sugar – It’s just 1 Tbsp, but necessary to combat the tomato acidity.</li>
+<li><input type="checkbox">Black pepper – start with 1/2 tsp and add more to taste</li>
+<li><input type="checkbox">Whipping cream – adds a creaminess to the soup and offsets acidity.</li>
+<li><input type="checkbox">Parmesan cheese – adds saltiness to the soup and balances acidity. Adding parmesan adds enough salt and I usually don’t add more.</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-preparation" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-preparation"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Preparation</h2>
+<ol type="1">
+<li><em>Saute Aromatics</em> – heat a non-reactive pot over medium heat. Melt in 4 Tbsp butter then sautee onions until softened and golden (10-12 min). Add minced garlic and saute another minute.</li>
+<li><em>Make the tomato soup base</em> – stir in two 28 oz cans of crushed tomatoes with their juice, your chicken stock, chopped basil, sugar and black pepper. Bring to a boil then reduce heat, partially cover and simmer 10 minutes.</li>
+<li><em>Blend if desired</em> – use an immersion blender in the pot or blend in batches using a blender (be careful not to overfill the blender with hot liquid) and return soup to the pot.</li>
+<li><em>Add cream and parmesan</em> – stir in the heavy cream and shredded parmesan. Return to a simmer and season to taste if needed.</li>
+<li>Serve – ladle into warm bowls and garnish with more parmesan and basil.</li>
+</ol>
+<p><img src="https://lennartwittkuhn.com/recipes/recipes/https:/upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" class="img-fluid"></p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/tomatosoup.html</guid>
+  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Noodles</title>
@@ -557,7 +563,7 @@
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/noodles.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
 </item>
 <item>
   <title>Tiramisù</title>
@@ -618,7 +624,7 @@ Contains raw eggs
   <category>dessert</category>
   <category>Italian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiramisu.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tiramisu_-_Raffaele_Diomede.jpg/2560px-Tiramisu_-_Raffaele_Diomede.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -668,7 +674,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
