@@ -2,18 +2,19 @@
   {
     "listing": "/index.html",
     "items": [
-      "/recipes/banana-brownies.html",
-      "/recipes/cinnamon-rolls.html",
+      "/recipes/pancakes.html",
       "/recipes/bananabread.html",
-      "/recipes/tiktok-ramen.html",
       "/recipes/lentil-bolognese.html",
       "/recipes/black-forest-cherry-dessert.html",
       "/recipes/chocolate-cake-kids.html",
+      "/recipes/gyoza.html",
+      "/recipes/banana-brownies.html",
+      "/recipes/cinnamon-rolls.html",
+      "/recipes/tiktok-ramen.html",
       "/recipes/fesenjan.html",
       "/recipes/tomatosoup.html",
       "/recipes/noodles.html",
-      "/recipes/tiramisu.html",
-      "/recipes/pancakes.html"
+      "/recipes/tiramisu.html"
     ]
   }
 ]

@@ -66,7 +66,35 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-recipes .list');
+    const listingTargetEl = window.document.querySelector('#listing-recipes-lennart .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-categories','listing-file-modified',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-recipes-lennart'] = new List('listing-recipes-lennart', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-recipes-contributors .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -79,7 +107,7 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-recipes'] = new List('listing-recipes', options);
+    window['quarto-listings']['listing-recipes-contributors'] = new List('listing-recipes-contributors', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -139,22 +167,221 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(12)</span></div><div class="category" data-category="Asian cuisine">Asian cuisine <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Italian">Italian <span class="quarto-category-count">(1)</span></div><div class="category" data-category="baking">baking <span class="quarto-category-count">(2)</span></div><div class="category" data-category="cake">cake <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dessert">dessert <span class="quarto-category-count">(5)</span></div><div class="category" data-category="international">international <span class="quarto-category-count">(1)</span></div><div class="category" data-category="main course">main course <span class="quarto-category-count">(1)</span></div><div class="category" data-category="noodles">noodles <span class="quarto-category-count">(1)</span></div><div class="category" data-category="pasta">pasta <span class="quarto-category-count">(1)</span></div><div class="category" data-category="sweet">sweet <span class="quarto-category-count">(5)</span></div><div class="category" data-category="vegetarian">vegetarian <span class="quarto-category-count">(5)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#recipes-by-lennart" id="toc-recipes-by-lennart" class="nav-link active" data-scroll-target="#recipes-by-lennart">Recipes by Lennart</a></li>
+  <li><a href="#recipes-by-contributors" id="toc-recipes-by-contributors" class="nav-link" data-scroll-target="#recipes-by-contributors">Recipes by Contributors</a></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/lnnrtwttkhn/recipes/edit/main/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/lnnrtwttkhn/recipes/blob/main/index.qmd" class="toc-action">View source</a></p><p><a href="https://github.com/lnnrtwttkhn/recipes/issues" class="toc-action">Report an issue</a></p></div></div></nav>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(13)</span></div><div class="category" data-category="Asian">Asian <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Asian cuisine">Asian cuisine <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Date Night Food">Date Night Food <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Italian">Italian <span class="quarto-category-count">(1)</span></div><div class="category" data-category="baking">baking <span class="quarto-category-count">(2)</span></div><div class="category" data-category="cake">cake <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dessert">dessert <span class="quarto-category-count">(5)</span></div><div class="category" data-category="international">international <span class="quarto-category-count">(1)</span></div><div class="category" data-category="main course">main course <span class="quarto-category-count">(1)</span></div><div class="category" data-category="noodles">noodles <span class="quarto-category-count">(1)</span></div><div class="category" data-category="pasta">pasta <span class="quarto-category-count">(1)</span></div><div class="category" data-category="sweet">sweet <span class="quarto-category-count">(5)</span></div><div class="category" data-category="vegan">vegan <span class="quarto-category-count">(1)</span></div><div class="category" data-category="vegetarian">vegetarian <span class="quarto-category-count">(6)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-recipes">
+<section id="recipes-by-lennart" class="level2">
+<h2 class="anchored" data-anchor-id="recipes-by-lennart">Recipes by Lennart</h2>
+<div id="listing-recipes-lennart" class="quarto-listing quarto-listing-container-default">
 <div class="listing-actions-group">
    <div class="input-group input-group-sm quarto-listing-sort">
      <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-recipes-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-recipes'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+     <select id="listing-recipes-lennart-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-recipes-lennart'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-file-modified-sort" data-direction="asc">
+          Modified - Oldest
+        </option>
+         <option value="listing-file-modified-sort" data-direction="desc">
+          Modified - Newest
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="sweet,vegetarian" data-listing-file-modified-sort="1718272371000" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./recipes/pancakes.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" class="thumbnail-image" style="height: 80px;" alt="https://commons.wikimedia.org/wiki/File:Thin_pancakes.jpg"> </a></p>
+</div>
+<div class="body">
+<a href="./recipes/pancakes.html">
+<h3 class="no-anchor listing-title">
+Pancakes
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('sweet'); return false;">
+sweet
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('vegetarian'); return false;">
+vegetarian
+</div>
+</div>
+<a href="./recipes/pancakes.html"> </a>
+</div>
+<div class="metadata">
+<a href="./recipes/pancakes.html">
+<div class="metadata-value listing-file-modified">
+June 13, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="dessert,cake,baking" data-listing-file-modified-sort="1718271862000" data-listing-reading-time-sort="2">
+<div class="thumbnail">
+<p><a href="./recipes/bananabread.html"> <img src="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" class="thumbnail-image" style="height: 80px;" alt="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg"> </a></p>
+</div>
+<div class="body">
+<a href="./recipes/bananabread.html">
+<h3 class="no-anchor listing-title">
+Bananabread
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('dessert'); return false;">
+dessert
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('cake'); return false;">
+cake
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('baking'); return false;">
+baking
+</div>
+</div>
+<a href="./recipes/bananabread.html"> </a>
+</div>
+<div class="metadata">
+<a href="./recipes/bananabread.html">
+<div class="metadata-value listing-file-modified">
+June 13, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="vegetarian,pasta" data-listing-file-modified-sort="1718271862000" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./recipes/lentil-bolognese.html"> <img src="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" class="thumbnail-image" style="height: 80px;" alt="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg"> </a></p>
+</div>
+<div class="body">
+<a href="./recipes/lentil-bolognese.html">
+<h3 class="no-anchor listing-title">
+Lentil Bolognese
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('vegetarian'); return false;">
+vegetarian
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('pasta'); return false;">
+pasta
+</div>
+</div>
+<a href="./recipes/lentil-bolognese.html"> </a>
+</div>
+<div class="metadata">
+<a href="./recipes/lentil-bolognese.html">
+<div class="metadata-value listing-file-modified">
+June 13, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="sweet,dessert,vegetarian" data-listing-file-modified-sort="1718271862000" data-listing-reading-time-sort="3">
+<div class="thumbnail">
+<p><a href="./recipes/black-forest-cherry-dessert.html"> <img src="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" class="thumbnail-image" style="height: 80px;"> </a></p>
+</div>
+<div class="body">
+<a href="./recipes/black-forest-cherry-dessert.html">
+<h3 class="no-anchor listing-title">
+Black Forest Cherry Dessert
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('sweet'); return false;">
+sweet
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('dessert'); return false;">
+dessert
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('vegetarian'); return false;">
+vegetarian
+</div>
+</div>
+<a href="./recipes/black-forest-cherry-dessert.html"> </a>
+</div>
+<div class="metadata">
+<a href="./recipes/black-forest-cherry-dessert.html">
+<div class="metadata-value listing-file-modified">
+June 13, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="sweet,baking" data-listing-file-modified-sort="1718271862000" data-listing-reading-time-sort="2">
+<div class="thumbnail">
+<p><a href="./recipes/chocolate-cake-kids.html"> <img src="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" class="thumbnail-image" style="height: 80px;"> </a></p>
+</div>
+<div class="body">
+<a href="./recipes/chocolate-cake-kids.html">
+<h3 class="no-anchor listing-title">
+Chocolate Cake for Kids
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('sweet'); return false;">
+sweet
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('baking'); return false;">
+baking
+</div>
+</div>
+<a href="./recipes/chocolate-cake-kids.html"> </a>
+</div>
+<div class="metadata">
+<a href="./recipes/chocolate-cake-kids.html">
+<div class="metadata-value listing-file-modified">
+June 13, 2024
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="recipes-by-contributors" class="level2">
+<h2 class="anchored" data-anchor-id="recipes-by-contributors">Recipes by Contributors</h2>
+<p>Thank you to all <a href="https://github.com/lnnrtwttkhn/recipes?tab=readme-ov-file#contributors">contributors</a>!</p>
+<div id="listing-recipes-contributors" class="quarto-listing quarto-listing-container-default">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-recipes-contributors-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-recipes-contributors'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
        <option value="" disabled="" selected="" hidden="">Order By</option>
        <option value="index" data-direction="asc">Default</option>
          <option value="listing-title" data-direction="asc">
@@ -177,7 +404,47 @@ ul.task-list li input[type="checkbox"] {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="sweet,dessert,vegetarian" data-listing-file-modified-sort="1718271910000" data-listing-reading-time-sort="2">
+<div class="quarto-post image-right" data-index="0" data-categories="vegetarian,vegan,Asian,Date Night Food" data-listing-file-modified-sort="1718272362000" data-listing-reading-time-sort="2">
+<div class="thumbnail">
+<p><a href="./recipes/gyoza.html"> <img src="https://assets.zuckerjagdwurst.com/pref3p553o311dnb3y67zffjmwte/1110/701/55/true/center/R883-Vegane-Teigtaschen-mit-Knusperboden-30.webp?animated=false" class="thumbnail-image" style="height: 80px;" alt="https://assets.zuckerjagdwurst.com/pref3p553o311dnb3y67zffjmwte/1110/701/55/true/center/R883-Vegane-Teigtaschen-mit-Knusperboden-30.webp?animated=false"> </a></p>
+</div>
+<div class="body">
+<a href="./recipes/gyoza.html">
+<h3 class="no-anchor listing-title">
+Gyoza
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('vegetarian'); return false;">
+vegetarian
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('vegan'); return false;">
+vegan
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Asian'); return false;">
+Asian
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Date Night Food'); return false;">
+Date Night Food
+</div>
+</div>
+<a href="./recipes/gyoza.html"> </a>
+</div>
+<div class="metadata">
+<a href="./recipes/gyoza.html">
+<div class="listing-author">
+Karo
+</div>
+<div class="metadata-value listing-file-modified">
+June 13, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="sweet,dessert,vegetarian" data-listing-file-modified-sort="1718271910000" data-listing-reading-time-sort="2">
 <div class="thumbnail">
 <p><a href="./recipes/banana-brownies.html"> <img src="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/1500_1130/public/2024-01/bananen_brownies_1.jpg?h=6adb09fa&amp;itok=w3gYvR7B" class="thumbnail-image" style="height: 80px;"> </a></p>
 </div>
@@ -214,7 +481,7 @@ June 13, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="sweet,dessert,vegetarian" data-listing-file-modified-sort="1718271910000" data-listing-reading-time-sort="3">
+<div class="quarto-post image-right" data-index="2" data-categories="sweet,dessert,vegetarian" data-listing-file-modified-sort="1718271910000" data-listing-reading-time-sort="3">
 <div class="thumbnail">
 <p><a href="./recipes/cinnamon-rolls.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Cinnamon_roll_in_Stockholm.jpg" class="thumbnail-image" style="height: 80px;"> </a></p>
 </div>
@@ -244,43 +511,6 @@ vegetarian
 <a href="./recipes/cinnamon-rolls.html">
 <div class="listing-author">
 Carolyn Jakubeit
-</div>
-<div class="metadata-value listing-file-modified">
-June 13, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="dessert,cake,baking" data-listing-file-modified-sort="1718271862000" data-listing-reading-time-sort="2">
-<div class="thumbnail">
-<p><a href="./recipes/bananabread.html"> <img src="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" class="thumbnail-image" style="height: 80px;" alt="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg"> </a></p>
-</div>
-<div class="body">
-<a href="./recipes/bananabread.html">
-<h3 class="no-anchor listing-title">
-Bananabread
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('dessert'); return false;">
-dessert
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('cake'); return false;">
-cake
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('baking'); return false;">
-baking
-</div>
-</div>
-<a href="./recipes/bananabread.html"> </a>
-</div>
-<div class="metadata">
-<a href="./recipes/bananabread.html">
-<div class="listing-author">
-Lennart Wittkuhn
 </div>
 <div class="metadata-value listing-file-modified">
 June 13, 2024
@@ -325,112 +555,7 @@ June 13, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="vegetarian,pasta" data-listing-file-modified-sort="1718271862000" data-listing-reading-time-sort="1">
-<div class="thumbnail">
-<p><a href="./recipes/lentil-bolognese.html"> <img src="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" class="thumbnail-image" style="height: 80px;" alt="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg"> </a></p>
-</div>
-<div class="body">
-<a href="./recipes/lentil-bolognese.html">
-<h3 class="no-anchor listing-title">
-Lentil Bolognese
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('vegetarian'); return false;">
-vegetarian
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('pasta'); return false;">
-pasta
-</div>
-</div>
-<a href="./recipes/lentil-bolognese.html"> </a>
-</div>
-<div class="metadata">
-<a href="./recipes/lentil-bolognese.html">
-<div class="listing-author">
-Lennart Wittkuhn
-</div>
-<div class="metadata-value listing-file-modified">
-June 13, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="sweet,dessert,vegetarian" data-listing-file-modified-sort="1718271862000" data-listing-reading-time-sort="3">
-<div class="thumbnail">
-<p><a href="./recipes/black-forest-cherry-dessert.html"> <img src="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" class="thumbnail-image" style="height: 80px;"> </a></p>
-</div>
-<div class="body">
-<a href="./recipes/black-forest-cherry-dessert.html">
-<h3 class="no-anchor listing-title">
-Black Forest Cherry Dessert
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('sweet'); return false;">
-sweet
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('dessert'); return false;">
-dessert
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('vegetarian'); return false;">
-vegetarian
-</div>
-</div>
-<a href="./recipes/black-forest-cherry-dessert.html"> </a>
-</div>
-<div class="metadata">
-<a href="./recipes/black-forest-cherry-dessert.html">
-<div class="listing-author">
-Lennart Wittkuhn
-</div>
-<div class="metadata-value listing-file-modified">
-June 13, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="sweet,baking" data-listing-file-modified-sort="1718271862000" data-listing-reading-time-sort="2">
-<div class="thumbnail">
-<p><a href="./recipes/chocolate-cake-kids.html"> <img src="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" class="thumbnail-image" style="height: 80px;"> </a></p>
-</div>
-<div class="body">
-<a href="./recipes/chocolate-cake-kids.html">
-<h3 class="no-anchor listing-title">
-Chocolate Cake for Kids
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('sweet'); return false;">
-sweet
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('baking'); return false;">
-baking
-</div>
-</div>
-<a href="./recipes/chocolate-cake-kids.html"> </a>
-</div>
-<div class="metadata">
-<a href="./recipes/chocolate-cake-kids.html">
-<div class="listing-author">
-Lennart Wittkuhn
-</div>
-<div class="metadata-value listing-file-modified">
-June 13, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="7" data-categories="international" data-listing-file-modified-sort="1718025729000" data-listing-reading-time-sort="2">
+<div class="quarto-post image-right" data-index="4" data-categories="international" data-listing-file-modified-sort="1718025729000" data-listing-reading-time-sort="2">
 <div class="thumbnail">
 <p><a href="./recipes/fesenjan.html"> <img src="https://cdn.faradeed.ir/thumbnail/LeNflz9GOtZN/KoeEnxIUgNp8HPWtyR4f3njefZWpQsc5QSfH7y-wEmOGb45E_dImxEpQi9avqdGE/Khoresh-e-Fesenjan-Tilda-Pure-Basmati-2-scaled.jpg" class="thumbnail-image" style="height: 80px;" alt="https://cdn.faradeed.ir/thumbnail/LeNflz9GOtZN/KoeEnxIUgNp8HPWtyR4f3njefZWpQsc5QSfH7y-wEmOGb45E_dImxEpQi9avqdGE/Khoresh-e-Fesenjan-Tilda-Pure-Basmati-2-scaled.jpg"> </a></p>
 </div>
@@ -461,7 +586,7 @@ June 10, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-listing-file-modified-sort="1718012316000" data-listing-reading-time-sort="2">
+<div class="quarto-post image-right" data-index="5" data-listing-file-modified-sort="1718012316000" data-listing-reading-time-sort="2">
 <div class="thumbnail">
 <p><a href="./recipes/tomatosoup.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" class="thumbnail-image" style="height: 80px;"> </a></p>
 </div>
@@ -486,7 +611,7 @@ June 10, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-listing-file-modified-sort="1705661028000" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="6" data-listing-file-modified-sort="1705661028000" data-listing-reading-time-sort="1">
 <div class="thumbnail">
 <p><a href="./recipes/noodles.html"> <div class="listing-item-img-placeholder card-img-top" style="height: 80px;">&nbsp;</div> </a></p>
 </div>
@@ -511,7 +636,7 @@ January 19, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="dessert,Italian" data-listing-file-modified-sort="1702989173000" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="7" data-categories="dessert,Italian" data-listing-file-modified-sort="1702989173000" data-listing-reading-time-sort="1">
 <div class="thumbnail">
 <p><a href="./recipes/tiramisu.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tiramisu_-_Raffaele_Diomede.jpg/2560px-Tiramisu_-_Raffaele_Diomede.jpg" class="thumbnail-image" style="height: 80px;" alt="https://preppykitchen.com/wp-content/uploads/2023/10/Tiramisu-Feature.jpg"> </a></p>
 </div>
@@ -545,42 +670,17 @@ December 19, 2023
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="sweet,vegetarian" data-listing-file-modified-sort="1702396092000" data-listing-reading-time-sort="1">
-<div class="thumbnail">
-<p><a href="./recipes/pancakes.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" class="thumbnail-image" style="height: 80px;" alt="https://commons.wikimedia.org/wiki/File:Thin_pancakes.jpg"> </a></p>
-</div>
-<div class="body">
-<a href="./recipes/pancakes.html">
-<h3 class="no-anchor listing-title">
-Pancakes
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('sweet'); return false;">
-sweet
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('vegetarian'); return false;">
-vegetarian
-</div>
-</div>
-<a href="./recipes/pancakes.html"> </a>
-</div>
-<div class="metadata">
-<a href="./recipes/pancakes.html">
-<div class="metadata-value listing-file-modified">
-December 12, 2023
-</div>
-</a>
-</div>
-</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div></main> <!-- /main -->
+</div>
+
+
+
+</section>
+
+</main> <!-- /main -->
 <script defer="" data-domain="lennartwittkuhn.com/recipes" src="https://plausible.io/js/script.js"></script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
@@ -833,4 +933,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/lnnrtwttkhn/recipes/edit/main/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/lnnrtwttkhn/recipes/blob/main/index.qmd" class="toc-action">View source</a></p><p><a href="https://github.com/lnnrtwttkhn/recipes/issues" class="toc-action">Report an issue</a></p></div></div></div></div></footer></body></html>
+</body></html>

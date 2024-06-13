@@ -10,146 +10,57 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Thu, 13 Jun 2024 09:47:09 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Jun 2024 09:55:43 GMT</lastBuildDate>
 <item>
-  <title>Banana Brownies</title>
-  <dc:creator>Gloria Röhrig</dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/banana-brownies.html</link>
+  <title>Pancakes</title>
+  <dc:creator>Lennart Wittkuhn</dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</link>
   <description><![CDATA[ 
 
 
 
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Not vegan, contains eggs and milk!
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
 <section id="fa-basket-shopping-ingredients" class="level2">
 <h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
 <ul class="task-list">
-<li><input type="checkbox">3 bananas</li>
-<li><input type="checkbox">300 g Dark chocolate coating</li>
-<li><input type="checkbox">250 g butter</li>
-<li><input type="checkbox">3 eggs (size M)</li>
-<li><input type="checkbox">250 g sugar</li>
-<li><input type="checkbox">50 ml of neutral oil (e.g.&nbsp;sunflower oil)</li>
-<li><input type="checkbox">2 TSP vanilla extract</li>
-<li><input type="checkbox">200 g wheat flour (type 405)</li>
-<li><input type="checkbox">30 g Baking cocoa</li>
-<li><input type="checkbox">1 TSP baking powder</li>
-<li><input type="checkbox">some butter and wheat flour for the cake pan</li>
+<li><input type="checkbox">250 g flour</li>
+<li><input type="checkbox">2 tablespoons baking powder</li>
+<li><input type="checkbox">500 g milk</li>
+<li><input type="checkbox">2 or 3 eggs</li>
+<li><input type="checkbox">A bit of butter</li>
 </ul>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<ol type="1">
-<li>Preheat the oven to 180 degrees top/bottom heat (fan oven: 160 degrees). Grease a baking tin (20 cm x 23 cm) with a little butter and dust with flour. For the batter, peel the bananas and mash with a fork to a fine paste.</li>
-<li>Finely chop the dark chocolate coating and melt it together with the butter in a metal bowl over a hot water bath. Beat the eggs and sugar until frothy, then mix in the melted chocolate mixture and the oil. Stir in the mashed bananas and vanilla extract.</li>
-<li>Mix the flour, cocoa powder and baking powder in a bowl and sieve into the batter. Mix in briefly, then pour into the prepared tin and smooth out.</li>
-<li>Bake the brownies in a preheated oven for approx. 30-35 minutes. Leave to cool for at least 2 hours after baking.</li>
-</ol>
-</section>
-<section id="source" class="level2">
-<h2 class="anchored" data-anchor-id="source">Source</h2>
-<p><a href="https://www.einfachbacken.de/rezepte/bananen-brownies-so-saftig-schokoladig" class="uri">https://www.einfachbacken.de/rezepte/bananen-brownies-so-saftig-schokoladig</a></p>
-
-
-</section>
-
- ]]></description>
-  <category>sweet</category>
-  <category>dessert</category>
-  <category>vegetarian</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/banana-brownies.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
-  <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/1500_1130/public/2024-01/bananen_brownies_1.jpg?h=6adb09fa&amp;itok=w3gYvR7B" medium="image"/>
-</item>
-<item>
-  <title>Cinnamon Rolls</title>
-  <dc:creator>Carolyn Jakubeit</dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/cinnamon-rolls.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<section id="for-the-dough" class="level3">
-<h3 class="anchored" data-anchor-id="for-the-dough">For the dough:</h3>
-<ul class="task-list">
-<li><input type="checkbox">500g all-purpose flour</li>
-<li><input type="checkbox">7g (1 packet) instant yeast</li>
-<li><input type="checkbox">250ml warm milk</li>
-<li><input type="checkbox">75g granulated sugar</li>
-<li><input type="checkbox">75g unsalted butter, melted</li>
-<li><input type="checkbox">1 teaspoon salt</li>
-<li><input type="checkbox">1 large egg</li>
-</ul>
-</section>
-<section id="for-the-filling" class="level3">
-<h3 class="anchored" data-anchor-id="for-the-filling">For the filling:</h3>
-<ul class="task-list">
-<li><input type="checkbox">75g unsalted butter, softened</li>
-<li><input type="checkbox">100g brown sugar</li>
-<li><input type="checkbox">2 tablespoons ground cinnamon</li>
-</ul>
-</section>
-<section id="for-the-glaze" class="level3">
-<h3 class="anchored" data-anchor-id="for-the-glaze">For the glaze:</h3>
-<ul class="task-list">
-<li><input type="checkbox">100g powdered sugar</li>
-<li><input type="checkbox">2-3 tablespoons milk</li>
-<li><input type="checkbox">1 teaspoon vanilla extract (optional)</li>
-</ul>
-</section>
 </section>
 <section id="fa-kitchen-set-preparation" class="level2">
 <h2 class="anchored" data-anchor-id="fa-kitchen-set-preparation"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Preparation</h2>
-<section id="prepare-the-dough" class="level3">
-<h3 class="anchored" data-anchor-id="prepare-the-dough">Prepare the Dough:</h3>
 <ol type="1">
-<li>In a large mixing bowl, combine the warm milk and instant yeast.</li>
-<li>Let it sit for 5-10 minutes until foamy.</li>
-<li>Add the melted butter, sugar, salt, and egg to the yeast mixture.</li>
-<li>Stir until well combined.</li>
-<li>Gradually add the flour to the mixture, stirring until a dough forms.</li>
-<li>Turn the dough out onto a floured surface and knead for about 5-7 minutes, until the dough is smooth and elastic.</li>
-<li>Place the dough in a greased bowl, cover with a clean kitchen towel, and let it rise in a warm place for about 1 hour, or until doubled in size.</li>
-<li>Prepare the Filling: In a small bowl, mix together the softened butter, brown sugar, and ground cinnamon until well combined.</li>
-</ol>
-</section>
-<section id="assemble-the-rolls" class="level3">
-<h3 class="anchored" data-anchor-id="assemble-the-rolls">Assemble the Rolls:</h3>
-<ol type="1">
-<li>Once the dough has risen, punch it down and roll it out on a floured surface into a large rectangle, about 1/4 inch thick.</li>
-<li>Spread the cinnamon-sugar filling evenly over the dough.</li>
-<li>Starting from one long edge, tightly roll up the dough into a log.</li>
-<li>Use a sharp knife to cut the log into 12 equal-sized rolls.</li>
-</ol>
-</section>
-<section id="bake-the-rolls" class="level3">
-<h3 class="anchored" data-anchor-id="bake-the-rolls">Bake the Rolls:</h3>
-<ol type="1">
-<li>Place the rolls in a greased baking dish, leaving a little space between each roll.</li>
-<li>Cover the dish with a clean kitchen towel and let the rolls rise for another 30-45 minutes.</li>
-<li>Preheat the oven to 180°C (350°F).</li>
-<li>Once risen, bake the rolls in the preheated oven for 20-25 minutes, or until golden brown and cooked through.</li>
-</ol>
-</section>
-<section id="make-the-glaze" class="level3">
-<h3 class="anchored" data-anchor-id="make-the-glaze">Make the Glaze:</h3>
-<ol type="1">
-<li>In a small bowl, whisk together the powdered sugar, milk, and vanilla extract until smooth.</li>
-<li>Adjust the consistency by adding more milk if needed.</li>
-<li>Serve: Once the rolls are baked, let them cool for a few minutes before drizzling the glaze over the top. Serve warm and enjoy your homemade Zimtschnecken!</li>
+<li>Mix the flour and the baking powder</li>
+<li>Slowly add the milk and mix</li>
+<li>Add the eggs and mix</li>
+<li>Add a bit of butter to a large pan and heat</li>
+<li>Make the pancakes</li>
 </ol>
 
 
-</section>
 </section>
 
  ]]></description>
   <category>sweet</category>
-  <category>dessert</category>
   <category>vegetarian</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/cinnamon-rolls.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
-  <media:content url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Cinnamon_roll_in_Stockholm.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
+  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Bananabread</title>
@@ -207,56 +118,8 @@
   <category>cake</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
   <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>TikTok Ramen</title>
-  <dc:creator>Konrad Pagenstedt</dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/tiktok-ramen.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<section id="for-the-ramen" class="level3">
-<h3 class="anchored" data-anchor-id="for-the-ramen">For the Ramen</h3>
-<ul class="task-list">
-<li><input type="checkbox">125 grams ramen noodles</li>
-<li><input type="checkbox">2 garlic cloves</li>
-<li><input type="checkbox">30 grams plant-based butter</li>
-<li><input type="checkbox">1 teaspoon chili flakes</li>
-<li><input type="checkbox">2 teaspoons brown sugar</li>
-<li><input type="checkbox">3 tablespoons soy sauce</li>
-<li><input type="checkbox">1 leek</li>
-<li><input type="checkbox">2 eggs (optional)</li>
-</ul>
-</section>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<ol type="1">
-<li>Cook the ramen in boiling salted water for about 4 minutes.</li>
-<li>Meanwhile, peel and finely chop the garlic cloves.</li>
-<li>Heat the plant-based butter in a pan and sauté the garlic. Stir in the chili flakes.</li>
-<li>Stir in the brown sugar and dissolve. Add soy sauce and mix in the ramen noodles.</li>
-<li>Remove the pan from heat and stir until the noodles are evenly coated.</li>
-<li>Slice the leek and set it aside for garnish.</li>
-<li>For the non-vegan version, beat two eggs and cook them in a pan until scrambled. Mix the scrambled eggs with the noodles and serve everything together.</li>
-</ol>
-<p>Enjoy your meal!</p>
-
-
-</section>
-
- ]]></description>
-  <category>main course</category>
-  <category>noodles</category>
-  <category>Asian cuisine</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/tiktok-ramen.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
-  <media:content url="https://www.eatclub.tv/wp-content/uploads/2021/12/tiktok-ramen.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Lentil Bolognese</title>
@@ -302,7 +165,7 @@
   <category>vegetarian</category>
   <category>pasta</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
   <media:content url="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -396,7 +259,7 @@
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -445,8 +308,246 @@
   <category>sweet</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
   <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Gyoza</title>
+  <dc:creator>Karo </dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/gyoza.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">100 g pointed cabbage</li>
+<li><input type="checkbox">100 g carrots</li>
+<li><input type="checkbox">100 g minced beef (or tofu)</li>
+<li><input type="checkbox">180 g flour</li>
+<li><input type="checkbox">108 ml boiling water</li>
+<li><input type="checkbox">1 tbsp soy sauce</li>
+<li><input type="checkbox">1 garlic clove</li>
+<li><input type="checkbox">1 tsp stock powder</li>
+<li><input type="checkbox">1 tsp white wine</li>
+<li><input type="checkbox">1 tsp sesame oil</li>
+<li><input type="checkbox">salt</li>
+<li><input type="checkbox">potato starch</li>
+<li><input type="checkbox">cooking oil</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Mix flour, 1 tsp of salt and boiling water. When cool enough, start kneading until a smooth dough forms. Leave the dough to rest in cling film for 15 minutes.</li>
+<li>Finely chop cabbage, garlic, carrots (and tofu) and mix with soy sauce, stock powder, sesame oil and white wine.</li>
+<li>Divide the dough into thirds, roll the thirds into rolls, and cut into 12 pieces. Shape the pieces into “flat cakes” and roll each one in potato starch. Roll out each piece into a thin circle using a rolling pin.</li>
+<li>Fill each dough piece with one tbsp of the cabbage mixture. Wet the edge of the circle with some water. Next, fold it into a half circle and pinch the edges together.</li>
+<li>Heat cooking oil in a pan. Add Gyoza for about 3 minutes until they brown on the bottom. Add about half a cup of water mixed with a tbsp of flour to the bottom of the pan. Cover the Gyoza for about 8 minutes and let it simmer. Then remove the top and keep the heat on until the water is gone and a crispy bottom has formed.</li>
+<li>Enjoy!</li>
+</ol>
+<p>Pro Tipp: The recipes works much faster and makes much more fun when you do it with another person, which is why it is the perfect food for a date or an evening with friends :)</p>
+
+
+</section>
+
+ ]]></description>
+  <category>vegetarian</category>
+  <category>vegan</category>
+  <category>Asian</category>
+  <category>Date Night Food</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/gyoza.html</guid>
+  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
+  <media:content url="https://assets.zuckerjagdwurst.com/pref3p553o311dnb3y67zffjmwte/1110/701/55/true/center/R883-Vegane-Teigtaschen-mit-Knusperboden-30.webp?animated=false" medium="image"/>
+</item>
+<item>
+  <title>Banana Brownies</title>
+  <dc:creator>Gloria Röhrig</dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/banana-brownies.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">3 bananas</li>
+<li><input type="checkbox">300 g Dark chocolate coating</li>
+<li><input type="checkbox">250 g butter</li>
+<li><input type="checkbox">3 eggs (size M)</li>
+<li><input type="checkbox">250 g sugar</li>
+<li><input type="checkbox">50 ml of neutral oil (e.g.&nbsp;sunflower oil)</li>
+<li><input type="checkbox">2 TSP vanilla extract</li>
+<li><input type="checkbox">200 g wheat flour (type 405)</li>
+<li><input type="checkbox">30 g Baking cocoa</li>
+<li><input type="checkbox">1 TSP baking powder</li>
+<li><input type="checkbox">some butter and wheat flour for the cake pan</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Preheat the oven to 180 degrees top/bottom heat (fan oven: 160 degrees). Grease a baking tin (20 cm x 23 cm) with a little butter and dust with flour. For the batter, peel the bananas and mash with a fork to a fine paste.</li>
+<li>Finely chop the dark chocolate coating and melt it together with the butter in a metal bowl over a hot water bath. Beat the eggs and sugar until frothy, then mix in the melted chocolate mixture and the oil. Stir in the mashed bananas and vanilla extract.</li>
+<li>Mix the flour, cocoa powder and baking powder in a bowl and sieve into the batter. Mix in briefly, then pour into the prepared tin and smooth out.</li>
+<li>Bake the brownies in a preheated oven for approx. 30-35 minutes. Leave to cool for at least 2 hours after baking.</li>
+</ol>
+</section>
+<section id="source" class="level2">
+<h2 class="anchored" data-anchor-id="source">Source</h2>
+<p><a href="https://www.einfachbacken.de/rezepte/bananen-brownies-so-saftig-schokoladig" class="uri">https://www.einfachbacken.de/rezepte/bananen-brownies-so-saftig-schokoladig</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>sweet</category>
+  <category>dessert</category>
+  <category>vegetarian</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/banana-brownies.html</guid>
+  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
+  <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/1500_1130/public/2024-01/bananen_brownies_1.jpg?h=6adb09fa&amp;itok=w3gYvR7B" medium="image"/>
+</item>
+<item>
+  <title>Cinnamon Rolls</title>
+  <dc:creator>Carolyn Jakubeit</dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/cinnamon-rolls.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<section id="for-the-dough" class="level3">
+<h3 class="anchored" data-anchor-id="for-the-dough">For the dough:</h3>
+<ul class="task-list">
+<li><input type="checkbox">500g all-purpose flour</li>
+<li><input type="checkbox">7g (1 packet) instant yeast</li>
+<li><input type="checkbox">250ml warm milk</li>
+<li><input type="checkbox">75g granulated sugar</li>
+<li><input type="checkbox">75g unsalted butter, melted</li>
+<li><input type="checkbox">1 teaspoon salt</li>
+<li><input type="checkbox">1 large egg</li>
+</ul>
+</section>
+<section id="for-the-filling" class="level3">
+<h3 class="anchored" data-anchor-id="for-the-filling">For the filling:</h3>
+<ul class="task-list">
+<li><input type="checkbox">75g unsalted butter, softened</li>
+<li><input type="checkbox">100g brown sugar</li>
+<li><input type="checkbox">2 tablespoons ground cinnamon</li>
+</ul>
+</section>
+<section id="for-the-glaze" class="level3">
+<h3 class="anchored" data-anchor-id="for-the-glaze">For the glaze:</h3>
+<ul class="task-list">
+<li><input type="checkbox">100g powdered sugar</li>
+<li><input type="checkbox">2-3 tablespoons milk</li>
+<li><input type="checkbox">1 teaspoon vanilla extract (optional)</li>
+</ul>
+</section>
+</section>
+<section id="fa-kitchen-set-preparation" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-preparation"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Preparation</h2>
+<section id="prepare-the-dough" class="level3">
+<h3 class="anchored" data-anchor-id="prepare-the-dough">Prepare the Dough:</h3>
+<ol type="1">
+<li>In a large mixing bowl, combine the warm milk and instant yeast.</li>
+<li>Let it sit for 5-10 minutes until foamy.</li>
+<li>Add the melted butter, sugar, salt, and egg to the yeast mixture.</li>
+<li>Stir until well combined.</li>
+<li>Gradually add the flour to the mixture, stirring until a dough forms.</li>
+<li>Turn the dough out onto a floured surface and knead for about 5-7 minutes, until the dough is smooth and elastic.</li>
+<li>Place the dough in a greased bowl, cover with a clean kitchen towel, and let it rise in a warm place for about 1 hour, or until doubled in size.</li>
+<li>Prepare the Filling: In a small bowl, mix together the softened butter, brown sugar, and ground cinnamon until well combined.</li>
+</ol>
+</section>
+<section id="assemble-the-rolls" class="level3">
+<h3 class="anchored" data-anchor-id="assemble-the-rolls">Assemble the Rolls:</h3>
+<ol type="1">
+<li>Once the dough has risen, punch it down and roll it out on a floured surface into a large rectangle, about 1/4 inch thick.</li>
+<li>Spread the cinnamon-sugar filling evenly over the dough.</li>
+<li>Starting from one long edge, tightly roll up the dough into a log.</li>
+<li>Use a sharp knife to cut the log into 12 equal-sized rolls.</li>
+</ol>
+</section>
+<section id="bake-the-rolls" class="level3">
+<h3 class="anchored" data-anchor-id="bake-the-rolls">Bake the Rolls:</h3>
+<ol type="1">
+<li>Place the rolls in a greased baking dish, leaving a little space between each roll.</li>
+<li>Cover the dish with a clean kitchen towel and let the rolls rise for another 30-45 minutes.</li>
+<li>Preheat the oven to 180°C (350°F).</li>
+<li>Once risen, bake the rolls in the preheated oven for 20-25 minutes, or until golden brown and cooked through.</li>
+</ol>
+</section>
+<section id="make-the-glaze" class="level3">
+<h3 class="anchored" data-anchor-id="make-the-glaze">Make the Glaze:</h3>
+<ol type="1">
+<li>In a small bowl, whisk together the powdered sugar, milk, and vanilla extract until smooth.</li>
+<li>Adjust the consistency by adding more milk if needed.</li>
+<li>Serve: Once the rolls are baked, let them cool for a few minutes before drizzling the glaze over the top. Serve warm and enjoy your homemade Zimtschnecken!</li>
+</ol>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>sweet</category>
+  <category>dessert</category>
+  <category>vegetarian</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/cinnamon-rolls.html</guid>
+  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Cinnamon_roll_in_Stockholm.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>TikTok Ramen</title>
+  <dc:creator>Konrad Pagenstedt</dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/tiktok-ramen.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<section id="for-the-ramen" class="level3">
+<h3 class="anchored" data-anchor-id="for-the-ramen">For the Ramen</h3>
+<ul class="task-list">
+<li><input type="checkbox">125 grams ramen noodles</li>
+<li><input type="checkbox">2 garlic cloves</li>
+<li><input type="checkbox">30 grams plant-based butter</li>
+<li><input type="checkbox">1 teaspoon chili flakes</li>
+<li><input type="checkbox">2 teaspoons brown sugar</li>
+<li><input type="checkbox">3 tablespoons soy sauce</li>
+<li><input type="checkbox">1 leek</li>
+<li><input type="checkbox">2 eggs (optional)</li>
+</ul>
+</section>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Cook the ramen in boiling salted water for about 4 minutes.</li>
+<li>Meanwhile, peel and finely chop the garlic cloves.</li>
+<li>Heat the plant-based butter in a pan and sauté the garlic. Stir in the chili flakes.</li>
+<li>Stir in the brown sugar and dissolve. Add soy sauce and mix in the ramen noodles.</li>
+<li>Remove the pan from heat and stir until the noodles are evenly coated.</li>
+<li>Slice the leek and set it aside for garnish.</li>
+<li>For the non-vegan version, beat two eggs and cook them in a pan until scrambled. Mix the scrambled eggs with the noodles and serve everything together.</li>
+</ol>
+<p>Enjoy your meal!</p>
+
+
+</section>
+
+ ]]></description>
+  <category>main course</category>
+  <category>noodles</category>
+  <category>Asian cuisine</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/tiktok-ramen.html</guid>
+  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
+  <media:content url="https://www.eatclub.tv/wp-content/uploads/2021/12/tiktok-ramen.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Iranian Stew Fesenjan</title>
@@ -489,7 +590,7 @@
  ]]></description>
   <category>international</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/fesenjan.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
   <media:content url="https://cdn.faradeed.ir/thumbnail/LeNflz9GOtZN/KoeEnxIUgNp8HPWtyR4f3njefZWpQsc5QSfH7y-wEmOGb45E_dImxEpQi9avqdGE/Khoresh-e-Fesenjan-Tilda-Pure-Basmati-2-scaled.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -531,7 +632,7 @@
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tomatosoup.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -563,7 +664,7 @@
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/noodles.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
 </item>
 <item>
   <title>Tiramisù</title>
@@ -624,58 +725,8 @@ Contains raw eggs
   <category>dessert</category>
   <category>Italian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiramisu.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tiramisu_-_Raffaele_Diomede.jpg/2560px-Tiramisu_-_Raffaele_Diomede.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Pancakes</title>
-  <link>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</link>
-  <description><![CDATA[ 
-
-
-
-<div class="callout callout-style-default callout-warning callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Not vegan, contains eggs and milk!
-</div>
-</div>
-<div class="callout-body-container callout-body">
-
-</div>
-</div>
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<ul class="task-list">
-<li><input type="checkbox">250 g flour</li>
-<li><input type="checkbox">2 tablespoons baking powder</li>
-<li><input type="checkbox">500 g milk</li>
-<li><input type="checkbox">2 or 3 eggs</li>
-<li><input type="checkbox">A bit of butter</li>
-</ul>
-</section>
-<section id="fa-kitchen-set-preparation" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-preparation"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Preparation</h2>
-<ol type="1">
-<li>Mix the flour and the baking powder</li>
-<li>Slowly add the milk and mix</li>
-<li>Add the eggs and mix</li>
-<li>Add a bit of butter to a large pan and heat</li>
-<li>Make the pancakes</li>
-</ol>
-
-
-</section>
-
- ]]></description>
-  <category>sweet</category>
-  <category>vegetarian</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:47:09 GMT</pubDate>
-  <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
