@@ -29,6 +29,9 @@ I welcome contributions to this project! Please see my [Contributing Guidelines]
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/rezahakimazar"><img src="https://avatars.githubusercontent.com/u/170933224?v=4?s=100" width="100px;" alt="rezahakimazar"/><br /><sub><b>rezahakimazar</b></sub></a><br /><a href="https://github.com/lnnrtwttkhn/recipes/issues?q=author%3Arezahakimazar" title="Bug reports">🐛</a> <a href="#content-rezahakimazar" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/recipes/commits?author=rezahakimazar" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/KaroBrix"><img src="https://avatars.githubusercontent.com/u/170931543?v=4?s=100" width="100px;" alt="KaroBrix"/><br /><sub><b>KaroBrix</b></sub></a><br /><a href="https://github.com/lnnrtwttkhn/recipes/issues?q=author%3AKaroBrix" title="Bug reports">🐛</a> <a href="#content-KaroBrix" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/recipes/commits?author=KaroBrix" title="Code">💻</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/gloriaroe"><img src="https://avatars.githubusercontent.com/u/170644255?v=4?s=100" width="100px;" alt="gloriaroe"/><br /><sub><b>gloriaroe</b></sub></a><br /><a href="https://github.com/lnnrtwttkhn/recipes/issues?q=author%3Agloriaroe" title="Bug reports">🐛</a> <a href="#content-gloriaroe" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/recipes/commits?author=gloriaroe" title="Code">💻</a></td>
+    </tr>
   </tbody>
 </table>
 
