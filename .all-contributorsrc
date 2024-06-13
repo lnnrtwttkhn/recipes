@@ -89,6 +89,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "KaroBrix",
+      "name": "KaroBrix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170931543?v=4",
+      "profile": "https://github.com/KaroBrix",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
