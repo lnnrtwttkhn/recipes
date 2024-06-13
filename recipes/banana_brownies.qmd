@@ -1,5 +1,5 @@
 ---
-title: "Banana brownies"
+title: "Banana Brownies"
 image: https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/1500_1130/public/2024-01/bananen_brownies_1.jpg?h=6adb09fa&itok=w3gYvR7B
 categories:
   - sweet
@@ -32,4 +32,3 @@ author: "Gloria Röhrig"
 ## Source
 
 <https://www.einfachbacken.de/rezepte/bananen-brownies-so-saftig-schokoladig>
-

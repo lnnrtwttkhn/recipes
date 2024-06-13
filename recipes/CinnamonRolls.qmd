@@ -1,7 +1,7 @@
 ---
 title: "Cinnamon Rolls"
 author: "Carolyn Jakubeit"
-image: https://en.wikipedia.org/wiki/Cinnamon_roll#/media/File:Cinnamon_roll_in_Stockholm.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/a/ad/Cinnamon_roll_in_Stockholm.jpg
 categories:
   - sweet
   - dessert
@@ -52,7 +52,7 @@ categories:
 3.  Starting from one long edge, tightly roll up the dough into a log.
 4.  Use a sharp knife to cut the log into 12 equal-sized rolls.
 
-#### Bake the Rolls:
+### Bake the Rolls:
 
 1.  Place the rolls in a greased baking dish, leaving a little space between each roll.
 2.  Cover the dish with a clean kitchen towel and let the rolls rise for another 30-45 minutes.
