@@ -4,6 +4,7 @@ image: https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-
 categories:
   - sweet
   - baking
+author: Lennart Wittkuhn
 ---
 
 ## {{< fa basket-shopping >}} Ingredients

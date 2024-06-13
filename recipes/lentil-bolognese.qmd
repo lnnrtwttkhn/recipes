@@ -5,6 +5,7 @@ image-alt: https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenb
 categories:
   - vegetarian
   - pasta
+author: Lennart Wittkuhn
 ---
 
 ## {{< fa basket-shopping >}} Ingredients
