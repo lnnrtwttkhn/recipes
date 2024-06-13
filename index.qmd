@@ -1,10 +1,26 @@
 ---
 listing:
-  - id: recipes
+  - id: recipes-lennart
     type: default
     contents: recipes
     exclude:
       title: "Template*"
+    include:
+      author: "Lennart Wittkuhn"
+    sort: "file-modified desc"
+    sort-ui: true
+    filter-ui: true
+    categories: numbered
+    feed: true
+    date-format: long
+    image-height: 80px
+    fields: [image, title, categories, file-modified]
+  - id: recipes-contributors
+    type: default
+    contents: recipes
+    exclude:
+      title: "Template*"
+      author: "Lennart Wittkuhn"
     sort: "file-modified desc"
     sort-ui: true
     filter-ui: true
@@ -14,3 +30,15 @@ listing:
     image-height: 80px
     fields: [image, author, title, categories, file-modified]
 ---
+
+## Recipes by Lennart
+
+:::{#recipes-lennart}
+:::
+
+## Recipes by Contributors
+
+Thank you to all [contributors](https://github.com/lnnrtwttkhn/recipes?tab=readme-ov-file#contributors)!
+
+:::{#recipes-contributors}
+:::
