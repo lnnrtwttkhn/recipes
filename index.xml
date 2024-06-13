@@ -10,7 +10,7 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Thu, 13 Jun 2024 09:00:25 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Jun 2024 09:32:03 GMT</lastBuildDate>
 <item>
   <title>Banana brownies</title>
   <link>https://lennartwittkuhn.com/recipes/recipes/banana_brownies.html</link>
@@ -55,8 +55,100 @@
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/banana_brownies.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:00:25 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/1500_1130/public/2024-01/bananen_brownies_1.jpg?h=6adb09fa&amp;itok=w3gYvR7B" medium="image"/>
+</item>
+<item>
+  <title>Cinnamon Rolls</title>
+  <dc:creator>Carolyn Jakubeit</dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/CinnamonRolls.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<section id="for-the-dough" class="level3">
+<h3 class="anchored" data-anchor-id="for-the-dough">For the dough:</h3>
+<ul class="task-list">
+<li><input type="checkbox">500g all-purpose flour</li>
+<li><input type="checkbox">7g (1 packet) instant yeast</li>
+<li><input type="checkbox">250ml warm milk</li>
+<li><input type="checkbox">75g granulated sugar</li>
+<li><input type="checkbox">75g unsalted butter, melted</li>
+<li><input type="checkbox">1 teaspoon salt</li>
+<li><input type="checkbox">1 large egg</li>
+</ul>
+</section>
+<section id="for-the-filling" class="level3">
+<h3 class="anchored" data-anchor-id="for-the-filling">For the filling:</h3>
+<ul class="task-list">
+<li><input type="checkbox">75g unsalted butter, softened</li>
+<li><input type="checkbox">100g brown sugar</li>
+<li><input type="checkbox">2 tablespoons ground cinnamon</li>
+</ul>
+</section>
+<section id="for-the-glaze" class="level3">
+<h3 class="anchored" data-anchor-id="for-the-glaze">For the glaze:</h3>
+<ul class="task-list">
+<li><input type="checkbox">100g powdered sugar</li>
+<li><input type="checkbox">2-3 tablespoons milk</li>
+<li><input type="checkbox">1 teaspoon vanilla extract (optional)</li>
+</ul>
+</section>
+</section>
+<section id="fa-kitchen-set-preparation" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-preparation"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Preparation</h2>
+<section id="prepare-the-dough" class="level3">
+<h3 class="anchored" data-anchor-id="prepare-the-dough">Prepare the Dough:</h3>
+<ol type="1">
+<li>In a large mixing bowl, combine the warm milk and instant yeast.</li>
+<li>Let it sit for 5-10 minutes until foamy.</li>
+<li>Add the melted butter, sugar, salt, and egg to the yeast mixture.</li>
+<li>Stir until well combined.</li>
+<li>Gradually add the flour to the mixture, stirring until a dough forms.</li>
+<li>Turn the dough out onto a floured surface and knead for about 5-7 minutes, until the dough is smooth and elastic.</li>
+<li>Place the dough in a greased bowl, cover with a clean kitchen towel, and let it rise in a warm place for about 1 hour, or until doubled in size.</li>
+<li>Prepare the Filling: In a small bowl, mix together the softened butter, brown sugar, and ground cinnamon until well combined.</li>
+</ol>
+</section>
+<section id="assemble-the-rolls" class="level3">
+<h3 class="anchored" data-anchor-id="assemble-the-rolls">Assemble the Rolls:</h3>
+<ol type="1">
+<li>Once the dough has risen, punch it down and roll it out on a floured surface into a large rectangle, about 1/4 inch thick.</li>
+<li>Spread the cinnamon-sugar filling evenly over the dough.</li>
+<li>Starting from one long edge, tightly roll up the dough into a log.</li>
+<li>Use a sharp knife to cut the log into 12 equal-sized rolls.</li>
+</ol>
+<section id="bake-the-rolls" class="level4">
+<h4 class="anchored" data-anchor-id="bake-the-rolls">Bake the Rolls:</h4>
+<ol type="1">
+<li>Place the rolls in a greased baking dish, leaving a little space between each roll.</li>
+<li>Cover the dish with a clean kitchen towel and let the rolls rise for another 30-45 minutes.</li>
+<li>Preheat the oven to 180°C (350°F).</li>
+<li>Once risen, bake the rolls in the preheated oven for 20-25 minutes, or until golden brown and cooked through.</li>
+</ol>
+</section>
+</section>
+<section id="make-the-glaze" class="level3">
+<h3 class="anchored" data-anchor-id="make-the-glaze">Make the Glaze:</h3>
+<ol type="1">
+<li>In a small bowl, whisk together the powdered sugar, milk, and vanilla extract until smooth.</li>
+<li>Adjust the consistency by adding more milk if needed.</li>
+<li>Serve: Once the rolls are baked, let them cool for a few minutes before drizzling the glaze over the top. Serve warm and enjoy your homemade Zimtschnecken!</li>
+</ol>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>sweet</category>
+  <category>dessert</category>
+  <category>vegetarian</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/CinnamonRolls.html</guid>
+  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
+  <media:content url="https://en.wikipedia.org/wiki/Cinnamon_roll#/media/File:Cinnamon_roll_in_Stockholm.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Iranian Stew Fesenjan</title>
@@ -99,7 +191,7 @@
  ]]></description>
   <category>international</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/fesenjan.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:00:25 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
   <media:content url="https://cdn.faradeed.ir/thumbnail/LeNflz9GOtZN/KoeEnxIUgNp8HPWtyR4f3njefZWpQsc5QSfH7y-wEmOGb45E_dImxEpQi9avqdGE/Khoresh-e-Fesenjan-Tilda-Pure-Basmati-2-scaled.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -146,7 +238,7 @@
   <category>noodles</category>
   <category>Asian cuisine</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiktok-ramen.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:00:25 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
   <media:content url="https://www.eatclub.tv/wp-content/uploads/2021/12/tiktok-ramen.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -192,7 +284,7 @@
   <category>vegetarian</category>
   <category>pasta</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:00:25 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
   <media:content url="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -234,7 +326,7 @@
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tomatosoup.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:00:25 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -327,7 +419,7 @@
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:00:25 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -375,7 +467,7 @@
   <category>sweet</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:00:25 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
   <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -433,7 +525,7 @@
   <category>cake</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:00:25 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
   <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -465,7 +557,7 @@
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/noodles.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:00:25 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
 </item>
 <item>
   <title>Tiramisù</title>
@@ -526,7 +618,7 @@ Contains raw eggs
   <category>dessert</category>
   <category>Italian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiramisu.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:00:25 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tiramisu_-_Raffaele_Diomede.jpg/2560px-Tiramisu_-_Raffaele_Diomede.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -576,7 +668,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:00:25 GMT</pubDate>
+  <pubDate>Thu, 13 Jun 2024 09:32:03 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
