@@ -1,8 +1,8 @@
 ---
 title: "Gyoza"
 author: Karo
-image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcrispy-pork-gyoza--395542779777568469%2F&psig=AOvVaw2ipnJCY1OVUTrS-coBjojI&ust=1718103802111000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCWhM_x0IYDFQAAAAAdAAAAABAJ"
-image-alt: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcrispy-pork-gyoza--395542779777568469%2F&psig=AOvVaw2ipnJCY1OVUTrS-coBjojI&ust=1718103802111000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCWhM_x0IYDFQAAAAAdAAAAABAJ"
+image: "https://assets.zuckerjagdwurst.com/pref3p553o311dnb3y67zffjmwte/1110/701/55/true/center/R883-Vegane-Teigtaschen-mit-Knusperboden-30.webp?animated=false"
+image-alt: "https://assets.zuckerjagdwurst.com/pref3p553o311dnb3y67zffjmwte/1110/701/55/true/center/R883-Vegane-Teigtaschen-mit-Knusperboden-30.webp?animated=false"
 categories:
   - vegetarian
   - vegan
