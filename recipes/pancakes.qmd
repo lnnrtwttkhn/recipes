@@ -5,6 +5,7 @@ image-alt: https://commons.wikimedia.org/wiki/File:Thin_pancakes.jpg
 categories:
   - sweet
   - vegetarian
+author: Lennart Wittkuhn
 ---
 
 ::: callout-warning
