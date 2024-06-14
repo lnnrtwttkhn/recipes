@@ -1,0 +1,34 @@
+---
+title: "Vegan Carrot Cake"
+image: "https://biancazapatka.com/wp-content/uploads/2018/03/IMG_2437-720x895.jpg"
+image-alt: "https://biancazapatka.com/wp-content/uploads/2018/03/IMG_2437-720x895.jpg"
+categories:
+  - cake, dessert, sweet, vegan
+author: "Sivanujah Kumarasamy"
+
+---
+
+# Vegan Carrot Cake
+
+## {{< fa basket-shopping >}} Ingredients
+
+- 250g Carrots
+- 125g Vegan Butter at room temperature
+- 100g sugar/maple syrup
+- 1 pinch salt
+- 1 pinch vanilla extract
+- 2 flax eggs
+- 125g all-purpose flour
+- 1/2 tsp cinnamon
+- 1 1/2 tsp baking powder
+- 100g almonds
+- 1 tsp apple cider vinegar
+- 1/2 tsp baking soda
+
+## {{< fa kitchen-set >}} Procedure
+
+1. Preheat oven to 180°C top and bottom heat. Grease a round baking pan.
+2. For the batter, peel the carrots and finely grate them.
+3. Beat the soft butter with sugar, salt, and vanilla until creamy in a mixing bowl. Then stir in the grated carrots and flax eggs.
+4. Now sift in the flour, cinnamon, and baking powder. Also add the almonds, vinegar, and baking soda, and stir everything briefly until just combined.
+5. Fill the batter into the prepared baking pan, smooth it out, and bake on medium rack for 30-40 minutes.
