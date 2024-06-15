@@ -2,8 +2,6 @@
 title: "Cup of Sugar"
 image: "https://www.happyballoon.de/thumbnail/4d/c1/d0/1701938245/63780351a985e5f5715ba9e630bf5d69ea268092_1920x1920.jpeg"
 image-alt: "https://www.happyballoon.de/thumbnail/4d/c1/d0/1701938245/63780351a985e5f5715ba9e630bf5d69ea268092_1920x1920.jpeg"
-categories:
-  - Add a list of catgeories here
 ---
 
 ## {{< fa basket-shopping >}} Ingredients
@@ -17,8 +15,8 @@ amount_of_sugar <- sample(dice, 1)
 
 ## {{< fa kitchen-set >}} Procedure
 
-You need to put {{amount_of_sugar}} grams in a cup.
+You need to put `r amount_of_sugar` grams in a cup.
 
 ## Photo of result
 
-![Zucker](https://www.happyballoon.de/thumbnail/4d/c1/d0/1701938245/63780351a985e5f5715ba9e630bf5d69ea268092_1920x1920.jpeg)\]
+![](https://www.happyballoon.de/thumbnail/4d/c1/d0/1701938245/63780351a985e5f5715ba9e630bf5d69ea268092_1920x1920.jpeg)
