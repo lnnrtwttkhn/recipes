@@ -1,9 +1,10 @@
 ---
-title: "Template for new recipe"
-image: "Add the URL to the image here"
-image-alt: "Add the URL to the image here"
+title: "Hähnchenbrustfilet"
+image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMP_IdWIaJbMyqcnhID8iR1AesJXaGt2sRTw&s"
+image-alt: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMP_IdWIaJbMyqcnhID8iR1AesJXaGt2sRTw&s"
 categories:
-  - Add a list of catgeories here
+  - Not vegetarian
+  - Easy to prepare
 ---
 
 ## {{< fa basket-shopping >}} Ingredients
