@@ -1,15 +1,17 @@
+---
 title: "Poke Bowl with Tofu and Peanut Sauce"
 image: https://www.okonomikitchen.com/wp-content/uploads/2019/09/easy-vegan-tofu-poke-bowl-with-ponzu-sauce-recipe-1-1-of-1-1-1024x683.jpg
 categories:
   - vegan
   - vietnamese
+---
 
-### Poke Bowl with Tofu and Peanut Sauce
-## two servings
+two servings
 
 ## {{< fa basket-shopping >}} Ingredients
 
 ### For the Poke Bowl:
+
 - [ ]   200 grams firm tofu
 - [ ]   150 grams sushi rice
 - [ ]   1 small cucumber
@@ -39,11 +41,13 @@ categories:
 ## {{< fa kitchen-set >}} Procedure
 
 ### Prepare the Rice:
+
 1.    Rinse the sushi rice under cold water until the water runs clear.
 2.    Cook the rice according to package instructions. Once cooked, let it cool slightly.
 3.    In a small bowl, mix 1 tablespoon soy sauce, 1 tablespoon rice vinegar, and 1 teaspoon sesame oil. Pour this mixture over the cooked rice and gently mix.
 
 ### Prepare the Tofu:
+
 1.   Drain and press the tofu to remove excess water. Cut it into bite-sized cubes.
 2.   Heat 1 tablespoon of vegetable oil in a pan over medium heat.
 3.   Fry the tofu cubes until they are golden brown on all sides. Remove from heat and set aside.
