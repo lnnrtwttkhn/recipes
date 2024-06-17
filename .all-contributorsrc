@@ -133,6 +133,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "MariaJakubowski",
+      "name": "MariaJakubowski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170933545?v=4",
+      "profile": "https://github.com/MariaJakubowski",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
