@@ -6,6 +6,7 @@ categories:
   - dessert
   - cake
   - baking
+author: Lennart Wittkuhn
 ---
 
 ## {{< fa basket-shopping >}} Ingredients

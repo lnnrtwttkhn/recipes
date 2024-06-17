@@ -78,6 +78,72 @@
         "code",
         "bug"
       ]
+    },
+    {
+      "login": "rezahakimazar",
+      "name": "rezahakimazar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170933224?v=4",
+      "profile": "https://github.com/rezahakimazar",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
+    },
+    {
+      "login": "KaroBrix",
+      "name": "KaroBrix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170931543?v=4",
+      "profile": "https://github.com/KaroBrix",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
+    },
+    {
+      "login": "gloriaroe",
+      "name": "gloriaroe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170644255?v=4",
+      "profile": "https://github.com/gloriaroe",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
+    },
+    {
+      "login": "CJarolyn",
+      "name": "CJarolyn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164935494?v=4",
+      "profile": "https://github.com/CJarolyn",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
+    },
+    {
+      "login": "paul-gallenkemper",
+      "name": "paul-gallenkemper",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163852105?v=4",
+      "profile": "https://github.com/paul-gallenkemper",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
+    },
+    {
+      "login": "MariaJakubowski",
+      "name": "MariaJakubowski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170933545?v=4",
+      "profile": "https://github.com/MariaJakubowski",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"

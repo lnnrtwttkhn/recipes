@@ -1,0 +1,34 @@
+---
+title: "Banana Brownies"
+image: https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/1500_1130/public/2024-01/bananen_brownies_1.jpg?h=6adb09fa&itok=w3gYvR7B
+categories:
+  - sweet
+  - dessert
+  - vegetarian
+author: "Gloria Röhrig"
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+-   [ ] 3 bananas
+-   [ ] 300 g Dark chocolate coating
+-   [ ] 250 g butter
+-   [ ] 3 eggs (size M)
+-   [ ] 250 g sugar
+-   [ ] 50 ml of neutral oil (e.g. sunflower oil)
+-   [ ] 2 TSP vanilla extract
+-   [ ] 200 g wheat flour (type 405)
+-   [ ] 30 g Baking cocoa
+-   [ ] 1 TSP baking powder
+-   [ ] some butter and wheat flour for the cake pan
+
+## {{< fa kitchen-set >}} Procedure
+
+1.  Preheat the oven to 180 degrees top/bottom heat (fan oven: 160 degrees). Grease a baking tin (20 cm x 23 cm) with a little butter and dust with flour. For the batter, peel the bananas and mash with a fork to a fine paste.
+2.  Finely chop the dark chocolate coating and melt it together with the butter in a metal bowl over a hot water bath. Beat the eggs and sugar until frothy, then mix in the melted chocolate mixture and the oil. Stir in the mashed bananas and vanilla extract.
+3.  Mix the flour, cocoa powder and baking powder in a bowl and sieve into the batter. Mix in briefly, then pour into the prepared tin and smooth out.
+4.  Bake the brownies in a preheated oven for approx. 30-35 minutes. Leave to cool for at least 2 hours after baking.
+
+## Source
+
+<https://www.einfachbacken.de/rezepte/bananen-brownies-so-saftig-schokoladig>

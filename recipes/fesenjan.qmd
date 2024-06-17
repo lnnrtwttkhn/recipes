@@ -1,0 +1,40 @@
+---
+title: "Iranian Stew Fesenjan"
+image: "https://cdn.faradeed.ir/thumbnail/LeNflz9GOtZN/KoeEnxIUgNp8HPWtyR4f3njefZWpQsc5QSfH7y-wEmOGb45E_dImxEpQi9avqdGE/Khoresh-e-Fesenjan-Tilda-Pure-Basmati-2-scaled.jpg"
+image-alt: "https://cdn.faradeed.ir/thumbnail/LeNflz9GOtZN/KoeEnxIUgNp8HPWtyR4f3njefZWpQsc5QSfH7y-wEmOGb45E_dImxEpQi9avqdGE/Khoresh-e-Fesenjan-Tilda-Pure-Basmati-2-scaled.jpg"
+categories:
+  - international
+author: Reza Hakimazar
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+-   [ ] Walnuts: To create the luscious sauce, I finely grind the walnuts.
+
+-   [ ] Onion: Imbues the dish with a fresh aromatic flavor.
+
+-   [ ] Chicken Thighs: When it comes to slow-cooking thighs are a top choice. Alternatively, you can use chicken drumsticks or quarters. Remove the skin but leave the bone in for further flavor.
+
+-   [ ] Extra Virgin Olive Oil: The walnuts release a lot of oil so you only need a little extra virgin olive oil to fry the onions.
+
+-   [ ] Turmeric, Cinnamon and Saffron: These spices flavor the stew with subtle earthy (turmeric), woody (cinnamon) and floral (saffron) tones. The overall feeling from this stew is warm. If you're curious about saffron, one of the world's most interesting spices, learn all about it in our What Is Saffron? Essential Guide.
+
+-   [ ] Water: The cooking liquid and basis of the rich pomegranate molasses and walnut sauce.
+
+-   [ ] Pomegranate Molasses: This gives the stew the sour flavor and helps to balance the richness of the walnuts in the sauce. It also gives the fesenjan its beautiful dark brown color. You can purchase it or make it yourself by using this homemade pomegranate molasses recipe.
+
+-   [ ] Sugar balances and complements the tartness of the pomegranate molasses.
+
+-   [ ] Salt and freshly ground black pepper elevates the other flavors and adds a subtle heat.
+
+-   [ ] Pomegranate Seeds: Sprinkle these little jewel-toned bursts of flavor over the top of the stew as a garnish just before serving.
+
+## {{< fa kitchen-set >}} Procedure
+
+1.  Grind the Walnuts
+2.  Toast the Walnuts
+3.  Cook Onions
+4.  Cook Chicken Thighs
+5.  Add the Ground Walnuts
+6.  Add Pomegranate Molasses, Sugar and Saffron
+7.  Add the Chicken, Simmer and Season
