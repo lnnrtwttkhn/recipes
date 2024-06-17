@@ -10,7 +10,7 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Mon, 17 Jun 2024 12:35:52 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Jun 2024 12:52:40 GMT</lastBuildDate>
 <item>
   <title>Pancakes</title>
   <dc:creator>Lennart Wittkuhn</dc:creator>
@@ -59,7 +59,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Mon, 17 Jun 2024 12:35:52 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 12:52:40 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -118,7 +118,7 @@ Not vegan, contains eggs and milk!
   <category>cake</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
-  <pubDate>Mon, 17 Jun 2024 12:35:52 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 12:52:40 GMT</pubDate>
   <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -165,7 +165,7 @@ Not vegan, contains eggs and milk!
   <category>vegetarian</category>
   <category>pasta</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</guid>
-  <pubDate>Mon, 17 Jun 2024 12:35:52 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 12:52:40 GMT</pubDate>
   <media:content url="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -259,7 +259,7 @@ Not vegan, contains eggs and milk!
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</guid>
-  <pubDate>Mon, 17 Jun 2024 12:35:52 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 12:52:40 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -308,8 +308,114 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
-  <pubDate>Mon, 17 Jun 2024 12:35:52 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 12:52:40 GMT</pubDate>
   <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Poke Bowl with Tofu and Peanut Sauce</title>
+  <dc:creator>Sanna Schrage</dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/poke_bowl.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>two servings</p>
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<section id="for-the-poke-bowl" class="level3">
+<h3 class="anchored" data-anchor-id="for-the-poke-bowl">For the Poke Bowl:</h3>
+<ul class="task-list">
+<li><input type="checkbox">200 grams firm tofu</li>
+<li><input type="checkbox">150 grams sushi rice</li>
+<li><input type="checkbox">1 small cucumber</li>
+<li><input type="checkbox">50 grams wakame (seaweed salad)</li>
+<li><input type="checkbox">100 grams shelled edamame</li>
+<li><input type="checkbox">1 small broccoli head</li>
+<li><input type="checkbox">1 medium carrot</li>
+<li><input type="checkbox">1 red bell pepper</li>
+<li><input type="checkbox">1 mango</li>
+<li><input type="checkbox">1 avocado</li>
+<li><input type="checkbox">1 tablespoon sesame seeds</li>
+<li><input type="checkbox">1 table spoon soy sauce</li>
+<li><input type="checkbox">1 tablespoon rice vinegar</li>
+<li><input type="checkbox">1 teaspoon sesame oil</li>
+<li><input type="checkbox">1 tablespoon vegetable oil (for frying tofu)</li>
+</ul>
+</section>
+<section id="for-the-peanut-sauce" class="level3">
+<h3 class="anchored" data-anchor-id="for-the-peanut-sauce">For the Peanut Sauce:</h3>
+<ul class="task-list">
+<li><input type="checkbox">3 tablespoons peanut butter</li>
+<li><input type="checkbox">2 tablespoons soy sauce</li>
+<li><input type="checkbox">1 tablespoon rice vinegar</li>
+<li><input type="checkbox">1 tablespoon maple syrup or honey</li>
+<li><input type="checkbox">1 teaspoon chili flakes</li>
+<li><input type="checkbox">1 garlic clove, finely chopped</li>
+<li><input type="checkbox">2-3 tablespoons water (to thin the sauce)</li>
+</ul>
+</section>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<section id="prepare-the-rice" class="level3">
+<h3 class="anchored" data-anchor-id="prepare-the-rice">Prepare the Rice:</h3>
+<ol type="1">
+<li>Rinse the sushi rice under cold water until the water runs clear.</li>
+<li>Cook the rice according to package instructions. Once cooked, let it cool slightly.</li>
+<li>In a small bowl, mix 1 tablespoon soy sauce, 1 tablespoon rice vinegar, and 1 teaspoon sesame oil. Pour this mixture over the cooked rice and gently mix.</li>
+</ol>
+</section>
+<section id="prepare-the-tofu" class="level3">
+<h3 class="anchored" data-anchor-id="prepare-the-tofu">Prepare the Tofu:</h3>
+<ol type="1">
+<li>Drain and press the tofu to remove excess water. Cut it into bite-sized cubes.</li>
+<li>Heat 1 tablespoon of vegetable oil in a pan over medium heat.</li>
+<li>Fry the tofu cubes until they are golden brown on all sides. Remove from heat and set aside.</li>
+</ol>
+</section>
+<section id="prepare-the-vegetables-and-fruits" class="level3">
+<h3 class="anchored" data-anchor-id="prepare-the-vegetables-and-fruits">Prepare the Vegetables and Fruits:</h3>
+<ol type="1">
+<li>Slice the cucumber into thin rounds.</li>
+<li>Steam the broccoli until tender-crisp.</li>
+<li>Julienne the carrot and red bell pepper.</li>
+<li>Peel and cube the mango.</li>
+<li>Cut the avocado into slices.</li>
+</ol>
+</section>
+<section id="prepare-the-peanut-sauce" class="level3">
+<h3 class="anchored" data-anchor-id="prepare-the-peanut-sauce">Prepare the Peanut Sauce:</h3>
+<ol type="1">
+<li>In a bowl, mix the peanut butter, 2 tablespoons soy sauce, 1 tablespoon rice vinegar, 1 tablespoon maple syrup (or honey), 1 teaspoon chili flakes, and finely chopped garlic.</li>
+<li>Gradually add water until the sauce reaches your desired consistency.</li>
+</ol>
+</section>
+<section id="assemble-the-poke-bowl" class="level3">
+<h3 class="anchored" data-anchor-id="assemble-the-poke-bowl">Assemble the Poke Bowl:</h3>
+<ol type="1">
+<li>Divide the sushi rice between bowls.</li>
+<li>Arrange the tofu, cucumber, wakame, edamame, broccoli, carrot, bell pepper, mango, and avocado on top of the rice.</li>
+<li>Drizzle the peanut sauce over the ingredients.</li>
+<li>Sprinkle with sesame seeds.</li>
+</ol>
+</section>
+<section id="serve" class="level3">
+<h3 class="anchored" data-anchor-id="serve">Serve:</h3>
+<ol type="1">
+<li>Serve the poke bowl immediately. Mix everything together before eating to ensure each bite is coated with the delicious peanut sauce.</li>
+<li>Enjoy your nutritious and flavorful poke bowl!</li>
+</ol>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>vegan</category>
+  <category>vietnamese</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/poke_bowl.html</guid>
+  <pubDate>Mon, 17 Jun 2024 12:52:40 GMT</pubDate>
+  <media:content url="https://www.okonomikitchen.com/wp-content/uploads/2019/09/easy-vegan-tofu-poke-bowl-with-ponzu-sauce-recipe-1-1-of-1-1-1024x683.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Vegan Pizza</title>
@@ -367,7 +473,7 @@ Not vegan, contains eggs and milk!
   <category>vegan</category>
   <category>pizza</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/veganpizza.html</guid>
-  <pubDate>Mon, 17 Jun 2024 12:35:52 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 12:52:40 GMT</pubDate>
   <media:content url="https://s.zentrum-der-gesundheit.de/img/vegane-pizza" medium="image"/>
 </item>
 <item>
@@ -429,7 +535,7 @@ Not vegan, contains eggs and milk!
   <category>pasta</category>
   <category>Italian cuisine</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pasta-alla-norma.html</guid>
-  <pubDate>Mon, 17 Jun 2024 12:35:52 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 12:52:40 GMT</pubDate>
   <media:content url="https://images.getrecipekit.com/20220310125111-dscf1118.jpg?width=650&amp;quality=90&amp;" medium="image"/>
 </item>
 <item>
@@ -475,7 +581,7 @@ Not vegan, contains eggs and milk!
   <category>meringue</category>
   <category>sponge cake</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/fancy-cake.html</guid>
-  <pubDate>Mon, 17 Jun 2024 12:35:52 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 12:52:40 GMT</pubDate>
   <media:content url="https://www.muddiskochen.de/app/uploads/2014/07/biskuit-himbeertorte-mit-baiser.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -522,7 +628,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegan</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/vegan-carrot-cake.html</guid>
-  <pubDate>Mon, 17 Jun 2024 12:35:52 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 12:52:40 GMT</pubDate>
   <media:content url="https://biancazapatka.com/wp-content/uploads/2018/03/IMG_2437-720x895.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -563,7 +669,7 @@ Not vegan, contains eggs and milk!
   <category>Breakfast</category>
   <category>Snack</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/Avocado-Toast.html</guid>
-  <pubDate>Mon, 17 Jun 2024 12:35:52 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 12:52:40 GMT</pubDate>
   <media:content url="https://i2.wp.com/earthblokes.com/wp-content/uploads/2021/02/vegan-avocado-toast-4.jpg?resize=800%2C1200&amp;ssl=1" medium="image"/>
 </item>
 <item>
@@ -613,7 +719,7 @@ Not vegan, contains eggs and milk!
   <category>cake</category>
   <category>sweet</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/vegan_brownies.html</guid>
-  <pubDate>Mon, 17 Jun 2024 12:35:52 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 12:52:40 GMT</pubDate>
   <media:content url="https://img.taste.com.au/5hsR3Ore/w720-h480-cfill-q80/taste/2016/11/classic-chewy-brownie-102727-1.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -667,7 +773,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/cup_of_sugar.html</guid>
-  <pubDate>Mon, 17 Jun 2024 12:35:52 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 12:52:40 GMT</pubDate>
   <media:content url="https://www.happyballoon.de/thumbnail/4d/c1/d0/1701938245/63780351a985e5f5715ba9e630bf5d69ea268092_1920x1920.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -717,7 +823,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
   <category>Asian</category>
   <category>Date Night Food</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/gyoza.html</guid>
-  <pubDate>Mon, 17 Jun 2024 12:35:52 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 12:52:40 GMT</pubDate>
   <media:content url="https://assets.zuckerjagdwurst.com/pref3p553o311dnb3y67zffjmwte/1110/701/55/true/center/R883-Vegane-Teigtaschen-mit-Knusperboden-30.webp?animated=false" medium="image"/>
 </item>
 <item>
@@ -765,7 +871,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/banana-brownies.html</guid>
-  <pubDate>Mon, 17 Jun 2024 12:35:52 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 12:52:40 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/1500_1130/public/2024-01/bananen_brownies_1.jpg?h=6adb09fa&amp;itok=w3gYvR7B" medium="image"/>
 </item>
 <item>
@@ -857,7 +963,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/cinnamon-rolls.html</guid>
-  <pubDate>Mon, 17 Jun 2024 12:35:52 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 12:52:40 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Cinnamon_roll_in_Stockholm.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -905,7 +1011,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
   <category>noodles</category>
   <category>Asian cuisine</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiktok-ramen.html</guid>
-  <pubDate>Mon, 17 Jun 2024 12:35:52 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 12:52:40 GMT</pubDate>
   <media:content url="https://www.eatclub.tv/wp-content/uploads/2021/12/tiktok-ramen.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -949,7 +1055,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
  ]]></description>
   <category>international</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/fesenjan.html</guid>
-  <pubDate>Mon, 17 Jun 2024 12:35:52 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 12:52:40 GMT</pubDate>
   <media:content url="https://cdn.faradeed.ir/thumbnail/LeNflz9GOtZN/KoeEnxIUgNp8HPWtyR4f3njefZWpQsc5QSfH7y-wEmOGb45E_dImxEpQi9avqdGE/Khoresh-e-Fesenjan-Tilda-Pure-Basmati-2-scaled.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -991,7 +1097,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tomatosoup.html</guid>
-  <pubDate>Mon, 17 Jun 2024 12:35:52 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 12:52:40 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -1023,69 +1129,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/noodles.html</guid>
-  <pubDate>Mon, 17 Jun 2024 12:35:52 GMT</pubDate>
-</item>
-<item>
-  <title>Tiramisù</title>
-  <dc:creator>Matteo Carpi</dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/tiramisu.html</link>
-  <description><![CDATA[ 
-
-
-
-<div class="callout callout-style-default callout-warning callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Contains raw eggs
-</div>
-</div>
-<div class="callout-body-container callout-body">
-
-</div>
-</div>
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<ul class="task-list">
-<li><input type="checkbox">4 fresh eggs</li>
-<li><input type="checkbox">100g sugar</li>
-<li><input type="checkbox">500g mascarpone</li>
-<li><input type="checkbox">Savoiardi (Ladyfingers)</li>
-<li><input type="checkbox">Espresso coffee</li>
-<li><input type="checkbox">Cocoa powder</li>
-</ul>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<ol type="1">
-<li>Put 4 egg yolks and 50g of sugar together, mix them well so they become a bit foamy.</li>
-<li>Add 500g mascarpone and mix to make it homogeneous.</li>
-<li>Mix 4 egg whites so they become like snow, towards the end add the other 50g of sugar.</li>
-<li>Mix the two mixtures together.</li>
-<li>Put a thin layer of the cream on the bottom of the tray.</li>
-<li>Dip the savoiardi in coffee (don’t make them too soaked as they will soften slowly and if you put too much coffee they become too liquid).</li>
-<li>As you dip the savoiardi, place them in the tray.</li>
-<li>Cover everything with the rest of the cream.</li>
-<li>Sprinkle cocoa powder on top before serving.</li>
-</ol>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://lennartwittkuhn.com/recipes/recipes/https:/imgix.bustle.com/uploads/image/2017/10/18/3dab9f48-53e3-49be-961d-3d8fe461ebdc-matilda_sony2.png?w=540&amp;fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=50&amp;dpr=2" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Yummy</figcaption>
-</figure>
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>dessert</category>
-  <category>Italian</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/tiramisu.html</guid>
-  <pubDate>Mon, 17 Jun 2024 12:35:52 GMT</pubDate>
-  <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tiramisu_-_Raffaele_Diomede.jpg/2560px-Tiramisu_-_Raffaele_Diomede.jpg" medium="image" type="image/jpeg"/>
+  <pubDate>Mon, 17 Jun 2024 12:52:40 GMT</pubDate>
 </item>
 </channel>
 </rss>
