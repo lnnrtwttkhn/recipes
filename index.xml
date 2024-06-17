@@ -10,7 +10,7 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Mon, 17 Jun 2024 08:51:21 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Jun 2024 11:17:57 GMT</lastBuildDate>
 <item>
   <title>Pancakes</title>
   <dc:creator>Lennart Wittkuhn</dc:creator>
@@ -59,7 +59,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Mon, 17 Jun 2024 08:51:21 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 11:17:57 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -118,7 +118,7 @@ Not vegan, contains eggs and milk!
   <category>cake</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
-  <pubDate>Mon, 17 Jun 2024 08:51:21 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 11:17:57 GMT</pubDate>
   <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -165,7 +165,7 @@ Not vegan, contains eggs and milk!
   <category>vegetarian</category>
   <category>pasta</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</guid>
-  <pubDate>Mon, 17 Jun 2024 08:51:21 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 11:17:57 GMT</pubDate>
   <media:content url="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -259,7 +259,7 @@ Not vegan, contains eggs and milk!
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</guid>
-  <pubDate>Mon, 17 Jun 2024 08:51:21 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 11:17:57 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -308,8 +308,53 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
-  <pubDate>Mon, 17 Jun 2024 08:51:21 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 11:17:57 GMT</pubDate>
   <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>raspberry sponge cake with meringue</title>
+  <link>https://lennartwittkuhn.com/recipes/recipes/fancy-cake.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">4 egg white</li>
+<li><input type="checkbox">4 egg yolk</li>
+<li><input type="checkbox">270g sugar</li>
+<li><input type="checkbox">1 vanilla sugar</li>
+<li><input type="checkbox">60 g flour</li>
+<li><input type="checkbox">50 g corn starch</li>
+<li><input type="checkbox">1/2 TL baking powder</li>
+<li><input type="checkbox">600 g frozen raspberries</li>
+<li><input type="checkbox">0,5l cream</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Whisk the egg whites and egg yolks and vanilla sugar stiff for a very long time until foamy (2 egg whites, 4 egg yolks, 1 vanilla sugar)</li>
+<li>Sift in the flour, cornstarch and baking powder and pour everything into a greased springform pan (60 g of flour, 50 g of cornstarch, 1 teaspoon of baking powder)</li>
+<li>Whisk the egg whites and sugar stiff until foamy and spoon onto the batter (2 egg whites, 230 g of sugar)</li>
+<li>Bake at 175 degrees for about half an hour on the middle to lower rack.</li>
+<li>Then let the cake cool and cut it in the middle.</li>
+<li>Place the frozen raspberries on the bottom half, sprinkle with sugar, and then spread the whipped cream (600 g of frozen raspberries, 40 g of sugar, 0.5 liters of whipped cream)</li>
+<li>Place the top half of the cake on the filling and let it stand for a few hours (not in the refrigerator). Alternatively, you can thaw the raspberries beforehand if there is not enough time.</li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>fancy cake</category>
+  <category>raspberry</category>
+  <category>meringue</category>
+  <category>sponge cake</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/fancy-cake.html</guid>
+  <pubDate>Mon, 17 Jun 2024 11:17:57 GMT</pubDate>
+  <media:content url="https://www.muddiskochen.de/app/uploads/2014/07/biskuit-himbeertorte-mit-baiser.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Vegan Brownies</title>
@@ -358,7 +403,7 @@ Not vegan, contains eggs and milk!
   <category>cake</category>
   <category>sweet</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/vegan_brownies.html</guid>
-  <pubDate>Mon, 17 Jun 2024 08:51:21 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 11:17:57 GMT</pubDate>
   <media:content url="https://img.taste.com.au/5hsR3Ore/w720-h480-cfill-q80/taste/2016/11/classic-chewy-brownie-102727-1.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -401,7 +446,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
 </section>
 <section id="fa-kitchen-set-procedure" class="level2">
 <h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<p>You need to put 2 grams in a cup.</p>
+<p>You need to put 5 grams in a cup.</p>
 </section>
 <section id="photo-of-result" class="level2">
 <h2 class="anchored" data-anchor-id="photo-of-result">Photo of result</h2>
@@ -412,7 +457,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/cup_of_sugar.html</guid>
-  <pubDate>Mon, 17 Jun 2024 08:51:21 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 11:17:57 GMT</pubDate>
   <media:content url="https://www.happyballoon.de/thumbnail/4d/c1/d0/1701938245/63780351a985e5f5715ba9e630bf5d69ea268092_1920x1920.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -462,7 +507,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
   <category>Asian</category>
   <category>Date Night Food</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/gyoza.html</guid>
-  <pubDate>Mon, 17 Jun 2024 08:51:21 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 11:17:57 GMT</pubDate>
   <media:content url="https://assets.zuckerjagdwurst.com/pref3p553o311dnb3y67zffjmwte/1110/701/55/true/center/R883-Vegane-Teigtaschen-mit-Knusperboden-30.webp?animated=false" medium="image"/>
 </item>
 <item>
@@ -510,7 +555,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/banana-brownies.html</guid>
-  <pubDate>Mon, 17 Jun 2024 08:51:21 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 11:17:57 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/1500_1130/public/2024-01/bananen_brownies_1.jpg?h=6adb09fa&amp;itok=w3gYvR7B" medium="image"/>
 </item>
 <item>
@@ -602,7 +647,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/cinnamon-rolls.html</guid>
-  <pubDate>Mon, 17 Jun 2024 08:51:21 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 11:17:57 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Cinnamon_roll_in_Stockholm.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -650,7 +695,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
   <category>noodles</category>
   <category>Asian cuisine</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiktok-ramen.html</guid>
-  <pubDate>Mon, 17 Jun 2024 08:51:21 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 11:17:57 GMT</pubDate>
   <media:content url="https://www.eatclub.tv/wp-content/uploads/2021/12/tiktok-ramen.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -694,7 +739,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
  ]]></description>
   <category>international</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/fesenjan.html</guid>
-  <pubDate>Mon, 17 Jun 2024 08:51:21 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 11:17:57 GMT</pubDate>
   <media:content url="https://cdn.faradeed.ir/thumbnail/LeNflz9GOtZN/KoeEnxIUgNp8HPWtyR4f3njefZWpQsc5QSfH7y-wEmOGb45E_dImxEpQi9avqdGE/Khoresh-e-Fesenjan-Tilda-Pure-Basmati-2-scaled.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -736,7 +781,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tomatosoup.html</guid>
-  <pubDate>Mon, 17 Jun 2024 08:51:21 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 11:17:57 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -768,7 +813,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/noodles.html</guid>
-  <pubDate>Mon, 17 Jun 2024 08:51:21 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 11:17:57 GMT</pubDate>
 </item>
 <item>
   <title>Tiramisù</title>
@@ -829,7 +874,7 @@ Contains raw eggs
   <category>dessert</category>
   <category>Italian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiramisu.html</guid>
-  <pubDate>Mon, 17 Jun 2024 08:51:21 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 11:17:57 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tiramisu_-_Raffaele_Diomede.jpg/2560px-Tiramisu_-_Raffaele_Diomede.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
