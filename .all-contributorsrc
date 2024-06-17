@@ -177,6 +177,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "Niiccoolle",
+      "name": "Niiccoolle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170935948?v=4",
+      "profile": "https://github.com/Niiccoolle",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
