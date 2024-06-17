@@ -1,44 +1,24 @@
 ---
-title: "recipes.qmd"
-author: "Miriam"
-format: html
-editor: visual
+title: "Muesli recipe"
+image: "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/0293599B-0ED4-468A-A838-50045B7A80EF/Derivates/E87D2389-BC34-44D7-9DBD-410A84A86C3F.jpg"
+image-alt: "https://www.gimmesomeoven.com/wp-content/uploads/2022/08/Muesli-Recipe-10.jpg"
+categories:
+  - vegan, yummy, crispy, breakfast
 ---
 
-# ![](images/bircher-muesli-e1631537510466.jpg)müsli
+## {{< fa basket-shopping >}} Ingredients
 
-Mix Lieblingsmüsli mit Milch.
+- [ ] *200 g" oats
+- [ ] *20 g* flour
+- [ ] *1 tbsp* honey
+- [ ] *2 tbsp* sunflower oil
+- [ ] *50 ml* water 
 
-**Now advanced...**
+## {{< fa kitchen-set >}} Procedure
 
-![Haferflocken: So gesund ist das Getreide wirklich - ÖKO-TEST](https://www.oekotest.de/static_files/images/article/Haferflocken-sind-sehr-gesund-und-damit-eine-ideale-Fruehstueckszutat-_Vladislav-Noseek-Shutterstock_12378_16x9.jpg)
+1. Place all the ingredients in a bowl and mix, preferably by hand, until the dough forms a large lump. The lump should not stick, but should also not fall apart easily. If, for example, the consistency is not right when adding up the ingredients, simply add water, flour or oat flakes carefully.
+2. Finally, crumble the mixture onto a baking tray lined with baking paper. The amount given is pretty much enough for a normal-sized tray. There's no need to worry about the lumps baking together and you can use up all the space.
+3. Preheat the oven to *160 °C* and bake the muesli for about *30 minutes*.
+4. The baking time can vary depending on how the oven behaves or how tightly you have covered the tray. Just make sure that you take the muesli out when it starts to get a little dark. Don't be disappointed if it isn't crispy when you take it out: it will only be really crispy once it has cooled.
+5. Finally, you can add chocolate, nuts, seeds or dried fruit such as raisins or cranberries to taste.
 
-## Zutaten
-
--   *200g* normale Haferflocken
-
--   *20g* Mehl
-
--   *1 EL* Honig
-
--   *2 EL* Zucker
-
--   *2 EL* Sonnenblumenöl
-
--   *1 Prise* Salz
-
--   *50ml* Wasser
-
-![](images/muesli-aus-dem-garten-02.jpg){width="676"}
-
-Alle Zutaten in eine Schüssel geben und vorzugsweise per Hand mischen, bis der Teig einen großen Klumpen bildet. Der Klumpen sollte nicht kleben, aber auch nicht leicht auseinanderfallen. Falls z. B. beim Hochrechnen der Zutaten die Konsistenz nicht passt, einfach vorsichtig mit Wasser bzw. Mehl oder Haferflocken nachbessern.\
-
-Schließlich die Masse auf ein mit Backpapier belegtes Backblech bröckeln. Die angegebene Menge reicht ziemlich genau für ein normal großes Blech. Man braucht hier keine Angst zu haben, dass die Klumpen zusammenbacken und kann ruhig den ganzen Platz ausnutzen.\
-
-Den Ofen auf *160 °C* vorheizen und das Müsli etwa *30 Minuten* backen.\
-
-Je nachdem wie sich der Ofen verhält oder wie dicht man das Blech belegt hat, kann die Backzeit variieren. Einfach drauf achten, dass man das Müsli herausnimmt, wenn es anfängt etwas dunkel zu werden. Nicht enttäuscht sein, wenn es beim Herausnehmen nicht so knusprig ist: das wird es erst richtig nach dem Abkühlen.\
-
-Zum Schluss kann man je nach Geschmack noch Schokolade, Nüsse, Samen oder getrocknete Früchte wie Rosinen oder Cranberries untermischen.
-
-![](images/crunchy-munchy-musli-aus-dem-ofen,id=2caab4b4,b=lecker,w=1200,rm=sk.jpeg){width="676"}
