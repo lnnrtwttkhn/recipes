@@ -166,6 +166,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "sivanujah",
+      "name": "sivanujah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/171514107?v=4",
+      "profile": "https://github.com/sivanujah",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
