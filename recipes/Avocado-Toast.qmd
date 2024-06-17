@@ -1,0 +1,24 @@
+---
+title: "Avocado Toast"
+image: "https://i2.wp.com/earthblokes.com/wp-content/uploads/2021/02/vegan-avocado-toast-4.jpg?resize=800%2C1200&ssl=1"
+image-alt: "A delicious avocado toast"
+categories:
+  - Breakfast
+  - Snack
+---
+
+![A delicious avocado toast](https://i2.wp.com/earthblokes.com/wp-content/uploads/2021/02/vegan-avocado-toast-4.jpg?resize=800%2C1200&ssl=1)
+
+## {{< fa basket-shopping >}} Ingredients
+
+-   [ ] 1 ripe avocado
+-   [ ] 2 slices of bread
+-   [ ] Salt to taste
+-   [ ] Pepper to taste
+-   [ ] Lemon juice
+
+## {{< fa kitchen-set >}} Procedure
+
+1.  Toast the slices of bread to your desired level of crispiness.
+2.  Cut the avocado in half, remove the pit, and scoop the flesh into a bowl. Mash the avocado with a fork until smooth.
+3.  Spread the mashed avocado evenly onto the toasted bread slices. Season with salt and pepper to taste. Add a squeeze of lemon juice if desired for extra flavor.
