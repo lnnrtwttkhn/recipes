@@ -1,0 +1,44 @@
+---
+title: "recipes.qmd"
+author: "Miriam"
+format: html
+editor: visual
+---
+
+# ![](images/bircher-muesli-e1631537510466.jpg)müsli
+
+Mix Lieblingsmüsli mit Milch.
+
+**Now advanced...**
+
+![Haferflocken: So gesund ist das Getreide wirklich - ÖKO-TEST](https://www.oekotest.de/static_files/images/article/Haferflocken-sind-sehr-gesund-und-damit-eine-ideale-Fruehstueckszutat-_Vladislav-Noseek-Shutterstock_12378_16x9.jpg)
+
+## Zutaten
+
+-   *200g* normale Haferflocken
+
+-   *20g* Mehl
+
+-   *1 EL* Honig
+
+-   *2 EL* Zucker
+
+-   *2 EL* Sonnenblumenöl
+
+-   *1 Prise* Salz
+
+-   *50ml* Wasser
+
+![](images/muesli-aus-dem-garten-02.jpg){width="676"}
+
+Alle Zutaten in eine Schüssel geben und vorzugsweise per Hand mischen, bis der Teig einen großen Klumpen bildet. Der Klumpen sollte nicht kleben, aber auch nicht leicht auseinanderfallen. Falls z. B. beim Hochrechnen der Zutaten die Konsistenz nicht passt, einfach vorsichtig mit Wasser bzw. Mehl oder Haferflocken nachbessern.\
+
+Schließlich die Masse auf ein mit Backpapier belegtes Backblech bröckeln. Die angegebene Menge reicht ziemlich genau für ein normal großes Blech. Man braucht hier keine Angst zu haben, dass die Klumpen zusammenbacken und kann ruhig den ganzen Platz ausnutzen.\
+
+Den Ofen auf *160 °C* vorheizen und das Müsli etwa *30 Minuten* backen.\
+
+Je nachdem wie sich der Ofen verhält oder wie dicht man das Blech belegt hat, kann die Backzeit variieren. Einfach drauf achten, dass man das Müsli herausnimmt, wenn es anfängt etwas dunkel zu werden. Nicht enttäuscht sein, wenn es beim Herausnehmen nicht so knusprig ist: das wird es erst richtig nach dem Abkühlen.\
+
+Zum Schluss kann man je nach Geschmack noch Schokolade, Nüsse, Samen oder getrocknete Früchte wie Rosinen oder Cranberries untermischen.
+
+![](images/crunchy-munchy-musli-aus-dem-ofen,id=2caab4b4,b=lecker,w=1200,rm=sk.jpeg){width="676"}
