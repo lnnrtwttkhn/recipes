@@ -24,7 +24,6 @@ author: Nicole Ratza
 -   [ ] Olive oil
 -   [ ] Sunflower oil for frying
 
-
 ## {{< fa kitchen-set >}} Procedure
 
 1.  Cook the ramen in boiling salted water for about 4 minutes.
@@ -53,8 +52,4 @@ author: Nicole Ratza
 12.  Cook the pasta in salted water until al dente, drain and mix with the sauce.
 13.  Arrange on plates, sprinkle with the ricotta and serve immediately.
 
-
-
 Et viola, enjoy your meal!
-
-
