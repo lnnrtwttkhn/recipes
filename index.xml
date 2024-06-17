@@ -10,7 +10,7 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Thu, 13 Jun 2024 09:55:43 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Jun 2024 08:37:28 GMT</lastBuildDate>
 <item>
   <title>Pancakes</title>
   <dc:creator>Lennart Wittkuhn</dc:creator>
@@ -59,7 +59,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 08:37:28 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -118,7 +118,7 @@ Not vegan, contains eggs and milk!
   <category>cake</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 08:37:28 GMT</pubDate>
   <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -165,7 +165,7 @@ Not vegan, contains eggs and milk!
   <category>vegetarian</category>
   <category>pasta</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 08:37:28 GMT</pubDate>
   <media:content url="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -259,7 +259,7 @@ Not vegan, contains eggs and milk!
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 08:37:28 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -308,8 +308,62 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 08:37:28 GMT</pubDate>
   <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Cup of Sugar</title>
+  <dc:creator>Paul Gallenkemper</dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/cup_of_sugar.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<p>roll the <strong>dice</strong> on how much sugar you <em>want</em>.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1">dice <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">3</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">4</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">5</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">6</span>)</span>
+<span id="cb1-2">amount_of_sugar <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">sample</span>(dice, <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>)</span></code></pre></div>
+</div>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<p>You need to put 3 grams in a cup.</p>
+</section>
+<section id="photo-of-result" class="level2">
+<h2 class="anchored" data-anchor-id="photo-of-result">Photo of result</h2>
+<p><img src="https://lennartwittkuhn.com/recipes/recipes/https:/www.happyballoon.de/thumbnail/4d/c1/d0/1701938245/63780351a985e5f5715ba9e630bf5d69ea268092_1920x1920.jpeg" class="img-fluid"></p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/cup_of_sugar.html</guid>
+  <pubDate>Mon, 17 Jun 2024 08:37:28 GMT</pubDate>
+  <media:content url="https://www.happyballoon.de/thumbnail/4d/c1/d0/1701938245/63780351a985e5f5715ba9e630bf5d69ea268092_1920x1920.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Gyoza</title>
@@ -358,7 +412,7 @@ Not vegan, contains eggs and milk!
   <category>Asian</category>
   <category>Date Night Food</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/gyoza.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 08:37:28 GMT</pubDate>
   <media:content url="https://assets.zuckerjagdwurst.com/pref3p553o311dnb3y67zffjmwte/1110/701/55/true/center/R883-Vegane-Teigtaschen-mit-Knusperboden-30.webp?animated=false" medium="image"/>
 </item>
 <item>
@@ -406,7 +460,7 @@ Not vegan, contains eggs and milk!
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/banana-brownies.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 08:37:28 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/1500_1130/public/2024-01/bananen_brownies_1.jpg?h=6adb09fa&amp;itok=w3gYvR7B" medium="image"/>
 </item>
 <item>
@@ -498,7 +552,7 @@ Not vegan, contains eggs and milk!
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/cinnamon-rolls.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 08:37:28 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Cinnamon_roll_in_Stockholm.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -546,7 +600,7 @@ Not vegan, contains eggs and milk!
   <category>noodles</category>
   <category>Asian cuisine</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiktok-ramen.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 08:37:28 GMT</pubDate>
   <media:content url="https://www.eatclub.tv/wp-content/uploads/2021/12/tiktok-ramen.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -590,7 +644,7 @@ Not vegan, contains eggs and milk!
  ]]></description>
   <category>international</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/fesenjan.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 08:37:28 GMT</pubDate>
   <media:content url="https://cdn.faradeed.ir/thumbnail/LeNflz9GOtZN/KoeEnxIUgNp8HPWtyR4f3njefZWpQsc5QSfH7y-wEmOGb45E_dImxEpQi9avqdGE/Khoresh-e-Fesenjan-Tilda-Pure-Basmati-2-scaled.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -632,7 +686,7 @@ Not vegan, contains eggs and milk!
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tomatosoup.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 08:37:28 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -664,7 +718,7 @@ Not vegan, contains eggs and milk!
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/noodles.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 08:37:28 GMT</pubDate>
 </item>
 <item>
   <title>Tiramisù</title>
@@ -725,7 +779,7 @@ Contains raw eggs
   <category>dessert</category>
   <category>Italian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiramisu.html</guid>
-  <pubDate>Thu, 13 Jun 2024 09:55:43 GMT</pubDate>
+  <pubDate>Mon, 17 Jun 2024 08:37:28 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tiramisu_-_Raffaele_Diomede.jpg/2560px-Tiramisu_-_Raffaele_Diomede.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
