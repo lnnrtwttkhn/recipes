@@ -11,25 +11,26 @@ author: Julius Wilke
 
 ## {{< fa basket-shopping >}} Ingredients
 
-Zutaten:
+Ingredients:
 
-4 Hähnchenfilets
-3 EL Olivenöl
-2 Knoblauchzehen, fein gehackt
-Saft einer Zitrone
-1 TL Zitronenschale, abgerieben
-1 TL getrockneter Oregano
-1 TL getrockneter Thymian
-Salz und Pfeffer nach Geschmack
-Frische Kräuter (Petersilie, Basilikum) zum Garnieren
+4 chicken fillets
+3 tbsp olive oil
+2 cloves garlic, finely chopped
+Juice of one lemon
+1 tsp lemon zest, grated
+1 tsp dried oregano
+1 tsp dried thyme
+Salt and pepper to taste
+Fresh herbs (parsley, basil) for garnish
 
 ## {{< fa kitchen-set >}} Procedure
 
-Zubereitung:
 
-1. Marinade vorbereiten: In einer Schüssel das Olivenöl, den gehackten Knoblauch, den Zitronensaft, die Zitronenschale, den Oregano und den Thymian vermischen. Mit Salz und Pfeffer abschmecken.
-2. Hähnchenfilets marinieren: Die Hähnchenfilets in einen großen Gefrierbeutel oder eine flache Schale legen. Die Marinade darüber gießen und die Filets gut damit einreiben. Den Beutel verschließen oder die Schale abdecken und das Hähnchen mindestens 30 Minuten im Kühlschrank marinieren lassen. Für intensiveren Geschmack kann es auch über Nacht marinieren.
-3. Grill vorheizen: Einen Grill oder eine Grillpfanne auf mittlere bis hohe Hitze vorheizen.
-4. Hähnchen grillen: Die Hähnchenfilets aus der Marinade nehmen und überschüssige Marinade abtropfen lassen. Die Filets auf den heißen Grill legen und etwa 6-8 Minuten pro Seite grillen, bis sie durchgegart sind und eine schöne Grillmarkierung haben. Die genaue Grillzeit hängt von der Dicke der Filets ab.
-5. Servieren: Die gegrillten Hähnchenfilets auf Teller legen und mit frischen Kräutern garnieren. Dazu passt ein frischer Salat oder gegrilltes Gemüse.
-Guten Appetit!
+Preparation:
+
+1. Prepare the marinade: In a bowl, mix the olive oil, chopped garlic, lemon juice, lemon zest, oregano, and thyme. Season with salt and pepper to taste.
+2. Marinate the chicken fillets: Place the chicken fillets in a large freezer bag or a shallow dish. Pour the marinade over them and rub the fillets well with it. Seal the bag or cover the dish and let the chicken marinate in the refrigerator for at least 30 minutes. For a more intense flavor, marinate overnight.
+3. Preheat the grill: Preheat a grill or grill pan to medium-high heat.
+4. Grill the chicken: Remove the chicken fillets from the marinade and let the excess marinade drip off. Place the fillets on the hot grill and grill for about 6-8 minutes per side, until they are cooked through and have nice grill marks. The exact grilling time depends on the thickness of the fillets.
+5. Serve: Place the grilled chicken fillets on plates and garnish with fresh herbs. They go well with a fresh salad or grilled vegetables.
+Enjoy your meal!
