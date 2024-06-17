@@ -1,0 +1,60 @@
+---
+title: "Pasta alla Norma"
+image: https://images.getrecipekit.com/20220310125111-dscf1118.jpg?width=650&quality=90& 
+image-alt: "Tasty Pasta alla Norma"
+categories:
+  - main course
+  - pasta
+  - Italian cuisine 
+author: Nicole Ratza
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+### For the Pasta
+
+-   [ ] 600 g pasta (e.g. penne)
+-   [ ] 150 g to 200 g ricotta salata, grated (alternatively pecorino or parmesan)
+-   [ ] 2 aubergines
+-   [ ] 1 bottle of tomato passata (approx. 700 g)
+-   [ ] 1 clove of garlic
+-   [ ] 1 handful of basil leaves
+-   [ ] 1 pinch of sugar
+-   [ ] Salt & pepper 
+-   [ ] Olive oil
+-   [ ] Sunflower oil for frying
+
+
+## {{< fa kitchen-set >}} Procedure
+
+1.  Cook the ramen in boiling salted water for about 4 minutes.
+2.  Meanwhile, peel and finely chop the garlic cloves.
+3.  Heat the plant-based butter in a pan and sauté the garlic. Stir in the chili flakes.
+4.  Stir in the brown sugar and dissolve. Add soy sauce and mix in the ramen noodles.
+5.  Remove the pan from heat and stir until the noodles are evenly coated.
+6.  Slice the leek and set it aside for garnish.
+7.  For the non-vegan version, beat two eggs and cook them in a pan until scrambled. Mix the scrambled eggs with the noodles and serve everything together.
+
+
+
+1.  PREPARING THE AUBERGINES
+2.  Wash the aubergines, cut off the ends and cut into 1x1 cm cubes. You can also cut a few thin slices from the aubergine for decoration. Sprinkle with a little salt and leave to stand in a sieve for 1 hour.
+3.  Place a suitable bowl with a weight (e.g. water) in the sieve to weigh down the aubergines.
+4.  Note: Salting removes water and bitter substances from the aubergines. Even though the bitter substances have been bred out of most types of aubergine nowadays, it is still worth salting them, as this removes water from the aubergine and makes them crispier when deep-frying.
+
+5.  FOR THE TOMATO SAUCE
+6.  Heat a little olive oil in a pan over a medium heat and add the garlic clove, allowing it to colour and flavour the oil. 
+7.  Add the tomato passata and a pinch of sugar, season with salt and pepper and add the basil leaves. 8.  Leave to simmer for approx. 15 mins. Stir occasionally.
+
+9.  PREPARE THE AUBERGINES
+10. Meanwhile, deep-fry the aubergine cubes in plenty of sunflower oil until golden brown and then drain well on kitchen paper. Then add to the tomato sauce.
+
+11.  FOR THE PASTA
+12.  Cook the pasta in salted water until al dente, drain and mix with the sauce.
+13.  Arrange on plates, sprinkle with the ricotta and serve immediately.
+
+
+
+Et viola, enjoy your meal!
+
+
