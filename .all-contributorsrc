@@ -188,6 +188,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "michellerider",
+      "name": "michellerider",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169048521?v=4",
+      "profile": "https://github.com/michellerider",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"

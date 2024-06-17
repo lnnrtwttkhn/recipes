@@ -40,6 +40,7 @@ I welcome contributions to this project! Please see my [Contributing Guidelines]
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Niiccoolle"><img src="https://avatars.githubusercontent.com/u/170935948?v=4?s=100" width="100px;" alt="Niiccoolle"/><br /><sub><b>Niiccoolle</b></sub></a><br /><a href="https://github.com/lnnrtwttkhn/recipes/issues?q=author%3ANiiccoolle" title="Bug reports">🐛</a> <a href="#content-Niiccoolle" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/recipes/commits?author=Niiccoolle" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/michellerider"><img src="https://avatars.githubusercontent.com/u/169048521?v=4?s=100" width="100px;" alt="michellerider"/><br /><sub><b>michellerider</b></sub></a><br /><a href="https://github.com/lnnrtwttkhn/recipes/issues?q=author%3Amichellerider" title="Bug reports">🐛</a> <a href="#content-michellerider" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/recipes/commits?author=michellerider" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
