@@ -1,12 +1,13 @@
 ---
-title: "raspberry sponge cake with meringue"
+title: "Raspberry Sponge Cake with Meringue"
 image: "https://www.muddiskochen.de/app/uploads/2014/07/biskuit-himbeertorte-mit-baiser.jpg"
-image-alt: "raspberry sponge cake with meringue"
+image-alt: "Raspberry Sponge Cake with Meringue"
 categories:
   - fancy cake
   - raspberry
   - meringue
-  - sponge cake  
+  - sponge cake
+author: Luca Nowak
 ---
 
 ## {{< fa basket-shopping >}} Ingredients
