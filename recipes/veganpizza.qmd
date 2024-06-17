@@ -26,22 +26,21 @@ categories:
 - [ ] 1/4 cup red onion, thinly sliced
 - [ ] Fresh basil leaves for garnish
 
-
 ## {{< fa kitchen-set >}} Procedure
 
-1. Prepare the Dough:
+### 1. Prepare the Dough:
 
 In a small bowl, combine the warm water, sugar, and yeast. Let it sit for about 5-10 minutes until it becomes frothy.
 In a large bowl, mix the flour and salt. Make a well in the center and add the yeast mixture and olive oil.
 Stir until the dough comes together, then knead on a floured surface for about 8-10 minutes until the dough is smooth and elastic.
 Place the dough in a lightly oiled bowl, cover with a damp cloth, and let it rise in a warm place for about 1-1.5 hours, or until it has doubled in size.
 
-2. Prepare the Tomato Sauce:
+### 2. Prepare the Tomato Sauce:
 
 In a saucepan, heat the olive oil over medium heat. Add the minced garlic and sauté for about 1 minute until fragrant.
 Add the crushed tomatoes, oregano, basil, salt, and pepper. Simmer for about 15-20 minutes, stirring occasionally, until the sauce thickens.
 
-3. Assemble the Pizza:
+### 3. Assemble the Pizza:
 
 Preheat your oven to 475°F (245°C).
 Punch down the dough and divide it into two equal portions. Roll out each portion on a floured surface to your desired thickness.
@@ -50,8 +49,9 @@ Spread a layer of tomato sauce over the dough, leaving a small border for the cr
 Sprinkle the vegan mozzarella cheese evenly over the sauce.
 Arrange the sliced bell peppers, mushrooms, olives, and red onions on top of the cheese.
 
-4. Bake the Pizza:
+### 4. Bake the Pizza:
 
 Bake in the preheated oven for 12-15 minutes, or until the crust is golden and the cheese is melted.
 Remove from the oven and garnish with fresh basil leaves and a drizzle of extra virgin olive oil.
+
 ![](https://s.zentrum-der-gesundheit.de/img/vegane-pizza)
