@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Paul Gallenkemper">
+<meta name="author" content="Maria Jakubowski">
 
-<title>Recipes - Cup of Sugar</title>
+<title>Recipes - Vegan Brownies</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,40 +20,6 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
-}
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -147,17 +113,23 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <ul>
   <li><a href="#fa-basket-shopping-ingredients" id="toc-fa-basket-shopping-ingredients" class="nav-link active" data-scroll-target="#fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</a></li>
   <li><a href="#fa-kitchen-set-procedure" id="toc-fa-kitchen-set-procedure" class="nav-link" data-scroll-target="#fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</a></li>
-  <li><a href="#photo-of-result" id="toc-photo-of-result" class="nav-link" data-scroll-target="#photo-of-result">Photo of result</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/lnnrtwttkhn/recipes/edit/main/recipes/cup_of_sugar.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/lnnrtwttkhn/recipes/blob/main/recipes/cup_of_sugar.qmd" class="toc-action">View source</a></p><p><a href="https://github.com/lnnrtwttkhn/recipes/issues" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/lnnrtwttkhn/recipes/edit/main/recipes/vegan_brownies.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/lnnrtwttkhn/recipes/blob/main/recipes/vegan_brownies.qmd" class="toc-action">View source</a></p><p><a href="https://github.com/lnnrtwttkhn/recipes/issues" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Cup of Sugar</h1>
-</div>
+<h1 class="title">Vegan Brownies</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">vegan</div>
+    <div class="quarto-category">dessert</div>
+    <div class="quarto-category">baking</div>
+    <div class="quarto-category">cake</div>
+    <div class="quarto-category">sweet</div>
+  </div>
+  </div>
 
 
 
@@ -166,7 +138,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>Paul Gallenkemper </p>
+             <p>Maria Jakubowski </p>
           </div>
   </div>
     
@@ -179,19 +151,32 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <section id="fa-basket-shopping-ingredients" class="level2">
 <h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<p>roll the <strong>dice</strong> on how much sugar you <em>want</em>.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>dice <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="dv">1</span>,<span class="dv">2</span>,<span class="dv">3</span>,<span class="dv">4</span>,<span class="dv">5</span>,<span class="dv">6</span>)</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>amount_of_sugar <span class="ot">&lt;-</span> <span class="fu">sample</span>(dice, <span class="dv">1</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</div>
+<ul class="task-list">
+<li><input type="checkbox">1 Cup All Purpose Flour</li>
+<li><input type="checkbox">1 Cup Granulated Sugar</li>
+<li><input type="checkbox">1/2 Cup Cocoa Powder</li>
+<li><input type="checkbox">1 Teaspoon Baking Powder</li>
+<li><input type="checkbox">1/2 Cup Water</li>
+<li><input type="checkbox">1/2 Cup Vegetable Oil or melted Coconut Oil</li>
+<li><input type="checkbox">1 Teaspoon Vanilla Extract</li>
+<li><input type="checkbox">1/2 cup vegan chocolate chips (optional)</li>
+<li><input type="checkbox">1/4 Chopped Nuts (optional)</li>
+</ul>
 </section>
 <section id="fa-kitchen-set-procedure" class="level2">
 <h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<p>You need to put 4 grams in a cup.</p>
-</section>
-<section id="photo-of-result" class="level2">
-<h2 class="anchored" data-anchor-id="photo-of-result">Photo of result</h2>
-<p><img src="https://www.happyballoon.de/thumbnail/4d/c1/d0/1701938245/63780351a985e5f5715ba9e630bf5d69ea268092_1920x1920.jpeg" class="img-fluid"></p>
+<ol type="1">
+<li>Preheat your oven to 350°F (175°C). Lightly grease an 8x8-inch baking pan or line it with parchment paper.</li>
+<li>In a large mixing bowl, whisk together the flour, sugar, cocoa powder, baking powder, and salt until well combined.</li>
+<li>Add the water, vegetable oil (or melted coconut oil), and vanilla extract to the dry mixture. Stir until the batter is smooth and well combined.</li>
+<li>If using, fold in the vegan chocolate chips and chopped nuts.</li>
+<li>Pour the batter into the prepared baking pan, spreading it out evenly. Bake for 25-30 minutes, or until a toothpick inserted into the center comes out clean or with a few moist crumbs.</li>
+<li>Allow the brownies to cool completely in the pan on a wire rack before cutting into squares.</li>
+<li>Enjoy your vegan brownies plain or with a scoop of vegan ice cream on top!</li>
+</ol>
+<p>Tips:</p>
+<p>For an extra fudgy texture, reduce the baking time slightly. Feel free to customize your brownies with your favorite mix-ins like dried fruits or seeds.</p>
+<p>Enjoy your homemade vegan brownies!</p>
 
 
 </section>
