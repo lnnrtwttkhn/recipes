@@ -1,0 +1,38 @@
+---
+title: "Indian Dal with Red Lentils"
+image: https://www.ambitiouskitchen.com/wp-content/uploads/2022/01/The-Best-Dal-Ever-6.jpg
+image-alt: "Red Lentils Dal"
+categories:
+  - main course
+  - curry
+  - Indian cuisine
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+-   [ ] 1-2 tbsp coconut oil or olive oil for frying 
+-   [ ] 2 onions diced 
+-   [ ] 4 garlic cloves minced 
+-   [ ] 2 tsp ginger grated (or more to taste) 
+-   [ ] 1 tsp turmeric 
+-   [ ] 1 tsp coriander 
+-   [ ] 1 tsp cumin 
+-   [ ] 1 tsp red paprika 
+-   [ ] 1 tsp garam masala or other curry powder to taste 
+-   [ ] 300 g red lentils 
+-   [ ] 780 ml vegetable stock 
+-   [ ] 250 ml coconut milk 
+-   [ ] 250 ml pureed tomatoes or chopped tomatoes (optional) 
+-   [ ] Salt and pepper to taste 
+-   [ ] 2 tsp coconut blossom sugar or to taste 
+-   [ ] 2-3 tbsp lime or lemon juice or to taste 
+
+## {{< fa kitchen-set >}} Procedure
+
+1.  Heat the coconut oil in a pan or pot. Add the chopped onions and sauté for 2-3 minutes until translucent. Then add the garlic and ginger and sauté for another minute until fragrant. Finally add the spices and sauté for a few seconds to allow the flavors to develop. 
+2.  Place the lentils in a fine sieve and rinse under cold running water. Then add it to the onion mixture in the pan, pour in the vegetable stock, stir and bring to the boil. Cover and simmer for 8-10 minutes, or until the lentils have absorbed most of the liquid. 
+3.  Then add coconut milk and pureed tomatoes (if using) and simmer for another 5-10 minutes, or until the lentils are cooked. (If the sauce is too thick, add a little more broth or coconut milk until the desired consistency is reached). Season with salt, pepper, coconut blossom sugar and lime juice. 
+4.  Garnish the dal with a swirl of vegan yogurt, freshly chopped parsley or coriander and sesame seeds or any other topping of your choice. Serve over rice or with vegan naan or aloo paratha. But it also tastes good as a filling for savory pancakes, crepes or tortilla recipes.
+
+
+Enjoy your meal!
