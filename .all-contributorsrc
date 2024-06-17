@@ -122,6 +122,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "paul-gallenkemper",
+      "name": "paul-gallenkemper",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163852105?v=4",
+      "profile": "https://github.com/paul-gallenkemper",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
