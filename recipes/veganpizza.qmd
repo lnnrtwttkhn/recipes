@@ -1,9 +1,10 @@
 ---
 title: "Vegan Pizza"
 image: "https://s.zentrum-der-gesundheit.de/img/vegane-pizza"
-image-alt: "https://s.zentrum-der-gesundheit.de/img/vegane-pizza"
 categories:
   - Add a list of catgeories here
+- vegan
+- pizza
 ---
 
 ## {{< fa basket-shopping >}} Ingredients
@@ -53,3 +54,4 @@ Arrange the sliced bell peppers, mushrooms, olives, and red onions on top of the
 
 Bake in the preheated oven for 12-15 minutes, or until the crust is golden and the cheese is melted.
 Remove from the oven and garnish with fresh basil leaves and a drizzle of extra virgin olive oil.
+![](https://s.zentrum-der-gesundheit.de/img/vegane-pizza)
