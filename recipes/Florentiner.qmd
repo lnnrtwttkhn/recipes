@@ -12,7 +12,7 @@ categories:
 
 ## {{< fa basket-shopping >}} Ingredients
 
-For the shortcrust dough:
+### For the shortcrust dough:
 - [175 g] soft butter
 - [100 g] sugar
 - [1] egg
@@ -20,7 +20,7 @@ For the shortcrust dough:
 - [1] pinch of salt
 - [200g] dark chocolate
 
-For the topping:
+### For the topping:
 - [175 g] For the topping:
 - [125 ml] whipped cream
 - [70 g] sugar
