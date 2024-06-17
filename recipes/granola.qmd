@@ -5,6 +5,7 @@ image-alt: https://commons.wikimedia.org/wiki/File:Banana_Walnut_Granola_(679691
 categories:
   - sweet
   - vegetarian
+author: Nicola Zuehlke
 ---
 
 ## {{< fa basket-shopping >}} Ingredients
@@ -30,6 +31,3 @@ categories:
 1. Put it into the oven. Bake until the granola is golden brown.
 1. Let the granola cool. Add the dried fruits and chia seeds.
 1. Use it as a topping or enjoy it for breakfast. 
-
-
-
