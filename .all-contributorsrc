@@ -144,6 +144,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "LucaCoolGirl",
+      "name": "LucaCoolGirl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170938348?v=4",
+      "profile": "https://github.com/LucaCoolGirl",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
