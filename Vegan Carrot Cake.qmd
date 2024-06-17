@@ -5,7 +5,6 @@ image-alt: "https://biancazapatka.com/wp-content/uploads/2018/03/IMG_2437-720x89
 categories:
   - cake, dessert, sweet, vegan
 author: "Sivanujah Kumarasamy"
-
 ---
 
 # Vegan Carrot Cake
