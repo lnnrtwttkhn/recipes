@@ -1,0 +1,32 @@
+---
+title: "raspberry sponge cake with meringue"
+image: "https://www.muddiskochen.de/app/uploads/2014/07/biskuit-himbeertorte-mit-baiser.jpg"
+image-alt: "raspberry sponge cake with meringue"
+categories:
+  - fancy cake
+  - raspberry
+  - meringue
+  - sponge cake  
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+- [ ] 4 egg white
+- [ ] 4 egg yolk
+- [ ] 270g sugar
+- [ ] 1 vanilla sugar
+- [ ] 60 g flour
+- [ ] 50 g corn starch
+- [ ] 1/2 TL baking powder
+- [ ] 600 g frozen raspberries
+- [ ] 0,5l cream
+
+## {{< fa kitchen-set >}} Procedure
+
+1. Whisk the egg whites and egg yolks and vanilla sugar stiff for a very long time until foamy (2 egg whites, 4 egg yolks, 1 vanilla sugar)
+2. Sift in the flour, cornstarch and baking powder and pour everything into a greased springform pan (60 g of flour, 50 g of cornstarch, 1 teaspoon of baking powder)
+3. Whisk the egg whites and sugar stiff until foamy and spoon onto the batter (2 egg whites, 230 g of sugar)
+4. Bake at 175 degrees for about half an hour on the middle to lower rack.
+5. Then let the cake cool and cut it in the middle.
+6. Place the frozen raspberries on the bottom half, sprinkle with sugar, and then spread the whipped cream (600 g of frozen raspberries, 40 g of sugar, 0.5 liters of whipped cream)
+7. Place the top half of the cake on the filling and let it stand for a few hours (not in the refrigerator). Alternatively, you can thaw the raspberries beforehand if there is not enough time.
