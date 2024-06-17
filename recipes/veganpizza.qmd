@@ -1,6 +1,7 @@
 ---
 title: "Vegan Pizza"
 image: "https://s.zentrum-der-gesundheit.de/img/vegane-pizza"
+author: "Michelle Reiter"
 categories:
   - Add a list of catgeories here
 - vegan
