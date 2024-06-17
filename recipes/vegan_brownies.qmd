@@ -9,7 +9,6 @@ categories:
   - baking
   - cake
   - sweet
-
 ---
 
 ## {{< fa basket-shopping >}} Ingredients
