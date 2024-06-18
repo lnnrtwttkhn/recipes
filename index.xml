@@ -10,7 +10,7 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Tue, 18 Jun 2024 09:50:54 GMT</lastBuildDate>
+<lastBuildDate>Tue, 18 Jun 2024 10:08:51 GMT</lastBuildDate>
 <item>
   <title>Pancakes</title>
   <dc:creator>Lennart Wittkuhn</dc:creator>
@@ -59,8 +59,67 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:50:54 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 10:08:51 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Bananabread</title>
+  <dc:creator>Lennart Wittkuhn</dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<section id="for-the-cake" class="level3">
+<h3 class="anchored" data-anchor-id="for-the-cake">For the cake</h3>
+<ul class="task-list">
+<li><input type="checkbox">125 grams all-purpose flour (unbleached)</li>
+<li><input type="checkbox">125 grams whole wheat or spelt flour</li>
+<li><input type="checkbox">125 grams brown sugar</li>
+<li><input type="checkbox">150 grams small seeds (whatever you like/have: sunflower seeds, pumpkin seeds, walnut kernels, pine nuts, chia seeds, etc.)</li>
+<li><input type="checkbox">1 good pinch of sea salt</li>
+<li><input type="checkbox">1 teaspoon baking powder</li>
+<li><input type="checkbox">3 medium-sized ripe bananas, peeled</li>
+<li><input type="checkbox">Zest and juice of 1 lemon</li>
+<li><input type="checkbox">2 tablespoons olive oil</li>
+<li><input type="checkbox">2 tablespoons natural or unsweetened soy yogurt or coconut yogurt</li>
+<li><input type="checkbox">2 eggs, preferably organic or free-range, beaten</li>
+</ul>
+</section>
+<section id="for-the-lemon-sesame-drizzle-optional" class="level3">
+<h3 class="anchored" data-anchor-id="for-the-lemon-sesame-drizzle-optional">For the Lemon-Sesame Drizzle (optional)</h3>
+<ul class="task-list">
+<li><input type="checkbox">1 tablespoon tahini</li>
+<li><input type="checkbox">3 tablespoons golden powdered sugar or liquid honey</li>
+<li><input type="checkbox">Juice of 1 lemon</li>
+</ul>
+</section>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Preheat the oven to 200°C (400°F).</li>
+<li>Grease a non-stick loaf pan with butter and dust it with flour (if the loaf pan is not non-stick, you can also line it with parchment paper).</li>
+<li>Combine all the dry ingredients in a mixing bowl - flours, sugar, seeds, salt, and baking powder - and mix well.</li>
+<li>In another bowl, mash the bananas with a fork (leaving them slightly chunky if desired), then add lemon juice and zest, olive oil, yogurt, and beaten eggs, mixing well.</li>
+<li>Add the wet ingredients to the bowl of dry ingredients and gently mix - just enough to combine everything.</li>
+<li>Transfer the mixture into the loaf pan and bake for 40 to 45 minutes, or until a toothpick comes out clean.</li>
+<li>Optional: While the cake is baking, prepare the Lemon Drizzle. Stir tahini and powdered sugar in a bowl until smooth, add lemon juice, and mix well.</li>
+<li>Remove the cake from the oven and let it cool in the pan until it’s cool enough to transfer to a wire rack. While the cake is still warm, place a large plate under the rack, then poke the cake all over with a skewer, pour the drizzle over it, and let it soak in.</li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>dessert</category>
+  <category>cake</category>
+  <category>baking</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
+  <pubDate>Tue, 18 Jun 2024 10:08:51 GMT</pubDate>
+  <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Lentil Bolognese</title>
@@ -106,7 +165,7 @@ Not vegan, contains eggs and milk!
   <category>vegetarian</category>
   <category>pasta</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:50:54 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 10:08:51 GMT</pubDate>
   <media:content url="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -200,7 +259,7 @@ Not vegan, contains eggs and milk!
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:50:54 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 10:08:51 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -249,67 +308,51 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:50:54 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 10:08:51 GMT</pubDate>
   <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Bananabread</title>
-  <dc:creator>Lennart Wittkuhn</dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</link>
+  <title>Hähnchenbrustfilet</title>
+  <dc:creator>Julius Wilke</dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/JuliusR.html</link>
   <description><![CDATA[ 
 
 
 
 <section id="fa-basket-shopping-ingredients" class="level2">
 <h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<section id="for-the-cake" class="level3">
-<h3 class="anchored" data-anchor-id="for-the-cake">For the cake</h3>
 <ul class="task-list">
-<li><input type="checkbox">125 grams all-purpose flour (unbleached)</li>
-<li><input type="checkbox">125 grams whole wheat or spelt flour</li>
-<li><input type="checkbox">125 grams brown sugar</li>
-<li><input type="checkbox">150 grams small seeds (whatever you like/have: sunflower seeds, pumpkin seeds, walnut kernels, pine nuts, chia seeds, etc.)</li>
-<li><input type="checkbox">1 good pinch of sea salt</li>
-<li><input type="checkbox">1 teaspoon baking powder</li>
-<li><input type="checkbox">3 medium-sized ripe bananas, peeled</li>
-<li><input type="checkbox">Zest and juice of 1 lemon</li>
-<li><input type="checkbox">2 tablespoons olive oil</li>
-<li><input type="checkbox">2 tablespoons natural or unsweetened soy yogurt or coconut yogurt</li>
-<li><input type="checkbox">2 eggs, preferably organic or free-range, beaten</li>
+<li><input type="checkbox">4 chicken fillets</li>
+<li><input type="checkbox">3 tbsp olive oil</li>
+<li><input type="checkbox">2 cloves garlic, finely chopped</li>
+<li><input type="checkbox">Juice of one lemon</li>
+<li><input type="checkbox">1 tsp lemon zest, grated</li>
+<li><input type="checkbox">1 tsp dried oregano</li>
+<li><input type="checkbox">1 tsp dried thyme</li>
+<li><input type="checkbox">Salt and pepper to taste</li>
+<li><input type="checkbox">Fresh herbs (parsley, basil) for garnish</li>
 </ul>
-</section>
-<section id="for-the-lemon-sesame-drizzle-optional" class="level3">
-<h3 class="anchored" data-anchor-id="for-the-lemon-sesame-drizzle-optional">For the Lemon-Sesame Drizzle (optional)</h3>
-<ul class="task-list">
-<li><input type="checkbox">1 tablespoon tahini</li>
-<li><input type="checkbox">3 tablespoons golden powdered sugar or liquid honey</li>
-<li><input type="checkbox">Juice of 1 lemon</li>
-</ul>
-</section>
 </section>
 <section id="fa-kitchen-set-procedure" class="level2">
 <h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
 <ol type="1">
-<li>Preheat the oven to 200°C (400°F).</li>
-<li>Grease a non-stick loaf pan with butter and dust it with flour (if the loaf pan is not non-stick, you can also line it with parchment paper).</li>
-<li>Combine all the dry ingredients in a mixing bowl - flours, sugar, seeds, salt, and baking powder - and mix well.</li>
-<li>In another bowl, mash the bananas with a fork (leaving them slightly chunky if desired), then add lemon juice and zest, olive oil, yogurt, and beaten eggs, mixing well.</li>
-<li>Add the wet ingredients to the bowl of dry ingredients and gently mix - just enough to combine everything.</li>
-<li>Transfer the mixture into the loaf pan and bake for 40 to 45 minutes, or until a toothpick comes out clean.</li>
-<li>Optional: While the cake is baking, prepare the Lemon Drizzle. Stir tahini and powdered sugar in a bowl until smooth, add lemon juice, and mix well.</li>
-<li>Remove the cake from the oven and let it cool in the pan until it’s cool enough to transfer to a wire rack. While the cake is still warm, place a large plate under the rack, then poke the cake all over with a skewer, pour the drizzle over it, and let it soak in.</li>
+<li>Prepare the marinade: In a bowl, mix the olive oil, chopped garlic, lemon juice, lemon zest, oregano, and thyme. Season with salt and pepper to taste.</li>
+<li>Marinate the chicken fillets: Place the chicken fillets in a large freezer bag or a shallow dish. Pour the marinade over them and rub the fillets well with it. Seal the bag or cover the dish and let the chicken marinate in the refrigerator for at least 30 minutes. For a more intense flavor, marinate overnight.</li>
+<li>Preheat the grill: Preheat a grill or grill pan to medium-high heat.</li>
+<li>Grill the chicken: Remove the chicken fillets from the marinade and let the excess marinade drip off. Place the fillets on the hot grill and grill for about 6-8 minutes per side, until they are cooked through and have nice grill marks. The exact grilling time depends on the thickness of the fillets.</li>
+<li>Serve: Place the grilled chicken fillets on plates and garnish with fresh herbs. They go well with a fresh salad or grilled vegetables.</li>
 </ol>
+<p>Enjoy your meal!</p>
 
 
 </section>
 
  ]]></description>
-  <category>dessert</category>
-  <category>cake</category>
-  <category>baking</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:50:54 GMT</pubDate>
-  <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
+  <category>Not vegetarian</category>
+  <category>Easy to prepare</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/JuliusR.html</guid>
+  <pubDate>Tue, 18 Jun 2024 10:08:51 GMT</pubDate>
+  <media:content url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMP_IdWIaJbMyqcnhID8iR1AesJXaGt2sRTw&amp;s" medium="image"/>
 </item>
 <item>
   <title>Potato salad</title>
@@ -351,7 +394,7 @@ Not vegan, contains eggs and milk!
   <category>salad</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/Potato-salad.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:50:54 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 10:08:51 GMT</pubDate>
   <media:content url="https://www.jackymalina.com/wp-content/uploads/2020/12/497B245D-2453-4312-A2B8-7A673EE6DA8E-1152x1536.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -391,7 +434,7 @@ Not vegan, contains eggs and milk!
   <category>crispy</category>
   <category>breakfast</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/muesli.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:50:54 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 10:08:51 GMT</pubDate>
   <media:content url="https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/0293599B-0ED4-468A-A838-50045B7A80EF/Derivates/E87D2389-BC34-44D7-9DBD-410A84A86C3F.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -437,7 +480,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/granola.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:50:54 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 10:08:51 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/c/ca/Banana_Walnut_Granola_%286796918872%29.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -543,7 +586,7 @@ Not vegan, contains eggs and milk!
   <category>vegan</category>
   <category>vietnamese</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/poke_bowl.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:50:54 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 10:08:51 GMT</pubDate>
   <media:content url="https://www.okonomikitchen.com/wp-content/uploads/2019/09/easy-vegan-tofu-poke-bowl-with-ponzu-sauce-recipe-1-1-of-1-1-1024x683.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -602,7 +645,7 @@ Not vegan, contains eggs and milk!
   <category>vegan</category>
   <category>pizza</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/veganpizza.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:50:54 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 10:08:51 GMT</pubDate>
   <media:content url="https://s.zentrum-der-gesundheit.de/img/vegane-pizza" medium="image"/>
 </item>
 <item>
@@ -664,7 +707,7 @@ Not vegan, contains eggs and milk!
   <category>pasta</category>
   <category>Italian cuisine</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pasta-alla-norma.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:50:54 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 10:08:51 GMT</pubDate>
   <media:content url="https://images.getrecipekit.com/20220310125111-dscf1118.jpg?width=650&amp;quality=90&amp;" medium="image"/>
 </item>
 <item>
@@ -710,7 +753,7 @@ Not vegan, contains eggs and milk!
   <category>meringue</category>
   <category>sponge cake</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/fancy-cake.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:50:54 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 10:08:51 GMT</pubDate>
   <media:content url="https://www.muddiskochen.de/app/uploads/2014/07/biskuit-himbeertorte-mit-baiser.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -757,7 +800,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegan</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/vegan-carrot-cake.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:50:54 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 10:08:51 GMT</pubDate>
   <media:content url="https://biancazapatka.com/wp-content/uploads/2018/03/IMG_2437-720x895.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -798,7 +841,7 @@ Not vegan, contains eggs and milk!
   <category>Breakfast</category>
   <category>Snack</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/Avocado-Toast.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:50:54 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 10:08:51 GMT</pubDate>
   <media:content url="https://i2.wp.com/earthblokes.com/wp-content/uploads/2021/02/vegan-avocado-toast-4.jpg?resize=800%2C1200&amp;ssl=1" medium="image"/>
 </item>
 <item>
@@ -848,7 +891,7 @@ Not vegan, contains eggs and milk!
   <category>cake</category>
   <category>sweet</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/vegan_brownies.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:50:54 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 10:08:51 GMT</pubDate>
   <media:content url="https://img.taste.com.au/5hsR3Ore/w720-h480-cfill-q80/taste/2016/11/classic-chewy-brownie-102727-1.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -891,7 +934,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
 </section>
 <section id="fa-kitchen-set-procedure" class="level2">
 <h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<p>You need to put 2 grams in a cup.</p>
+<p>You need to put 1 grams in a cup.</p>
 </section>
 <section id="photo-of-result" class="level2">
 <h2 class="anchored" data-anchor-id="photo-of-result">Photo of result</h2>
@@ -902,7 +945,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/cup_of_sugar.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:50:54 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 10:08:51 GMT</pubDate>
   <media:content url="https://www.happyballoon.de/thumbnail/4d/c1/d0/1701938245/63780351a985e5f5715ba9e630bf5d69ea268092_1920x1920.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -952,7 +995,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
   <category>Asian</category>
   <category>Date Night Food</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/gyoza.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:50:54 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 10:08:51 GMT</pubDate>
   <media:content url="https://assets.zuckerjagdwurst.com/pref3p553o311dnb3y67zffjmwte/1110/701/55/true/center/R883-Vegane-Teigtaschen-mit-Knusperboden-30.webp?animated=false" medium="image"/>
 </item>
 <item>
@@ -1000,7 +1043,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/banana-brownies.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:50:54 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 10:08:51 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/1500_1130/public/2024-01/bananen_brownies_1.jpg?h=6adb09fa&amp;itok=w3gYvR7B" medium="image"/>
 </item>
 <item>
@@ -1092,56 +1135,8 @@ font-style: inherit;">1</span>)</span></code></pre></div>
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/cinnamon-rolls.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:50:54 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 10:08:51 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Cinnamon_roll_in_Stockholm.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>TikTok Ramen</title>
-  <dc:creator>Konrad Pagenstedt</dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/tiktok-ramen.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<section id="for-the-ramen" class="level3">
-<h3 class="anchored" data-anchor-id="for-the-ramen">For the Ramen</h3>
-<ul class="task-list">
-<li><input type="checkbox">125 grams ramen noodles</li>
-<li><input type="checkbox">2 garlic cloves</li>
-<li><input type="checkbox">30 grams plant-based butter</li>
-<li><input type="checkbox">1 teaspoon chili flakes</li>
-<li><input type="checkbox">2 teaspoons brown sugar</li>
-<li><input type="checkbox">3 tablespoons soy sauce</li>
-<li><input type="checkbox">1 leek</li>
-<li><input type="checkbox">2 eggs (optional)</li>
-</ul>
-</section>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<ol type="1">
-<li>Cook the ramen in boiling salted water for about 4 minutes.</li>
-<li>Meanwhile, peel and finely chop the garlic cloves.</li>
-<li>Heat the plant-based butter in a pan and sauté the garlic. Stir in the chili flakes.</li>
-<li>Stir in the brown sugar and dissolve. Add soy sauce and mix in the ramen noodles.</li>
-<li>Remove the pan from heat and stir until the noodles are evenly coated.</li>
-<li>Slice the leek and set it aside for garnish.</li>
-<li>For the non-vegan version, beat two eggs and cook them in a pan until scrambled. Mix the scrambled eggs with the noodles and serve everything together.</li>
-</ol>
-<p>Enjoy your meal!</p>
-
-
-</section>
-
- ]]></description>
-  <category>main course</category>
-  <category>noodles</category>
-  <category>Asian cuisine</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/tiktok-ramen.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:50:54 GMT</pubDate>
-  <media:content url="https://www.eatclub.tv/wp-content/uploads/2021/12/tiktok-ramen.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
