@@ -1,27 +1,23 @@
 ---
 title: "Cheesecake with Meringue Topping"
 author: "Stella F."
-format: html
-editor: visual
-theme: quartz 
 ---
 
-# **Cheesecake with Meringue Topping**
-Ingredients
+## {{< fa basket-shopping >}} Ingredients
 
-- 200 g flour
-- 2 tsp baking powder
-- 2 pinches of iodized salt
-- 100 g + 100 g butter
-- 75 g + 150 g + 75 g sugar
-- 4 eggs
-- 500 g quark (e.g. 20% fat content)
-- 250 g sour cream
-- 250 ml Rama Cremefine for cooking, 15% fat
-- 1 packet of vanilla pudding powder for cooking (about 37 g)
-- 1 packet of vanilla sugar
+- [ ] 200 g flour
+- [ ] 2 tsp baking powder
+- [ ] 2 pinches of iodized salt
+- [ ] 100 g + 100 g butter
+- [ ] 75 g + 150 g + 75 g sugar
+- [ ] 4 eggs
+- [ ] 500 g quark (e.g. 20% fat content)
+- [ ] 250 g sour cream
+- [ ] 250 ml Rama Cremefine for cooking, 15% fat
+- [ ] 1 packet of vanilla pudding powder for cooking (about 37 g)
+- [ ] 1 packet of vanilla sugar
 
-**Preparation**
+## {{< fa kitchen-set >}} Procedure
 
 1. Mix 200 g flour, 2 tsp baking powder, and 1 pinch of salt. Knead with 100 g butter, 75 g sugar, and 1 egg using the dough hooks of an electric hand mixer, then by hand until smooth. Line the form with baking paper or grease it, including the edges. Press the dough into the form, creating an edge. Chill the dough in the form until further use.
 
