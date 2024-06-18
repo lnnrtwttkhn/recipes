@@ -1,311 +1,24 @@
 [
   {
-    "objectID": "recipes/chocolate-cake-kids.html",
-    "href": "recipes/chocolate-cake-kids.html",
-    "title": "Chocolate Cake for Kids",
+    "objectID": "recipes/muesli.html",
+    "href": "recipes/muesli.html",
+    "title": "Muesli recipe",
     "section": "",
-    "text": "180 g Soft Dates, pitted\n200 ml Cream\n3 Eggs\n1/2 Vanilla Bean(s)\n4 tbsp Heaped Cocoa Powder\n100 g Flour\n1.5 tsp Baking Soda\n80 g Butter\nSome Butter for greasing the pan"
+    "text": "200 g oats\n20 g flour\n1 tbsp honey\n2 tbsp sunflower oil\n50 ml water"
   },
   {
-    "objectID": "recipes/chocolate-cake-kids.html#fa-basket-shopping-ingredients",
-    "href": "recipes/chocolate-cake-kids.html#fa-basket-shopping-ingredients",
-    "title": "Chocolate Cake for Kids",
+    "objectID": "recipes/muesli.html#fa-basket-shopping-ingredients",
+    "href": "recipes/muesli.html#fa-basket-shopping-ingredients",
+    "title": "Muesli recipe",
     "section": "",
-    "text": "180 g Soft Dates, pitted\n200 ml Cream\n3 Eggs\n1/2 Vanilla Bean(s)\n4 tbsp Heaped Cocoa Powder\n100 g Flour\n1.5 tsp Baking Soda\n80 g Butter\nSome Butter for greasing the pan"
+    "text": "200 g oats\n20 g flour\n1 tbsp honey\n2 tbsp sunflower oil\n50 ml water"
   },
   {
-    "objectID": "recipes/chocolate-cake-kids.html#fa-kitchen-set-preparation",
-    "href": "recipes/chocolate-cake-kids.html#fa-kitchen-set-preparation",
-    "title": "Chocolate Cake for Kids",
-    "section": " Preparation",
-    "text": "Preparation\n\nPreheat the oven to 170 °C (convection).\nPuree dates with cream, vanilla bean seeds, and cocoa powder until smooth.\nThen add egg yolks and butter, and blend until the mixture is homogeneous and smooth.\nBeat the egg whites until stiff peaks form.\nMix the flour and baking soda into the cocoa mixture.\nGently fold in the beaten egg whites.\nPour the cake batter into any buttered baking pan.\nBake in the preheated oven on the middle rack for approximately 40 minutes."
-  },
-  {
-    "objectID": "recipes/chocolate-cake-kids.html#notes",
-    "href": "recipes/chocolate-cake-kids.html#notes",
-    "title": "Chocolate Cake for Kids",
-    "section": "Notes",
-    "text": "Notes\nThe recipe yields 16 pieces and is also suitable for muffin molds. You can enhance the cake with orange zest, ground nuts, nut butter, chili, cinnamon, ginger, cardamom, or cherries. I use soft dates, which are softer than regular dates. If you only have firm dates, soak them in warm water for about 4 hours. I would use a cake pan with a diameter of 18 cm. Source: https://www.chefkoch.de/rezepte/3186881474309297/Feiner-Schokokuchen-ohne-Zuckerzusatz.html"
-  },
-  {
-    "objectID": "recipes/template.html",
-    "href": "recipes/template.html",
-    "title": "Template for new recipe",
-    "section": "",
-    "text": "Add your ingredients here\n[ ]\n[ ]\n[ ]\n[ ]"
-  },
-  {
-    "objectID": "recipes/template.html#fa-basket-shopping-ingredients",
-    "href": "recipes/template.html#fa-basket-shopping-ingredients",
-    "title": "Template for new recipe",
-    "section": "",
-    "text": "Add your ingredients here\n[ ]\n[ ]\n[ ]\n[ ]"
-  },
-  {
-    "objectID": "recipes/template.html#fa-kitchen-set-procedure",
-    "href": "recipes/template.html#fa-kitchen-set-procedure",
-    "title": "Template for new recipe",
+    "objectID": "recipes/muesli.html#fa-kitchen-set-procedure",
+    "href": "recipes/muesli.html#fa-kitchen-set-procedure",
+    "title": "Muesli recipe",
     "section": " Procedure",
-    "text": "Procedure\n\nStep 1\nStep 2\nStep 3"
-  },
-  {
-    "objectID": "recipes/cup_of_sugar.html",
-    "href": "recipes/cup_of_sugar.html",
-    "title": "Cup of Sugar",
-    "section": "",
-    "text": "roll the dice on how much sugar you want.\n\ndice &lt;- c(1,2,3,4,5,6)\namount_of_sugar &lt;- sample(dice, 1)"
-  },
-  {
-    "objectID": "recipes/cup_of_sugar.html#fa-basket-shopping-ingredients",
-    "href": "recipes/cup_of_sugar.html#fa-basket-shopping-ingredients",
-    "title": "Cup of Sugar",
-    "section": "",
-    "text": "roll the dice on how much sugar you want.\n\ndice &lt;- c(1,2,3,4,5,6)\namount_of_sugar &lt;- sample(dice, 1)"
-  },
-  {
-    "objectID": "recipes/cup_of_sugar.html#fa-kitchen-set-procedure",
-    "href": "recipes/cup_of_sugar.html#fa-kitchen-set-procedure",
-    "title": "Cup of Sugar",
-    "section": " Procedure",
-    "text": "Procedure\nYou need to put 4 grams in a cup."
-  },
-  {
-    "objectID": "recipes/cup_of_sugar.html#photo-of-result",
-    "href": "recipes/cup_of_sugar.html#photo-of-result",
-    "title": "Cup of Sugar",
-    "section": "Photo of result",
-    "text": "Photo of result"
-  },
-  {
-    "objectID": "recipes/fancy-cake.html",
-    "href": "recipes/fancy-cake.html",
-    "title": "Raspberry Sponge Cake with Meringue",
-    "section": "",
-    "text": "4 egg white\n4 egg yolk\n270g sugar\n1 vanilla sugar\n60 g flour\n50 g corn starch\n1/2 TL baking powder\n600 g frozen raspberries\n0,5l cream"
-  },
-  {
-    "objectID": "recipes/fancy-cake.html#fa-basket-shopping-ingredients",
-    "href": "recipes/fancy-cake.html#fa-basket-shopping-ingredients",
-    "title": "Raspberry Sponge Cake with Meringue",
-    "section": "",
-    "text": "4 egg white\n4 egg yolk\n270g sugar\n1 vanilla sugar\n60 g flour\n50 g corn starch\n1/2 TL baking powder\n600 g frozen raspberries\n0,5l cream"
-  },
-  {
-    "objectID": "recipes/fancy-cake.html#fa-kitchen-set-procedure",
-    "href": "recipes/fancy-cake.html#fa-kitchen-set-procedure",
-    "title": "Raspberry Sponge Cake with Meringue",
-    "section": " Procedure",
-    "text": "Procedure\n\nWhisk the egg whites and egg yolks and vanilla sugar stiff for a very long time until foamy (2 egg whites, 4 egg yolks, 1 vanilla sugar)\nSift in the flour, cornstarch and baking powder and pour everything into a greased springform pan (60 g of flour, 50 g of cornstarch, 1 teaspoon of baking powder)\nWhisk the egg whites and sugar stiff until foamy and spoon onto the batter (2 egg whites, 230 g of sugar)\nBake at 175 degrees for about half an hour on the middle to lower rack.\nThen let the cake cool and cut it in the middle.\nPlace the frozen raspberries on the bottom half, sprinkle with sugar, and then spread the whipped cream (600 g of frozen raspberries, 40 g of sugar, 0.5 liters of whipped cream)\nPlace the top half of the cake on the filling and let it stand for a few hours (not in the refrigerator). Alternatively, you can thaw the raspberries beforehand if there is not enough time."
-  },
-  {
-    "objectID": "recipes/pancakes.html",
-    "href": "recipes/pancakes.html",
-    "title": "Pancakes",
-    "section": "",
-    "text": "Not vegan, contains eggs and milk!"
-  },
-  {
-    "objectID": "recipes/pancakes.html#fa-basket-shopping-ingredients",
-    "href": "recipes/pancakes.html#fa-basket-shopping-ingredients",
-    "title": "Pancakes",
-    "section": " Ingredients",
-    "text": "Ingredients\n\n250 g flour\n2 tablespoons baking powder\n500 g milk\n2 or 3 eggs\nA bit of butter"
-  },
-  {
-    "objectID": "recipes/pancakes.html#fa-kitchen-set-preparation",
-    "href": "recipes/pancakes.html#fa-kitchen-set-preparation",
-    "title": "Pancakes",
-    "section": " Preparation",
-    "text": "Preparation\n\nMix the flour and the baking powder\nSlowly add the milk and mix\nAdd the eggs and mix\nAdd a bit of butter to a large pan and heat\nMake the pancakes"
-  },
-  {
-    "objectID": "recipes/veganpizza.html",
-    "href": "recipes/veganpizza.html",
-    "title": "Vegan Pizza",
-    "section": "",
-    "text": "2 1/4 tsp (1 packet) active dry yeast\n1 1/2 cups warm water (110°F or 45°C)\n3 1/2 cups all-purpose flour\n2 tbsp olive oil\n1 tsp sugar\n1 tsp salt\n1 cup canned crushed tomatoes\n2 cloves garlic, minced\n1 tbsp olive oil\n1 tsp dried oregano\n1 tsp dried basil\n1/2 cup sliced bell peppers\n1/2 cup sliced mushrooms\n1/4 cup sliced black olives\n1/4 cup red onion, thinly sliced\nFresh basil leaves for garnish"
-  },
-  {
-    "objectID": "recipes/veganpizza.html#fa-basket-shopping-ingredients",
-    "href": "recipes/veganpizza.html#fa-basket-shopping-ingredients",
-    "title": "Vegan Pizza",
-    "section": "",
-    "text": "2 1/4 tsp (1 packet) active dry yeast\n1 1/2 cups warm water (110°F or 45°C)\n3 1/2 cups all-purpose flour\n2 tbsp olive oil\n1 tsp sugar\n1 tsp salt\n1 cup canned crushed tomatoes\n2 cloves garlic, minced\n1 tbsp olive oil\n1 tsp dried oregano\n1 tsp dried basil\n1/2 cup sliced bell peppers\n1/2 cup sliced mushrooms\n1/4 cup sliced black olives\n1/4 cup red onion, thinly sliced\nFresh basil leaves for garnish"
-  },
-  {
-    "objectID": "recipes/veganpizza.html#fa-kitchen-set-procedure",
-    "href": "recipes/veganpizza.html#fa-kitchen-set-procedure",
-    "title": "Vegan Pizza",
-    "section": " Procedure",
-    "text": "Procedure\n\n1. Prepare the Dough:\nIn a small bowl, combine the warm water, sugar, and yeast. Let it sit for about 5-10 minutes until it becomes frothy. In a large bowl, mix the flour and salt. Make a well in the center and add the yeast mixture and olive oil. Stir until the dough comes together, then knead on a floured surface for about 8-10 minutes until the dough is smooth and elastic. Place the dough in a lightly oiled bowl, cover with a damp cloth, and let it rise in a warm place for about 1-1.5 hours, or until it has doubled in size.\n\n\n2. Prepare the Tomato Sauce:\nIn a saucepan, heat the olive oil over medium heat. Add the minced garlic and sauté for about 1 minute until fragrant. Add the crushed tomatoes, oregano, basil, salt, and pepper. Simmer for about 15-20 minutes, stirring occasionally, until the sauce thickens.\n\n\n3. Assemble the Pizza:\nPreheat your oven to 475°F (245°C). Punch down the dough and divide it into two equal portions. Roll out each portion on a floured surface to your desired thickness. Place the rolled-out dough on a pizza stone or baking sheet. Spread a layer of tomato sauce over the dough, leaving a small border for the crust. Sprinkle the vegan mozzarella cheese evenly over the sauce. Arrange the sliced bell peppers, mushrooms, olives, and red onions on top of the cheese.\n\n\n4. Bake the Pizza:\nBake in the preheated oven for 12-15 minutes, or until the crust is golden and the cheese is melted. Remove from the oven and garnish with fresh basil leaves and a drizzle of extra virgin olive oil."
-  },
-  {
-    "objectID": "recipes/Avocado-Toast.html",
-    "href": "recipes/Avocado-Toast.html",
-    "title": "Avocado Toast",
-    "section": "",
-    "text": "A delicious avocado toast"
-  },
-  {
-    "objectID": "recipes/Avocado-Toast.html#fa-basket-shopping-ingredients",
-    "href": "recipes/Avocado-Toast.html#fa-basket-shopping-ingredients",
-    "title": "Avocado Toast",
-    "section": " Ingredients",
-    "text": "Ingredients\n\n1 ripe avocado\n2 slices of bread\nSalt to taste\nPepper to taste\nLemon juice"
-  },
-  {
-    "objectID": "recipes/Avocado-Toast.html#fa-kitchen-set-procedure",
-    "href": "recipes/Avocado-Toast.html#fa-kitchen-set-procedure",
-    "title": "Avocado Toast",
-    "section": " Procedure",
-    "text": "Procedure\n\nToast the slices of bread to your desired level of crispiness.\nCut the avocado in half, remove the pit, and scoop the flesh into a bowl. Mash the avocado with a fork until smooth.\nSpread the mashed avocado evenly onto the toasted bread slices. Season with salt and pepper to taste. Add a squeeze of lemon juice if desired for extra flavor."
-  },
-  {
-    "objectID": "recipes/poke_bowl.html",
-    "href": "recipes/poke_bowl.html",
-    "title": "Poke Bowl with Tofu and Peanut Sauce",
-    "section": "",
-    "text": "two servings"
-  },
-  {
-    "objectID": "recipes/poke_bowl.html#fa-basket-shopping-ingredients",
-    "href": "recipes/poke_bowl.html#fa-basket-shopping-ingredients",
-    "title": "Poke Bowl with Tofu and Peanut Sauce",
-    "section": " Ingredients",
-    "text": "Ingredients\n\nFor the Poke Bowl:\n\n200 grams firm tofu\n150 grams sushi rice\n1 small cucumber\n50 grams wakame (seaweed salad)\n100 grams shelled edamame\n1 small broccoli head\n1 medium carrot\n1 red bell pepper\n1 mango\n1 avocado\n1 tablespoon sesame seeds\n1 table spoon soy sauce\n1 tablespoon rice vinegar\n1 teaspoon sesame oil\n1 tablespoon vegetable oil (for frying tofu)\n\n\n\nFor the Peanut Sauce:\n\n3 tablespoons peanut butter\n2 tablespoons soy sauce\n1 tablespoon rice vinegar\n1 tablespoon maple syrup or honey\n1 teaspoon chili flakes\n1 garlic clove, finely chopped\n2-3 tablespoons water (to thin the sauce)"
-  },
-  {
-    "objectID": "recipes/poke_bowl.html#fa-kitchen-set-procedure",
-    "href": "recipes/poke_bowl.html#fa-kitchen-set-procedure",
-    "title": "Poke Bowl with Tofu and Peanut Sauce",
-    "section": " Procedure",
-    "text": "Procedure\n\nPrepare the Rice:\n\nRinse the sushi rice under cold water until the water runs clear.\nCook the rice according to package instructions. Once cooked, let it cool slightly.\nIn a small bowl, mix 1 tablespoon soy sauce, 1 tablespoon rice vinegar, and 1 teaspoon sesame oil. Pour this mixture over the cooked rice and gently mix.\n\n\n\nPrepare the Tofu:\n\nDrain and press the tofu to remove excess water. Cut it into bite-sized cubes.\nHeat 1 tablespoon of vegetable oil in a pan over medium heat.\nFry the tofu cubes until they are golden brown on all sides. Remove from heat and set aside.\n\n\n\nPrepare the Vegetables and Fruits:\n\nSlice the cucumber into thin rounds.\nSteam the broccoli until tender-crisp.\nJulienne the carrot and red bell pepper.\nPeel and cube the mango.\nCut the avocado into slices.\n\n\n\nPrepare the Peanut Sauce:\n\nIn a bowl, mix the peanut butter, 2 tablespoons soy sauce, 1 tablespoon rice vinegar, 1 tablespoon maple syrup (or honey), 1 teaspoon chili flakes, and finely chopped garlic.\nGradually add water until the sauce reaches your desired consistency.\n\n\n\nAssemble the Poke Bowl:\n\nDivide the sushi rice between bowls.\nArrange the tofu, cucumber, wakame, edamame, broccoli, carrot, bell pepper, mango, and avocado on top of the rice.\nDrizzle the peanut sauce over the ingredients.\nSprinkle with sesame seeds.\n\n\n\nServe:\n\nServe the poke bowl immediately. Mix everything together before eating to ensure each bite is coated with the delicious peanut sauce.\nEnjoy your nutritious and flavorful poke bowl!"
-  },
-  {
-    "objectID": "recipes/granola.html",
-    "href": "recipes/granola.html",
-    "title": "Granola",
-    "section": "",
-    "text": "500 g oats\n50 g walnuts\n50 g cashews\n50 g almonds\n50 g pecans\n25 g cacao nibs\n50 g chia seeds\n50 g dried apricots, cranberries (or whatever you like)\nother seeds or nuts you like\n2-3 teaspoons honey (or a vegan alternative)\n2 teaspoons cinnamon"
-  },
-  {
-    "objectID": "recipes/granola.html#fa-basket-shopping-ingredients",
-    "href": "recipes/granola.html#fa-basket-shopping-ingredients",
-    "title": "Granola",
-    "section": "",
-    "text": "500 g oats\n50 g walnuts\n50 g cashews\n50 g almonds\n50 g pecans\n25 g cacao nibs\n50 g chia seeds\n50 g dried apricots, cranberries (or whatever you like)\nother seeds or nuts you like\n2-3 teaspoons honey (or a vegan alternative)\n2 teaspoons cinnamon"
-  },
-  {
-    "objectID": "recipes/granola.html#fa-kitchen-set-procedure",
-    "href": "recipes/granola.html#fa-kitchen-set-procedure",
-    "title": "Granola",
-    "section": " Procedure",
-    "text": "Procedure\n\nPreheat the oven.\nChop the nuts, if desired.\nMix all the ingredients (except the dried fruits, cacao nibs and chia seeds).\nSpread it on a baking sheet.\nPut it into the oven. Bake until the granola is golden brown.\nLet the granola cool. Add the dried fruits and chia seeds.\nUse it as a topping or enjoy it for breakfast."
-  },
-  {
-    "objectID": "recipes/gyoza.html",
-    "href": "recipes/gyoza.html",
-    "title": "Gyoza",
-    "section": "",
-    "text": "100 g pointed cabbage\n100 g carrots\n100 g minced beef (or tofu)\n180 g flour\n108 ml boiling water\n1 tbsp soy sauce\n1 garlic clove\n1 tsp stock powder\n1 tsp white wine\n1 tsp sesame oil\nsalt\npotato starch\ncooking oil"
-  },
-  {
-    "objectID": "recipes/gyoza.html#fa-basket-shopping-ingredients",
-    "href": "recipes/gyoza.html#fa-basket-shopping-ingredients",
-    "title": "Gyoza",
-    "section": "",
-    "text": "100 g pointed cabbage\n100 g carrots\n100 g minced beef (or tofu)\n180 g flour\n108 ml boiling water\n1 tbsp soy sauce\n1 garlic clove\n1 tsp stock powder\n1 tsp white wine\n1 tsp sesame oil\nsalt\npotato starch\ncooking oil"
-  },
-  {
-    "objectID": "recipes/gyoza.html#fa-kitchen-set-procedure",
-    "href": "recipes/gyoza.html#fa-kitchen-set-procedure",
-    "title": "Gyoza",
-    "section": " Procedure",
-    "text": "Procedure\n\nMix flour, 1 tsp of salt and boiling water. When cool enough, start kneading until a smooth dough forms. Leave the dough to rest in cling film for 15 minutes.\nFinely chop cabbage, garlic, carrots (and tofu) and mix with soy sauce, stock powder, sesame oil and white wine.\nDivide the dough into thirds, roll the thirds into rolls, and cut into 12 pieces. Shape the pieces into “flat cakes” and roll each one in potato starch. Roll out each piece into a thin circle using a rolling pin.\nFill each dough piece with one tbsp of the cabbage mixture. Wet the edge of the circle with some water. Next, fold it into a half circle and pinch the edges together.\nHeat cooking oil in a pan. Add Gyoza for about 3 minutes until they brown on the bottom. Add about half a cup of water mixed with a tbsp of flour to the bottom of the pan. Cover the Gyoza for about 8 minutes and let it simmer. Then remove the top and keep the heat on until the water is gone and a crispy bottom has formed.\nEnjoy!\n\nPro Tipp: The recipes works much faster and makes much more fun when you do it with another person, which is why it is the perfect food for a date or an evening with friends :)"
-  },
-  {
-    "objectID": "recipes/tiktok-ramen.html",
-    "href": "recipes/tiktok-ramen.html",
-    "title": "TikTok Ramen",
-    "section": "",
-    "text": "125 grams ramen noodles\n2 garlic cloves\n30 grams plant-based butter\n1 teaspoon chili flakes\n2 teaspoons brown sugar\n3 tablespoons soy sauce\n1 leek\n2 eggs (optional)"
-  },
-  {
-    "objectID": "recipes/tiktok-ramen.html#fa-basket-shopping-ingredients",
-    "href": "recipes/tiktok-ramen.html#fa-basket-shopping-ingredients",
-    "title": "TikTok Ramen",
-    "section": "",
-    "text": "125 grams ramen noodles\n2 garlic cloves\n30 grams plant-based butter\n1 teaspoon chili flakes\n2 teaspoons brown sugar\n3 tablespoons soy sauce\n1 leek\n2 eggs (optional)"
-  },
-  {
-    "objectID": "recipes/tiktok-ramen.html#fa-kitchen-set-procedure",
-    "href": "recipes/tiktok-ramen.html#fa-kitchen-set-procedure",
-    "title": "TikTok Ramen",
-    "section": " Procedure",
-    "text": "Procedure\n\nCook the ramen in boiling salted water for about 4 minutes.\nMeanwhile, peel and finely chop the garlic cloves.\nHeat the plant-based butter in a pan and sauté the garlic. Stir in the chili flakes.\nStir in the brown sugar and dissolve. Add soy sauce and mix in the ramen noodles.\nRemove the pan from heat and stir until the noodles are evenly coated.\nSlice the leek and set it aside for garnish.\nFor the non-vegan version, beat two eggs and cook them in a pan until scrambled. Mix the scrambled eggs with the noodles and serve everything together.\n\nEnjoy your meal!"
-  },
-  {
-    "objectID": "recipes/bananabread.html",
-    "href": "recipes/bananabread.html",
-    "title": "Bananabread",
-    "section": "",
-    "text": "125 grams all-purpose flour (unbleached)\n125 grams whole wheat or spelt flour\n125 grams brown sugar\n150 grams small seeds (whatever you like/have: sunflower seeds, pumpkin seeds, walnut kernels, pine nuts, chia seeds, etc.)\n1 good pinch of sea salt\n1 teaspoon baking powder\n3 medium-sized ripe bananas, peeled\nZest and juice of 1 lemon\n2 tablespoons olive oil\n2 tablespoons natural or unsweetened soy yogurt or coconut yogurt\n2 eggs, preferably organic or free-range, beaten\n\n\n\n\n\n1 tablespoon tahini\n3 tablespoons golden powdered sugar or liquid honey\nJuice of 1 lemon"
-  },
-  {
-    "objectID": "recipes/bananabread.html#fa-basket-shopping-ingredients",
-    "href": "recipes/bananabread.html#fa-basket-shopping-ingredients",
-    "title": "Bananabread",
-    "section": "",
-    "text": "125 grams all-purpose flour (unbleached)\n125 grams whole wheat or spelt flour\n125 grams brown sugar\n150 grams small seeds (whatever you like/have: sunflower seeds, pumpkin seeds, walnut kernels, pine nuts, chia seeds, etc.)\n1 good pinch of sea salt\n1 teaspoon baking powder\n3 medium-sized ripe bananas, peeled\nZest and juice of 1 lemon\n2 tablespoons olive oil\n2 tablespoons natural or unsweetened soy yogurt or coconut yogurt\n2 eggs, preferably organic or free-range, beaten\n\n\n\n\n\n1 tablespoon tahini\n3 tablespoons golden powdered sugar or liquid honey\nJuice of 1 lemon"
-  },
-  {
-    "objectID": "recipes/bananabread.html#fa-kitchen-set-procedure",
-    "href": "recipes/bananabread.html#fa-kitchen-set-procedure",
-    "title": "Bananabread",
-    "section": " Procedure",
-    "text": "Procedure\n\nPreheat the oven to 200°C (400°F).\nGrease a non-stick loaf pan with butter and dust it with flour (if the loaf pan is not non-stick, you can also line it with parchment paper).\nCombine all the dry ingredients in a mixing bowl - flours, sugar, seeds, salt, and baking powder - and mix well.\nIn another bowl, mash the bananas with a fork (leaving them slightly chunky if desired), then add lemon juice and zest, olive oil, yogurt, and beaten eggs, mixing well.\nAdd the wet ingredients to the bowl of dry ingredients and gently mix - just enough to combine everything.\nTransfer the mixture into the loaf pan and bake for 40 to 45 minutes, or until a toothpick comes out clean.\nOptional: While the cake is baking, prepare the Lemon Drizzle. Stir tahini and powdered sugar in a bowl until smooth, add lemon juice, and mix well.\nRemove the cake from the oven and let it cool in the pan until it’s cool enough to transfer to a wire rack. While the cake is still warm, place a large plate under the rack, then poke the cake all over with a skewer, pour the drizzle over it, and let it soak in."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Recipes",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Modified - Oldest\n        \n         \n          Modified - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nsweet\n\n\nvegetarian\n\n\n \n\n\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\ndessert\n\n\ncake\n\n\nbaking\n\n\n \n\n\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nvegetarian\n\n\npasta\n\n\n \n\n\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nsweet\n\n\ndessert\n\n\nvegetarian\n\n\n \n\n\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nsweet\n\n\nbaking\n\n\n \n\n\n\n\nJune 13, 2024\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#recipes-by-lennart",
-    "href": "index.html#recipes-by-lennart",
-    "title": "Recipes",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Modified - Oldest\n        \n         \n          Modified - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nsweet\n\n\nvegetarian\n\n\n \n\n\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\ndessert\n\n\ncake\n\n\nbaking\n\n\n \n\n\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nvegetarian\n\n\npasta\n\n\n \n\n\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nsweet\n\n\ndessert\n\n\nvegetarian\n\n\n \n\n\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nsweet\n\n\nbaking\n\n\n \n\n\n\n\nJune 13, 2024\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#recipes-by-contributors",
-    "href": "index.html#recipes-by-contributors",
-    "title": "Recipes",
-    "section": "Recipes by Contributors",
-    "text": "Recipes by Contributors\nThank you to all contributors!\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Modified - Oldest\n        \n         \n          Modified - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nMuesli recipe\n\n\n\n\n\n\n\nvegan\n\n\nyummy\n\n\ncrispy\n\n\nbreakfast\n\n\n \n\n\n\n\nMiriam Rabels\n\n\nJune 18, 2024\n\n\n\n\n\n\n  \n\n\n\n\nGranola\n\n\n\n\n\n\n\nsweet\n\n\nvegetarian\n\n\n \n\n\n\n\nNicola Zuehlke\n\n\nJune 18, 2024\n\n\n\n\n\n\n  \n\n\n\n\nPoke Bowl with Tofu and Peanut Sauce\n\n\n\n\n\n\n\nvegan\n\n\nvietnamese\n\n\n \n\n\n\n\nSanna Schrage\n\n\nJune 17, 2024\n\n\n\n\n\n\n  \n\n\n\n\nVegan Pizza\n\n\n\n\n\n\n\nvegan\n\n\npizza\n\n\n \n\n\n\n\nMichelle Reiter\n\n\nJune 17, 2024\n\n\n\n\n\n\n  \n\n\n\n\nPasta alla Norma\n\n\n\n\n\n\n\nmain course\n\n\npasta\n\n\nItalian cuisine\n\n\n \n\n\n\n\nNicole Ratza\n\n\nJune 17, 2024\n\n\n\n\n\n\n  \n\n\n\n\nRaspberry Sponge Cake with Meringue\n\n\n\n\n\n\n\nfancy cake\n\n\nraspberry\n\n\nmeringue\n\n\nsponge cake\n\n\n \n\n\n\n\nLuca Nowak\n\n\nJune 17, 2024\n\n\n\n\n\n\n  \n\n\n\n\nVegan Carrot Cake\n\n\n\n\n\n\n\ncake\n\n\ndessert\n\n\nsweet\n\n\nvegan\n\n\n \n\n\n\n\nSivanujah Kumarasamy\n\n\nJune 17, 2024\n\n\n\n\n\n\n  \n\n\n\n\nAvocado Toast\n\n\n\n\n\n\n\nBreakfast\n\n\nSnack\n\n\n \n\n\n\n\nJune 17, 2024\n\n\n\n\n\n\n  \n\n\n\n\nVegan Brownies\n\n\n\n\n\n\n\nvegan\n\n\ndessert\n\n\nbaking\n\n\ncake\n\n\nsweet\n\n\n \n\n\n\n\nMaria Jakubowski\n\n\nJune 17, 2024\n\n\n\n\n\n\n  \n\n\n\n\nCup of Sugar\n\n\n\n\n\n\n\n\n\nPaul Gallenkemper\n\n\nJune 17, 2024\n\n\n\n\n\n\n  \n\n\n\n\nGyoza\n\n\n\n\n\n\n\nvegetarian\n\n\nvegan\n\n\nAsian\n\n\nDate Night Food\n\n\n \n\n\n\n\nKaro\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\nBanana Brownies\n\n\n\n\n\n\n\nsweet\n\n\ndessert\n\n\nvegetarian\n\n\n \n\n\n\n\nGloria Röhrig\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\nCinnamon Rolls\n\n\n\n\n\n\n\nsweet\n\n\ndessert\n\n\nvegetarian\n\n\n \n\n\n\n\nCarolyn Jakubeit\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\nTikTok Ramen\n\n\n\n\n\n\n\nmain course\n\n\nnoodles\n\n\nAsian cuisine\n\n\n \n\n\n\n\nKonrad Pagenstedt\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\nIranian Stew Fesenjan\n\n\n\n\n\n\n\ninternational\n\n\n \n\n\n\n\nReza Hakimazar\n\n\nJune 10, 2024\n\n\n\n\n\n\n  \n\n\n\n\nTomatosoup\n\n\n\n\n\n\n\n\n\nPaul Schreiner\n\n\nJune 10, 2024\n\n\n\n\n\n\n  \n\n\n\n\nNoodles\n\n\n\n\n\n\n\n\n\nMax\n\n\nJanuary 19, 2024\n\n\n\n\n\n\n  \n\n\n\n\nTiramisù\n\n\n\n\n\n\n\ndessert\n\n\nItalian\n\n\n \n\n\n\n\nMatteo Carpi\n\n\nDecember 19, 2023\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "CONTRIBUTING.html",
-    "href": "CONTRIBUTING.html",
-    "title": "Contributing to Our Project",
-    "section": "",
-    "text": "I welcome contributions to this project! Whether you’re fixing bugs, improving documentation, or adding new recipes, your input is greatly appreciated. Please follow the guidelines below to contribute to the project effectively.\n\n\n\n\nTo add a new recipe to the repository, please follow these steps:\n\nNavigate to the Recipes Folder: Locate the /recipes subfolder in the project directory.\nCreate a New Recipe File: Create a new .qmd file within the /recipes subfolder for your recipe. To simplify this process, you can copy an existing recipe file as a template or use the template.qmd file as a starting point.\nAdd Your Recipe: Populate the new .qmd file with your recipe details. Make sure to follow the formatting and structure of the existing recipes for consistency.\nCommit Your Changes: Once you’ve added your recipe, commit your changes with a meaningful commit message. For example:\ngit commit -m \"Add new recipe for [Recipe Name]\"\n\n\n\n\n\nBy contributing to this project, you agree that your contributions will be licensed under its MIT License. Thank you for your contributions! Together, we can make this project even better."
-  },
-  {
-    "objectID": "CONTRIBUTING.html#how-to-contribute",
-    "href": "CONTRIBUTING.html#how-to-contribute",
-    "title": "Contributing to Our Project",
-    "section": "",
-    "text": "To add a new recipe to the repository, please follow these steps:\n\nNavigate to the Recipes Folder: Locate the /recipes subfolder in the project directory.\nCreate a New Recipe File: Create a new .qmd file within the /recipes subfolder for your recipe. To simplify this process, you can copy an existing recipe file as a template or use the template.qmd file as a starting point.\nAdd Your Recipe: Populate the new .qmd file with your recipe details. Make sure to follow the formatting and structure of the existing recipes for consistency.\nCommit Your Changes: Once you’ve added your recipe, commit your changes with a meaningful commit message. For example:\ngit commit -m \"Add new recipe for [Recipe Name]\""
-  },
-  {
-    "objectID": "CONTRIBUTING.html#license",
-    "href": "CONTRIBUTING.html#license",
-    "title": "Contributing to Our Project",
-    "section": "",
-    "text": "By contributing to this project, you agree that your contributions will be licensed under its MIT License. Thank you for your contributions! Together, we can make this project even better."
+    "text": "Procedure\n\nPlace all the ingredients in a bowl and mix, preferably by hand, until the dough forms a large lump. The lump should not stick, but should also not fall apart easily. If, for example, the consistency is not right when adding up the ingredients, simply add water, flour or oat flakes carefully.\nFinally, crumble the mixture onto a baking tray lined with baking paper. The amount given is pretty much enough for a normal-sized tray. There’s no need to worry about the lumps baking together and you can use up all the space.\nPreheat the oven to 160 °C and bake the muesli for about 30 minutes.\nThe baking time can vary depending on how the oven behaves or how tightly you have covered the tray. Just make sure that you take the muesli out when it starts to get a little dark. Don’t be disappointed if it isn’t crispy when you take it out: it will only be really crispy once it has cooled.\nFinally, you can add chocolate, nuts, seeds or dried fruit such as raisins or cranberries to taste."
   },
   {
     "objectID": "recipes/tiramisu.html",
@@ -329,6 +42,97 @@
     "text": "Procedure\n\nPut 4 egg yolks and 50g of sugar together, mix them well so they become a bit foamy.\nAdd 500g mascarpone and mix to make it homogeneous.\nMix 4 egg whites so they become like snow, towards the end add the other 50g of sugar.\nMix the two mixtures together.\nPut a thin layer of the cream on the bottom of the tray.\nDip the savoiardi in coffee (don’t make them too soaked as they will soften slowly and if you put too much coffee they become too liquid).\nAs you dip the savoiardi, place them in the tray.\nCover everything with the rest of the cream.\nSprinkle cocoa powder on top before serving.\n\n\n\n\nYummy"
   },
   {
+    "objectID": "recipes/pancakes.html",
+    "href": "recipes/pancakes.html",
+    "title": "Pancakes",
+    "section": "",
+    "text": "Not vegan, contains eggs and milk!"
+  },
+  {
+    "objectID": "recipes/pancakes.html#fa-basket-shopping-ingredients",
+    "href": "recipes/pancakes.html#fa-basket-shopping-ingredients",
+    "title": "Pancakes",
+    "section": " Ingredients",
+    "text": "Ingredients\n\n250 g flour\n2 tablespoons baking powder\n500 g milk\n2 or 3 eggs\nA bit of butter"
+  },
+  {
+    "objectID": "recipes/pancakes.html#fa-kitchen-set-preparation",
+    "href": "recipes/pancakes.html#fa-kitchen-set-preparation",
+    "title": "Pancakes",
+    "section": " Preparation",
+    "text": "Preparation\n\nMix the flour and the baking powder\nSlowly add the milk and mix\nAdd the eggs and mix\nAdd a bit of butter to a large pan and heat\nMake the pancakes"
+  },
+  {
+    "objectID": "recipes/granola.html",
+    "href": "recipes/granola.html",
+    "title": "Granola",
+    "section": "",
+    "text": "500 g oats\n50 g walnuts\n50 g cashews\n50 g almonds\n50 g pecans\n25 g cacao nibs\n50 g chia seeds\n50 g dried apricots, cranberries (or whatever you like)\nother seeds or nuts you like\n2-3 teaspoons honey (or a vegan alternative)\n2 teaspoons cinnamon"
+  },
+  {
+    "objectID": "recipes/granola.html#fa-basket-shopping-ingredients",
+    "href": "recipes/granola.html#fa-basket-shopping-ingredients",
+    "title": "Granola",
+    "section": "",
+    "text": "500 g oats\n50 g walnuts\n50 g cashews\n50 g almonds\n50 g pecans\n25 g cacao nibs\n50 g chia seeds\n50 g dried apricots, cranberries (or whatever you like)\nother seeds or nuts you like\n2-3 teaspoons honey (or a vegan alternative)\n2 teaspoons cinnamon"
+  },
+  {
+    "objectID": "recipes/granola.html#fa-kitchen-set-procedure",
+    "href": "recipes/granola.html#fa-kitchen-set-procedure",
+    "title": "Granola",
+    "section": " Procedure",
+    "text": "Procedure\n\nPreheat the oven.\nChop the nuts, if desired.\nMix all the ingredients (except the dried fruits, cacao nibs and chia seeds).\nSpread it on a baking sheet.\nPut it into the oven. Bake until the granola is golden brown.\nLet the granola cool. Add the dried fruits and chia seeds.\nUse it as a topping or enjoy it for breakfast."
+  },
+  {
+    "objectID": "recipes/poke_bowl.html",
+    "href": "recipes/poke_bowl.html",
+    "title": "Poke Bowl with Tofu and Peanut Sauce",
+    "section": "",
+    "text": "two servings"
+  },
+  {
+    "objectID": "recipes/poke_bowl.html#fa-basket-shopping-ingredients",
+    "href": "recipes/poke_bowl.html#fa-basket-shopping-ingredients",
+    "title": "Poke Bowl with Tofu and Peanut Sauce",
+    "section": " Ingredients",
+    "text": "Ingredients\n\nFor the Poke Bowl:\n\n200 grams firm tofu\n150 grams sushi rice\n1 small cucumber\n50 grams wakame (seaweed salad)\n100 grams shelled edamame\n1 small broccoli head\n1 medium carrot\n1 red bell pepper\n1 mango\n1 avocado\n1 tablespoon sesame seeds\n1 table spoon soy sauce\n1 tablespoon rice vinegar\n1 teaspoon sesame oil\n1 tablespoon vegetable oil (for frying tofu)\n\n\n\nFor the Peanut Sauce:\n\n3 tablespoons peanut butter\n2 tablespoons soy sauce\n1 tablespoon rice vinegar\n1 tablespoon maple syrup or honey\n1 teaspoon chili flakes\n1 garlic clove, finely chopped\n2-3 tablespoons water (to thin the sauce)"
+  },
+  {
+    "objectID": "recipes/poke_bowl.html#fa-kitchen-set-procedure",
+    "href": "recipes/poke_bowl.html#fa-kitchen-set-procedure",
+    "title": "Poke Bowl with Tofu and Peanut Sauce",
+    "section": " Procedure",
+    "text": "Procedure\n\nPrepare the Rice:\n\nRinse the sushi rice under cold water until the water runs clear.\nCook the rice according to package instructions. Once cooked, let it cool slightly.\nIn a small bowl, mix 1 tablespoon soy sauce, 1 tablespoon rice vinegar, and 1 teaspoon sesame oil. Pour this mixture over the cooked rice and gently mix.\n\n\n\nPrepare the Tofu:\n\nDrain and press the tofu to remove excess water. Cut it into bite-sized cubes.\nHeat 1 tablespoon of vegetable oil in a pan over medium heat.\nFry the tofu cubes until they are golden brown on all sides. Remove from heat and set aside.\n\n\n\nPrepare the Vegetables and Fruits:\n\nSlice the cucumber into thin rounds.\nSteam the broccoli until tender-crisp.\nJulienne the carrot and red bell pepper.\nPeel and cube the mango.\nCut the avocado into slices.\n\n\n\nPrepare the Peanut Sauce:\n\nIn a bowl, mix the peanut butter, 2 tablespoons soy sauce, 1 tablespoon rice vinegar, 1 tablespoon maple syrup (or honey), 1 teaspoon chili flakes, and finely chopped garlic.\nGradually add water until the sauce reaches your desired consistency.\n\n\n\nAssemble the Poke Bowl:\n\nDivide the sushi rice between bowls.\nArrange the tofu, cucumber, wakame, edamame, broccoli, carrot, bell pepper, mango, and avocado on top of the rice.\nDrizzle the peanut sauce over the ingredients.\nSprinkle with sesame seeds.\n\n\n\nServe:\n\nServe the poke bowl immediately. Mix everything together before eating to ensure each bite is coated with the delicious peanut sauce.\nEnjoy your nutritious and flavorful poke bowl!"
+  },
+  {
+    "objectID": "recipes/cup_of_sugar.html",
+    "href": "recipes/cup_of_sugar.html",
+    "title": "Cup of Sugar",
+    "section": "",
+    "text": "roll the dice on how much sugar you want.\n\ndice &lt;- c(1,2,3,4,5,6)\namount_of_sugar &lt;- sample(dice, 1)"
+  },
+  {
+    "objectID": "recipes/cup_of_sugar.html#fa-basket-shopping-ingredients",
+    "href": "recipes/cup_of_sugar.html#fa-basket-shopping-ingredients",
+    "title": "Cup of Sugar",
+    "section": "",
+    "text": "roll the dice on how much sugar you want.\n\ndice &lt;- c(1,2,3,4,5,6)\namount_of_sugar &lt;- sample(dice, 1)"
+  },
+  {
+    "objectID": "recipes/cup_of_sugar.html#fa-kitchen-set-procedure",
+    "href": "recipes/cup_of_sugar.html#fa-kitchen-set-procedure",
+    "title": "Cup of Sugar",
+    "section": " Procedure",
+    "text": "Procedure\nYou need to put 2 grams in a cup."
+  },
+  {
+    "objectID": "recipes/cup_of_sugar.html#photo-of-result",
+    "href": "recipes/cup_of_sugar.html#photo-of-result",
+    "title": "Cup of Sugar",
+    "section": "Photo of result",
+    "text": "Photo of result"
+  },
+  {
     "objectID": "recipes/fesenjan.html",
     "href": "recipes/fesenjan.html",
     "title": "Iranian Stew Fesenjan",
@@ -348,6 +152,48 @@
     "title": "Iranian Stew Fesenjan",
     "section": " Procedure",
     "text": "Procedure\n\nGrind the Walnuts\nToast the Walnuts\nCook Onions\nCook Chicken Thighs\nAdd the Ground Walnuts\nAdd Pomegranate Molasses, Sugar and Saffron\nAdd the Chicken, Simmer and Season"
+  },
+  {
+    "objectID": "recipes/Avocado-Toast.html",
+    "href": "recipes/Avocado-Toast.html",
+    "title": "Avocado Toast",
+    "section": "",
+    "text": "A delicious avocado toast"
+  },
+  {
+    "objectID": "recipes/Avocado-Toast.html#fa-basket-shopping-ingredients",
+    "href": "recipes/Avocado-Toast.html#fa-basket-shopping-ingredients",
+    "title": "Avocado Toast",
+    "section": " Ingredients",
+    "text": "Ingredients\n\n1 ripe avocado\n2 slices of bread\nSalt to taste\nPepper to taste\nLemon juice"
+  },
+  {
+    "objectID": "recipes/Avocado-Toast.html#fa-kitchen-set-procedure",
+    "href": "recipes/Avocado-Toast.html#fa-kitchen-set-procedure",
+    "title": "Avocado Toast",
+    "section": " Procedure",
+    "text": "Procedure\n\nToast the slices of bread to your desired level of crispiness.\nCut the avocado in half, remove the pit, and scoop the flesh into a bowl. Mash the avocado with a fork until smooth.\nSpread the mashed avocado evenly onto the toasted bread slices. Season with salt and pepper to taste. Add a squeeze of lemon juice if desired for extra flavor."
+  },
+  {
+    "objectID": "recipes/template.html",
+    "href": "recipes/template.html",
+    "title": "Template for new recipe",
+    "section": "",
+    "text": "Add your ingredients here\n[ ]\n[ ]\n[ ]\n[ ]"
+  },
+  {
+    "objectID": "recipes/template.html#fa-basket-shopping-ingredients",
+    "href": "recipes/template.html#fa-basket-shopping-ingredients",
+    "title": "Template for new recipe",
+    "section": "",
+    "text": "Add your ingredients here\n[ ]\n[ ]\n[ ]\n[ ]"
+  },
+  {
+    "objectID": "recipes/template.html#fa-kitchen-set-procedure",
+    "href": "recipes/template.html#fa-kitchen-set-procedure",
+    "title": "Template for new recipe",
+    "section": " Procedure",
+    "text": "Procedure\n\nStep 1\nStep 2\nStep 3"
   },
   {
     "objectID": "recipes/banana-brownies.html",
@@ -378,6 +224,132 @@
     "text": "Source\nhttps://www.einfachbacken.de/rezepte/bananen-brownies-so-saftig-schokoladig"
   },
   {
+    "objectID": "recipes/vegan_brownies.html",
+    "href": "recipes/vegan_brownies.html",
+    "title": "Vegan Brownies",
+    "section": "",
+    "text": "1 Cup All Purpose Flour\n1 Cup Granulated Sugar\n1/2 Cup Cocoa Powder\n1 Teaspoon Baking Powder\n1/2 Cup Water\n1/2 Cup Vegetable Oil or melted Coconut Oil\n1 Teaspoon Vanilla Extract\n1/2 cup vegan chocolate chips (optional)\n1/4 Chopped Nuts (optional)"
+  },
+  {
+    "objectID": "recipes/vegan_brownies.html#fa-basket-shopping-ingredients",
+    "href": "recipes/vegan_brownies.html#fa-basket-shopping-ingredients",
+    "title": "Vegan Brownies",
+    "section": "",
+    "text": "1 Cup All Purpose Flour\n1 Cup Granulated Sugar\n1/2 Cup Cocoa Powder\n1 Teaspoon Baking Powder\n1/2 Cup Water\n1/2 Cup Vegetable Oil or melted Coconut Oil\n1 Teaspoon Vanilla Extract\n1/2 cup vegan chocolate chips (optional)\n1/4 Chopped Nuts (optional)"
+  },
+  {
+    "objectID": "recipes/vegan_brownies.html#fa-kitchen-set-procedure",
+    "href": "recipes/vegan_brownies.html#fa-kitchen-set-procedure",
+    "title": "Vegan Brownies",
+    "section": " Procedure",
+    "text": "Procedure\n\nPreheat your oven to 350°F (175°C). Lightly grease an 8x8-inch baking pan or line it with parchment paper.\nIn a large mixing bowl, whisk together the flour, sugar, cocoa powder, baking powder, and salt until well combined.\nAdd the water, vegetable oil (or melted coconut oil), and vanilla extract to the dry mixture. Stir until the batter is smooth and well combined.\nIf using, fold in the vegan chocolate chips and chopped nuts.\nPour the batter into the prepared baking pan, spreading it out evenly. Bake for 25-30 minutes, or until a toothpick inserted into the center comes out clean or with a few moist crumbs.\nAllow the brownies to cool completely in the pan on a wire rack before cutting into squares.\nEnjoy your vegan brownies plain or with a scoop of vegan ice cream on top!\n\nTips:\nFor an extra fudgy texture, reduce the baking time slightly. Feel free to customize your brownies with your favorite mix-ins like dried fruits or seeds.\nEnjoy your homemade vegan brownies!"
+  },
+  {
+    "objectID": "recipes/pasta-alla-norma.html",
+    "href": "recipes/pasta-alla-norma.html",
+    "title": "Pasta alla Norma",
+    "section": "",
+    "text": "600 g pasta (e.g. penne)\n150 g to 200 g ricotta salata, grated (alternatively pecorino or parmesan)\n2 aubergines\n1 bottle of tomato passata (approx. 700 g)\n1 clove of garlic\n1 handful of basil leaves\n1 pinch of sugar\nSalt & pepper\nOlive oil\nSunflower oil for frying"
+  },
+  {
+    "objectID": "recipes/pasta-alla-norma.html#fa-basket-shopping-ingredients",
+    "href": "recipes/pasta-alla-norma.html#fa-basket-shopping-ingredients",
+    "title": "Pasta alla Norma",
+    "section": "",
+    "text": "600 g pasta (e.g. penne)\n150 g to 200 g ricotta salata, grated (alternatively pecorino or parmesan)\n2 aubergines\n1 bottle of tomato passata (approx. 700 g)\n1 clove of garlic\n1 handful of basil leaves\n1 pinch of sugar\nSalt & pepper\nOlive oil\nSunflower oil for frying"
+  },
+  {
+    "objectID": "recipes/pasta-alla-norma.html#fa-kitchen-set-procedure",
+    "href": "recipes/pasta-alla-norma.html#fa-kitchen-set-procedure",
+    "title": "Pasta alla Norma",
+    "section": " Procedure",
+    "text": "Procedure\n\nCook the ramen in boiling salted water for about 4 minutes.\nMeanwhile, peel and finely chop the garlic cloves.\nHeat the plant-based butter in a pan and sauté the garlic. Stir in the chili flakes.\nStir in the brown sugar and dissolve. Add soy sauce and mix in the ramen noodles.\nRemove the pan from heat and stir until the noodles are evenly coated.\nSlice the leek and set it aside for garnish.\nFor the non-vegan version, beat two eggs and cook them in a pan until scrambled. Mix the scrambled eggs with the noodles and serve everything together.\nPREPARING THE AUBERGINES\nWash the aubergines, cut off the ends and cut into 1x1 cm cubes. You can also cut a few thin slices from the aubergine for decoration. Sprinkle with a little salt and leave to stand in a sieve for 1 hour.\nPlace a suitable bowl with a weight (e.g. water) in the sieve to weigh down the aubergines.\nNote: Salting removes water and bitter substances from the aubergines. Even though the bitter substances have been bred out of most types of aubergine nowadays, it is still worth salting them, as this removes water from the aubergine and makes them crispier when deep-frying.\nFOR THE TOMATO SAUCE\nHeat a little olive oil in a pan over a medium heat and add the garlic clove, allowing it to colour and flavour the oil.\nAdd the tomato passata and a pinch of sugar, season with salt and pepper and add the basil leaves. 8. Leave to simmer for approx. 15 mins. Stir occasionally.\nPREPARE THE AUBERGINES\nMeanwhile, deep-fry the aubergine cubes in plenty of sunflower oil until golden brown and then drain well on kitchen paper. Then add to the tomato sauce.\nFOR THE PASTA\nCook the pasta in salted water until al dente, drain and mix with the sauce.\nArrange on plates, sprinkle with the ricotta and serve immediately.\n\nEt viola, enjoy your meal!"
+  },
+  {
+    "objectID": "recipes/tiktok-ramen.html",
+    "href": "recipes/tiktok-ramen.html",
+    "title": "TikTok Ramen",
+    "section": "",
+    "text": "125 grams ramen noodles\n2 garlic cloves\n30 grams plant-based butter\n1 teaspoon chili flakes\n2 teaspoons brown sugar\n3 tablespoons soy sauce\n1 leek\n2 eggs (optional)"
+  },
+  {
+    "objectID": "recipes/tiktok-ramen.html#fa-basket-shopping-ingredients",
+    "href": "recipes/tiktok-ramen.html#fa-basket-shopping-ingredients",
+    "title": "TikTok Ramen",
+    "section": "",
+    "text": "125 grams ramen noodles\n2 garlic cloves\n30 grams plant-based butter\n1 teaspoon chili flakes\n2 teaspoons brown sugar\n3 tablespoons soy sauce\n1 leek\n2 eggs (optional)"
+  },
+  {
+    "objectID": "recipes/tiktok-ramen.html#fa-kitchen-set-procedure",
+    "href": "recipes/tiktok-ramen.html#fa-kitchen-set-procedure",
+    "title": "TikTok Ramen",
+    "section": " Procedure",
+    "text": "Procedure\n\nCook the ramen in boiling salted water for about 4 minutes.\nMeanwhile, peel and finely chop the garlic cloves.\nHeat the plant-based butter in a pan and sauté the garlic. Stir in the chili flakes.\nStir in the brown sugar and dissolve. Add soy sauce and mix in the ramen noodles.\nRemove the pan from heat and stir until the noodles are evenly coated.\nSlice the leek and set it aside for garnish.\nFor the non-vegan version, beat two eggs and cook them in a pan until scrambled. Mix the scrambled eggs with the noodles and serve everything together.\n\nEnjoy your meal!"
+  },
+  {
+    "objectID": "CONTRIBUTING.html",
+    "href": "CONTRIBUTING.html",
+    "title": "Contributing to Our Project",
+    "section": "",
+    "text": "I welcome contributions to this project! Whether you’re fixing bugs, improving documentation, or adding new recipes, your input is greatly appreciated. Please follow the guidelines below to contribute to the project effectively.\n\n\n\n\nTo add a new recipe to the repository, please follow these steps:\n\nNavigate to the Recipes Folder: Locate the /recipes subfolder in the project directory.\nCreate a New Recipe File: Create a new .qmd file within the /recipes subfolder for your recipe. To simplify this process, you can copy an existing recipe file as a template or use the template.qmd file as a starting point.\nAdd Your Recipe: Populate the new .qmd file with your recipe details. Make sure to follow the formatting and structure of the existing recipes for consistency.\nCommit Your Changes: Once you’ve added your recipe, commit your changes with a meaningful commit message. For example:\ngit commit -m \"Add new recipe for [Recipe Name]\"\n\n\n\n\n\nBy contributing to this project, you agree that your contributions will be licensed under its MIT License. Thank you for your contributions! Together, we can make this project even better."
+  },
+  {
+    "objectID": "CONTRIBUTING.html#how-to-contribute",
+    "href": "CONTRIBUTING.html#how-to-contribute",
+    "title": "Contributing to Our Project",
+    "section": "",
+    "text": "To add a new recipe to the repository, please follow these steps:\n\nNavigate to the Recipes Folder: Locate the /recipes subfolder in the project directory.\nCreate a New Recipe File: Create a new .qmd file within the /recipes subfolder for your recipe. To simplify this process, you can copy an existing recipe file as a template or use the template.qmd file as a starting point.\nAdd Your Recipe: Populate the new .qmd file with your recipe details. Make sure to follow the formatting and structure of the existing recipes for consistency.\nCommit Your Changes: Once you’ve added your recipe, commit your changes with a meaningful commit message. For example:\ngit commit -m \"Add new recipe for [Recipe Name]\""
+  },
+  {
+    "objectID": "CONTRIBUTING.html#license",
+    "href": "CONTRIBUTING.html#license",
+    "title": "Contributing to Our Project",
+    "section": "",
+    "text": "By contributing to this project, you agree that your contributions will be licensed under its MIT License. Thank you for your contributions! Together, we can make this project even better."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Recipes",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Modified - Oldest\n        \n         \n          Modified - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nsweet\n\n\nvegetarian\n\n\n \n\n\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nvegetarian\n\n\npasta\n\n\n \n\n\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nsweet\n\n\ndessert\n\n\nvegetarian\n\n\n \n\n\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nsweet\n\n\nbaking\n\n\n \n\n\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\ndessert\n\n\ncake\n\n\nbaking\n\n\n \n\n\n\n\nJune 13, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#recipes-by-lennart",
+    "href": "index.html#recipes-by-lennart",
+    "title": "Recipes",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Modified - Oldest\n        \n         \n          Modified - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nsweet\n\n\nvegetarian\n\n\n \n\n\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nvegetarian\n\n\npasta\n\n\n \n\n\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nsweet\n\n\ndessert\n\n\nvegetarian\n\n\n \n\n\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nsweet\n\n\nbaking\n\n\n \n\n\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\ndessert\n\n\ncake\n\n\nbaking\n\n\n \n\n\n\n\nJune 13, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#recipes-by-contributors",
+    "href": "index.html#recipes-by-contributors",
+    "title": "Recipes",
+    "section": "Recipes by Contributors",
+    "text": "Recipes by Contributors\nThank you to all contributors!\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Modified - Oldest\n        \n         \n          Modified - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nPotato salad\n\n\n\n\n\n\n\nsalad\n\n\nvegetarian\n\n\n \n\n\n\n\nMareike Wagner\n\n\nJune 18, 2024\n\n\n\n\n\n\n  \n\n\n\n\nMuesli recipe\n\n\n\n\n\n\n\nvegan\n\n\nyummy\n\n\ncrispy\n\n\nbreakfast\n\n\n \n\n\n\n\nMiriam Rabels\n\n\nJune 18, 2024\n\n\n\n\n\n\n  \n\n\n\n\nGranola\n\n\n\n\n\n\n\nsweet\n\n\nvegetarian\n\n\n \n\n\n\n\nNicola Zuehlke\n\n\nJune 18, 2024\n\n\n\n\n\n\n  \n\n\n\n\nPoke Bowl with Tofu and Peanut Sauce\n\n\n\n\n\n\n\nvegan\n\n\nvietnamese\n\n\n \n\n\n\n\nSanna Schrage\n\n\nJune 17, 2024\n\n\n\n\n\n\n  \n\n\n\n\nVegan Pizza\n\n\n\n\n\n\n\nvegan\n\n\npizza\n\n\n \n\n\n\n\nMichelle Reiter\n\n\nJune 17, 2024\n\n\n\n\n\n\n  \n\n\n\n\nPasta alla Norma\n\n\n\n\n\n\n\nmain course\n\n\npasta\n\n\nItalian cuisine\n\n\n \n\n\n\n\nNicole Ratza\n\n\nJune 17, 2024\n\n\n\n\n\n\n  \n\n\n\n\nRaspberry Sponge Cake with Meringue\n\n\n\n\n\n\n\nfancy cake\n\n\nraspberry\n\n\nmeringue\n\n\nsponge cake\n\n\n \n\n\n\n\nLuca Nowak\n\n\nJune 17, 2024\n\n\n\n\n\n\n  \n\n\n\n\nVegan Carrot Cake\n\n\n\n\n\n\n\ncake\n\n\ndessert\n\n\nsweet\n\n\nvegan\n\n\n \n\n\n\n\nSivanujah Kumarasamy\n\n\nJune 17, 2024\n\n\n\n\n\n\n  \n\n\n\n\nAvocado Toast\n\n\n\n\n\n\n\nBreakfast\n\n\nSnack\n\n\n \n\n\n\n\nJune 17, 2024\n\n\n\n\n\n\n  \n\n\n\n\nVegan Brownies\n\n\n\n\n\n\n\nvegan\n\n\ndessert\n\n\nbaking\n\n\ncake\n\n\nsweet\n\n\n \n\n\n\n\nMaria Jakubowski\n\n\nJune 17, 2024\n\n\n\n\n\n\n  \n\n\n\n\nCup of Sugar\n\n\n\n\n\n\n\n\n\nPaul Gallenkemper\n\n\nJune 17, 2024\n\n\n\n\n\n\n  \n\n\n\n\nGyoza\n\n\n\n\n\n\n\nvegetarian\n\n\nvegan\n\n\nAsian\n\n\nDate Night Food\n\n\n \n\n\n\n\nKaro\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\nBanana Brownies\n\n\n\n\n\n\n\nsweet\n\n\ndessert\n\n\nvegetarian\n\n\n \n\n\n\n\nGloria Röhrig\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\nCinnamon Rolls\n\n\n\n\n\n\n\nsweet\n\n\ndessert\n\n\nvegetarian\n\n\n \n\n\n\n\nCarolyn Jakubeit\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\nTikTok Ramen\n\n\n\n\n\n\n\nmain course\n\n\nnoodles\n\n\nAsian cuisine\n\n\n \n\n\n\n\nKonrad Pagenstedt\n\n\nJune 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\nIranian Stew Fesenjan\n\n\n\n\n\n\n\ninternational\n\n\n \n\n\n\n\nReza Hakimazar\n\n\nJune 10, 2024\n\n\n\n\n\n\n  \n\n\n\n\nTomatosoup\n\n\n\n\n\n\n\n\n\nPaul Schreiner\n\n\nJune 10, 2024\n\n\n\n\n\n\n  \n\n\n\n\nNoodles\n\n\n\n\n\n\n\n\n\nMax\n\n\nJanuary 19, 2024\n\n\n\n\n\n\n  \n\n\n\n\nTiramisù\n\n\n\n\n\n\n\ndessert\n\n\nItalian\n\n\n \n\n\n\n\nMatteo Carpi\n\n\nDecember 19, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "recipes/Potato-salad.html",
+    "href": "recipes/Potato-salad.html",
+    "title": "Potato salad",
+    "section": "",
+    "text": "1 kilogram Potatoes\n1 Onion\n5 Eggs\n1 Jar of pickles\n1 Can of peas and carrots\n1 glass Miracel Whip light\nSalt and pepper"
+  },
+  {
+    "objectID": "recipes/Potato-salad.html#fa-basket-shopping-ingredients",
+    "href": "recipes/Potato-salad.html#fa-basket-shopping-ingredients",
+    "title": "Potato salad",
+    "section": "",
+    "text": "1 kilogram Potatoes\n1 Onion\n5 Eggs\n1 Jar of pickles\n1 Can of peas and carrots\n1 glass Miracel Whip light\nSalt and pepper"
+  },
+  {
+    "objectID": "recipes/Potato-salad.html#fa-kitchen-set-procedure",
+    "href": "recipes/Potato-salad.html#fa-kitchen-set-procedure",
+    "title": "Potato salad",
+    "section": " Procedure",
+    "text": "Procedure\n\nBoil the potatoes and eggs and then peel them. When both are cold, cut them into small squares.\nTake the pickles out of the jar and keep the water, because you need it later. Then cut the pickles and the onion as well in little pieces.\nDrain the carrots and peas. Cut the carrots in slices.\nPut the potatoes, pickles, carrots, the onion and the peas into a big bowl.\nFor the sauce mix Miracel Whip with some water from the jar of pickles, salt and pepper. Add a part of this to the bowl.\nMix the ingredients in the bowl carefully. If it is to dry, add more of the sauce.\nAdd more salt and pepper according to your taste.\nTo ensure that it tastes really good, you should prepare the salad a few hours before eating it. You can also prepare it one day before."
+  },
+  {
     "objectID": "recipes/lentil-bolognese.html",
     "href": "recipes/lentil-bolognese.html",
     "title": "Lentil Bolognese",
@@ -399,25 +371,25 @@
     "text": "Procedure\n\nWash the lentils thoroughly, then set aside.\nFinely chop the garlic and onion, dice the carrot and celery.\nHeat the oil in a pan and sauté the onions.\nAdd the carrots and celery and fry for 5 minutes over a medium heat.\nStir in the tomato purée, garlic and herbs.\nAdd the tomato purée, vegetable stock and lentils, bring to the boil, cover and simmer over a medium heat for 15 minutes. Add water if necessary.\n\nSource: https://www.gaumenfreundin.de/rote-linsenbolognese-einfach-und-vegan/"
   },
   {
-    "objectID": "recipes/cinnamon-rolls.html",
-    "href": "recipes/cinnamon-rolls.html",
-    "title": "Cinnamon Rolls",
+    "objectID": "recipes/vegan-carrot-cake.html",
+    "href": "recipes/vegan-carrot-cake.html",
+    "title": "Vegan Carrot Cake",
     "section": "",
-    "text": "500g all-purpose flour\n7g (1 packet) instant yeast\n250ml warm milk\n75g granulated sugar\n75g unsalted butter, melted\n1 teaspoon salt\n1 large egg\n\n\n\n\n\n75g unsalted butter, softened\n100g brown sugar\n2 tablespoons ground cinnamon\n\n\n\n\n\n100g powdered sugar\n2-3 tablespoons milk\n1 teaspoon vanilla extract (optional)"
+    "text": "250g Carrots\n125g Vegan Butter at room temperature\n100g sugar/maple syrup\n1 pinch salt\n1 pinch vanilla extract\n2 flax eggs\n125g all-purpose flour\n1/2 tsp cinnamon\n1 1/2 tsp baking powder\n100g almonds\n1 tsp apple cider vinegar\n1/2 tsp baking soda"
   },
   {
-    "objectID": "recipes/cinnamon-rolls.html#fa-basket-shopping-ingredients",
-    "href": "recipes/cinnamon-rolls.html#fa-basket-shopping-ingredients",
-    "title": "Cinnamon Rolls",
+    "objectID": "recipes/vegan-carrot-cake.html#fa-basket-shopping-ingredients",
+    "href": "recipes/vegan-carrot-cake.html#fa-basket-shopping-ingredients",
+    "title": "Vegan Carrot Cake",
     "section": "",
-    "text": "500g all-purpose flour\n7g (1 packet) instant yeast\n250ml warm milk\n75g granulated sugar\n75g unsalted butter, melted\n1 teaspoon salt\n1 large egg\n\n\n\n\n\n75g unsalted butter, softened\n100g brown sugar\n2 tablespoons ground cinnamon\n\n\n\n\n\n100g powdered sugar\n2-3 tablespoons milk\n1 teaspoon vanilla extract (optional)"
+    "text": "250g Carrots\n125g Vegan Butter at room temperature\n100g sugar/maple syrup\n1 pinch salt\n1 pinch vanilla extract\n2 flax eggs\n125g all-purpose flour\n1/2 tsp cinnamon\n1 1/2 tsp baking powder\n100g almonds\n1 tsp apple cider vinegar\n1/2 tsp baking soda"
   },
   {
-    "objectID": "recipes/cinnamon-rolls.html#fa-kitchen-set-preparation",
-    "href": "recipes/cinnamon-rolls.html#fa-kitchen-set-preparation",
-    "title": "Cinnamon Rolls",
-    "section": " Preparation",
-    "text": "Preparation\n\nPrepare the Dough:\n\nIn a large mixing bowl, combine the warm milk and instant yeast.\nLet it sit for 5-10 minutes until foamy.\nAdd the melted butter, sugar, salt, and egg to the yeast mixture.\nStir until well combined.\nGradually add the flour to the mixture, stirring until a dough forms.\nTurn the dough out onto a floured surface and knead for about 5-7 minutes, until the dough is smooth and elastic.\nPlace the dough in a greased bowl, cover with a clean kitchen towel, and let it rise in a warm place for about 1 hour, or until doubled in size.\nPrepare the Filling: In a small bowl, mix together the softened butter, brown sugar, and ground cinnamon until well combined.\n\n\n\nAssemble the Rolls:\n\nOnce the dough has risen, punch it down and roll it out on a floured surface into a large rectangle, about 1/4 inch thick.\nSpread the cinnamon-sugar filling evenly over the dough.\nStarting from one long edge, tightly roll up the dough into a log.\nUse a sharp knife to cut the log into 12 equal-sized rolls.\n\n\n\nBake the Rolls:\n\nPlace the rolls in a greased baking dish, leaving a little space between each roll.\nCover the dish with a clean kitchen towel and let the rolls rise for another 30-45 minutes.\nPreheat the oven to 180°C (350°F).\nOnce risen, bake the rolls in the preheated oven for 20-25 minutes, or until golden brown and cooked through.\n\n\n\nMake the Glaze:\n\nIn a small bowl, whisk together the powdered sugar, milk, and vanilla extract until smooth.\nAdjust the consistency by adding more milk if needed.\nServe: Once the rolls are baked, let them cool for a few minutes before drizzling the glaze over the top. Serve warm and enjoy your homemade Zimtschnecken!"
+    "objectID": "recipes/vegan-carrot-cake.html#fa-kitchen-set-procedure",
+    "href": "recipes/vegan-carrot-cake.html#fa-kitchen-set-procedure",
+    "title": "Vegan Carrot Cake",
+    "section": " Procedure",
+    "text": "Procedure\n\nPreheat oven to 180°C top and bottom heat. Grease a round baking pan.\nFor the batter, peel the carrots and finely grate them.\nBeat the soft butter with sugar, salt, and vanilla until creamy in a mixing bowl. Then stir in the grated carrots and flax eggs.\nNow sift in the flour, cinnamon, and baking powder. Also add the almonds, vinegar, and baking soda, and stir everything briefly until just combined.\nFill the batter into the prepared baking pan, smooth it out, and bake on medium rack for 30-40 minutes."
   },
   {
     "objectID": "recipes/black-forest-cherry-dessert.html",
@@ -448,88 +420,95 @@
     "text": "Source\nhttps://www.einfachbacken.de/rezepte/schwarzwaelder-kirsch-dessert-einfach-selber-machen"
   },
   {
-    "objectID": "recipes/vegan-carrot-cake.html",
-    "href": "recipes/vegan-carrot-cake.html",
-    "title": "Vegan Carrot Cake",
+    "objectID": "recipes/gyoza.html",
+    "href": "recipes/gyoza.html",
+    "title": "Gyoza",
     "section": "",
-    "text": "250g Carrots\n125g Vegan Butter at room temperature\n100g sugar/maple syrup\n1 pinch salt\n1 pinch vanilla extract\n2 flax eggs\n125g all-purpose flour\n1/2 tsp cinnamon\n1 1/2 tsp baking powder\n100g almonds\n1 tsp apple cider vinegar\n1/2 tsp baking soda"
+    "text": "100 g pointed cabbage\n100 g carrots\n100 g minced beef (or tofu)\n180 g flour\n108 ml boiling water\n1 tbsp soy sauce\n1 garlic clove\n1 tsp stock powder\n1 tsp white wine\n1 tsp sesame oil\nsalt\npotato starch\ncooking oil"
   },
   {
-    "objectID": "recipes/vegan-carrot-cake.html#fa-basket-shopping-ingredients",
-    "href": "recipes/vegan-carrot-cake.html#fa-basket-shopping-ingredients",
-    "title": "Vegan Carrot Cake",
+    "objectID": "recipes/gyoza.html#fa-basket-shopping-ingredients",
+    "href": "recipes/gyoza.html#fa-basket-shopping-ingredients",
+    "title": "Gyoza",
     "section": "",
-    "text": "250g Carrots\n125g Vegan Butter at room temperature\n100g sugar/maple syrup\n1 pinch salt\n1 pinch vanilla extract\n2 flax eggs\n125g all-purpose flour\n1/2 tsp cinnamon\n1 1/2 tsp baking powder\n100g almonds\n1 tsp apple cider vinegar\n1/2 tsp baking soda"
+    "text": "100 g pointed cabbage\n100 g carrots\n100 g minced beef (or tofu)\n180 g flour\n108 ml boiling water\n1 tbsp soy sauce\n1 garlic clove\n1 tsp stock powder\n1 tsp white wine\n1 tsp sesame oil\nsalt\npotato starch\ncooking oil"
   },
   {
-    "objectID": "recipes/vegan-carrot-cake.html#fa-kitchen-set-procedure",
-    "href": "recipes/vegan-carrot-cake.html#fa-kitchen-set-procedure",
-    "title": "Vegan Carrot Cake",
+    "objectID": "recipes/gyoza.html#fa-kitchen-set-procedure",
+    "href": "recipes/gyoza.html#fa-kitchen-set-procedure",
+    "title": "Gyoza",
     "section": " Procedure",
-    "text": "Procedure\n\nPreheat oven to 180°C top and bottom heat. Grease a round baking pan.\nFor the batter, peel the carrots and finely grate them.\nBeat the soft butter with sugar, salt, and vanilla until creamy in a mixing bowl. Then stir in the grated carrots and flax eggs.\nNow sift in the flour, cinnamon, and baking powder. Also add the almonds, vinegar, and baking soda, and stir everything briefly until just combined.\nFill the batter into the prepared baking pan, smooth it out, and bake on medium rack for 30-40 minutes."
+    "text": "Procedure\n\nMix flour, 1 tsp of salt and boiling water. When cool enough, start kneading until a smooth dough forms. Leave the dough to rest in cling film for 15 minutes.\nFinely chop cabbage, garlic, carrots (and tofu) and mix with soy sauce, stock powder, sesame oil and white wine.\nDivide the dough into thirds, roll the thirds into rolls, and cut into 12 pieces. Shape the pieces into “flat cakes” and roll each one in potato starch. Roll out each piece into a thin circle using a rolling pin.\nFill each dough piece with one tbsp of the cabbage mixture. Wet the edge of the circle with some water. Next, fold it into a half circle and pinch the edges together.\nHeat cooking oil in a pan. Add Gyoza for about 3 minutes until they brown on the bottom. Add about half a cup of water mixed with a tbsp of flour to the bottom of the pan. Cover the Gyoza for about 8 minutes and let it simmer. Then remove the top and keep the heat on until the water is gone and a crispy bottom has formed.\nEnjoy!\n\nPro Tipp: The recipes works much faster and makes much more fun when you do it with another person, which is why it is the perfect food for a date or an evening with friends :)"
   },
   {
-    "objectID": "recipes/noodles.html",
-    "href": "recipes/noodles.html",
-    "title": "Noodles",
+    "objectID": "recipes/veganpizza.html",
+    "href": "recipes/veganpizza.html",
+    "title": "Vegan Pizza",
     "section": "",
-    "text": "150 g Noodles\nSauce"
+    "text": "2 1/4 tsp (1 packet) active dry yeast\n1 1/2 cups warm water (110°F or 45°C)\n3 1/2 cups all-purpose flour\n2 tbsp olive oil\n1 tsp sugar\n1 tsp salt\n1 cup canned crushed tomatoes\n2 cloves garlic, minced\n1 tbsp olive oil\n1 tsp dried oregano\n1 tsp dried basil\n1/2 cup sliced bell peppers\n1/2 cup sliced mushrooms\n1/4 cup sliced black olives\n1/4 cup red onion, thinly sliced\nFresh basil leaves for garnish"
   },
   {
-    "objectID": "recipes/noodles.html#fa-basket-shopping-ingredients",
-    "href": "recipes/noodles.html#fa-basket-shopping-ingredients",
-    "title": "Noodles",
+    "objectID": "recipes/veganpizza.html#fa-basket-shopping-ingredients",
+    "href": "recipes/veganpizza.html#fa-basket-shopping-ingredients",
+    "title": "Vegan Pizza",
     "section": "",
-    "text": "150 g Noodles\nSauce"
+    "text": "2 1/4 tsp (1 packet) active dry yeast\n1 1/2 cups warm water (110°F or 45°C)\n3 1/2 cups all-purpose flour\n2 tbsp olive oil\n1 tsp sugar\n1 tsp salt\n1 cup canned crushed tomatoes\n2 cloves garlic, minced\n1 tbsp olive oil\n1 tsp dried oregano\n1 tsp dried basil\n1/2 cup sliced bell peppers\n1/2 cup sliced mushrooms\n1/4 cup sliced black olives\n1/4 cup red onion, thinly sliced\nFresh basil leaves for garnish"
   },
   {
-    "objectID": "recipes/noodles.html#fa-kitchen-set-procedure",
-    "href": "recipes/noodles.html#fa-kitchen-set-procedure",
-    "title": "Noodles",
+    "objectID": "recipes/veganpizza.html#fa-kitchen-set-procedure",
+    "href": "recipes/veganpizza.html#fa-kitchen-set-procedure",
+    "title": "Vegan Pizza",
     "section": " Procedure",
-    "text": "Procedure\n\nBoil the noodles in water\nAdd the sauce\n???\nProfit"
+    "text": "Procedure\n\n1. Prepare the Dough:\nIn a small bowl, combine the warm water, sugar, and yeast. Let it sit for about 5-10 minutes until it becomes frothy. In a large bowl, mix the flour and salt. Make a well in the center and add the yeast mixture and olive oil. Stir until the dough comes together, then knead on a floured surface for about 8-10 minutes until the dough is smooth and elastic. Place the dough in a lightly oiled bowl, cover with a damp cloth, and let it rise in a warm place for about 1-1.5 hours, or until it has doubled in size.\n\n\n2. Prepare the Tomato Sauce:\nIn a saucepan, heat the olive oil over medium heat. Add the minced garlic and sauté for about 1 minute until fragrant. Add the crushed tomatoes, oregano, basil, salt, and pepper. Simmer for about 15-20 minutes, stirring occasionally, until the sauce thickens.\n\n\n3. Assemble the Pizza:\nPreheat your oven to 475°F (245°C). Punch down the dough and divide it into two equal portions. Roll out each portion on a floured surface to your desired thickness. Place the rolled-out dough on a pizza stone or baking sheet. Spread a layer of tomato sauce over the dough, leaving a small border for the crust. Sprinkle the vegan mozzarella cheese evenly over the sauce. Arrange the sliced bell peppers, mushrooms, olives, and red onions on top of the cheese.\n\n\n4. Bake the Pizza:\nBake in the preheated oven for 12-15 minutes, or until the crust is golden and the cheese is melted. Remove from the oven and garnish with fresh basil leaves and a drizzle of extra virgin olive oil."
   },
   {
-    "objectID": "recipes/muesli.html",
-    "href": "recipes/muesli.html",
-    "title": "Muesli recipe",
+    "objectID": "recipes/chocolate-cake-kids.html",
+    "href": "recipes/chocolate-cake-kids.html",
+    "title": "Chocolate Cake for Kids",
     "section": "",
-    "text": "200 g oats\n20 g flour\n1 tbsp honey\n2 tbsp sunflower oil\n50 ml water"
+    "text": "180 g Soft Dates, pitted\n200 ml Cream\n3 Eggs\n1/2 Vanilla Bean(s)\n4 tbsp Heaped Cocoa Powder\n100 g Flour\n1.5 tsp Baking Soda\n80 g Butter\nSome Butter for greasing the pan"
   },
   {
-    "objectID": "recipes/muesli.html#fa-basket-shopping-ingredients",
-    "href": "recipes/muesli.html#fa-basket-shopping-ingredients",
-    "title": "Muesli recipe",
+    "objectID": "recipes/chocolate-cake-kids.html#fa-basket-shopping-ingredients",
+    "href": "recipes/chocolate-cake-kids.html#fa-basket-shopping-ingredients",
+    "title": "Chocolate Cake for Kids",
     "section": "",
-    "text": "200 g oats\n20 g flour\n1 tbsp honey\n2 tbsp sunflower oil\n50 ml water"
+    "text": "180 g Soft Dates, pitted\n200 ml Cream\n3 Eggs\n1/2 Vanilla Bean(s)\n4 tbsp Heaped Cocoa Powder\n100 g Flour\n1.5 tsp Baking Soda\n80 g Butter\nSome Butter for greasing the pan"
   },
   {
-    "objectID": "recipes/muesli.html#fa-kitchen-set-procedure",
-    "href": "recipes/muesli.html#fa-kitchen-set-procedure",
-    "title": "Muesli recipe",
+    "objectID": "recipes/chocolate-cake-kids.html#fa-kitchen-set-preparation",
+    "href": "recipes/chocolate-cake-kids.html#fa-kitchen-set-preparation",
+    "title": "Chocolate Cake for Kids",
+    "section": " Preparation",
+    "text": "Preparation\n\nPreheat the oven to 170 °C (convection).\nPuree dates with cream, vanilla bean seeds, and cocoa powder until smooth.\nThen add egg yolks and butter, and blend until the mixture is homogeneous and smooth.\nBeat the egg whites until stiff peaks form.\nMix the flour and baking soda into the cocoa mixture.\nGently fold in the beaten egg whites.\nPour the cake batter into any buttered baking pan.\nBake in the preheated oven on the middle rack for approximately 40 minutes."
+  },
+  {
+    "objectID": "recipes/chocolate-cake-kids.html#notes",
+    "href": "recipes/chocolate-cake-kids.html#notes",
+    "title": "Chocolate Cake for Kids",
+    "section": "Notes",
+    "text": "Notes\nThe recipe yields 16 pieces and is also suitable for muffin molds. You can enhance the cake with orange zest, ground nuts, nut butter, chili, cinnamon, ginger, cardamom, or cherries. I use soft dates, which are softer than regular dates. If you only have firm dates, soak them in warm water for about 4 hours. I would use a cake pan with a diameter of 18 cm. Source: https://www.chefkoch.de/rezepte/3186881474309297/Feiner-Schokokuchen-ohne-Zuckerzusatz.html"
+  },
+  {
+    "objectID": "recipes/fancy-cake.html",
+    "href": "recipes/fancy-cake.html",
+    "title": "Raspberry Sponge Cake with Meringue",
+    "section": "",
+    "text": "4 egg white\n4 egg yolk\n270g sugar\n1 vanilla sugar\n60 g flour\n50 g corn starch\n1/2 TL baking powder\n600 g frozen raspberries\n0,5l cream"
+  },
+  {
+    "objectID": "recipes/fancy-cake.html#fa-basket-shopping-ingredients",
+    "href": "recipes/fancy-cake.html#fa-basket-shopping-ingredients",
+    "title": "Raspberry Sponge Cake with Meringue",
+    "section": "",
+    "text": "4 egg white\n4 egg yolk\n270g sugar\n1 vanilla sugar\n60 g flour\n50 g corn starch\n1/2 TL baking powder\n600 g frozen raspberries\n0,5l cream"
+  },
+  {
+    "objectID": "recipes/fancy-cake.html#fa-kitchen-set-procedure",
+    "href": "recipes/fancy-cake.html#fa-kitchen-set-procedure",
+    "title": "Raspberry Sponge Cake with Meringue",
     "section": " Procedure",
-    "text": "Procedure\n\nPlace all the ingredients in a bowl and mix, preferably by hand, until the dough forms a large lump. The lump should not stick, but should also not fall apart easily. If, for example, the consistency is not right when adding up the ingredients, simply add water, flour or oat flakes carefully.\nFinally, crumble the mixture onto a baking tray lined with baking paper. The amount given is pretty much enough for a normal-sized tray. There’s no need to worry about the lumps baking together and you can use up all the space.\nPreheat the oven to 160 °C and bake the muesli for about 30 minutes.\nThe baking time can vary depending on how the oven behaves or how tightly you have covered the tray. Just make sure that you take the muesli out when it starts to get a little dark. Don’t be disappointed if it isn’t crispy when you take it out: it will only be really crispy once it has cooled.\nFinally, you can add chocolate, nuts, seeds or dried fruit such as raisins or cranberries to taste."
-  },
-  {
-    "objectID": "recipes/vegan_brownies.html",
-    "href": "recipes/vegan_brownies.html",
-    "title": "Vegan Brownies",
-    "section": "",
-    "text": "1 Cup All Purpose Flour\n1 Cup Granulated Sugar\n1/2 Cup Cocoa Powder\n1 Teaspoon Baking Powder\n1/2 Cup Water\n1/2 Cup Vegetable Oil or melted Coconut Oil\n1 Teaspoon Vanilla Extract\n1/2 cup vegan chocolate chips (optional)\n1/4 Chopped Nuts (optional)"
-  },
-  {
-    "objectID": "recipes/vegan_brownies.html#fa-basket-shopping-ingredients",
-    "href": "recipes/vegan_brownies.html#fa-basket-shopping-ingredients",
-    "title": "Vegan Brownies",
-    "section": "",
-    "text": "1 Cup All Purpose Flour\n1 Cup Granulated Sugar\n1/2 Cup Cocoa Powder\n1 Teaspoon Baking Powder\n1/2 Cup Water\n1/2 Cup Vegetable Oil or melted Coconut Oil\n1 Teaspoon Vanilla Extract\n1/2 cup vegan chocolate chips (optional)\n1/4 Chopped Nuts (optional)"
-  },
-  {
-    "objectID": "recipes/vegan_brownies.html#fa-kitchen-set-procedure",
-    "href": "recipes/vegan_brownies.html#fa-kitchen-set-procedure",
-    "title": "Vegan Brownies",
-    "section": " Procedure",
-    "text": "Procedure\n\nPreheat your oven to 350°F (175°C). Lightly grease an 8x8-inch baking pan or line it with parchment paper.\nIn a large mixing bowl, whisk together the flour, sugar, cocoa powder, baking powder, and salt until well combined.\nAdd the water, vegetable oil (or melted coconut oil), and vanilla extract to the dry mixture. Stir until the batter is smooth and well combined.\nIf using, fold in the vegan chocolate chips and chopped nuts.\nPour the batter into the prepared baking pan, spreading it out evenly. Bake for 25-30 minutes, or until a toothpick inserted into the center comes out clean or with a few moist crumbs.\nAllow the brownies to cool completely in the pan on a wire rack before cutting into squares.\nEnjoy your vegan brownies plain or with a scoop of vegan ice cream on top!\n\nTips:\nFor an extra fudgy texture, reduce the baking time slightly. Feel free to customize your brownies with your favorite mix-ins like dried fruits or seeds.\nEnjoy your homemade vegan brownies!"
+    "text": "Procedure\n\nWhisk the egg whites and egg yolks and vanilla sugar stiff for a very long time until foamy (2 egg whites, 4 egg yolks, 1 vanilla sugar)\nSift in the flour, cornstarch and baking powder and pour everything into a greased springform pan (60 g of flour, 50 g of cornstarch, 1 teaspoon of baking powder)\nWhisk the egg whites and sugar stiff until foamy and spoon onto the batter (2 egg whites, 230 g of sugar)\nBake at 175 degrees for about half an hour on the middle to lower rack.\nThen let the cake cool and cut it in the middle.\nPlace the frozen raspberries on the bottom half, sprinkle with sugar, and then spread the whipped cream (600 g of frozen raspberries, 40 g of sugar, 0.5 liters of whipped cream)\nPlace the top half of the cake on the filling and let it stand for a few hours (not in the refrigerator). Alternatively, you can thaw the raspberries beforehand if there is not enough time."
   },
   {
     "objectID": "recipes/tomatosoup.html",
@@ -553,24 +532,66 @@
     "text": "Preparation\n\nSaute Aromatics – heat a non-reactive pot over medium heat. Melt in 4 Tbsp butter then sautee onions until softened and golden (10-12 min). Add minced garlic and saute another minute.\nMake the tomato soup base – stir in two 28 oz cans of crushed tomatoes with their juice, your chicken stock, chopped basil, sugar and black pepper. Bring to a boil then reduce heat, partially cover and simmer 10 minutes.\nBlend if desired – use an immersion blender in the pot or blend in batches using a blender (be careful not to overfill the blender with hot liquid) and return soup to the pot.\nAdd cream and parmesan – stir in the heavy cream and shredded parmesan. Return to a simmer and season to taste if needed.\nServe – ladle into warm bowls and garnish with more parmesan and basil."
   },
   {
-    "objectID": "recipes/pasta-alla-norma.html",
-    "href": "recipes/pasta-alla-norma.html",
-    "title": "Pasta alla Norma",
+    "objectID": "recipes/cinnamon-rolls.html",
+    "href": "recipes/cinnamon-rolls.html",
+    "title": "Cinnamon Rolls",
     "section": "",
-    "text": "600 g pasta (e.g. penne)\n150 g to 200 g ricotta salata, grated (alternatively pecorino or parmesan)\n2 aubergines\n1 bottle of tomato passata (approx. 700 g)\n1 clove of garlic\n1 handful of basil leaves\n1 pinch of sugar\nSalt & pepper\nOlive oil\nSunflower oil for frying"
+    "text": "500g all-purpose flour\n7g (1 packet) instant yeast\n250ml warm milk\n75g granulated sugar\n75g unsalted butter, melted\n1 teaspoon salt\n1 large egg\n\n\n\n\n\n75g unsalted butter, softened\n100g brown sugar\n2 tablespoons ground cinnamon\n\n\n\n\n\n100g powdered sugar\n2-3 tablespoons milk\n1 teaspoon vanilla extract (optional)"
   },
   {
-    "objectID": "recipes/pasta-alla-norma.html#fa-basket-shopping-ingredients",
-    "href": "recipes/pasta-alla-norma.html#fa-basket-shopping-ingredients",
-    "title": "Pasta alla Norma",
+    "objectID": "recipes/cinnamon-rolls.html#fa-basket-shopping-ingredients",
+    "href": "recipes/cinnamon-rolls.html#fa-basket-shopping-ingredients",
+    "title": "Cinnamon Rolls",
     "section": "",
-    "text": "600 g pasta (e.g. penne)\n150 g to 200 g ricotta salata, grated (alternatively pecorino or parmesan)\n2 aubergines\n1 bottle of tomato passata (approx. 700 g)\n1 clove of garlic\n1 handful of basil leaves\n1 pinch of sugar\nSalt & pepper\nOlive oil\nSunflower oil for frying"
+    "text": "500g all-purpose flour\n7g (1 packet) instant yeast\n250ml warm milk\n75g granulated sugar\n75g unsalted butter, melted\n1 teaspoon salt\n1 large egg\n\n\n\n\n\n75g unsalted butter, softened\n100g brown sugar\n2 tablespoons ground cinnamon\n\n\n\n\n\n100g powdered sugar\n2-3 tablespoons milk\n1 teaspoon vanilla extract (optional)"
   },
   {
-    "objectID": "recipes/pasta-alla-norma.html#fa-kitchen-set-procedure",
-    "href": "recipes/pasta-alla-norma.html#fa-kitchen-set-procedure",
-    "title": "Pasta alla Norma",
+    "objectID": "recipes/cinnamon-rolls.html#fa-kitchen-set-preparation",
+    "href": "recipes/cinnamon-rolls.html#fa-kitchen-set-preparation",
+    "title": "Cinnamon Rolls",
+    "section": " Preparation",
+    "text": "Preparation\n\nPrepare the Dough:\n\nIn a large mixing bowl, combine the warm milk and instant yeast.\nLet it sit for 5-10 minutes until foamy.\nAdd the melted butter, sugar, salt, and egg to the yeast mixture.\nStir until well combined.\nGradually add the flour to the mixture, stirring until a dough forms.\nTurn the dough out onto a floured surface and knead for about 5-7 minutes, until the dough is smooth and elastic.\nPlace the dough in a greased bowl, cover with a clean kitchen towel, and let it rise in a warm place for about 1 hour, or until doubled in size.\nPrepare the Filling: In a small bowl, mix together the softened butter, brown sugar, and ground cinnamon until well combined.\n\n\n\nAssemble the Rolls:\n\nOnce the dough has risen, punch it down and roll it out on a floured surface into a large rectangle, about 1/4 inch thick.\nSpread the cinnamon-sugar filling evenly over the dough.\nStarting from one long edge, tightly roll up the dough into a log.\nUse a sharp knife to cut the log into 12 equal-sized rolls.\n\n\n\nBake the Rolls:\n\nPlace the rolls in a greased baking dish, leaving a little space between each roll.\nCover the dish with a clean kitchen towel and let the rolls rise for another 30-45 minutes.\nPreheat the oven to 180°C (350°F).\nOnce risen, bake the rolls in the preheated oven for 20-25 minutes, or until golden brown and cooked through.\n\n\n\nMake the Glaze:\n\nIn a small bowl, whisk together the powdered sugar, milk, and vanilla extract until smooth.\nAdjust the consistency by adding more milk if needed.\nServe: Once the rolls are baked, let them cool for a few minutes before drizzling the glaze over the top. Serve warm and enjoy your homemade Zimtschnecken!"
+  },
+  {
+    "objectID": "recipes/bananabread.html",
+    "href": "recipes/bananabread.html",
+    "title": "Bananabread",
+    "section": "",
+    "text": "125 grams all-purpose flour (unbleached)\n125 grams whole wheat or spelt flour\n125 grams brown sugar\n150 grams small seeds (whatever you like/have: sunflower seeds, pumpkin seeds, walnut kernels, pine nuts, chia seeds, etc.)\n1 good pinch of sea salt\n1 teaspoon baking powder\n3 medium-sized ripe bananas, peeled\nZest and juice of 1 lemon\n2 tablespoons olive oil\n2 tablespoons natural or unsweetened soy yogurt or coconut yogurt\n2 eggs, preferably organic or free-range, beaten\n\n\n\n\n\n1 tablespoon tahini\n3 tablespoons golden powdered sugar or liquid honey\nJuice of 1 lemon"
+  },
+  {
+    "objectID": "recipes/bananabread.html#fa-basket-shopping-ingredients",
+    "href": "recipes/bananabread.html#fa-basket-shopping-ingredients",
+    "title": "Bananabread",
+    "section": "",
+    "text": "125 grams all-purpose flour (unbleached)\n125 grams whole wheat or spelt flour\n125 grams brown sugar\n150 grams small seeds (whatever you like/have: sunflower seeds, pumpkin seeds, walnut kernels, pine nuts, chia seeds, etc.)\n1 good pinch of sea salt\n1 teaspoon baking powder\n3 medium-sized ripe bananas, peeled\nZest and juice of 1 lemon\n2 tablespoons olive oil\n2 tablespoons natural or unsweetened soy yogurt or coconut yogurt\n2 eggs, preferably organic or free-range, beaten\n\n\n\n\n\n1 tablespoon tahini\n3 tablespoons golden powdered sugar or liquid honey\nJuice of 1 lemon"
+  },
+  {
+    "objectID": "recipes/bananabread.html#fa-kitchen-set-procedure",
+    "href": "recipes/bananabread.html#fa-kitchen-set-procedure",
+    "title": "Bananabread",
     "section": " Procedure",
-    "text": "Procedure\n\nCook the ramen in boiling salted water for about 4 minutes.\nMeanwhile, peel and finely chop the garlic cloves.\nHeat the plant-based butter in a pan and sauté the garlic. Stir in the chili flakes.\nStir in the brown sugar and dissolve. Add soy sauce and mix in the ramen noodles.\nRemove the pan from heat and stir until the noodles are evenly coated.\nSlice the leek and set it aside for garnish.\nFor the non-vegan version, beat two eggs and cook them in a pan until scrambled. Mix the scrambled eggs with the noodles and serve everything together.\nPREPARING THE AUBERGINES\nWash the aubergines, cut off the ends and cut into 1x1 cm cubes. You can also cut a few thin slices from the aubergine for decoration. Sprinkle with a little salt and leave to stand in a sieve for 1 hour.\nPlace a suitable bowl with a weight (e.g. water) in the sieve to weigh down the aubergines.\nNote: Salting removes water and bitter substances from the aubergines. Even though the bitter substances have been bred out of most types of aubergine nowadays, it is still worth salting them, as this removes water from the aubergine and makes them crispier when deep-frying.\nFOR THE TOMATO SAUCE\nHeat a little olive oil in a pan over a medium heat and add the garlic clove, allowing it to colour and flavour the oil.\nAdd the tomato passata and a pinch of sugar, season with salt and pepper and add the basil leaves. 8. Leave to simmer for approx. 15 mins. Stir occasionally.\nPREPARE THE AUBERGINES\nMeanwhile, deep-fry the aubergine cubes in plenty of sunflower oil until golden brown and then drain well on kitchen paper. Then add to the tomato sauce.\nFOR THE PASTA\nCook the pasta in salted water until al dente, drain and mix with the sauce.\nArrange on plates, sprinkle with the ricotta and serve immediately.\n\nEt viola, enjoy your meal!"
+    "text": "Procedure\n\nPreheat the oven to 200°C (400°F).\nGrease a non-stick loaf pan with butter and dust it with flour (if the loaf pan is not non-stick, you can also line it with parchment paper).\nCombine all the dry ingredients in a mixing bowl - flours, sugar, seeds, salt, and baking powder - and mix well.\nIn another bowl, mash the bananas with a fork (leaving them slightly chunky if desired), then add lemon juice and zest, olive oil, yogurt, and beaten eggs, mixing well.\nAdd the wet ingredients to the bowl of dry ingredients and gently mix - just enough to combine everything.\nTransfer the mixture into the loaf pan and bake for 40 to 45 minutes, or until a toothpick comes out clean.\nOptional: While the cake is baking, prepare the Lemon Drizzle. Stir tahini and powdered sugar in a bowl until smooth, add lemon juice, and mix well.\nRemove the cake from the oven and let it cool in the pan until it’s cool enough to transfer to a wire rack. While the cake is still warm, place a large plate under the rack, then poke the cake all over with a skewer, pour the drizzle over it, and let it soak in."
+  },
+  {
+    "objectID": "recipes/noodles.html",
+    "href": "recipes/noodles.html",
+    "title": "Noodles",
+    "section": "",
+    "text": "150 g Noodles\nSauce"
+  },
+  {
+    "objectID": "recipes/noodles.html#fa-basket-shopping-ingredients",
+    "href": "recipes/noodles.html#fa-basket-shopping-ingredients",
+    "title": "Noodles",
+    "section": "",
+    "text": "150 g Noodles\nSauce"
+  },
+  {
+    "objectID": "recipes/noodles.html#fa-kitchen-set-procedure",
+    "href": "recipes/noodles.html#fa-kitchen-set-procedure",
+    "title": "Noodles",
+    "section": " Procedure",
+    "text": "Procedure\n\nBoil the noodles in water\nAdd the sauce\n???\nProfit"
   }
 ]
