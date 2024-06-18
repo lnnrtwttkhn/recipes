@@ -1,0 +1,31 @@
+---
+title: "Potato salad"
+image: "https://www.jackymalina.com/wp-content/uploads/2020/12/497B245D-2453-4312-A2B8-7A673EE6DA8E-1152x1536.jpeg"
+image-alt: "https://www.jackymalina.com/wp-content/uploads/2020/12/497B245D-2453-4312-A2B8-7A673EE6DA8E-1152x1536.jpeg"
+categories:
+  - salad
+  - vegetarian
+author: Mareike Wagner
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+- [ ] 1 kilogram Potatoes
+- [ ] 1 Onion
+- [ ] 5 Eggs
+- [ ] 1 Jar of pickles
+- [ ] 1 Can of peas and carrots
+- [ ] 1 glass Miracel Whip light
+- [ ] Salt and pepper
+
+## {{< fa kitchen-set >}} Procedure
+
+1. Boil the potatoes and eggs and then peel them. When both are cold, cut them into small squares.
+2. Take the pickles out of the jar and keep the water, because you need it later. Then cut the pickles and the onion as well in little pieces.
+3. Drain the carrots and peas. Cut the carrots in slices.
+4. Put the potatoes, pickles, carrots, the onion and the peas into a big bowl.
+5. For the sauce mix Miracel Whip with some water from the jar of pickles, salt and pepper. Add a part of this to the bowl.
+6. Mix the ingredients in the bowl carefully. If it is to dry, add more of the sauce.
+7. Add more salt and pepper according to your taste.
+8. To ensure that it tastes really good, you should prepare the salad a few hours before eating it. You can also prepare it one day before.
+
