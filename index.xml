@@ -10,7 +10,7 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Tue, 18 Jun 2024 09:29:10 GMT</lastBuildDate>
+<lastBuildDate>Tue, 18 Jun 2024 09:37:05 GMT</lastBuildDate>
 <item>
   <title>Pancakes</title>
   <dc:creator>Lennart Wittkuhn</dc:creator>
@@ -59,7 +59,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:29:10 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 09:37:05 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -118,7 +118,7 @@ Not vegan, contains eggs and milk!
   <category>cake</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:29:10 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 09:37:05 GMT</pubDate>
   <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -165,7 +165,7 @@ Not vegan, contains eggs and milk!
   <category>vegetarian</category>
   <category>pasta</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:29:10 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 09:37:05 GMT</pubDate>
   <media:content url="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -259,7 +259,7 @@ Not vegan, contains eggs and milk!
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:29:10 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 09:37:05 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -308,8 +308,48 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:29:10 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 09:37:05 GMT</pubDate>
   <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Muesli recipe</title>
+  <dc:creator>Miriam Rabels</dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/muesli.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox"><em>200 g</em> oats</li>
+<li><input type="checkbox"><em>20 g</em> flour</li>
+<li><input type="checkbox"><em>1 tbsp</em> honey</li>
+<li><input type="checkbox"><em>2 tbsp</em> sunflower oil</li>
+<li><input type="checkbox"><em>50 ml</em> water</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Place all the ingredients in a bowl and mix, preferably by hand, until the dough forms a large lump. The lump should not stick, but should also not fall apart easily. If, for example, the consistency is not right when adding up the ingredients, simply add water, flour or oat flakes carefully.</li>
+<li>Finally, crumble the mixture onto a baking tray lined with baking paper. The amount given is pretty much enough for a normal-sized tray. There’s no need to worry about the lumps baking together and you can use up all the space.</li>
+<li>Preheat the oven to <em>160 °C</em> and bake the muesli for about <em>30 minutes</em>.</li>
+<li>The baking time can vary depending on how the oven behaves or how tightly you have covered the tray. Just make sure that you take the muesli out when it starts to get a little dark. Don’t be disappointed if it isn’t crispy when you take it out: it will only be really crispy once it has cooled.</li>
+<li>Finally, you can add chocolate, nuts, seeds or dried fruit such as raisins or cranberries to taste.</li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>vegan</category>
+  <category>yummy</category>
+  <category>crispy</category>
+  <category>breakfast</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/muesli.html</guid>
+  <pubDate>Tue, 18 Jun 2024 09:37:05 GMT</pubDate>
+  <media:content url="https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/0293599B-0ED4-468A-A838-50045B7A80EF/Derivates/E87D2389-BC34-44D7-9DBD-410A84A86C3F.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Granola</title>
@@ -354,7 +394,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/granola.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:29:10 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 09:37:05 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/c/ca/Banana_Walnut_Granola_%286796918872%29.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -460,7 +500,7 @@ Not vegan, contains eggs and milk!
   <category>vegan</category>
   <category>vietnamese</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/poke_bowl.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:29:10 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 09:37:05 GMT</pubDate>
   <media:content url="https://www.okonomikitchen.com/wp-content/uploads/2019/09/easy-vegan-tofu-poke-bowl-with-ponzu-sauce-recipe-1-1-of-1-1-1024x683.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -519,7 +559,7 @@ Not vegan, contains eggs and milk!
   <category>vegan</category>
   <category>pizza</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/veganpizza.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:29:10 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 09:37:05 GMT</pubDate>
   <media:content url="https://s.zentrum-der-gesundheit.de/img/vegane-pizza" medium="image"/>
 </item>
 <item>
@@ -581,7 +621,7 @@ Not vegan, contains eggs and milk!
   <category>pasta</category>
   <category>Italian cuisine</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pasta-alla-norma.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:29:10 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 09:37:05 GMT</pubDate>
   <media:content url="https://images.getrecipekit.com/20220310125111-dscf1118.jpg?width=650&amp;quality=90&amp;" medium="image"/>
 </item>
 <item>
@@ -627,7 +667,7 @@ Not vegan, contains eggs and milk!
   <category>meringue</category>
   <category>sponge cake</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/fancy-cake.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:29:10 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 09:37:05 GMT</pubDate>
   <media:content url="https://www.muddiskochen.de/app/uploads/2014/07/biskuit-himbeertorte-mit-baiser.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -674,7 +714,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegan</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/vegan-carrot-cake.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:29:10 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 09:37:05 GMT</pubDate>
   <media:content url="https://biancazapatka.com/wp-content/uploads/2018/03/IMG_2437-720x895.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -715,7 +755,7 @@ Not vegan, contains eggs and milk!
   <category>Breakfast</category>
   <category>Snack</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/Avocado-Toast.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:29:10 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 09:37:05 GMT</pubDate>
   <media:content url="https://i2.wp.com/earthblokes.com/wp-content/uploads/2021/02/vegan-avocado-toast-4.jpg?resize=800%2C1200&amp;ssl=1" medium="image"/>
 </item>
 <item>
@@ -765,7 +805,7 @@ Not vegan, contains eggs and milk!
   <category>cake</category>
   <category>sweet</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/vegan_brownies.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:29:10 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 09:37:05 GMT</pubDate>
   <media:content url="https://img.taste.com.au/5hsR3Ore/w720-h480-cfill-q80/taste/2016/11/classic-chewy-brownie-102727-1.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -808,7 +848,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
 </section>
 <section id="fa-kitchen-set-procedure" class="level2">
 <h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<p>You need to put 1 grams in a cup.</p>
+<p>You need to put 2 grams in a cup.</p>
 </section>
 <section id="photo-of-result" class="level2">
 <h2 class="anchored" data-anchor-id="photo-of-result">Photo of result</h2>
@@ -819,7 +859,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/cup_of_sugar.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:29:10 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 09:37:05 GMT</pubDate>
   <media:content url="https://www.happyballoon.de/thumbnail/4d/c1/d0/1701938245/63780351a985e5f5715ba9e630bf5d69ea268092_1920x1920.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -869,7 +909,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
   <category>Asian</category>
   <category>Date Night Food</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/gyoza.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:29:10 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 09:37:05 GMT</pubDate>
   <media:content url="https://assets.zuckerjagdwurst.com/pref3p553o311dnb3y67zffjmwte/1110/701/55/true/center/R883-Vegane-Teigtaschen-mit-Knusperboden-30.webp?animated=false" medium="image"/>
 </item>
 <item>
@@ -917,7 +957,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/banana-brownies.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:29:10 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 09:37:05 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/1500_1130/public/2024-01/bananen_brownies_1.jpg?h=6adb09fa&amp;itok=w3gYvR7B" medium="image"/>
 </item>
 <item>
@@ -1009,7 +1049,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/cinnamon-rolls.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:29:10 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 09:37:05 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Cinnamon_roll_in_Stockholm.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -1057,7 +1097,7 @@ font-style: inherit;">1</span>)</span></code></pre></div>
   <category>noodles</category>
   <category>Asian cuisine</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiktok-ramen.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:29:10 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 09:37:05 GMT</pubDate>
   <media:content url="https://www.eatclub.tv/wp-content/uploads/2021/12/tiktok-ramen.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -1101,50 +1141,8 @@ font-style: inherit;">1</span>)</span></code></pre></div>
  ]]></description>
   <category>international</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/fesenjan.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:29:10 GMT</pubDate>
+  <pubDate>Tue, 18 Jun 2024 09:37:05 GMT</pubDate>
   <media:content url="https://cdn.faradeed.ir/thumbnail/LeNflz9GOtZN/KoeEnxIUgNp8HPWtyR4f3njefZWpQsc5QSfH7y-wEmOGb45E_dImxEpQi9avqdGE/Khoresh-e-Fesenjan-Tilda-Pure-Basmati-2-scaled.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Tomatosoup</title>
-  <dc:creator>Paul Schreiner</dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/tomatosoup.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<ul class="task-list">
-<li><input type="checkbox">Butter – use unsalted butter to saute onions</li>
-<li><input type="checkbox">Yellow onion – it seems like a ton of onion but it disappears into the soup adding a balanced sweetness</li>
-<li><input type="checkbox">Garlic – you’ll need 1 Tbsp minced from about 3 cloves</li>
-<li><input type="checkbox">Crushed tomatoes – with their juice, preferably</li>
-<li><input type="checkbox">San Marzano tomatoes Chicken stock – for the best flavor use homemade chicken broth</li>
-<li><input type="checkbox">1/4 cup fresh basil, plus more to serve. Basil leaves are easily bruised so chop by stacking a bunch of leaves then roll them into a log and cut into thin strips.</li>
-<li><input type="checkbox">Sugar – It’s just 1 Tbsp, but necessary to combat the tomato acidity.</li>
-<li><input type="checkbox">Black pepper – start with 1/2 tsp and add more to taste</li>
-<li><input type="checkbox">Whipping cream – adds a creaminess to the soup and offsets acidity.</li>
-<li><input type="checkbox">Parmesan cheese – adds saltiness to the soup and balances acidity. Adding parmesan adds enough salt and I usually don’t add more.</li>
-</ul>
-</section>
-<section id="fa-kitchen-set-preparation" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-preparation"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Preparation</h2>
-<ol type="1">
-<li><em>Saute Aromatics</em> – heat a non-reactive pot over medium heat. Melt in 4 Tbsp butter then sautee onions until softened and golden (10-12 min). Add minced garlic and saute another minute.</li>
-<li><em>Make the tomato soup base</em> – stir in two 28 oz cans of crushed tomatoes with their juice, your chicken stock, chopped basil, sugar and black pepper. Bring to a boil then reduce heat, partially cover and simmer 10 minutes.</li>
-<li><em>Blend if desired</em> – use an immersion blender in the pot or blend in batches using a blender (be careful not to overfill the blender with hot liquid) and return soup to the pot.</li>
-<li><em>Add cream and parmesan</em> – stir in the heavy cream and shredded parmesan. Return to a simmer and season to taste if needed.</li>
-<li>Serve – ladle into warm bowls and garnish with more parmesan and basil.</li>
-</ol>
-<p><img src="https://lennartwittkuhn.com/recipes/recipes/https:/upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" class="img-fluid"></p>
-
-
-</section>
-
- ]]></description>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/tomatosoup.html</guid>
-  <pubDate>Tue, 18 Jun 2024 09:29:10 GMT</pubDate>
-  <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
