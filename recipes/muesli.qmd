@@ -1,0 +1,27 @@
+---
+title: "Muesli recipe"
+image: "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/0293599B-0ED4-468A-A838-50045B7A80EF/Derivates/E87D2389-BC34-44D7-9DBD-410A84A86C3F.jpg"
+image-alt: "https://www.gimmesomeoven.com/wp-content/uploads/2022/08/Muesli-Recipe-10.jpg"
+categories:
+  - vegan
+  - yummy
+  - crispy
+  - breakfast
+author: Miriam Rabels
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+- [ ] *200 g* oats
+- [ ] *20 g* flour
+- [ ] *1 tbsp* honey
+- [ ] *2 tbsp* sunflower oil
+- [ ] *50 ml* water 
+
+## {{< fa kitchen-set >}} Procedure
+
+1. Place all the ingredients in a bowl and mix, preferably by hand, until the dough forms a large lump. The lump should not stick, but should also not fall apart easily. If, for example, the consistency is not right when adding up the ingredients, simply add water, flour or oat flakes carefully.
+2. Finally, crumble the mixture onto a baking tray lined with baking paper. The amount given is pretty much enough for a normal-sized tray. There's no need to worry about the lumps baking together and you can use up all the space.
+3. Preheat the oven to *160 °C* and bake the muesli for about *30 minutes*.
+4. The baking time can vary depending on how the oven behaves or how tightly you have covered the tray. Just make sure that you take the muesli out when it starts to get a little dark. Don't be disappointed if it isn't crispy when you take it out: it will only be really crispy once it has cooled.
+5. Finally, you can add chocolate, nuts, seeds or dried fruit such as raisins or cranberries to taste.
