@@ -232,6 +232,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "mareikelwagner",
+      "name": "Mareike",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170938286?v=4",
+      "profile": "https://github.com/mareikelwagner",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
