@@ -1,0 +1,32 @@
+---
+title: "Hähnchenbrustfilet"
+image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMP_IdWIaJbMyqcnhID8iR1AesJXaGt2sRTw&s"
+image-alt: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMP_IdWIaJbMyqcnhID8iR1AesJXaGt2sRTw&s"
+categories:
+  - Not vegetarian
+  - Easy to prepare
+  
+author: Julius Wilke
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+- [ ] 4 chicken fillets
+- [ ] 3 tbsp olive oil
+- [ ] 2 cloves garlic, finely chopped
+- [ ] Juice of one lemon
+- [ ] 1 tsp lemon zest, grated
+- [ ] 1 tsp dried oregano
+- [ ] 1 tsp dried thyme
+- [ ] Salt and pepper to taste
+- [ ] Fresh herbs (parsley, basil) for garnish
+
+## {{< fa kitchen-set >}} Procedure
+
+1. Prepare the marinade: In a bowl, mix the olive oil, chopped garlic, lemon juice, lemon zest, oregano, and thyme. Season with salt and pepper to taste.
+2. Marinate the chicken fillets: Place the chicken fillets in a large freezer bag or a shallow dish. Pour the marinade over them and rub the fillets well with it. Seal the bag or cover the dish and let the chicken marinate in the refrigerator for at least 30 minutes. For a more intense flavor, marinate overnight.
+3. Preheat the grill: Preheat a grill or grill pan to medium-high heat.
+4. Grill the chicken: Remove the chicken fillets from the marinade and let the excess marinade drip off. Place the fillets on the hot grill and grill for about 6-8 minutes per side, until they are cooked through and have nice grill marks. The exact grilling time depends on the thickness of the fillets.
+5. Serve: Place the grilled chicken fillets on plates and garnish with fresh herbs. They go well with a fresh salad or grilled vegetables.
+
+Enjoy your meal!
