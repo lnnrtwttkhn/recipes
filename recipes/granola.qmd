@@ -1,0 +1,33 @@
+---
+title: "Granola"
+image: https://upload.wikimedia.org/wikipedia/commons/c/ca/Banana_Walnut_Granola_%286796918872%29.jpg 
+image-alt: https://commons.wikimedia.org/wiki/File:Banana_Walnut_Granola_(6796918872).jpg
+categories:
+  - sweet
+  - vegetarian
+author: Nicola Zuehlke
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+- [ ] 500 g oats
+- [ ] 50 g walnuts
+- [ ] 50 g cashews
+- [ ] 50 g almonds
+- [ ] 50 g pecans
+- [ ] 25 g cacao nibs
+- [ ] 50 g chia seeds
+- [ ] 50 g dried apricots, cranberries (or whatever you like)
+- [ ] other seeds or nuts you like
+- [ ] 2-3 teaspoons honey (or a vegan alternative)
+- [ ] 2 teaspoons cinnamon
+
+## {{< fa kitchen-set >}} Procedure
+
+1. Preheat the oven.
+1. Chop the nuts, if desired.
+1. Mix all the ingredients (except the dried fruits, cacao nibs and chia seeds).
+1. Spread it on a baking sheet.
+1. Put it into the oven. Bake until the granola is golden brown.
+1. Let the granola cool. Add the dried fruits and chia seeds.
+1. Use it as a topping or enjoy it for breakfast. 
