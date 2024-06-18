@@ -210,6 +210,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "nclz",
+      "name": "nclz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170938987?v=4",
+      "profile": "https://github.com/nclz",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
