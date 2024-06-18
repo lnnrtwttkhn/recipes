@@ -221,6 +221,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "miriamrabels",
+      "name": "miriamrabels",
+      "avatar_url": "https://avatars.githubusercontent.com/u/171564967?v=4",
+      "profile": "https://github.com/miriamrabels",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
