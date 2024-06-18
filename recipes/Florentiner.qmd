@@ -3,7 +3,7 @@ title: "The best Florentiners"
 image: "https://heissehimbeeren.com/wp-content/uploads/2022/11/omas-florentiner-rezept-12.webp"
 image-alt: "https://images.lecker.de/klassische-florentiner/1x1,id=72f9c685,b=lecker,w=1600,h=,ca=12.50,0,87.50,100,rm=sk.jpeg"
 categories:
-  - Christmas"´
+  - Christmas
   - Cookie
   - Sweet
   - Vegetarian
