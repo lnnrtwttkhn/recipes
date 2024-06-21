@@ -1,0 +1,36 @@
+---
+title: "Peanut Udon"
+image: "Add the URL to the image here"
+image-alt: "Add the URL to the image here"
+categories:
+  - vegetarian
+author: Michael Krause
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
++ [ ] 400 g Udon (fresh)
++ [ ] 2 tbsp salted peanuts 
++ [ ] 2 tbsp sesame
++ [ ] 10 g fresh ginger
++ [ ] 1 garlic clove
++ [ ] 1 large tomato
++ [ ] 1 tbsp sesame oil
++ [ ] 1/2 tsp chili flakes
++ [ ] 2 spring onions
++ [ ] 1/2 bunch cilantro
++ [ ] 2 tbsp soy sauce
++ [ ] 1/2 lime
++ [ ] 2 tbsp peanut butter
++ [ ] 100 ml coconut milk
+
+## {{< fa kitchen-set >}} Procedure
+
+1. Roughly chop the peanuts, toast them in a pan with sesame seeds until golden brown, then transfer them to a bowl and set aside.
+2. Peel and finely chop the ginger and garlic. Heat sesame oil in the pan and sauté the ginger, chili flakes, and garlic over medium heat.
+3. Meanwhile, wash the tomato, dice it into small pieces, and add it to the pan.
+4. Wash, trim, and finely slice the spring onions. Wash, shake dry, and chop the cilantro. Set both aside.
+5. Place the noodles in a bowl, cover with hot water, and let them sit for 1-2 minutes.
+6. Add 2 tablespoons of peanut butter to the pan and mix well. Squeeze in the lime juice. Stir in the soy sauce and coconut milk until the sauce is creamy.
+7. Stir in 3/4 of the spring onions, drain the noodles, and add them to the peanut sauce in the pan. Mix everything well and briefly continue to fry.
+8. Divide the noodles between 2 plates and serve garnished with the remaining spring onions, cilantro, and the sesame-peanut mixture.
