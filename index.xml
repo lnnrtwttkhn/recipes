@@ -10,7 +10,7 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Mon, 24 Jun 2024 09:43:45 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Jun 2024 09:45:40 GMT</lastBuildDate>
 <item>
   <title>Pancakes</title>
   <dc:creator>Lennart Wittkuhn</dc:creator>
@@ -59,7 +59,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:43:45 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:45:40 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -106,7 +106,7 @@ Not vegan, contains eggs and milk!
   <category>vegetarian</category>
   <category>pasta</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:43:45 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:45:40 GMT</pubDate>
   <media:content url="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -200,7 +200,7 @@ Not vegan, contains eggs and milk!
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:43:45 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:45:40 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -249,7 +249,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:43:45 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:45:40 GMT</pubDate>
   <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -308,8 +308,67 @@ Not vegan, contains eggs and milk!
   <category>cake</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:43:45 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:45:40 GMT</pubDate>
   <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Peanutbutter Ramen</title>
+  <dc:creator>Helene Breuer</dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/peanutbutter-ramen.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">3 banana shallots, peeled and chopped to get 100g</li>
+<li><input type="checkbox">2 lemongrass stalks, bottom two-thirds sliced, the rest discarded</li>
+<li><input type="checkbox">10 garlic cloves (30g), peeled and roughly chopped</li>
+<li><input type="checkbox">8cm x 8cm piece fresh ginger (60g), peeled and roughly chopped</li>
+<li><input type="checkbox">2½ tbsp gochujang paste</li>
+<li><input type="checkbox">1 tsp salt</li>
+<li><input type="checkbox">1¾ tsp salt, plus ½ tsp extra for the tempeh</li>
+<li><input type="checkbox">2 tsp Rapeseed oil</li>
+<li><input type="checkbox">3 tsp light brown soft sugar</li>
+<li><input type="checkbox">4 tbsp (65g) smooth peanut butter</li>
+<li><input type="checkbox">1 x 400ml tin coconut milk</li>
+<li><input type="checkbox">2 limes, zested and quartered</li>
+<li><input type="checkbox">250g ramen noodles</li>
+<li><input type="checkbox">200g tempeh, chopped into a mince with a knife</li>
+<li><input type="checkbox">250g pak choi, shredded lengthways</li>
+<li><input type="checkbox">40g fresh coriander, chopped</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<section id="make-curry-paste" class="level3">
+<h3 class="anchored" data-anchor-id="make-curry-paste">1. Make curry paste:</h3>
+<p>Put all the curry paste ingredients and two tablespoons each of rapeseed oil and water in a small blender and blitz to a smooth paste.</p>
+</section>
+<section id="make-the-ramen-broth" class="level3">
+<h3 class="anchored" data-anchor-id="make-the-ramen-broth">2. Make the ramen broth:</h3>
+<p>Next, make the ramen broth. Put three tablespoons of rapeseed oil in a large saucepan on a medium heat and, once hot, add the spice paste and fry, stirring regularly, for 10 minutes. Stir in two teaspoons of the sugar and cook for a further two minutes. Transfer a tablespoon and a half of the mix to a bowl and put to one side. Stir the peanut butter into the pan, then add the coconut milk, lime zest and a litre of water. Bring up to a simmer, then cook on a low heat for 10 minutes.</p>
+</section>
+<section id="make-the-noodles-tempeh" class="level3">
+<h3 class="anchored" data-anchor-id="make-the-noodles-tempeh">3. Make the noodles &amp; tempeh:</h3>
+<p>Meanwhile, make the noodles and tempeh. Cook the noodles according to the packet instructions, then drain in a colander, rinse under cold water and drain again. Add a little oil to the colander, toss to coat the noodles so they don’t stick, then set aside. To cook the tempeh, put two tablespoons of rapeseed oil in a nonstick frying pan on a medium heat and, when hot, add the tempeh mince and fry, stirring often, for five minutes, until crisp and browning. Add the reserved curry paste mix, the remaining teaspoon of sugar and the extra half-teaspoon of salt, fry, stirring, for another three or four minutes, then take off the heat.</p>
+</section>
+<section id="serve-the-ramen" class="level3">
+<h3 class="anchored" data-anchor-id="serve-the-ramen">4. Serve the ramen:</h3>
+<p>To serve, divide the ramen broth between four bowls, then divide the noodles between the bowls. Top with the shredded pak choy, crumbled tempeh and coriander, squeeze the juice of a quarter of a lime over each portion and serve with another lime wedge on the side of each bowl.</p>
+<p><img src="https://lennartwittkuhn.com/recipes/recipes/https:/www.theguardian.com/food/2024/mar/09/vegan-peanut-butter-ramen-recipe-meera-sodha.png" class="img-fluid"></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>vegan</category>
+  <category>ramen</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/peanutbutter-ramen.html</guid>
+  <pubDate>Mon, 24 Jun 2024 09:45:40 GMT</pubDate>
+  <media:content url="https://i.guim.co.uk/img/media/02ba2204e73993e25bc095c9bebf405057cace50/0_0_3573_4214/master/3573.jpg?width=1140&amp;dpr=2&amp;s=none" medium="image"/>
 </item>
 <item>
   <title>Indian Dal with Red Lentils</title>
@@ -357,7 +416,7 @@ Not vegan, contains eggs and milk!
   <category>curry</category>
   <category>Indian cuisine</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/IndianDal.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:43:45 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:45:40 GMT</pubDate>
   <media:content url="https://www.ambitiouskitchen.com/wp-content/uploads/2022/01/The-Best-Dal-Ever-6.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -399,7 +458,7 @@ Not vegan, contains eggs and milk!
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/cheesecake-with-meringue-topping.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:43:45 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:45:40 GMT</pubDate>
 </item>
 <item>
   <title>Peanut Udon</title>
@@ -447,7 +506,7 @@ Not vegan, contains eggs and milk!
  ]]></description>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/peanut_udon.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:43:45 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:45:40 GMT</pubDate>
   <media:content url="https://lennartwittkuhn.com/recipes/recipes/Add the URL to the image here" medium="image"/>
 </item>
 <item>
@@ -490,7 +549,7 @@ Not vegan, contains eggs and milk!
   <category>Not vegetarian</category>
   <category>Easy to prepare</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/JuliusR.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:43:45 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:45:40 GMT</pubDate>
   <media:content url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMP_IdWIaJbMyqcnhID8iR1AesJXaGt2sRTw&amp;s" medium="image"/>
 </item>
 <item>
@@ -533,7 +592,7 @@ Not vegan, contains eggs and milk!
   <category>salad</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/Potato-salad.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:43:45 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:45:40 GMT</pubDate>
   <media:content url="https://www.jackymalina.com/wp-content/uploads/2020/12/497B245D-2453-4312-A2B8-7A673EE6DA8E-1152x1536.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -573,7 +632,7 @@ Not vegan, contains eggs and milk!
   <category>crispy</category>
   <category>breakfast</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/muesli.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:43:45 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:45:40 GMT</pubDate>
   <media:content url="https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/0293599B-0ED4-468A-A838-50045B7A80EF/Derivates/E87D2389-BC34-44D7-9DBD-410A84A86C3F.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -619,7 +678,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/granola.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:43:45 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:45:40 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/c/ca/Banana_Walnut_Granola_%286796918872%29.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -725,7 +784,7 @@ Not vegan, contains eggs and milk!
   <category>vegan</category>
   <category>vietnamese</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/poke_bowl.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:43:45 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:45:40 GMT</pubDate>
   <media:content url="https://www.okonomikitchen.com/wp-content/uploads/2019/09/easy-vegan-tofu-poke-bowl-with-ponzu-sauce-recipe-1-1-of-1-1-1024x683.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -784,7 +843,7 @@ Not vegan, contains eggs and milk!
   <category>vegan</category>
   <category>pizza</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/veganpizza.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:43:45 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:45:40 GMT</pubDate>
   <media:content url="https://s.zentrum-der-gesundheit.de/img/vegane-pizza" medium="image"/>
 </item>
 <item>
@@ -846,7 +905,7 @@ Not vegan, contains eggs and milk!
   <category>pasta</category>
   <category>Italian cuisine</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pasta-alla-norma.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:43:45 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:45:40 GMT</pubDate>
   <media:content url="https://images.getrecipekit.com/20220310125111-dscf1118.jpg?width=650&amp;quality=90&amp;" medium="image"/>
 </item>
 <item>
@@ -892,7 +951,7 @@ Not vegan, contains eggs and milk!
   <category>meringue</category>
   <category>sponge cake</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/fancy-cake.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:43:45 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:45:40 GMT</pubDate>
   <media:content url="https://www.muddiskochen.de/app/uploads/2014/07/biskuit-himbeertorte-mit-baiser.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -939,7 +998,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegan</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/vegan-carrot-cake.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:43:45 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:45:40 GMT</pubDate>
   <media:content url="https://biancazapatka.com/wp-content/uploads/2018/03/IMG_2437-720x895.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -980,7 +1039,7 @@ Not vegan, contains eggs and milk!
   <category>Breakfast</category>
   <category>Snack</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/Avocado-Toast.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:43:45 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:45:40 GMT</pubDate>
   <media:content url="https://i2.wp.com/earthblokes.com/wp-content/uploads/2021/02/vegan-avocado-toast-4.jpg?resize=800%2C1200&amp;ssl=1" medium="image"/>
 </item>
 <item>
@@ -1030,62 +1089,8 @@ Not vegan, contains eggs and milk!
   <category>cake</category>
   <category>sweet</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/vegan_brownies.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:43:45 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:45:40 GMT</pubDate>
   <media:content url="https://img.taste.com.au/5hsR3Ore/w720-h480-cfill-q80/taste/2016/11/classic-chewy-brownie-102727-1.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Cup of Sugar</title>
-  <dc:creator>Paul Gallenkemper</dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/cup_of_sugar.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<p>roll the <strong>dice</strong> on how much sugar you <em>want</em>.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1">dice <span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">c</span>(<span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span>,<span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">2</span>,<span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">3</span>,<span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">4</span>,<span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">5</span>,<span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">6</span>)</span>
-<span id="cb1-2">amount_of_sugar <span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">sample</span>(dice, <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span>)</span></code></pre></div>
-</div>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<p>You need to put 2 grams in a cup.</p>
-</section>
-<section id="photo-of-result" class="level2">
-<h2 class="anchored" data-anchor-id="photo-of-result">Photo of result</h2>
-<p><img src="https://lennartwittkuhn.com/recipes/recipes/https:/www.happyballoon.de/thumbnail/4d/c1/d0/1701938245/63780351a985e5f5715ba9e630bf5d69ea268092_1920x1920.jpeg" class="img-fluid"></p>
-
-
-</section>
-
- ]]></description>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/cup_of_sugar.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:43:45 GMT</pubDate>
-  <media:content url="https://www.happyballoon.de/thumbnail/4d/c1/d0/1701938245/63780351a985e5f5715ba9e630bf5d69ea268092_1920x1920.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
