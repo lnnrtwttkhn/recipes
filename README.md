@@ -49,6 +49,7 @@ I welcome contributions to this project! Please see my [Contributing Guidelines]
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/octomike"><img src="https://avatars.githubusercontent.com/u/5805185?v=4?s=100" width="100px;" alt="Michael"/><br /><sub><b>Michael</b></sub></a><br /><a href="#content-octomike" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/recipes/commits?author=octomike" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/GitUniSF"><img src="https://avatars.githubusercontent.com/u/171565666?v=4?s=100" width="100px;" alt="GitUniSF"/><br /><sub><b>GitUniSF</b></sub></a><br /><a href="https://github.com/lnnrtwttkhn/recipes/issues?q=author%3AGitUniSF" title="Bug reports">🐛</a> <a href="#content-GitUniSF" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/recipes/commits?author=GitUniSF" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
