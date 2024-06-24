@@ -308,6 +308,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "Mirarufeger",
+      "name": "Mirarufeger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170929744?v=4",
+      "profile": "https://github.com/Mirarufeger",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
