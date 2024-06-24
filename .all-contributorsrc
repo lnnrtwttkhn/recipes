@@ -286,6 +286,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "helenebreuer",
+      "name": "helenebreuer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170937282?v=4",
+      "profile": "https://github.com/helenebreuer",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
