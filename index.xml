@@ -10,7 +10,7 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Mon, 24 Jun 2024 09:47:53 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Jun 2024 09:50:47 GMT</lastBuildDate>
 <item>
   <title>Pancakes</title>
   <dc:creator>Lennart Wittkuhn</dc:creator>
@@ -59,7 +59,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:47:53 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:50:47 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -106,7 +106,7 @@ Not vegan, contains eggs and milk!
   <category>vegetarian</category>
   <category>pasta</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:47:53 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:50:47 GMT</pubDate>
   <media:content url="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -200,7 +200,7 @@ Not vegan, contains eggs and milk!
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:47:53 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:50:47 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -249,7 +249,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:47:53 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:50:47 GMT</pubDate>
   <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -308,8 +308,49 @@ Not vegan, contains eggs and milk!
   <category>cake</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:47:53 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:50:47 GMT</pubDate>
   <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Very Crispy Potatoes</title>
+  <link>https://lennartwittkuhn.com/recipes/recipes/potatoes.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">800g waxy potatoes</li>
+<li><input type="checkbox">4 big spoons olive oil</li>
+<li><input type="checkbox">2 small spoons mild paprika powder</li>
+<li><input type="checkbox">1 small spoons salt</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>First, peel the 800 g of potatoes and cut them into your desired shape: potato wedges, fries, cubes, wedges, or potato slices. I personally prefer the peeled and quartered wedge shape.</li>
+<li>Place the cut potato slices directly into a bowl and mix them well with 4 tablespoons of olive oil, 2 teaspoons of mild paprika powder, and 1 teaspoon of salt. TIP: For variation, you can also mix in 1-2 teaspoons of fresh, chopped rosemary with the potatoes.</li>
+<li>Then spread the potatoes on a baking sheet lined with parchment paper. Make sure they are all spread out separately and not stacked on top of each other.</li>
+<li>They should then bake for about 30 minutes on the middle rack of the oven or until they are lightly browned and cooked through—just do the fork test or taste test. IMPORTANT NOTE: The baking time will vary depending on the cut, so keep an eye on them. I wish you much joy with my oven potato recipe and enjoy your meal.</li>
+</ol>
+</section>
+<section id="source" class="level2">
+<h2 class="anchored" data-anchor-id="source">Source</h2>
+<p>https://emmikochteinfach.de/knusprige-ofenkartoffeln/#wprm-recipe-container-604</p>
+
+
+</section>
+
+ ]]></description>
+  <category>salty</category>
+  <category>savoury</category>
+  <category>vegan</category>
+  <category>carbs</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/potatoes.html</guid>
+  <pubDate>Mon, 24 Jun 2024 09:50:47 GMT</pubDate>
+  <media:content url="https://emmikochteinfach.de/wp-content/uploads/2022/11/Ablauf-Knusprige-Ofenkartoffeln-%E2%80%93-Kartoffel-Wedges-10.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>The best Florentiners</title>
@@ -365,7 +406,7 @@ Not vegan, contains eggs and milk!
   <category>Sweet</category>
   <category>Vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/Florentiner.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:47:53 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:50:47 GMT</pubDate>
   <media:content url="https://heissehimbeeren.com/wp-content/uploads/2022/11/omas-florentiner-rezept-12.webp" medium="image" type="image/webp"/>
 </item>
 <item>
@@ -424,7 +465,7 @@ Not vegan, contains eggs and milk!
   <category>vegan</category>
   <category>ramen</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/peanutbutter-ramen.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:47:53 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:50:47 GMT</pubDate>
   <media:content url="https://i.guim.co.uk/img/media/02ba2204e73993e25bc095c9bebf405057cace50/0_0_3573_4214/master/3573.jpg?width=1140&amp;dpr=2&amp;s=none" medium="image"/>
 </item>
 <item>
@@ -473,7 +514,7 @@ Not vegan, contains eggs and milk!
   <category>curry</category>
   <category>Indian cuisine</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/IndianDal.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:47:53 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:50:47 GMT</pubDate>
   <media:content url="https://www.ambitiouskitchen.com/wp-content/uploads/2022/01/The-Best-Dal-Ever-6.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -515,7 +556,7 @@ Not vegan, contains eggs and milk!
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/cheesecake-with-meringue-topping.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:47:53 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:50:47 GMT</pubDate>
 </item>
 <item>
   <title>Peanut Udon</title>
@@ -563,7 +604,7 @@ Not vegan, contains eggs and milk!
  ]]></description>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/peanut_udon.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:47:53 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:50:47 GMT</pubDate>
   <media:content url="https://lennartwittkuhn.com/recipes/recipes/Add the URL to the image here" medium="image"/>
 </item>
 <item>
@@ -606,7 +647,7 @@ Not vegan, contains eggs and milk!
   <category>Not vegetarian</category>
   <category>Easy to prepare</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/JuliusR.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:47:53 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:50:47 GMT</pubDate>
   <media:content url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMP_IdWIaJbMyqcnhID8iR1AesJXaGt2sRTw&amp;s" medium="image"/>
 </item>
 <item>
@@ -649,7 +690,7 @@ Not vegan, contains eggs and milk!
   <category>salad</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/Potato-salad.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:47:53 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:50:47 GMT</pubDate>
   <media:content url="https://www.jackymalina.com/wp-content/uploads/2020/12/497B245D-2453-4312-A2B8-7A673EE6DA8E-1152x1536.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -689,7 +730,7 @@ Not vegan, contains eggs and milk!
   <category>crispy</category>
   <category>breakfast</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/muesli.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:47:53 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:50:47 GMT</pubDate>
   <media:content url="https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/0293599B-0ED4-468A-A838-50045B7A80EF/Derivates/E87D2389-BC34-44D7-9DBD-410A84A86C3F.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -735,7 +776,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/granola.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:47:53 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:50:47 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/c/ca/Banana_Walnut_Granola_%286796918872%29.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -841,7 +882,7 @@ Not vegan, contains eggs and milk!
   <category>vegan</category>
   <category>vietnamese</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/poke_bowl.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:47:53 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:50:47 GMT</pubDate>
   <media:content url="https://www.okonomikitchen.com/wp-content/uploads/2019/09/easy-vegan-tofu-poke-bowl-with-ponzu-sauce-recipe-1-1-of-1-1-1024x683.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -900,7 +941,7 @@ Not vegan, contains eggs and milk!
   <category>vegan</category>
   <category>pizza</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/veganpizza.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:47:53 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:50:47 GMT</pubDate>
   <media:content url="https://s.zentrum-der-gesundheit.de/img/vegane-pizza" medium="image"/>
 </item>
 <item>
@@ -962,7 +1003,7 @@ Not vegan, contains eggs and milk!
   <category>pasta</category>
   <category>Italian cuisine</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pasta-alla-norma.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:47:53 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:50:47 GMT</pubDate>
   <media:content url="https://images.getrecipekit.com/20220310125111-dscf1118.jpg?width=650&amp;quality=90&amp;" medium="image"/>
 </item>
 <item>
@@ -1008,7 +1049,7 @@ Not vegan, contains eggs and milk!
   <category>meringue</category>
   <category>sponge cake</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/fancy-cake.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:47:53 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:50:47 GMT</pubDate>
   <media:content url="https://www.muddiskochen.de/app/uploads/2014/07/biskuit-himbeertorte-mit-baiser.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -1055,49 +1096,8 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegan</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/vegan-carrot-cake.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:47:53 GMT</pubDate>
+  <pubDate>Mon, 24 Jun 2024 09:50:47 GMT</pubDate>
   <media:content url="https://biancazapatka.com/wp-content/uploads/2018/03/IMG_2437-720x895.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Avocado Toast</title>
-  <link>https://lennartwittkuhn.com/recipes/recipes/Avocado-Toast.html</link>
-  <description><![CDATA[ 
-
-
-
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://lennartwittkuhn.com/recipes/recipes/https:/i2.wp.com/earthblokes.com/wp-content/uploads/2021/02/vegan-avocado-toast-4.jpg?resize=800%2C1200&amp;ssl=1" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">A delicious avocado toast</figcaption>
-</figure>
-</div>
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<ul class="task-list">
-<li><input type="checkbox">1 ripe avocado</li>
-<li><input type="checkbox">2 slices of bread</li>
-<li><input type="checkbox">Salt to taste</li>
-<li><input type="checkbox">Pepper to taste</li>
-<li><input type="checkbox">Lemon juice</li>
-</ul>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<ol type="1">
-<li>Toast the slices of bread to your desired level of crispiness.</li>
-<li>Cut the avocado in half, remove the pit, and scoop the flesh into a bowl. Mash the avocado with a fork until smooth.</li>
-<li>Spread the mashed avocado evenly onto the toasted bread slices. Season with salt and pepper to taste. Add a squeeze of lemon juice if desired for extra flavor.</li>
-</ol>
-
-
-</section>
-
- ]]></description>
-  <category>Breakfast</category>
-  <category>Snack</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/Avocado-Toast.html</guid>
-  <pubDate>Mon, 24 Jun 2024 09:47:53 GMT</pubDate>
-  <media:content url="https://i2.wp.com/earthblokes.com/wp-content/uploads/2021/02/vegan-avocado-toast-4.jpg?resize=800%2C1200&amp;ssl=1" medium="image"/>
 </item>
 </channel>
 </rss>
