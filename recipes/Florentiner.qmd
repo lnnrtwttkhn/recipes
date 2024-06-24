@@ -1,0 +1,42 @@
+---
+title: "The best Florentiners"
+image: "https://heissehimbeeren.com/wp-content/uploads/2022/11/omas-florentiner-rezept-12.webp"
+image-alt: "https://images.lecker.de/klassische-florentiner/1x1,id=72f9c685,b=lecker,w=1600,h=,ca=12.50,0,87.50,100,rm=sk.jpeg"
+categories:
+  - Christmas
+  - Cookie
+  - Sweet
+  - Vegetarian
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+### For the shortcrust dough:
+
+- [ ] 175 g soft butter
+- [ ] 100 g sugar
+- [ ] 1 egg
+- [ ] 300 g flour
+- [ ] 1 pinch of salt
+- [ ] 200g dark chocolate
+
+### For the topping:
+
+- [ ] 175 g For the topping:
+- [ ] 125 ml whipped cream
+- [ ] 70 g sugar
+- [ ] 30 g honey
+- [ ] 30 g butter
+- [ ] 200 g ground almonds / flaked almonds
+- [ ] 2 tbsp almond kernels
+- [ ] 100 g dark chocolate coating
+- [ ] 200 g dried cranberries (chopped)
+
+## {{< fa kitchen-set >}} Procedure
+
+1. Mix the dough ingredients together and knead until it is a firm dough and leave the dough to rest for 1 hour.
+1. Roll out the dough very thinly and cut out round shapes. Bake for approx. 5 minutes at 180°C fan oven.
+1. Melt the chocolate and coat the base of the cooled cookies with chocolate and leave to harden overnight (or for 2 hours in the fridge).
+1. Heat the whipping cream, sugar, honey and butter in a saucepan, stirring constantly until the mixture caramelizes
+1. dd the flaked almonds, mix well and cook for 3 minutes, stirring until the mixture begins to brown. Transfer to a bowl, stir in 2 tbsp almond kernels.
+Shape the mixture into mounds using 2 oiled teaspoons and place on the cookies. Leave to cool ... and enjoy.
