@@ -275,6 +275,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "ProfessorPump",
+      "name": "ProfessorPump",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92522493?v=4",
+      "profile": "https://github.com/ProfessorPump",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
