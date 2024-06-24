@@ -319,6 +319,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "MarieBouwgena",
+      "name": "MarieBouwgena",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170937996?v=4",
+      "profile": "https://github.com/MarieBouwgena",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
