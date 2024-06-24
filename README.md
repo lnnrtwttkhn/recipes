@@ -47,6 +47,9 @@ I welcome contributions to this project! Please see my [Contributing Guidelines]
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mareikelwagner"><img src="https://avatars.githubusercontent.com/u/170938286?v=4?s=100" width="100px;" alt="Mareike"/><br /><sub><b>Mareike</b></sub></a><br /><a href="https://github.com/lnnrtwttkhn/recipes/issues?q=author%3Amareikelwagner" title="Bug reports">🐛</a> <a href="#content-mareikelwagner" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/recipes/commits?author=mareikelwagner" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JuCaHeWi"><img src="https://avatars.githubusercontent.com/u/170937408?v=4?s=100" width="100px;" alt="JuCaHeWi"/><br /><sub><b>JuCaHeWi</b></sub></a><br /><a href="https://github.com/lnnrtwttkhn/recipes/issues?q=author%3AJuCaHeWi" title="Bug reports">🐛</a> <a href="#content-JuCaHeWi" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/recipes/commits?author=JuCaHeWi" title="Code">💻</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/octomike"><img src="https://avatars.githubusercontent.com/u/5805185?v=4?s=100" width="100px;" alt="Michael"/><br /><sub><b>Michael</b></sub></a><br /><a href="#content-octomike" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/recipes/commits?author=octomike" title="Code">💻</a></td>
+    </tr>
   </tbody>
 </table>
 
