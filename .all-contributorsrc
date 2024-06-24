@@ -264,6 +264,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "GitUniSF",
+      "name": "GitUniSF",
+      "avatar_url": "https://avatars.githubusercontent.com/u/171565666?v=4",
+      "profile": "https://github.com/GitUniSF",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
