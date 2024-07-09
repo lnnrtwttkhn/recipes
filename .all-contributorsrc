@@ -330,6 +330,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "CMannstein",
+      "name": "CMannstein",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167006811?v=4",
+      "profile": "https://github.com/CMannstein",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
