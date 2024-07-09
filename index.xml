@@ -10,7 +10,7 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Mon, 24 Jun 2024 11:18:05 GMT</lastBuildDate>
+<lastBuildDate>Tue, 09 Jul 2024 09:59:51 GMT</lastBuildDate>
 <item>
   <title>Pancakes</title>
   <dc:creator>Lennart Wittkuhn</dc:creator>
@@ -59,7 +59,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Mon, 24 Jun 2024 11:18:05 GMT</pubDate>
+  <pubDate>Tue, 09 Jul 2024 09:59:51 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -106,7 +106,7 @@ Not vegan, contains eggs and milk!
   <category>vegetarian</category>
   <category>pasta</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</guid>
-  <pubDate>Mon, 24 Jun 2024 11:18:05 GMT</pubDate>
+  <pubDate>Tue, 09 Jul 2024 09:59:51 GMT</pubDate>
   <media:content url="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -200,7 +200,7 @@ Not vegan, contains eggs and milk!
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</guid>
-  <pubDate>Mon, 24 Jun 2024 11:18:05 GMT</pubDate>
+  <pubDate>Tue, 09 Jul 2024 09:59:51 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -249,7 +249,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
-  <pubDate>Mon, 24 Jun 2024 11:18:05 GMT</pubDate>
+  <pubDate>Tue, 09 Jul 2024 09:59:51 GMT</pubDate>
   <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -308,8 +308,105 @@ Not vegan, contains eggs and milk!
   <category>cake</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
-  <pubDate>Mon, 24 Jun 2024 11:18:05 GMT</pubDate>
+  <pubDate>Tue, 09 Jul 2024 09:59:51 GMT</pubDate>
   <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Pistachio Macarons</title>
+  <link>https://lennartwittkuhn.com/recipes/recipes/pistachiomacarons.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<section id="ingredient-for-the-filling" class="level3">
+<h3 class="anchored" data-anchor-id="ingredient-for-the-filling">Ingredient for the Filling:</h3>
+<ul class="task-list">
+<li><input type="checkbox">20g sugar</li>
+<li><input type="checkbox">10g butter</li>
+<li><input type="checkbox">40g chopped pistachio</li>
+<li><input type="checkbox">80g white chocolate</li>
+<li><input type="checkbox">60g whipped cream</li>
+<li><input type="checkbox">1 drop of vanilla</li>
+</ul>
+</section>
+<section id="ingredients-for-macarons-shells" class="level3">
+<h3 class="anchored" data-anchor-id="ingredients-for-macarons-shells">Ingredients for macarons shells</h3>
+<ul class="task-list">
+<li><input type="checkbox">50g grounded almonds</li>
+<li><input type="checkbox">50g powdered sugar</li>
+<li><input type="checkbox">30g egg white (best if 3 to 5 days old)</li>
+<li><input type="checkbox">13g sugar</li>
+<li><input type="checkbox">optional: green food coloring</li>
+</ul>
+</section>
+<section id="in-addition" class="level3">
+<h3 class="anchored" data-anchor-id="in-addition">In addition:</h3>
+<ul class="task-list">
+<li><input type="checkbox">baking paper for macarons</li>
+<li><input type="checkbox">piping bag with round tip</li>
+</ul>
+</section>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>For the filling you need to reduce the sugar into golden caramel. Take it from the stove and add the butter. After the butter is fully dissolved, add 20g of the chopped pistachios. Now put the pistachio brittle on a baking paper and let it cool down. Mix the rest of the pistachios in the blander. Heat up the white chocolate and whipped cream. Add everything (except the brittle) together and whip it up to a ganache. Keep it in the refrigerator for 20 minutes.</li>
+<li>Shred the brittle with the blender and mix it under the ganache. Keep the ganache in your refrigerator over night.</li>
+<li>For the macrons shells mix the grounded almonds and the powdered sugar using the blender. Sieve the mixture until it is a light powder. Mix the egg white until it’s white and fluffy. Slowly add the rest of the sugar. Optional you can add the green food coloring now. Fold the egg white in the almond-sugar mix, until you get a gluey dough.</li>
+<li>Fill dough into piping bag. Put baking paper on a tray. Pipe 24 round spots on the paper. Reduce air pockets in the dough by beating on the pan. Leave baking pan for at least 30 minutes in the room. The shells need to be dry. Preheat the oven up to 160°C and bake the macarons shells for at least 13 minutes (depends on the oven, my oven needs 20 minutes).</li>
+<li>Let the macarons shells chill down. Now you can fill them with the ganache and enjoy.</li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>sweets</category>
+  <category>perfect as a gift</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/pistachiomacarons.html</guid>
+  <pubDate>Tue, 09 Jul 2024 09:59:51 GMT</pubDate>
+  <media:content url="https://c.gmx.net/@325606737027531506/KMw1LY35QMCnudquRESl3A/ROOT/ROOT" medium="image"/>
+</item>
+<item>
+  <title>Bananabread</title>
+  <dc:creator>Annabel </dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/bananabread-annabel.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">2 to 3 medium (7” to 7-7/8” long) very ripe bananas, peeled (about 1 1/4 to 1 1/2 cups mashed)</li>
+<li><input type="checkbox">1/3 cup (76g) butter, unsalted or salted, melted</li>
+<li><input type="checkbox">1/2 teaspoon baking soda (not baking powder)</li>
+<li><input type="checkbox">1 pinch salt</li>
+<li><input type="checkbox">3/4 cup (150g) sugar (1/2 cup if you would like it less sweet, 1 cup if more sweet)</li>
+<li><input type="checkbox">1 large egg, beaten</li>
+<li><input type="checkbox">1 teaspoon vanilla extract</li>
+<li><input type="checkbox">1 1/2 cups (205g) all-purpose flour</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Preheat the oven to 350°F (175°C): Butter an 8x4-inch loaf pan.</li>
+<li>Mash the bananas and add the butter: In a mixing bowl, mash the ripe bananas with a fork until completely smooth. Stir the melted butter into the mashed bananas.</li>
+<li>Mix in the remaining ingredients: Mix in the baking soda and salt. Stir in the sugar, beaten egg, and vanilla extract. Mix in the flour.</li>
+<li>Bake the bread: Pour the batter into your prepared loaf pan.Bake for 55 to 65 minutes at 350°F (175°C), or until a toothpick or wooden skewer inserted into the center comes out clean. A few dry crumbs are okay; streaks of wet batter are not. If the outside of the loaf is browned but the center is still wet, loosely tent the loaf with foil and continue baking until the loaf is fully baked.</li>
+<li>Cool and serve: Remove from oven and let cool in the pan for a few minutes. Then remove the banana bread from the pan and let cool completely before serving. Slice and serve. (A bread knife helps to make slices that aren’t crumbly.)</li>
+</ol>
+<p>Wrapped well, the banana bread will keep at room temperature for 4 days. For longer storage, refrigerate the loaf up to 5 days, or freeze it.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread-annabel.html</guid>
+  <pubDate>Tue, 09 Jul 2024 09:59:51 GMT</pubDate>
 </item>
 <item>
   <title>Fortune cookies</title>
@@ -354,7 +451,7 @@ Not vegan, contains eggs and milk!
   <category>baked goods</category>
   <category>Asian cuisine</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/fortune-cookies.html</guid>
-  <pubDate>Mon, 24 Jun 2024 11:18:05 GMT</pubDate>
+  <pubDate>Tue, 09 Jul 2024 09:59:51 GMT</pubDate>
   <media:content url="https://www.smarticular.net/wp-content/uploads/2019/12/glueckskekse-selber-machen-backen-rezept-1-fb.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -395,7 +492,7 @@ Not vegan, contains eggs and milk!
   <category>vegan</category>
   <category>carbs</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/potatoes.html</guid>
-  <pubDate>Mon, 24 Jun 2024 11:18:05 GMT</pubDate>
+  <pubDate>Tue, 09 Jul 2024 09:59:51 GMT</pubDate>
   <media:content url="https://emmikochteinfach.de/wp-content/uploads/2022/11/Ablauf-Knusprige-Ofenkartoffeln-%E2%80%93-Kartoffel-Wedges-10.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -452,7 +549,7 @@ Not vegan, contains eggs and milk!
   <category>Sweet</category>
   <category>Vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/Florentiner.html</guid>
-  <pubDate>Mon, 24 Jun 2024 11:18:05 GMT</pubDate>
+  <pubDate>Tue, 09 Jul 2024 09:59:51 GMT</pubDate>
   <media:content url="https://heissehimbeeren.com/wp-content/uploads/2022/11/omas-florentiner-rezept-12.webp" medium="image" type="image/webp"/>
 </item>
 <item>
@@ -511,7 +608,7 @@ Not vegan, contains eggs and milk!
   <category>vegan</category>
   <category>ramen</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/peanutbutter-ramen.html</guid>
-  <pubDate>Mon, 24 Jun 2024 11:18:05 GMT</pubDate>
+  <pubDate>Tue, 09 Jul 2024 09:59:51 GMT</pubDate>
   <media:content url="https://i.guim.co.uk/img/media/02ba2204e73993e25bc095c9bebf405057cace50/0_0_3573_4214/master/3573.jpg?width=1140&amp;dpr=2&amp;s=none" medium="image"/>
 </item>
 <item>
@@ -560,7 +657,7 @@ Not vegan, contains eggs and milk!
   <category>curry</category>
   <category>Indian cuisine</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/IndianDal.html</guid>
-  <pubDate>Mon, 24 Jun 2024 11:18:05 GMT</pubDate>
+  <pubDate>Tue, 09 Jul 2024 09:59:51 GMT</pubDate>
   <media:content url="https://www.ambitiouskitchen.com/wp-content/uploads/2022/01/The-Best-Dal-Ever-6.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -602,7 +699,7 @@ Not vegan, contains eggs and milk!
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/cheesecake-with-meringue-topping.html</guid>
-  <pubDate>Mon, 24 Jun 2024 11:18:05 GMT</pubDate>
+  <pubDate>Tue, 09 Jul 2024 09:59:51 GMT</pubDate>
 </item>
 <item>
   <title>Peanut Udon</title>
@@ -650,7 +747,7 @@ Not vegan, contains eggs and milk!
  ]]></description>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/peanut_udon.html</guid>
-  <pubDate>Mon, 24 Jun 2024 11:18:05 GMT</pubDate>
+  <pubDate>Tue, 09 Jul 2024 09:59:51 GMT</pubDate>
   <media:content url="https://lennartwittkuhn.com/recipes/recipes/Add the URL to the image here" medium="image"/>
 </item>
 <item>
@@ -693,7 +790,7 @@ Not vegan, contains eggs and milk!
   <category>Not vegetarian</category>
   <category>Easy to prepare</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/JuliusR.html</guid>
-  <pubDate>Mon, 24 Jun 2024 11:18:05 GMT</pubDate>
+  <pubDate>Tue, 09 Jul 2024 09:59:51 GMT</pubDate>
   <media:content url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMP_IdWIaJbMyqcnhID8iR1AesJXaGt2sRTw&amp;s" medium="image"/>
 </item>
 <item>
@@ -736,7 +833,7 @@ Not vegan, contains eggs and milk!
   <category>salad</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/Potato-salad.html</guid>
-  <pubDate>Mon, 24 Jun 2024 11:18:05 GMT</pubDate>
+  <pubDate>Tue, 09 Jul 2024 09:59:51 GMT</pubDate>
   <media:content url="https://www.jackymalina.com/wp-content/uploads/2020/12/497B245D-2453-4312-A2B8-7A673EE6DA8E-1152x1536.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -776,7 +873,7 @@ Not vegan, contains eggs and milk!
   <category>crispy</category>
   <category>breakfast</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/muesli.html</guid>
-  <pubDate>Mon, 24 Jun 2024 11:18:05 GMT</pubDate>
+  <pubDate>Tue, 09 Jul 2024 09:59:51 GMT</pubDate>
   <media:content url="https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/0293599B-0ED4-468A-A838-50045B7A80EF/Derivates/E87D2389-BC34-44D7-9DBD-410A84A86C3F.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -822,7 +919,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/granola.html</guid>
-  <pubDate>Mon, 24 Jun 2024 11:18:05 GMT</pubDate>
+  <pubDate>Tue, 09 Jul 2024 09:59:51 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/c/ca/Banana_Walnut_Granola_%286796918872%29.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -928,7 +1025,7 @@ Not vegan, contains eggs and milk!
   <category>vegan</category>
   <category>vietnamese</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/poke_bowl.html</guid>
-  <pubDate>Mon, 24 Jun 2024 11:18:05 GMT</pubDate>
+  <pubDate>Tue, 09 Jul 2024 09:59:51 GMT</pubDate>
   <media:content url="https://www.okonomikitchen.com/wp-content/uploads/2019/09/easy-vegan-tofu-poke-bowl-with-ponzu-sauce-recipe-1-1-of-1-1-1024x683.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -987,116 +1084,8 @@ Not vegan, contains eggs and milk!
   <category>vegan</category>
   <category>pizza</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/veganpizza.html</guid>
-  <pubDate>Mon, 24 Jun 2024 11:18:05 GMT</pubDate>
+  <pubDate>Tue, 09 Jul 2024 09:59:51 GMT</pubDate>
   <media:content url="https://s.zentrum-der-gesundheit.de/img/vegane-pizza" medium="image"/>
-</item>
-<item>
-  <title>Pasta alla Norma</title>
-  <dc:creator>Nicole Ratza</dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/pasta-alla-norma.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<section id="for-the-pasta" class="level3">
-<h3 class="anchored" data-anchor-id="for-the-pasta">For the Pasta</h3>
-<ul class="task-list">
-<li><input type="checkbox">600 g pasta (e.g.&nbsp;penne)</li>
-<li><input type="checkbox">150 g to 200 g ricotta salata, grated (alternatively pecorino or parmesan)</li>
-<li><input type="checkbox">2 aubergines</li>
-<li><input type="checkbox">1 bottle of tomato passata (approx. 700 g)</li>
-<li><input type="checkbox">1 clove of garlic</li>
-<li><input type="checkbox">1 handful of basil leaves</li>
-<li><input type="checkbox">1 pinch of sugar</li>
-<li><input type="checkbox">Salt &amp; pepper</li>
-<li><input type="checkbox">Olive oil</li>
-<li><input type="checkbox">Sunflower oil for frying</li>
-</ul>
-</section>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<ol type="1">
-<li><p>Cook the ramen in boiling salted water for about 4 minutes.</p></li>
-<li><p>Meanwhile, peel and finely chop the garlic cloves.</p></li>
-<li><p>Heat the plant-based butter in a pan and sauté the garlic. Stir in the chili flakes.</p></li>
-<li><p>Stir in the brown sugar and dissolve. Add soy sauce and mix in the ramen noodles.</p></li>
-<li><p>Remove the pan from heat and stir until the noodles are evenly coated.</p></li>
-<li><p>Slice the leek and set it aside for garnish.</p></li>
-<li><p>For the non-vegan version, beat two eggs and cook them in a pan until scrambled. Mix the scrambled eggs with the noodles and serve everything together.</p></li>
-<li><p>PREPARING THE AUBERGINES</p></li>
-<li><p>Wash the aubergines, cut off the ends and cut into 1x1 cm cubes. You can also cut a few thin slices from the aubergine for decoration. Sprinkle with a little salt and leave to stand in a sieve for 1 hour.</p></li>
-<li><p>Place a suitable bowl with a weight (e.g.&nbsp;water) in the sieve to weigh down the aubergines.</p></li>
-<li><p>Note: Salting removes water and bitter substances from the aubergines. Even though the bitter substances have been bred out of most types of aubergine nowadays, it is still worth salting them, as this removes water from the aubergine and makes them crispier when deep-frying.</p></li>
-<li><p>FOR THE TOMATO SAUCE</p></li>
-<li><p>Heat a little olive oil in a pan over a medium heat and add the garlic clove, allowing it to colour and flavour the oil.</p></li>
-<li><p>Add the tomato passata and a pinch of sugar, season with salt and pepper and add the basil leaves. 8. Leave to simmer for approx. 15 mins. Stir occasionally.</p></li>
-<li><p>PREPARE THE AUBERGINES</p></li>
-<li><p>Meanwhile, deep-fry the aubergine cubes in plenty of sunflower oil until golden brown and then drain well on kitchen paper. Then add to the tomato sauce.</p></li>
-<li><p>FOR THE PASTA</p></li>
-<li><p>Cook the pasta in salted water until al dente, drain and mix with the sauce.</p></li>
-<li><p>Arrange on plates, sprinkle with the ricotta and serve immediately.</p></li>
-</ol>
-<p>Et viola, enjoy your meal!</p>
-
-
-</section>
-
- ]]></description>
-  <category>main course</category>
-  <category>pasta</category>
-  <category>Italian cuisine</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/pasta-alla-norma.html</guid>
-  <pubDate>Mon, 24 Jun 2024 11:18:05 GMT</pubDate>
-  <media:content url="https://images.getrecipekit.com/20220310125111-dscf1118.jpg?width=650&amp;quality=90&amp;" medium="image"/>
-</item>
-<item>
-  <title>Raspberry Sponge Cake with Meringue</title>
-  <dc:creator>Luca Nowak</dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/fancy-cake.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<ul class="task-list">
-<li><input type="checkbox">4 egg white</li>
-<li><input type="checkbox">4 egg yolk</li>
-<li><input type="checkbox">270g sugar</li>
-<li><input type="checkbox">1 vanilla sugar</li>
-<li><input type="checkbox">60 g flour</li>
-<li><input type="checkbox">50 g corn starch</li>
-<li><input type="checkbox">1/2 TL baking powder</li>
-<li><input type="checkbox">600 g frozen raspberries</li>
-<li><input type="checkbox">0,5l cream</li>
-</ul>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<ol type="1">
-<li>Whisk the egg whites and egg yolks and vanilla sugar stiff for a very long time until foamy (2 egg whites, 4 egg yolks, 1 vanilla sugar)</li>
-<li>Sift in the flour, cornstarch and baking powder and pour everything into a greased springform pan (60 g of flour, 50 g of cornstarch, 1 teaspoon of baking powder)</li>
-<li>Whisk the egg whites and sugar stiff until foamy and spoon onto the batter (2 egg whites, 230 g of sugar)</li>
-<li>Bake at 175 degrees for about half an hour on the middle to lower rack.</li>
-<li>Then let the cake cool and cut it in the middle.</li>
-<li>Place the frozen raspberries on the bottom half, sprinkle with sugar, and then spread the whipped cream (600 g of frozen raspberries, 40 g of sugar, 0.5 liters of whipped cream)</li>
-<li>Place the top half of the cake on the filling and let it stand for a few hours (not in the refrigerator). Alternatively, you can thaw the raspberries beforehand if there is not enough time.</li>
-</ol>
-
-
-</section>
-
- ]]></description>
-  <category>fancy cake</category>
-  <category>raspberry</category>
-  <category>meringue</category>
-  <category>sponge cake</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/fancy-cake.html</guid>
-  <pubDate>Mon, 24 Jun 2024 11:18:05 GMT</pubDate>
-  <media:content url="https://www.muddiskochen.de/app/uploads/2014/07/biskuit-himbeertorte-mit-baiser.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
