@@ -1,6 +1,6 @@
 ---
 title: "Pistachio Macarons"
-image: "https://c.gmx.net/@325606737027531506/KMw1LY35QMCnudquRESl3A/ROOT/ROOT
+image: "https://c.gmx.net/@325606737027531506/KMw1LY35QMCnudquRESl3A/ROOT/ROOT"
 image-alt: "Add the URL to the image here"
 categories:
   - sweets
