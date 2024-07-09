@@ -1,31 +1,35 @@
 ---
-title: "Pistachio macarons"
-image: "https://c.gmx.net/@325606737027531506/KMw1LY35QMCnudquRESl3A"
+title: "Pistachio Macarons"
+image: "https://c.gmx.net/@325606737027531506/KMw1LY35QMCnudquRESl3A/ROOT/ROOT
 image-alt: "Add the URL to the image here"
 categories:
-  - sweets - perfect as a gift
+  - sweets
+  - perfect as a gift
 ---
 
 ## {{< fa basket-shopping >}} Ingredients
 
-**Ingredient for the Filling:**
-- 20g sugar
-- 10g butter
-- 40g chopped pistachio
-- 80g white chocolate
-- 60g whipped cream
-- 1 drop of vanilla
+### Ingredient for the Filling:
 
-**Ingredients for macarons shells**
-- 50g grounded almonds
-- 50g powdered sugar
-- 30g egg white (best if 3 to 5 days old)
-- 13g sugar
-- optional: green food coloring 
+- [ ] 20g sugar
+- [ ] 10g butter
+- [ ] 40g chopped pistachio
+- [ ] 80g white chocolate
+- [ ] 60g whipped cream
+- [ ] 1 drop of vanilla
 
-**In addition:**
-- baking paper for macarons
-- piping bag with round tip
+### Ingredients for macarons shells
+
+- [ ] 50g grounded almonds
+- [ ] 50g powdered sugar
+- [ ] 30g egg white (best if 3 to 5 days old)
+- [ ] 13g sugar
+- [ ] optional: green food coloring 
+
+### In addition:
+
+- [ ] baking paper for macarons
+- [ ] piping bag with round tip
 
 ## {{< fa kitchen-set >}} Procedure
 
