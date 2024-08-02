@@ -1,5 +1,8 @@
 ---
 title: "Template for new recipe"
+author:
+  - name: Your GitHub Name
+    url: URL of your GitHub profile
 image: "Add the URL to the image here"
 image-alt: "Add the URL to the image here"
 categories:

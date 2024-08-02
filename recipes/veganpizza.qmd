@@ -1,7 +1,9 @@
 ---
 title: "Vegan Pizza"
 image: "https://s.zentrum-der-gesundheit.de/img/vegane-pizza"
-author: Michelle Reiter
+author:
+  - name: michellerider
+    url: https://github.com/michellerider
 categories:
   - vegan
   - pizza

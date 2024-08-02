@@ -6,6 +6,9 @@ categories:
   - main course
   - curry
   - Indian cuisine
+author:
+  - name: ProfessorPump
+    url: https://github.com/ProfessorPump
 ---
 
 ## {{< fa basket-shopping >}} Ingredients

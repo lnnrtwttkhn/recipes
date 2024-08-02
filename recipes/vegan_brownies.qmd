@@ -1,5 +1,7 @@
 ---
-author: "Maria Jakubowski"
+author:
+  - name: MariaJakubowski
+    url: https://github.com/MariaJakubowski
 title: "Vegan Brownies"
 image: "https://img.taste.com.au/5hsR3Ore/w720-h480-cfill-q80/taste/2016/11/classic-chewy-brownie-102727-1.jpeg"
 image-alt: "https://img.taste.com.au/5hsR3Ore/w720-h480-cfill-q80/taste/2016/11/classic-chewy-brownie-102727-1.jpeg"

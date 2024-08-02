@@ -7,7 +7,9 @@ categories:
   - yummy
   - crispy
   - breakfast
-author: Miriam Rabels
+author:
+  - name: miriamrabels
+    url: https://github.com/miriamrabels
 ---
 
 ## {{< fa basket-shopping >}} Ingredients

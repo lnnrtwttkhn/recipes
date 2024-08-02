@@ -1,7 +1,7 @@
 ---
 title: "Tiramisù"
 author:
-  - name: Matteo Carpi
+  - name: matteocarpi
     url: https://github.com/matteocarpi
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tiramisu_-_Raffaele_Diomede.jpg/2560px-Tiramisu_-_Raffaele_Diomede.jpg
 image-alt: https://preppykitchen.com/wp-content/uploads/2023/10/Tiramisu-Feature.jpg

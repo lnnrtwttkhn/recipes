@@ -1,6 +1,8 @@
 ---
 title: "Gyoza"
-author: Karo
+author:
+  - name: KaroBrix
+    url: https://github.com/KaroBrix
 image: "https://assets.zuckerjagdwurst.com/pref3p553o311dnb3y67zffjmwte/1110/701/55/true/center/R883-Vegane-Teigtaschen-mit-Knusperboden-30.webp?animated=false"
 image-alt: "https://assets.zuckerjagdwurst.com/pref3p553o311dnb3y67zffjmwte/1110/701/55/true/center/R883-Vegane-Teigtaschen-mit-Knusperboden-30.webp?animated=false"
 categories:

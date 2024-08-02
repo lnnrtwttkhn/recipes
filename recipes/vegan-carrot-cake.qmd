@@ -7,7 +7,9 @@ categories:
   - dessert
   - sweet
   - vegan
-author: "Sivanujah Kumarasamy"
+author:
+  - name: sivanujah
+    url: https://github.com/sivanujah
 ---
 
 ## {{< fa basket-shopping >}} Ingredients

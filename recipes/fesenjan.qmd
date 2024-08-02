@@ -4,7 +4,9 @@ image: "https://cdn.faradeed.ir/thumbnail/LeNflz9GOtZN/KoeEnxIUgNp8HPWtyR4f3njef
 image-alt: "https://cdn.faradeed.ir/thumbnail/LeNflz9GOtZN/KoeEnxIUgNp8HPWtyR4f3njefZWpQsc5QSfH7y-wEmOGb45E_dImxEpQi9avqdGE/Khoresh-e-Fesenjan-Tilda-Pure-Basmati-2-scaled.jpg"
 categories:
   - international
-author: Reza Hakimazar
+author:
+  - name: rezahakimazar
+    url: https://github.com/rezahakimazar
 ---
 
 ## {{< fa basket-shopping >}} Ingredients

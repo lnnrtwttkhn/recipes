@@ -1,7 +1,8 @@
 ---
 title: "Noodles"
 author:
-  - name: Max
+  - name: elmwdow
+    url: https://github.com/elmwdow
 ---
 
 ## {{< fa basket-shopping >}} Ingredients

@@ -1,7 +1,9 @@
 ---
 title: "Peanutbutter Ramen"
 image: "https://i.guim.co.uk/img/media/02ba2204e73993e25bc095c9bebf405057cace50/0_0_3573_4214/master/3573.jpg?width=1140&dpr=2&s=none"
-author: Helene Breuer
+author:
+  - name: helenebreuer
+    url: https://github.com/helenebreuer
 categories:
   - vegan
   - ramen

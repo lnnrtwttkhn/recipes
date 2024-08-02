@@ -5,7 +5,9 @@ categories:
   - sweet
   - dessert
   - vegetarian
-author: "Gloria Röhrig"
+author:
+  - name: gloriaroe
+    url: https://github.com/gloriaroe
 ---
 
 ## {{< fa basket-shopping >}} Ingredients

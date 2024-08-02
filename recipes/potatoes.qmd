@@ -1,5 +1,8 @@
 ---
 title: "Very Crispy Potatoes"
+author:
+  - name: Mirarufeger
+    url: https://github.com/Mirarufeger
 image: "https://emmikochteinfach.de/wp-content/uploads/2022/11/Ablauf-Knusprige-Ofenkartoffeln-%E2%80%93-Kartoffel-Wedges-10.jpg"
 image-alt: "https://emmikochteinfach.de/wp-content/uploads/2022/11/Ablauf-Knusprige-Ofenkartoffeln-%E2%80%93-Kartoffel-Wedges-1.jpg"
 categories:
