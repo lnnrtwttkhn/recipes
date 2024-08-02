@@ -6,7 +6,9 @@ categories:
   - main course
   - pasta
   - Italian cuisine 
-author: Nicole Ratza
+author:
+  - name: Niiccoolle
+    url: https://github.com/Niiccoolle
 ---
 
 ## {{< fa basket-shopping >}} Ingredients

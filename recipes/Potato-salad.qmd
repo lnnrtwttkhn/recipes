@@ -5,7 +5,9 @@ image-alt: "https://www.jackymalina.com/wp-content/uploads/2020/12/497B245D-2453
 categories:
   - salad
   - vegetarian
-author: Mareike Wagner
+author:
+  - name: mareikelwagner
+    url: https://github.com/mareikelwagner
 ---
 
 ## {{< fa basket-shopping >}} Ingredients

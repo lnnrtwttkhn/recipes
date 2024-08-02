@@ -5,6 +5,9 @@ image-alt: "Add the URL to the image here"
 categories:
   - sweets
   - perfect as a gift
+author:
+  - name: CMannstein
+    url: https://github.com/CMannstein
 ---
 
 ## {{< fa basket-shopping >}} Ingredients

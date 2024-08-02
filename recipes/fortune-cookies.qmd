@@ -1,6 +1,8 @@
 ---
 title: "Fortune cookies"
-author: Marie Bogena
+author:
+  - name: MarieBouwgena
+    url: https://github.com/MarieBouwgena
 image: https://www.smarticular.net/wp-content/uploads/2019/12/glueckskekse-selber-machen-backen-rezept-1-fb.jpg
 image-alt: "With this recipe you can make fortune cookies with only 4 ingredients! For new years and other occasions is this DIY-recipe for a lot of fortune teller fun."
 categories:

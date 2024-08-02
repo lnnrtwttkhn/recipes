@@ -5,8 +5,9 @@ image-alt: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMP_IdWIaJbMyq
 categories:
   - Not vegetarian
   - Easy to prepare
-  
-author: Julius Wilke
+author:
+  - name: JuCaHeWi
+    url: https://github.com/JuCaHeWi
 ---
 
 ## {{< fa basket-shopping >}} Ingredients

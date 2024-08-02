@@ -4,7 +4,9 @@ image: "Add the URL to the image here"
 image-alt: "Add the URL to the image here"
 categories:
   - vegetarian
-author: Michael Krause
+author:
+  - name: octomike
+    url: https://github.com/octomike
 ---
 
 ## {{< fa basket-shopping >}} Ingredients

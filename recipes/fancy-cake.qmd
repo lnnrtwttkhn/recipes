@@ -7,7 +7,9 @@ categories:
   - raspberry
   - meringue
   - sponge cake
-author: Luca Nowak
+author:
+  - name: LucaCoolGirl
+    url: https://github.com/LucaCoolGirl
 ---
 
 ## {{< fa basket-shopping >}} Ingredients

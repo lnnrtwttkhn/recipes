@@ -1,6 +1,8 @@
 ---
 title: "Cinnamon Rolls"
-author: "Carolyn Jakubeit"
+author:
+  - name: CJarolyn
+    url: https://github.com/CJarolyn
 image: https://upload.wikimedia.org/wikipedia/commons/a/ad/Cinnamon_roll_in_Stockholm.jpg
 categories:
   - sweet

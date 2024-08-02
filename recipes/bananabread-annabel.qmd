@@ -1,6 +1,8 @@
 ---
 title: Bananabread
-author: Annabel
+author:
+  - name: AnnabelPsych
+    url: https://github.com/AnnabelPsych
 ---
 
 ## {{< fa basket-shopping >}} Ingredients

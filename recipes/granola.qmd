@@ -5,7 +5,9 @@ image-alt: https://commons.wikimedia.org/wiki/File:Banana_Walnut_Granola_(679691
 categories:
   - sweet
   - vegetarian
-author: Nicola Zuehlke
+author:
+  - name: nclz
+    url: https://github.com/nclz
 ---
 
 ## {{< fa basket-shopping >}} Ingredients

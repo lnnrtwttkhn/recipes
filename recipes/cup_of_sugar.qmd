@@ -2,7 +2,9 @@
 title: "Cup of Sugar"
 image: "https://www.happyballoon.de/thumbnail/4d/c1/d0/1701938245/63780351a985e5f5715ba9e630bf5d69ea268092_1920x1920.jpeg"
 image-alt: "https://www.happyballoon.de/thumbnail/4d/c1/d0/1701938245/63780351a985e5f5715ba9e630bf5d69ea268092_1920x1920.jpeg"
-author: Paul Gallenkemper
+author:
+  - name: paul-gallenkemper
+    url: https://github.com/paul-gallenkemper
 ---
 
 ## {{< fa basket-shopping >}} Ingredients

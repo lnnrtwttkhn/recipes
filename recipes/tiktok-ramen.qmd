@@ -6,7 +6,9 @@ categories:
   - main course
   - noodles
   - Asian cuisine
-author: Konrad Pagenstedt
+author:
+  - name: konradpa
+    url: https://github.com/konradpa
 ---
 
 ## {{< fa basket-shopping >}} Ingredients

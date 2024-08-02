@@ -1,6 +1,8 @@
 ---
 title: "Cheesecake with Meringue Topping"
-author: "Stella F."
+author:
+  - name: GitUniSF
+    url: https://github.com/GitUniSF
 ---
 
 ## {{< fa basket-shopping >}} Ingredients
