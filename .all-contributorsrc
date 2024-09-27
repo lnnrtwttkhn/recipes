@@ -363,6 +363,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "Maryamtohidi",
+      "name": "Maryam Tohidi-Moghaddam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68547850?v=4",
+      "profile": "https://github.com/Maryamtohidi",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
