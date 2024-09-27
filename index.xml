@@ -10,7 +10,7 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Fri, 02 Aug 2024 18:40:06 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Sep 2024 13:40:55 GMT</lastBuildDate>
 <item>
   <title>Pancakes</title>
   <dc:creator>Lennart Wittkuhn</dc:creator>
@@ -59,7 +59,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Fri, 02 Aug 2024 18:40:06 GMT</pubDate>
+  <pubDate>Fri, 27 Sep 2024 13:40:55 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -118,104 +118,8 @@ Not vegan, contains eggs and milk!
   <category>cake</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
-  <pubDate>Fri, 02 Aug 2024 18:40:06 GMT</pubDate>
+  <pubDate>Fri, 27 Sep 2024 13:40:55 GMT</pubDate>
   <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Lentil Bolognese</title>
-  <dc:creator>Lennart Wittkuhn</dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<ul class="task-list">
-<li><input type="checkbox">1 clove of garlic</li>
-<li><input type="checkbox">1 onion</li>
-<li><input type="checkbox">1 carrot</li>
-<li><input type="checkbox">1 stalk of celery</li>
-<li><input type="checkbox">1 tbsp olive oil</li>
-<li><input type="checkbox">2 tablespoons tomato paste</li>
-<li><input type="checkbox">150 g red lentils</li>
-<li><input type="checkbox">400 g strained tomatoes - or chopped tomatoes (= 1 tin)</li>
-<li><input type="checkbox">250 ml vegetable stock</li>
-<li><input type="checkbox">1 tbsp Italian herbs</li>
-<li><input type="checkbox">salt</li>
-<li><input type="checkbox">pepper</li>
-</ul>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<ol type="1">
-<li>Wash the lentils thoroughly, then set aside.</li>
-<li>Finely chop the garlic and onion, dice the carrot and celery.</li>
-<li>Heat the oil in a pan and sauté the onions.</li>
-<li>Add the carrots and celery and fry for 5 minutes over a medium heat.</li>
-<li>Stir in the tomato purée, garlic and herbs.</li>
-<li>Add the tomato purée, vegetable stock and lentils, bring to the boil, cover and simmer over a medium heat for 15 minutes. Add water if necessary.</li>
-</ol>
-<p>Source: <a href="https://www.gaumenfreundin.de/rote-linsenbolognese-einfach-und-vegan/" class="uri">https://www.gaumenfreundin.de/rote-linsenbolognese-einfach-und-vegan/</a></p>
-
-
-</section>
-
- ]]></description>
-  <category>vegetarian</category>
-  <category>pasta</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</guid>
-  <pubDate>Fri, 02 Aug 2024 18:40:06 GMT</pubDate>
-  <media:content url="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Chocolate Cake for Kids</title>
-  <dc:creator>Lennart Wittkuhn</dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<ul class="task-list">
-<li><input type="checkbox">180 g Soft Dates, pitted</li>
-<li><input type="checkbox">200 ml Cream</li>
-<li><input type="checkbox">3 Eggs</li>
-<li><input type="checkbox">1/2 Vanilla Bean(s)</li>
-<li><input type="checkbox">4 tbsp Heaped Cocoa Powder</li>
-<li><input type="checkbox">100 g Flour</li>
-<li><input type="checkbox">1.5 tsp Baking Soda</li>
-<li><input type="checkbox">80 g Butter</li>
-<li><input type="checkbox">Some Butter for greasing the pan</li>
-</ul>
-</section>
-<section id="fa-kitchen-set-preparation" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-preparation"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Preparation</h2>
-<ol type="1">
-<li>Preheat the oven to 170 °C (convection).</li>
-<li>Puree dates with cream, vanilla bean seeds, and cocoa powder until smooth.</li>
-<li>Then add egg yolks and butter, and blend until the mixture is homogeneous and smooth.</li>
-<li>Beat the egg whites until stiff peaks form.</li>
-<li>Mix the flour and baking soda into the cocoa mixture.</li>
-<li>Gently fold in the beaten egg whites.</li>
-<li>Pour the cake batter into any buttered baking pan.</li>
-<li>Bake in the preheated oven on the middle rack for approximately 40 minutes.</li>
-</ol>
-</section>
-<section id="notes" class="level2">
-<h2 class="anchored" data-anchor-id="notes">Notes</h2>
-<p>The recipe yields 16 pieces and is also suitable for muffin molds. You can enhance the cake with orange zest, ground nuts, nut butter, chili, cinnamon, ginger, cardamom, or cherries. I use soft dates, which are softer than regular dates. If you only have firm dates, soak them in warm water for about 4 hours. I would use a cake pan with a diameter of 18 cm. Source: <a href="https://www.chefkoch.de/rezepte/3186881474309297/Feiner-Schokokuchen-ohne-Zuckerzusatz.html" class="uri">https://www.chefkoch.de/rezepte/3186881474309297/Feiner-Schokokuchen-ohne-Zuckerzusatz.html</a></p>
-
-
-</section>
-
- ]]></description>
-  <category>sweet</category>
-  <category>baking</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
-  <pubDate>Fri, 02 Aug 2024 18:40:06 GMT</pubDate>
-  <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Black Forest Cherry Dessert</title>
@@ -308,67 +212,713 @@ Not vegan, contains eggs and milk!
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</guid>
-  <pubDate>Fri, 02 Aug 2024 18:40:06 GMT</pubDate>
+  <pubDate>Fri, 27 Sep 2024 13:40:55 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Pistachio Macarons</title>
-  <dc:creator>CMannstein </dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/pistachiomacarons.html</link>
+  <title>Chocolate Cake for Kids</title>
+  <dc:creator>Lennart Wittkuhn</dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</link>
   <description><![CDATA[ 
 
 
 
 <section id="fa-basket-shopping-ingredients" class="level2">
 <h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<section id="ingredient-for-the-filling" class="level3">
-<h3 class="anchored" data-anchor-id="ingredient-for-the-filling">Ingredient for the Filling:</h3>
 <ul class="task-list">
-<li><input type="checkbox">20g sugar</li>
-<li><input type="checkbox">10g butter</li>
-<li><input type="checkbox">40g chopped pistachio</li>
-<li><input type="checkbox">80g white chocolate</li>
-<li><input type="checkbox">60g whipped cream</li>
-<li><input type="checkbox">1 drop of vanilla</li>
+<li><input type="checkbox">180 g Soft Dates, pitted</li>
+<li><input type="checkbox">200 ml Cream</li>
+<li><input type="checkbox">3 Eggs</li>
+<li><input type="checkbox">1/2 Vanilla Bean(s)</li>
+<li><input type="checkbox">4 tbsp Heaped Cocoa Powder</li>
+<li><input type="checkbox">100 g Flour</li>
+<li><input type="checkbox">1.5 tsp Baking Soda</li>
+<li><input type="checkbox">80 g Butter</li>
+<li><input type="checkbox">Some Butter for greasing the pan</li>
 </ul>
 </section>
-<section id="ingredients-for-macarons-shells" class="level3">
-<h3 class="anchored" data-anchor-id="ingredients-for-macarons-shells">Ingredients for macarons shells</h3>
-<ul class="task-list">
-<li><input type="checkbox">50g grounded almonds</li>
-<li><input type="checkbox">50g powdered sugar</li>
-<li><input type="checkbox">30g egg white (best if 3 to 5 days old)</li>
-<li><input type="checkbox">13g sugar</li>
-<li><input type="checkbox">optional: green food coloring</li>
-</ul>
+<section id="fa-kitchen-set-preparation" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-preparation"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Preparation</h2>
+<ol type="1">
+<li>Preheat the oven to 170 °C (convection).</li>
+<li>Puree dates with cream, vanilla bean seeds, and cocoa powder until smooth.</li>
+<li>Then add egg yolks and butter, and blend until the mixture is homogeneous and smooth.</li>
+<li>Beat the egg whites until stiff peaks form.</li>
+<li>Mix the flour and baking soda into the cocoa mixture.</li>
+<li>Gently fold in the beaten egg whites.</li>
+<li>Pour the cake batter into any buttered baking pan.</li>
+<li>Bake in the preheated oven on the middle rack for approximately 40 minutes.</li>
+</ol>
 </section>
-<section id="in-addition" class="level3">
-<h3 class="anchored" data-anchor-id="in-addition">In addition:</h3>
-<ul class="task-list">
-<li><input type="checkbox">baking paper for macarons</li>
-<li><input type="checkbox">piping bag with round tip</li>
-</ul>
+<section id="notes" class="level2">
+<h2 class="anchored" data-anchor-id="notes">Notes</h2>
+<p>The recipe yields 16 pieces and is also suitable for muffin molds. You can enhance the cake with orange zest, ground nuts, nut butter, chili, cinnamon, ginger, cardamom, or cherries. I use soft dates, which are softer than regular dates. If you only have firm dates, soak them in warm water for about 4 hours. I would use a cake pan with a diameter of 18 cm. Source: <a href="https://www.chefkoch.de/rezepte/3186881474309297/Feiner-Schokokuchen-ohne-Zuckerzusatz.html" class="uri">https://www.chefkoch.de/rezepte/3186881474309297/Feiner-Schokokuchen-ohne-Zuckerzusatz.html</a></p>
+
+
 </section>
+
+ ]]></description>
+  <category>sweet</category>
+  <category>baking</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
+  <pubDate>Fri, 27 Sep 2024 13:40:55 GMT</pubDate>
+  <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Lentil Bolognese</title>
+  <dc:creator>Lennart Wittkuhn</dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">1 clove of garlic</li>
+<li><input type="checkbox">1 onion</li>
+<li><input type="checkbox">1 carrot</li>
+<li><input type="checkbox">1 stalk of celery</li>
+<li><input type="checkbox">1 tbsp olive oil</li>
+<li><input type="checkbox">2 tablespoons tomato paste</li>
+<li><input type="checkbox">150 g red lentils</li>
+<li><input type="checkbox">400 g strained tomatoes - or chopped tomatoes (= 1 tin)</li>
+<li><input type="checkbox">250 ml vegetable stock</li>
+<li><input type="checkbox">1 tbsp Italian herbs</li>
+<li><input type="checkbox">salt</li>
+<li><input type="checkbox">pepper</li>
+</ul>
 </section>
 <section id="fa-kitchen-set-procedure" class="level2">
 <h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
 <ol type="1">
-<li>For the filling you need to reduce the sugar into golden caramel. Take it from the stove and add the butter. After the butter is fully dissolved, add 20g of the chopped pistachios. Now put the pistachio brittle on a baking paper and let it cool down. Mix the rest of the pistachios in the blander. Heat up the white chocolate and whipped cream. Add everything (except the brittle) together and whip it up to a ganache. Keep it in the refrigerator for 20 minutes.</li>
-<li>Shred the brittle with the blender and mix it under the ganache. Keep the ganache in your refrigerator over night.</li>
-<li>For the macrons shells mix the grounded almonds and the powdered sugar using the blender. Sieve the mixture until it is a light powder. Mix the egg white until it’s white and fluffy. Slowly add the rest of the sugar. Optional you can add the green food coloring now. Fold the egg white in the almond-sugar mix, until you get a gluey dough.</li>
-<li>Fill dough into piping bag. Put baking paper on a tray. Pipe 24 round spots on the paper. Reduce air pockets in the dough by beating on the pan. Leave baking pan for at least 30 minutes in the room. The shells need to be dry. Preheat the oven up to 160°C and bake the macarons shells for at least 13 minutes (depends on the oven, my oven needs 20 minutes).</li>
-<li>Let the macarons shells chill down. Now you can fill them with the ganache and enjoy.</li>
+<li>Wash the lentils thoroughly, then set aside.</li>
+<li>Finely chop the garlic and onion, dice the carrot and celery.</li>
+<li>Heat the oil in a pan and sauté the onions.</li>
+<li>Add the carrots and celery and fry for 5 minutes over a medium heat.</li>
+<li>Stir in the tomato purée, garlic and herbs.</li>
+<li>Add the tomato purée, vegetable stock and lentils, bring to the boil, cover and simmer over a medium heat for 15 minutes. Add water if necessary.</li>
+</ol>
+<p>Source: <a href="https://www.gaumenfreundin.de/rote-linsenbolognese-einfach-und-vegan/" class="uri">https://www.gaumenfreundin.de/rote-linsenbolognese-einfach-und-vegan/</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>vegetarian</category>
+  <category>pasta</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</guid>
+  <pubDate>Fri, 27 Sep 2024 13:40:55 GMT</pubDate>
+  <media:content url="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Cinnamon Roll</title>
+  <dc:creator>mrugseniisc </dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/AirFryerCinnamonRollBites.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">1 (12.4 ounce) can refrigerated cinnamon rolls (such as Pillsbury™)</li>
+<li><input type="checkbox">1/4 cup white sugar</li>
+<li><input type="checkbox">1/2 teaspoon ground cinnamon</li>
+<li><input type="checkbox">4 ounces cream cheese, softened</li>
+<li><input type="checkbox">3/4 cup confectioner’s sugar</li>
+<li><input type="checkbox">1 tablespoon freshly grated orange peel</li>
+<li><input type="checkbox">1 tablespoon orange juice</li>
+<li><input type="checkbox">icing from the cinnamon roll package</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Preheat an air fryer to 325 degrees F (165 degrees C) according to manufacturer’s instructions. Add sugar and cinnamon to a large resealable plastic bag, and shake to combine.</li>
+<li>Remove the 8 cinnamon rolls from the can, and set icing aside. Cut each roll into 4 equal pieces for a total of 32 bites.</li>
+<li>Line the fryer basket with parchment paper. Place the bites in a single layer in the bottom of the basket, cook for 3 minutes, turn over using tongs, and cook until golden brown, another 2 to 3 minutes. Depending on the brand and size of your air fryer, you may have to cook in batches, and your timing may vary, so watch closely.</li>
+<li>Meanwhile, prepare the dip. Add cream cheese, confectioner’s sugar, orange zest, orange juice, and the packaged icing to a small bowl. Beat with an electric mixer on medium speed until you reach a dipping consistency, about 1 minute.</li>
+<li>Drop the warm pieces into the sugar-cinnamon mixture, and shake. Transfer to a plate or basket, and serve with the dip.</li>
 </ol>
 
 
 </section>
 
  ]]></description>
-  <category>sweets</category>
-  <category>perfect as a gift</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/pistachiomacarons.html</guid>
-  <pubDate>Fri, 02 Aug 2024 18:40:06 GMT</pubDate>
-  <media:content url="https://c.gmx.net/@325606737027531506/KMw1LY35QMCnudquRESl3A/ROOT/ROOT" medium="image"/>
+  <category>sweet</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/AirFryerCinnamonRollBites.html</guid>
+  <pubDate>Fri, 27 Sep 2024 13:40:55 GMT</pubDate>
+</item>
+<item>
+  <title>Potato salad</title>
+  <dc:creator>mareikelwagner </dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/Potato-salad.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">1 kilogram Potatoes</li>
+<li><input type="checkbox">1 Onion</li>
+<li><input type="checkbox">5 Eggs</li>
+<li><input type="checkbox">1 Jar of pickles</li>
+<li><input type="checkbox">1 Can of peas and carrots</li>
+<li><input type="checkbox">1 glass Miracel Whip light</li>
+<li><input type="checkbox">Salt and pepper</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Boil the potatoes and eggs and then peel them. When both are cold, cut them into small squares.</li>
+<li>Take the pickles out of the jar and keep the water, because you need it later. Then cut the pickles and the onion as well in little pieces.</li>
+<li>Drain the carrots and peas. Cut the carrots in slices.</li>
+<li>Put the potatoes, pickles, carrots, the onion and the peas into a big bowl.</li>
+<li>For the sauce mix Miracel Whip with some water from the jar of pickles, salt and pepper. Add a part of this to the bowl.</li>
+<li>Mix the ingredients in the bowl carefully. If it is to dry, add more of the sauce.</li>
+<li>Add more salt and pepper according to your taste.</li>
+<li>To ensure that it tastes really good, you should prepare the salad a few hours before eating it. You can also prepare it one day before.</li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>salad</category>
+  <category>vegetarian</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/Potato-salad.html</guid>
+  <pubDate>Fri, 27 Sep 2024 13:40:55 GMT</pubDate>
+  <media:content url="https://www.jackymalina.com/wp-content/uploads/2020/12/497B245D-2453-4312-A2B8-7A673EE6DA8E-1152x1536.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Banana Brownies</title>
+  <dc:creator>gloriaroe </dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/banana-brownies.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">3 bananas</li>
+<li><input type="checkbox">300 g Dark chocolate coating</li>
+<li><input type="checkbox">250 g butter</li>
+<li><input type="checkbox">3 eggs (size M)</li>
+<li><input type="checkbox">250 g sugar</li>
+<li><input type="checkbox">50 ml of neutral oil (e.g.&nbsp;sunflower oil)</li>
+<li><input type="checkbox">2 TSP vanilla extract</li>
+<li><input type="checkbox">200 g wheat flour (type 405)</li>
+<li><input type="checkbox">30 g Baking cocoa</li>
+<li><input type="checkbox">1 TSP baking powder</li>
+<li><input type="checkbox">some butter and wheat flour for the cake pan</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Preheat the oven to 180 degrees top/bottom heat (fan oven: 160 degrees). Grease a baking tin (20 cm x 23 cm) with a little butter and dust with flour. For the batter, peel the bananas and mash with a fork to a fine paste.</li>
+<li>Finely chop the dark chocolate coating and melt it together with the butter in a metal bowl over a hot water bath. Beat the eggs and sugar until frothy, then mix in the melted chocolate mixture and the oil. Stir in the mashed bananas and vanilla extract.</li>
+<li>Mix the flour, cocoa powder and baking powder in a bowl and sieve into the batter. Mix in briefly, then pour into the prepared tin and smooth out.</li>
+<li>Bake the brownies in a preheated oven for approx. 30-35 minutes. Leave to cool for at least 2 hours after baking.</li>
+</ol>
+</section>
+<section id="source" class="level2">
+<h2 class="anchored" data-anchor-id="source">Source</h2>
+<p><a href="https://www.einfachbacken.de/rezepte/bananen-brownies-so-saftig-schokoladig" class="uri">https://www.einfachbacken.de/rezepte/bananen-brownies-so-saftig-schokoladig</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>sweet</category>
+  <category>dessert</category>
+  <category>vegetarian</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/banana-brownies.html</guid>
+  <pubDate>Fri, 27 Sep 2024 13:40:55 GMT</pubDate>
+  <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/1500_1130/public/2024-01/bananen_brownies_1.jpg?h=6adb09fa&amp;itok=w3gYvR7B" medium="image"/>
+</item>
+<item>
+  <title>Vegan Brownies</title>
+  <dc:creator>MariaJakubowski </dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/vegan_brownies.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">1 Cup All Purpose Flour</li>
+<li><input type="checkbox">1 Cup Granulated Sugar</li>
+<li><input type="checkbox">1/2 Cup Cocoa Powder</li>
+<li><input type="checkbox">1 Teaspoon Baking Powder</li>
+<li><input type="checkbox">1/2 Cup Water</li>
+<li><input type="checkbox">1/2 Cup Vegetable Oil or melted Coconut Oil</li>
+<li><input type="checkbox">1 Teaspoon Vanilla Extract</li>
+<li><input type="checkbox">1/2 cup vegan chocolate chips (optional)</li>
+<li><input type="checkbox">1/4 Chopped Nuts (optional)</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Preheat your oven to 350°F (175°C). Lightly grease an 8x8-inch baking pan or line it with parchment paper.</li>
+<li>In a large mixing bowl, whisk together the flour, sugar, cocoa powder, baking powder, and salt until well combined.</li>
+<li>Add the water, vegetable oil (or melted coconut oil), and vanilla extract to the dry mixture. Stir until the batter is smooth and well combined.</li>
+<li>If using, fold in the vegan chocolate chips and chopped nuts.</li>
+<li>Pour the batter into the prepared baking pan, spreading it out evenly. Bake for 25-30 minutes, or until a toothpick inserted into the center comes out clean or with a few moist crumbs.</li>
+<li>Allow the brownies to cool completely in the pan on a wire rack before cutting into squares.</li>
+<li>Enjoy your vegan brownies plain or with a scoop of vegan ice cream on top!</li>
+</ol>
+<p>Tips:</p>
+<p>For an extra fudgy texture, reduce the baking time slightly. Feel free to customize your brownies with your favorite mix-ins like dried fruits or seeds.</p>
+<p>Enjoy your homemade vegan brownies!</p>
+
+
+</section>
+
+ ]]></description>
+  <category>vegan</category>
+  <category>dessert</category>
+  <category>baking</category>
+  <category>cake</category>
+  <category>sweet</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/vegan_brownies.html</guid>
+  <pubDate>Fri, 27 Sep 2024 13:40:55 GMT</pubDate>
+  <media:content url="https://img.taste.com.au/5hsR3Ore/w720-h480-cfill-q80/taste/2016/11/classic-chewy-brownie-102727-1.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Raspberry Sponge Cake with Meringue</title>
+  <dc:creator>LucaCoolGirl </dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/fancy-cake.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">4 egg white</li>
+<li><input type="checkbox">4 egg yolk</li>
+<li><input type="checkbox">270g sugar</li>
+<li><input type="checkbox">1 vanilla sugar</li>
+<li><input type="checkbox">60 g flour</li>
+<li><input type="checkbox">50 g corn starch</li>
+<li><input type="checkbox">1/2 TL baking powder</li>
+<li><input type="checkbox">600 g frozen raspberries</li>
+<li><input type="checkbox">0,5l cream</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Whisk the egg whites and egg yolks and vanilla sugar stiff for a very long time until foamy (2 egg whites, 4 egg yolks, 1 vanilla sugar)</li>
+<li>Sift in the flour, cornstarch and baking powder and pour everything into a greased springform pan (60 g of flour, 50 g of cornstarch, 1 teaspoon of baking powder)</li>
+<li>Whisk the egg whites and sugar stiff until foamy and spoon onto the batter (2 egg whites, 230 g of sugar)</li>
+<li>Bake at 175 degrees for about half an hour on the middle to lower rack.</li>
+<li>Then let the cake cool and cut it in the middle.</li>
+<li>Place the frozen raspberries on the bottom half, sprinkle with sugar, and then spread the whipped cream (600 g of frozen raspberries, 40 g of sugar, 0.5 liters of whipped cream)</li>
+<li>Place the top half of the cake on the filling and let it stand for a few hours (not in the refrigerator). Alternatively, you can thaw the raspberries beforehand if there is not enough time.</li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>fancy cake</category>
+  <category>raspberry</category>
+  <category>meringue</category>
+  <category>sponge cake</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/fancy-cake.html</guid>
+  <pubDate>Fri, 27 Sep 2024 13:40:55 GMT</pubDate>
+  <media:content url="https://www.muddiskochen.de/app/uploads/2014/07/biskuit-himbeertorte-mit-baiser.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Tomatosoup</title>
+  <dc:creator>luap3 </dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/tomatosoup.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">Butter – use unsalted butter to saute onions</li>
+<li><input type="checkbox">Yellow onion – it seems like a ton of onion but it disappears into the soup adding a balanced sweetness</li>
+<li><input type="checkbox">Garlic – you’ll need 1 Tbsp minced from about 3 cloves</li>
+<li><input type="checkbox">Crushed tomatoes – with their juice, preferably</li>
+<li><input type="checkbox">San Marzano tomatoes Chicken stock – for the best flavor use homemade chicken broth</li>
+<li><input type="checkbox">1/4 cup fresh basil, plus more to serve. Basil leaves are easily bruised so chop by stacking a bunch of leaves then roll them into a log and cut into thin strips.</li>
+<li><input type="checkbox">Sugar – It’s just 1 Tbsp, but necessary to combat the tomato acidity.</li>
+<li><input type="checkbox">Black pepper – start with 1/2 tsp and add more to taste</li>
+<li><input type="checkbox">Whipping cream – adds a creaminess to the soup and offsets acidity.</li>
+<li><input type="checkbox">Parmesan cheese – adds saltiness to the soup and balances acidity. Adding parmesan adds enough salt and I usually don’t add more.</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-preparation" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-preparation"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Preparation</h2>
+<ol type="1">
+<li><em>Saute Aromatics</em> – heat a non-reactive pot over medium heat. Melt in 4 Tbsp butter then sautee onions until softened and golden (10-12 min). Add minced garlic and saute another minute.</li>
+<li><em>Make the tomato soup base</em> – stir in two 28 oz cans of crushed tomatoes with their juice, your chicken stock, chopped basil, sugar and black pepper. Bring to a boil then reduce heat, partially cover and simmer 10 minutes.</li>
+<li><em>Blend if desired</em> – use an immersion blender in the pot or blend in batches using a blender (be careful not to overfill the blender with hot liquid) and return soup to the pot.</li>
+<li><em>Add cream and parmesan</em> – stir in the heavy cream and shredded parmesan. Return to a simmer and season to taste if needed.</li>
+<li>Serve – ladle into warm bowls and garnish with more parmesan and basil.</li>
+</ol>
+<p><img src="https://lennartwittkuhn.com/recipes/recipes/https:/upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" class="img-fluid"></p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/tomatosoup.html</guid>
+  <pubDate>Fri, 27 Sep 2024 13:40:55 GMT</pubDate>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Iranian Stew Fesenjan</title>
+  <dc:creator>rezahakimazar </dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/fesenjan.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><p><input type="checkbox">Walnuts: To create the luscious sauce, I finely grind the walnuts.</p></li>
+<li><p><input type="checkbox">Onion: Imbues the dish with a fresh aromatic flavor.</p></li>
+<li><p><input type="checkbox">Chicken Thighs: When it comes to slow-cooking thighs are a top choice. Alternatively, you can use chicken drumsticks or quarters. Remove the skin but leave the bone in for further flavor.</p></li>
+<li><p><input type="checkbox">Extra Virgin Olive Oil: The walnuts release a lot of oil so you only need a little extra virgin olive oil to fry the onions.</p></li>
+<li><p><input type="checkbox">Turmeric, Cinnamon and Saffron: These spices flavor the stew with subtle earthy (turmeric), woody (cinnamon) and floral (saffron) tones. The overall feeling from this stew is warm. If you’re curious about saffron, one of the world’s most interesting spices, learn all about it in our What Is Saffron? Essential Guide.</p></li>
+<li><p><input type="checkbox">Water: The cooking liquid and basis of the rich pomegranate molasses and walnut sauce.</p></li>
+<li><p><input type="checkbox">Pomegranate Molasses: This gives the stew the sour flavor and helps to balance the richness of the walnuts in the sauce. It also gives the fesenjan its beautiful dark brown color. You can purchase it or make it yourself by using this homemade pomegranate molasses recipe.</p></li>
+<li><p><input type="checkbox">Sugar balances and complements the tartness of the pomegranate molasses.</p></li>
+<li><p><input type="checkbox">Salt and freshly ground black pepper elevates the other flavors and adds a subtle heat.</p></li>
+<li><p><input type="checkbox">Pomegranate Seeds: Sprinkle these little jewel-toned bursts of flavor over the top of the stew as a garnish just before serving.</p></li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Grind the Walnuts</li>
+<li>Toast the Walnuts</li>
+<li>Cook Onions</li>
+<li>Cook Chicken Thighs</li>
+<li>Add the Ground Walnuts</li>
+<li>Add Pomegranate Molasses, Sugar and Saffron</li>
+<li>Add the Chicken, Simmer and Season</li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>international</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/fesenjan.html</guid>
+  <pubDate>Fri, 27 Sep 2024 13:40:55 GMT</pubDate>
+  <media:content url="https://cdn.faradeed.ir/thumbnail/LeNflz9GOtZN/KoeEnxIUgNp8HPWtyR4f3njefZWpQsc5QSfH7y-wEmOGb45E_dImxEpQi9avqdGE/Khoresh-e-Fesenjan-Tilda-Pure-Basmati-2-scaled.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Cup of Sugar</title>
+  <dc:creator>paul-gallenkemper </dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/cup_of_sugar.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<p>roll the <strong>dice</strong> on how much sugar you <em>want</em>.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1">dice <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">3</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">4</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">5</span>,<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">6</span>)</span>
+<span id="cb1-2">amount_of_sugar <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">sample</span>(dice, <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>)</span></code></pre></div>
+</div>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<p>You need to put 4 grams in a cup.</p>
+</section>
+<section id="photo-of-result" class="level2">
+<h2 class="anchored" data-anchor-id="photo-of-result">Photo of result</h2>
+<p><img src="https://lennartwittkuhn.com/recipes/recipes/https:/www.happyballoon.de/thumbnail/4d/c1/d0/1701938245/63780351a985e5f5715ba9e630bf5d69ea268092_1920x1920.jpeg" class="img-fluid"></p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/cup_of_sugar.html</guid>
+  <pubDate>Fri, 27 Sep 2024 13:40:55 GMT</pubDate>
+  <media:content url="https://www.happyballoon.de/thumbnail/4d/c1/d0/1701938245/63780351a985e5f5715ba9e630bf5d69ea268092_1920x1920.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Peanut Udon</title>
+  <dc:creator>octomike </dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/peanut_udon.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">400 g Udon (fresh)</li>
+<li><input type="checkbox">2 tbsp salted peanuts</li>
+<li><input type="checkbox">2 tbsp sesame</li>
+<li><input type="checkbox">10 g fresh ginger</li>
+<li><input type="checkbox">1 garlic clove</li>
+<li><input type="checkbox">1 large tomato</li>
+<li><input type="checkbox">1 tbsp sesame oil</li>
+<li><input type="checkbox">1/2 tsp chili flakes</li>
+<li><input type="checkbox">2 spring onions</li>
+<li><input type="checkbox">1/2 bunch cilantro</li>
+<li><input type="checkbox">2 tbsp soy sauce</li>
+<li><input type="checkbox">1/2 lime</li>
+<li><input type="checkbox">2 tbsp peanut butter</li>
+<li><input type="checkbox">100 ml coconut milk</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Roughly chop the peanuts, toast them in a pan with sesame seeds until golden brown, then transfer them to a bowl and set aside.</li>
+<li>Peel and finely chop the ginger and garlic. Heat sesame oil in the pan and sauté the ginger, chili flakes, and garlic over medium heat.</li>
+<li>Meanwhile, wash the tomato, dice it into small pieces, and add it to the pan.</li>
+<li>Wash, trim, and finely slice the spring onions. Wash, shake dry, and chop the cilantro. Set both aside.</li>
+<li>Place the noodles in a bowl, cover with hot water, and let them sit for 1-2 minutes.</li>
+<li>Add 2 tablespoons of peanut butter to the pan and mix well. Squeeze in the lime juice. Stir in the soy sauce and coconut milk until the sauce is creamy.</li>
+<li>Stir in 3/4 of the spring onions, drain the noodles, and add them to the peanut sauce in the pan. Mix everything well and briefly continue to fry.</li>
+<li>Divide the noodles between 2 plates and serve garnished with the remaining spring onions, cilantro, and the sesame-peanut mixture.</li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>vegetarian</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/peanut_udon.html</guid>
+  <pubDate>Fri, 27 Sep 2024 13:40:55 GMT</pubDate>
+  <media:content url="https://lennartwittkuhn.com/recipes/recipes/Add the URL to the image here" medium="image"/>
+</item>
+<item>
+  <title>Peanutbutter Ramen</title>
+  <dc:creator>helenebreuer </dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/peanutbutter-ramen.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">3 banana shallots, peeled and chopped to get 100g</li>
+<li><input type="checkbox">2 lemongrass stalks, bottom two-thirds sliced, the rest discarded</li>
+<li><input type="checkbox">10 garlic cloves (30g), peeled and roughly chopped</li>
+<li><input type="checkbox">8cm x 8cm piece fresh ginger (60g), peeled and roughly chopped</li>
+<li><input type="checkbox">2½ tbsp gochujang paste</li>
+<li><input type="checkbox">1 tsp salt</li>
+<li><input type="checkbox">1¾ tsp salt, plus ½ tsp extra for the tempeh</li>
+<li><input type="checkbox">2 tsp Rapeseed oil</li>
+<li><input type="checkbox">3 tsp light brown soft sugar</li>
+<li><input type="checkbox">4 tbsp (65g) smooth peanut butter</li>
+<li><input type="checkbox">1 x 400ml tin coconut milk</li>
+<li><input type="checkbox">2 limes, zested and quartered</li>
+<li><input type="checkbox">250g ramen noodles</li>
+<li><input type="checkbox">200g tempeh, chopped into a mince with a knife</li>
+<li><input type="checkbox">250g pak choi, shredded lengthways</li>
+<li><input type="checkbox">40g fresh coriander, chopped</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<section id="make-curry-paste" class="level3">
+<h3 class="anchored" data-anchor-id="make-curry-paste">1. Make curry paste:</h3>
+<p>Put all the curry paste ingredients and two tablespoons each of rapeseed oil and water in a small blender and blitz to a smooth paste.</p>
+</section>
+<section id="make-the-ramen-broth" class="level3">
+<h3 class="anchored" data-anchor-id="make-the-ramen-broth">2. Make the ramen broth:</h3>
+<p>Next, make the ramen broth. Put three tablespoons of rapeseed oil in a large saucepan on a medium heat and, once hot, add the spice paste and fry, stirring regularly, for 10 minutes. Stir in two teaspoons of the sugar and cook for a further two minutes. Transfer a tablespoon and a half of the mix to a bowl and put to one side. Stir the peanut butter into the pan, then add the coconut milk, lime zest and a litre of water. Bring up to a simmer, then cook on a low heat for 10 minutes.</p>
+</section>
+<section id="make-the-noodles-tempeh" class="level3">
+<h3 class="anchored" data-anchor-id="make-the-noodles-tempeh">3. Make the noodles &amp; tempeh:</h3>
+<p>Meanwhile, make the noodles and tempeh. Cook the noodles according to the packet instructions, then drain in a colander, rinse under cold water and drain again. Add a little oil to the colander, toss to coat the noodles so they don’t stick, then set aside. To cook the tempeh, put two tablespoons of rapeseed oil in a nonstick frying pan on a medium heat and, when hot, add the tempeh mince and fry, stirring often, for five minutes, until crisp and browning. Add the reserved curry paste mix, the remaining teaspoon of sugar and the extra half-teaspoon of salt, fry, stirring, for another three or four minutes, then take off the heat.</p>
+</section>
+<section id="serve-the-ramen" class="level3">
+<h3 class="anchored" data-anchor-id="serve-the-ramen">4. Serve the ramen:</h3>
+<p>To serve, divide the ramen broth between four bowls, then divide the noodles between the bowls. Top with the shredded pak choy, crumbled tempeh and coriander, squeeze the juice of a quarter of a lime over each portion and serve with another lime wedge on the side of each bowl.</p>
+<p><img src="https://lennartwittkuhn.com/recipes/recipes/https:/www.theguardian.com/food/2024/mar/09/vegan-peanut-butter-ramen-recipe-meera-sodha.png" class="img-fluid"></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>vegan</category>
+  <category>ramen</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/peanutbutter-ramen.html</guid>
+  <pubDate>Fri, 27 Sep 2024 13:40:55 GMT</pubDate>
+  <media:content url="https://i.guim.co.uk/img/media/02ba2204e73993e25bc095c9bebf405057cace50/0_0_3573_4214/master/3573.jpg?width=1140&amp;dpr=2&amp;s=none" medium="image"/>
+</item>
+<item>
+  <title>Fortune cookies</title>
+  <dc:creator>MarieBouwgena </dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/fortune-cookies.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<section id="for-the-fortune-cookies" class="level3">
+<h3 class="anchored" data-anchor-id="for-the-fortune-cookies">For the Fortune Cookies</h3>
+<ul class="task-list">
+<li><input type="checkbox">Egg white from 3 eggs</li>
+<li><input type="checkbox">60g powder sugar</li>
+<li><input type="checkbox">45g margarine</li>
+<li><input type="checkbox">60g flour</li>
+<li><input type="checkbox">a pinch of salt</li>
+</ul>
+</section>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Preheat the oven on 180 degree</li>
+<li>Melt the margarine</li>
+<li>Beat the egg white with the salt until it is fluffy</li>
+<li>Mix the melted margarine with the powder sugar, the fluffy egg white and the flour</li>
+<li>Using a spoon, spread a tablespoon of the dough thinly into a circle on a baking tray lined with baking paper (or a suitable alternative).</li>
+<li>Bake it for 5-7 minutes</li>
+<li>Now everything has to happen very quickly (it’s best if everyone helps): carefully remove the still soft cookies from the paper with a knife and place a prepared note message on top.</li>
+<li>Fold the cookies into semicircles and quickly fold them again with the straight side over the edge of a bowl or glass to create the typical fortune cookie shape.</li>
+</ol>
+<p>Enjoy your fortune!</p>
+
+
+</section>
+
+ ]]></description>
+  <category>dessert</category>
+  <category>baked goods</category>
+  <category>Asian cuisine</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/fortune-cookies.html</guid>
+  <pubDate>Fri, 27 Sep 2024 13:40:55 GMT</pubDate>
+  <media:content url="https://www.smarticular.net/wp-content/uploads/2019/12/glueckskekse-selber-machen-backen-rezept-1-fb.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Granola</title>
+  <dc:creator>nclz </dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/granola.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">500 g oats</li>
+<li><input type="checkbox">50 g walnuts</li>
+<li><input type="checkbox">50 g cashews</li>
+<li><input type="checkbox">50 g almonds</li>
+<li><input type="checkbox">50 g pecans</li>
+<li><input type="checkbox">25 g cacao nibs</li>
+<li><input type="checkbox">50 g chia seeds</li>
+<li><input type="checkbox">50 g dried apricots, cranberries (or whatever you like)</li>
+<li><input type="checkbox">other seeds or nuts you like</li>
+<li><input type="checkbox">2-3 teaspoons honey (or a vegan alternative)</li>
+<li><input type="checkbox">2 teaspoons cinnamon</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Preheat the oven.</li>
+<li>Chop the nuts, if desired.</li>
+<li>Mix all the ingredients (except the dried fruits, cacao nibs and chia seeds).</li>
+<li>Spread it on a baking sheet.</li>
+<li>Put it into the oven. Bake until the granola is golden brown.</li>
+<li>Let the granola cool. Add the dried fruits and chia seeds.</li>
+<li>Use it as a topping or enjoy it for breakfast.</li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>sweet</category>
+  <category>vegetarian</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/granola.html</guid>
+  <pubDate>Fri, 27 Sep 2024 13:40:55 GMT</pubDate>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/c/ca/Banana_Walnut_Granola_%286796918872%29.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Hähnchenbrustfilet</title>
+  <dc:creator>JuCaHeWi </dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/JuliusR.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">4 chicken fillets</li>
+<li><input type="checkbox">3 tbsp olive oil</li>
+<li><input type="checkbox">2 cloves garlic, finely chopped</li>
+<li><input type="checkbox">Juice of one lemon</li>
+<li><input type="checkbox">1 tsp lemon zest, grated</li>
+<li><input type="checkbox">1 tsp dried oregano</li>
+<li><input type="checkbox">1 tsp dried thyme</li>
+<li><input type="checkbox">Salt and pepper to taste</li>
+<li><input type="checkbox">Fresh herbs (parsley, basil) for garnish</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Prepare the marinade: In a bowl, mix the olive oil, chopped garlic, lemon juice, lemon zest, oregano, and thyme. Season with salt and pepper to taste.</li>
+<li>Marinate the chicken fillets: Place the chicken fillets in a large freezer bag or a shallow dish. Pour the marinade over them and rub the fillets well with it. Seal the bag or cover the dish and let the chicken marinate in the refrigerator for at least 30 minutes. For a more intense flavor, marinate overnight.</li>
+<li>Preheat the grill: Preheat a grill or grill pan to medium-high heat.</li>
+<li>Grill the chicken: Remove the chicken fillets from the marinade and let the excess marinade drip off. Place the fillets on the hot grill and grill for about 6-8 minutes per side, until they are cooked through and have nice grill marks. The exact grilling time depends on the thickness of the fillets.</li>
+<li>Serve: Place the grilled chicken fillets on plates and garnish with fresh herbs. They go well with a fresh salad or grilled vegetables.</li>
+</ol>
+<p>Enjoy your meal!</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Not vegetarian</category>
+  <category>Easy to prepare</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/JuliusR.html</guid>
+  <pubDate>Fri, 27 Sep 2024 13:40:55 GMT</pubDate>
+  <media:content url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMP_IdWIaJbMyqcnhID8iR1AesJXaGt2sRTw&amp;s" medium="image"/>
 </item>
 <item>
   <title>Vegan Carrot Cake</title>
@@ -414,116 +964,8 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegan</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/vegan-carrot-cake.html</guid>
-  <pubDate>Fri, 02 Aug 2024 18:40:06 GMT</pubDate>
+  <pubDate>Fri, 27 Sep 2024 13:40:55 GMT</pubDate>
   <media:content url="https://biancazapatka.com/wp-content/uploads/2018/03/IMG_2437-720x895.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>The best Florentiners</title>
-  <dc:creator>martinaengel </dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/Florentiner.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<section id="for-the-shortcrust-dough" class="level3">
-<h3 class="anchored" data-anchor-id="for-the-shortcrust-dough">For the shortcrust dough:</h3>
-<ul class="task-list">
-<li><input type="checkbox">175 g soft butter</li>
-<li><input type="checkbox">100 g sugar</li>
-<li><input type="checkbox">1 egg</li>
-<li><input type="checkbox">300 g flour</li>
-<li><input type="checkbox">1 pinch of salt</li>
-<li><input type="checkbox">200g dark chocolate</li>
-</ul>
-</section>
-<section id="for-the-topping" class="level3">
-<h3 class="anchored" data-anchor-id="for-the-topping">For the topping:</h3>
-<ul class="task-list">
-<li><input type="checkbox">175 g For the topping:</li>
-<li><input type="checkbox">125 ml whipped cream</li>
-<li><input type="checkbox">70 g sugar</li>
-<li><input type="checkbox">30 g honey</li>
-<li><input type="checkbox">30 g butter</li>
-<li><input type="checkbox">200 g ground almonds / flaked almonds</li>
-<li><input type="checkbox">2 tbsp almond kernels</li>
-<li><input type="checkbox">100 g dark chocolate coating</li>
-<li><input type="checkbox">200 g dried cranberries (chopped)</li>
-</ul>
-</section>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<ol type="1">
-<li>Mix the dough ingredients together and knead until it is a firm dough and leave the dough to rest for 1 hour.</li>
-<li>Roll out the dough very thinly and cut out round shapes. Bake for approx. 5 minutes at 180°C fan oven.</li>
-<li>Melt the chocolate and coat the base of the cooled cookies with chocolate and leave to harden overnight (or for 2 hours in the fridge).</li>
-<li>Heat the whipping cream, sugar, honey and butter in a saucepan, stirring constantly until the mixture caramelizes</li>
-<li>dd the flaked almonds, mix well and cook for 3 minutes, stirring until the mixture begins to brown. Transfer to a bowl, stir in 2 tbsp almond kernels. Shape the mixture into mounds using 2 oiled teaspoons and place on the cookies. Leave to cool … and enjoy.</li>
-</ol>
-
-
-</section>
-
- ]]></description>
-  <category>Christmas</category>
-  <category>Cookie</category>
-  <category>Sweet</category>
-  <category>Vegetarian</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/Florentiner.html</guid>
-  <pubDate>Fri, 02 Aug 2024 18:40:06 GMT</pubDate>
-  <media:content url="https://heissehimbeeren.com/wp-content/uploads/2022/11/omas-florentiner-rezept-12.webp" medium="image" type="image/webp"/>
-</item>
-<item>
-  <title>Indian Dal with Red Lentils</title>
-  <dc:creator>ProfessorPump </dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/IndianDal.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<ul class="task-list">
-<li><input type="checkbox">1-2 tbsp coconut oil or olive oil for frying</li>
-<li><input type="checkbox">2 onions diced</li>
-<li><input type="checkbox">4 garlic cloves minced</li>
-<li><input type="checkbox">2 tsp ginger grated (or more to taste)</li>
-<li><input type="checkbox">1 tsp turmeric</li>
-<li><input type="checkbox">1 tsp coriander</li>
-<li><input type="checkbox">1 tsp cumin</li>
-<li><input type="checkbox">1 tsp red paprika</li>
-<li><input type="checkbox">1 tsp garam masala or other curry powder to taste</li>
-<li><input type="checkbox">300 g red lentils</li>
-<li><input type="checkbox">780 ml vegetable stock</li>
-<li><input type="checkbox">250 ml coconut milk</li>
-<li><input type="checkbox">250 ml pureed tomatoes or chopped tomatoes (optional)</li>
-<li><input type="checkbox">Salt and pepper to taste</li>
-<li><input type="checkbox">2 tsp coconut blossom sugar or to taste</li>
-<li><input type="checkbox">2-3 tbsp lime or lemon juice or to taste</li>
-</ul>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<ol type="1">
-<li>Heat the coconut oil in a pan or pot. Add the chopped onions and sauté for 2-3 minutes until translucent. Then add the garlic and ginger and sauté for another minute until fragrant. Finally add the spices and sauté for a few seconds to allow the flavors to develop.</li>
-<li>Place the lentils in a fine sieve and rinse under cold running water. Then add it to the onion mixture in the pan, pour in the vegetable stock, stir and bring to the boil. Cover and simmer for 8-10 minutes, or until the lentils have absorbed most of the liquid.</li>
-<li>Then add coconut milk and pureed tomatoes (if using) and simmer for another 5-10 minutes, or until the lentils are cooked. (If the sauce is too thick, add a little more broth or coconut milk until the desired consistency is reached). Season with salt, pepper, coconut blossom sugar and lime juice.</li>
-<li>Garnish the dal with a swirl of vegan yogurt, freshly chopped parsley or coriander and sesame seeds or any other topping of your choice. Serve over rice or with vegan naan or aloo paratha. But it also tastes good as a filling for savory pancakes, crepes or tortilla recipes.</li>
-</ol>
-<p>Enjoy your meal!</p>
-
-
-</section>
-
- ]]></description>
-  <category>main course</category>
-  <category>curry</category>
-  <category>Indian cuisine</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/IndianDal.html</guid>
-  <pubDate>Fri, 02 Aug 2024 18:40:06 GMT</pubDate>
-  <media:content url="https://www.ambitiouskitchen.com/wp-content/uploads/2022/01/The-Best-Dal-Ever-6.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Cinnamon Rolls</title>
@@ -614,548 +1056,8 @@ Not vegan, contains eggs and milk!
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/cinnamon-rolls.html</guid>
-  <pubDate>Fri, 02 Aug 2024 18:40:06 GMT</pubDate>
+  <pubDate>Fri, 27 Sep 2024 13:40:55 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Cinnamon_roll_in_Stockholm.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Tiramisù</title>
-  <dc:creator>matteocarpi </dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/tiramisu.html</link>
-  <description><![CDATA[ 
-
-
-
-<div class="callout callout-style-default callout-warning callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Contains raw eggs
-</div>
-</div>
-<div class="callout-body-container callout-body">
-
-</div>
-</div>
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<ul class="task-list">
-<li><input type="checkbox">4 fresh eggs</li>
-<li><input type="checkbox">100g sugar</li>
-<li><input type="checkbox">500g mascarpone</li>
-<li><input type="checkbox">Savoiardi (Ladyfingers)</li>
-<li><input type="checkbox">Espresso coffee</li>
-<li><input type="checkbox">Cocoa powder</li>
-</ul>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<ol type="1">
-<li>Put 4 egg yolks and 50g of sugar together, mix them well so they become a bit foamy.</li>
-<li>Add 500g mascarpone and mix to make it homogeneous.</li>
-<li>Mix 4 egg whites so they become like snow, towards the end add the other 50g of sugar.</li>
-<li>Mix the two mixtures together.</li>
-<li>Put a thin layer of the cream on the bottom of the tray.</li>
-<li>Dip the savoiardi in coffee (don’t make them too soaked as they will soften slowly and if you put too much coffee they become too liquid).</li>
-<li>As you dip the savoiardi, place them in the tray.</li>
-<li>Cover everything with the rest of the cream.</li>
-<li>Sprinkle cocoa powder on top before serving.</li>
-</ol>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://lennartwittkuhn.com/recipes/recipes/https:/imgix.bustle.com/uploads/image/2017/10/18/3dab9f48-53e3-49be-961d-3d8fe461ebdc-matilda_sony2.png?w=540&amp;fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=50&amp;dpr=2" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Yummy</figcaption>
-</figure>
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>dessert</category>
-  <category>Italian</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/tiramisu.html</guid>
-  <pubDate>Fri, 02 Aug 2024 18:40:06 GMT</pubDate>
-  <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tiramisu_-_Raffaele_Diomede.jpg/2560px-Tiramisu_-_Raffaele_Diomede.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Pasta alla Norma</title>
-  <dc:creator>Niiccoolle </dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/pasta-alla-norma.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<section id="for-the-pasta" class="level3">
-<h3 class="anchored" data-anchor-id="for-the-pasta">For the Pasta</h3>
-<ul class="task-list">
-<li><input type="checkbox">600 g pasta (e.g.&nbsp;penne)</li>
-<li><input type="checkbox">150 g to 200 g ricotta salata, grated (alternatively pecorino or parmesan)</li>
-<li><input type="checkbox">2 aubergines</li>
-<li><input type="checkbox">1 bottle of tomato passata (approx. 700 g)</li>
-<li><input type="checkbox">1 clove of garlic</li>
-<li><input type="checkbox">1 handful of basil leaves</li>
-<li><input type="checkbox">1 pinch of sugar</li>
-<li><input type="checkbox">Salt &amp; pepper</li>
-<li><input type="checkbox">Olive oil</li>
-<li><input type="checkbox">Sunflower oil for frying</li>
-</ul>
-</section>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<ol type="1">
-<li><p>Cook the ramen in boiling salted water for about 4 minutes.</p></li>
-<li><p>Meanwhile, peel and finely chop the garlic cloves.</p></li>
-<li><p>Heat the plant-based butter in a pan and sauté the garlic. Stir in the chili flakes.</p></li>
-<li><p>Stir in the brown sugar and dissolve. Add soy sauce and mix in the ramen noodles.</p></li>
-<li><p>Remove the pan from heat and stir until the noodles are evenly coated.</p></li>
-<li><p>Slice the leek and set it aside for garnish.</p></li>
-<li><p>For the non-vegan version, beat two eggs and cook them in a pan until scrambled. Mix the scrambled eggs with the noodles and serve everything together.</p></li>
-<li><p>PREPARING THE AUBERGINES</p></li>
-<li><p>Wash the aubergines, cut off the ends and cut into 1x1 cm cubes. You can also cut a few thin slices from the aubergine for decoration. Sprinkle with a little salt and leave to stand in a sieve for 1 hour.</p></li>
-<li><p>Place a suitable bowl with a weight (e.g.&nbsp;water) in the sieve to weigh down the aubergines.</p></li>
-<li><p>Note: Salting removes water and bitter substances from the aubergines. Even though the bitter substances have been bred out of most types of aubergine nowadays, it is still worth salting them, as this removes water from the aubergine and makes them crispier when deep-frying.</p></li>
-<li><p>FOR THE TOMATO SAUCE</p></li>
-<li><p>Heat a little olive oil in a pan over a medium heat and add the garlic clove, allowing it to colour and flavour the oil.</p></li>
-<li><p>Add the tomato passata and a pinch of sugar, season with salt and pepper and add the basil leaves. 8. Leave to simmer for approx. 15 mins. Stir occasionally.</p></li>
-<li><p>PREPARE THE AUBERGINES</p></li>
-<li><p>Meanwhile, deep-fry the aubergine cubes in plenty of sunflower oil until golden brown and then drain well on kitchen paper. Then add to the tomato sauce.</p></li>
-<li><p>FOR THE PASTA</p></li>
-<li><p>Cook the pasta in salted water until al dente, drain and mix with the sauce.</p></li>
-<li><p>Arrange on plates, sprinkle with the ricotta and serve immediately.</p></li>
-</ol>
-<p>Et viola, enjoy your meal!</p>
-
-
-</section>
-
- ]]></description>
-  <category>main course</category>
-  <category>pasta</category>
-  <category>Italian cuisine</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/pasta-alla-norma.html</guid>
-  <pubDate>Fri, 02 Aug 2024 18:40:06 GMT</pubDate>
-  <media:content url="https://images.getrecipekit.com/20220310125111-dscf1118.jpg?width=650&amp;quality=90&amp;" medium="image"/>
-</item>
-<item>
-  <title>Vegan Pizza</title>
-  <dc:creator>michellerider </dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/veganpizza.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<ul class="task-list">
-<li><input type="checkbox">2 1/4 tsp (1 packet) active dry yeast</li>
-<li><input type="checkbox">1 1/2 cups warm water (110°F or 45°C)</li>
-<li><input type="checkbox">3 1/2 cups all-purpose flour</li>
-<li><input type="checkbox">2 tbsp olive oil</li>
-<li><input type="checkbox">1 tsp sugar</li>
-<li><input type="checkbox">1 tsp salt</li>
-<li><input type="checkbox">1 cup canned crushed tomatoes</li>
-<li><input type="checkbox">2 cloves garlic, minced</li>
-<li><input type="checkbox">1 tbsp olive oil</li>
-<li><input type="checkbox">1 tsp dried oregano</li>
-<li><input type="checkbox">1 tsp dried basil</li>
-<li><input type="checkbox">1/2 cup sliced bell peppers</li>
-<li><input type="checkbox">1/2 cup sliced mushrooms</li>
-<li><input type="checkbox">1/4 cup sliced black olives</li>
-<li><input type="checkbox">1/4 cup red onion, thinly sliced</li>
-<li><input type="checkbox">Fresh basil leaves for garnish</li>
-</ul>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<section id="prepare-the-dough" class="level3">
-<h3 class="anchored" data-anchor-id="prepare-the-dough">1. Prepare the Dough:</h3>
-<p>In a small bowl, combine the warm water, sugar, and yeast. Let it sit for about 5-10 minutes until it becomes frothy. In a large bowl, mix the flour and salt. Make a well in the center and add the yeast mixture and olive oil. Stir until the dough comes together, then knead on a floured surface for about 8-10 minutes until the dough is smooth and elastic. Place the dough in a lightly oiled bowl, cover with a damp cloth, and let it rise in a warm place for about 1-1.5 hours, or until it has doubled in size.</p>
-</section>
-<section id="prepare-the-tomato-sauce" class="level3">
-<h3 class="anchored" data-anchor-id="prepare-the-tomato-sauce">2. Prepare the Tomato Sauce:</h3>
-<p>In a saucepan, heat the olive oil over medium heat. Add the minced garlic and sauté for about 1 minute until fragrant. Add the crushed tomatoes, oregano, basil, salt, and pepper. Simmer for about 15-20 minutes, stirring occasionally, until the sauce thickens.</p>
-</section>
-<section id="assemble-the-pizza" class="level3">
-<h3 class="anchored" data-anchor-id="assemble-the-pizza">3. Assemble the Pizza:</h3>
-<p>Preheat your oven to 475°F (245°C). Punch down the dough and divide it into two equal portions. Roll out each portion on a floured surface to your desired thickness. Place the rolled-out dough on a pizza stone or baking sheet. Spread a layer of tomato sauce over the dough, leaving a small border for the crust. Sprinkle the vegan mozzarella cheese evenly over the sauce. Arrange the sliced bell peppers, mushrooms, olives, and red onions on top of the cheese.</p>
-</section>
-<section id="bake-the-pizza" class="level3">
-<h3 class="anchored" data-anchor-id="bake-the-pizza">4. Bake the Pizza:</h3>
-<p>Bake in the preheated oven for 12-15 minutes, or until the crust is golden and the cheese is melted. Remove from the oven and garnish with fresh basil leaves and a drizzle of extra virgin olive oil.</p>
-<p><img src="https://lennartwittkuhn.com/recipes/recipes/https:/s.zentrum-der-gesundheit.de/img/vegane-pizza.png" class="img-fluid"></p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>vegan</category>
-  <category>pizza</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/veganpizza.html</guid>
-  <pubDate>Fri, 02 Aug 2024 18:40:06 GMT</pubDate>
-  <media:content url="https://s.zentrum-der-gesundheit.de/img/vegane-pizza" medium="image"/>
-</item>
-<item>
-  <title>Gyoza</title>
-  <dc:creator>KaroBrix </dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/gyoza.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<ul class="task-list">
-<li><input type="checkbox">100 g pointed cabbage</li>
-<li><input type="checkbox">100 g carrots</li>
-<li><input type="checkbox">100 g minced beef (or tofu)</li>
-<li><input type="checkbox">180 g flour</li>
-<li><input type="checkbox">108 ml boiling water</li>
-<li><input type="checkbox">1 tbsp soy sauce</li>
-<li><input type="checkbox">1 garlic clove</li>
-<li><input type="checkbox">1 tsp stock powder</li>
-<li><input type="checkbox">1 tsp white wine</li>
-<li><input type="checkbox">1 tsp sesame oil</li>
-<li><input type="checkbox">salt</li>
-<li><input type="checkbox">potato starch</li>
-<li><input type="checkbox">cooking oil</li>
-</ul>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<ol type="1">
-<li>Mix flour, 1 tsp of salt and boiling water. When cool enough, start kneading until a smooth dough forms. Leave the dough to rest in cling film for 15 minutes.</li>
-<li>Finely chop cabbage, garlic, carrots (and tofu) and mix with soy sauce, stock powder, sesame oil and white wine.</li>
-<li>Divide the dough into thirds, roll the thirds into rolls, and cut into 12 pieces. Shape the pieces into “flat cakes” and roll each one in potato starch. Roll out each piece into a thin circle using a rolling pin.</li>
-<li>Fill each dough piece with one tbsp of the cabbage mixture. Wet the edge of the circle with some water. Next, fold it into a half circle and pinch the edges together.</li>
-<li>Heat cooking oil in a pan. Add Gyoza for about 3 minutes until they brown on the bottom. Add about half a cup of water mixed with a tbsp of flour to the bottom of the pan. Cover the Gyoza for about 8 minutes and let it simmer. Then remove the top and keep the heat on until the water is gone and a crispy bottom has formed.</li>
-<li>Enjoy!</li>
-</ol>
-<p>Pro Tipp: The recipes works much faster and makes much more fun when you do it with another person, which is why it is the perfect food for a date or an evening with friends :)</p>
-
-
-</section>
-
- ]]></description>
-  <category>vegetarian</category>
-  <category>vegan</category>
-  <category>Asian</category>
-  <category>Date Night Food</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/gyoza.html</guid>
-  <pubDate>Fri, 02 Aug 2024 18:40:06 GMT</pubDate>
-  <media:content url="https://assets.zuckerjagdwurst.com/pref3p553o311dnb3y67zffjmwte/1110/701/55/true/center/R883-Vegane-Teigtaschen-mit-Knusperboden-30.webp?animated=false" medium="image"/>
-</item>
-<item>
-  <title>Noodles</title>
-  <dc:creator>elmwdow </dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/noodles.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<ul class="task-list">
-<li><input type="checkbox">150 g Noodles</li>
-<li><input type="checkbox">Sauce</li>
-</ul>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<ol type="1">
-<li>Boil the noodles in water</li>
-<li>Add the sauce</li>
-<li>???</li>
-<li>Profit</li>
-</ol>
-
-
-</section>
-
- ]]></description>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/noodles.html</guid>
-  <pubDate>Fri, 02 Aug 2024 18:40:06 GMT</pubDate>
-</item>
-<item>
-  <title>Cheesecake with Meringue Topping</title>
-  <dc:creator>GitUniSF </dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/cheesecake-with-meringue-topping.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<ul class="task-list">
-<li><input type="checkbox">200 g flour</li>
-<li><input type="checkbox">2 tsp baking powder</li>
-<li><input type="checkbox">2 pinches of iodized salt</li>
-<li><input type="checkbox">100 g + 100 g butter</li>
-<li><input type="checkbox">75 g + 150 g + 75 g sugar</li>
-<li><input type="checkbox">4 eggs</li>
-<li><input type="checkbox">500 g quark (e.g.&nbsp;20% fat content)</li>
-<li><input type="checkbox">250 g sour cream</li>
-<li><input type="checkbox">250 ml Rama Cremefine for cooking, 15% fat</li>
-<li><input type="checkbox">1 packet of vanilla pudding powder for cooking (about 37 g)</li>
-<li><input type="checkbox">1 packet of vanilla sugar</li>
-</ul>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<ol type="1">
-<li><p>Mix 200 g flour, 2 tsp baking powder, and 1 pinch of salt. Knead with 100 g butter, 75 g sugar, and 1 egg using the dough hooks of an electric hand mixer, then by hand until smooth. Line the form with baking paper or grease it, including the edges. Press the dough into the form, creating an edge. Chill the dough in the form until further use.</p></li>
-<li><p>Preheat the oven to 180°C (fan: 160°C). Melt 100 g butter in a pot over low heat. Separate 3 eggs; the egg whites will be used later. Beat the egg yolks with the melted butter, 500 g quark, 250 g sour cream, 250 ml Rama Cremefine, 150 g sugar, pudding powder, and vanilla sugar with the beaters of the electric hand mixer until creamy.</p></li>
-<li><p>Pour the sour cream mixture onto the dough. Bake the cheesecake in the preheated oven for about 60 minutes. If the surface browns too much, cover the cheesecake with aluminum foil.</p></li>
-<li><p>Beat the egg whites with 1 pinch of salt using the (thoroughly cleaned) beaters of the electric hand mixer until stiff, gradually adding 75 g sugar. Spread the meringue on the cheesecake and bake for another 10-15 minutes in the oven. Let the cheesecake with meringue cool and enjoy.</p></li>
-<li><p>If the cake with meringue stands for a while, small golden sugar droplets form on the meringue - a completely natural reaction and a pretty effect. The cheesecake with meringue is therefore also called Tear Cake. For best results, cut the cheesecake with meringue using a knife dipped in hot water.</p></li>
-</ol>
-
-
-</section>
-
- ]]></description>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/cheesecake-with-meringue-topping.html</guid>
-  <pubDate>Fri, 02 Aug 2024 18:40:06 GMT</pubDate>
-</item>
-<item>
-  <title>Granola</title>
-  <dc:creator>nclz </dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/granola.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<ul class="task-list">
-<li><input type="checkbox">500 g oats</li>
-<li><input type="checkbox">50 g walnuts</li>
-<li><input type="checkbox">50 g cashews</li>
-<li><input type="checkbox">50 g almonds</li>
-<li><input type="checkbox">50 g pecans</li>
-<li><input type="checkbox">25 g cacao nibs</li>
-<li><input type="checkbox">50 g chia seeds</li>
-<li><input type="checkbox">50 g dried apricots, cranberries (or whatever you like)</li>
-<li><input type="checkbox">other seeds or nuts you like</li>
-<li><input type="checkbox">2-3 teaspoons honey (or a vegan alternative)</li>
-<li><input type="checkbox">2 teaspoons cinnamon</li>
-</ul>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<ol type="1">
-<li>Preheat the oven.</li>
-<li>Chop the nuts, if desired.</li>
-<li>Mix all the ingredients (except the dried fruits, cacao nibs and chia seeds).</li>
-<li>Spread it on a baking sheet.</li>
-<li>Put it into the oven. Bake until the granola is golden brown.</li>
-<li>Let the granola cool. Add the dried fruits and chia seeds.</li>
-<li>Use it as a topping or enjoy it for breakfast.</li>
-</ol>
-
-
-</section>
-
- ]]></description>
-  <category>sweet</category>
-  <category>vegetarian</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/granola.html</guid>
-  <pubDate>Fri, 02 Aug 2024 18:40:06 GMT</pubDate>
-  <media:content url="https://upload.wikimedia.org/wikipedia/commons/c/ca/Banana_Walnut_Granola_%286796918872%29.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Potato salad</title>
-  <dc:creator>mareikelwagner </dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/Potato-salad.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<ul class="task-list">
-<li><input type="checkbox">1 kilogram Potatoes</li>
-<li><input type="checkbox">1 Onion</li>
-<li><input type="checkbox">5 Eggs</li>
-<li><input type="checkbox">1 Jar of pickles</li>
-<li><input type="checkbox">1 Can of peas and carrots</li>
-<li><input type="checkbox">1 glass Miracel Whip light</li>
-<li><input type="checkbox">Salt and pepper</li>
-</ul>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<ol type="1">
-<li>Boil the potatoes and eggs and then peel them. When both are cold, cut them into small squares.</li>
-<li>Take the pickles out of the jar and keep the water, because you need it later. Then cut the pickles and the onion as well in little pieces.</li>
-<li>Drain the carrots and peas. Cut the carrots in slices.</li>
-<li>Put the potatoes, pickles, carrots, the onion and the peas into a big bowl.</li>
-<li>For the sauce mix Miracel Whip with some water from the jar of pickles, salt and pepper. Add a part of this to the bowl.</li>
-<li>Mix the ingredients in the bowl carefully. If it is to dry, add more of the sauce.</li>
-<li>Add more salt and pepper according to your taste.</li>
-<li>To ensure that it tastes really good, you should prepare the salad a few hours before eating it. You can also prepare it one day before.</li>
-</ol>
-
-
-</section>
-
- ]]></description>
-  <category>salad</category>
-  <category>vegetarian</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/Potato-salad.html</guid>
-  <pubDate>Fri, 02 Aug 2024 18:40:06 GMT</pubDate>
-  <media:content url="https://www.jackymalina.com/wp-content/uploads/2020/12/497B245D-2453-4312-A2B8-7A673EE6DA8E-1152x1536.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Poke Bowl with Tofu and Peanut Sauce</title>
-  <dc:creator>sannaschrage </dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/poke_bowl.html</link>
-  <description><![CDATA[ 
-
-
-
-<p>two servings</p>
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<section id="for-the-poke-bowl" class="level3">
-<h3 class="anchored" data-anchor-id="for-the-poke-bowl">For the Poke Bowl:</h3>
-<ul class="task-list">
-<li><input type="checkbox">200 grams firm tofu</li>
-<li><input type="checkbox">150 grams sushi rice</li>
-<li><input type="checkbox">1 small cucumber</li>
-<li><input type="checkbox">50 grams wakame (seaweed salad)</li>
-<li><input type="checkbox">100 grams shelled edamame</li>
-<li><input type="checkbox">1 small broccoli head</li>
-<li><input type="checkbox">1 medium carrot</li>
-<li><input type="checkbox">1 red bell pepper</li>
-<li><input type="checkbox">1 mango</li>
-<li><input type="checkbox">1 avocado</li>
-<li><input type="checkbox">1 tablespoon sesame seeds</li>
-<li><input type="checkbox">1 table spoon soy sauce</li>
-<li><input type="checkbox">1 tablespoon rice vinegar</li>
-<li><input type="checkbox">1 teaspoon sesame oil</li>
-<li><input type="checkbox">1 tablespoon vegetable oil (for frying tofu)</li>
-</ul>
-</section>
-<section id="for-the-peanut-sauce" class="level3">
-<h3 class="anchored" data-anchor-id="for-the-peanut-sauce">For the Peanut Sauce:</h3>
-<ul class="task-list">
-<li><input type="checkbox">3 tablespoons peanut butter</li>
-<li><input type="checkbox">2 tablespoons soy sauce</li>
-<li><input type="checkbox">1 tablespoon rice vinegar</li>
-<li><input type="checkbox">1 tablespoon maple syrup or honey</li>
-<li><input type="checkbox">1 teaspoon chili flakes</li>
-<li><input type="checkbox">1 garlic clove, finely chopped</li>
-<li><input type="checkbox">2-3 tablespoons water (to thin the sauce)</li>
-</ul>
-</section>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<section id="prepare-the-rice" class="level3">
-<h3 class="anchored" data-anchor-id="prepare-the-rice">Prepare the Rice:</h3>
-<ol type="1">
-<li>Rinse the sushi rice under cold water until the water runs clear.</li>
-<li>Cook the rice according to package instructions. Once cooked, let it cool slightly.</li>
-<li>In a small bowl, mix 1 tablespoon soy sauce, 1 tablespoon rice vinegar, and 1 teaspoon sesame oil. Pour this mixture over the cooked rice and gently mix.</li>
-</ol>
-</section>
-<section id="prepare-the-tofu" class="level3">
-<h3 class="anchored" data-anchor-id="prepare-the-tofu">Prepare the Tofu:</h3>
-<ol type="1">
-<li>Drain and press the tofu to remove excess water. Cut it into bite-sized cubes.</li>
-<li>Heat 1 tablespoon of vegetable oil in a pan over medium heat.</li>
-<li>Fry the tofu cubes until they are golden brown on all sides. Remove from heat and set aside.</li>
-</ol>
-</section>
-<section id="prepare-the-vegetables-and-fruits" class="level3">
-<h3 class="anchored" data-anchor-id="prepare-the-vegetables-and-fruits">Prepare the Vegetables and Fruits:</h3>
-<ol type="1">
-<li>Slice the cucumber into thin rounds.</li>
-<li>Steam the broccoli until tender-crisp.</li>
-<li>Julienne the carrot and red bell pepper.</li>
-<li>Peel and cube the mango.</li>
-<li>Cut the avocado into slices.</li>
-</ol>
-</section>
-<section id="prepare-the-peanut-sauce" class="level3">
-<h3 class="anchored" data-anchor-id="prepare-the-peanut-sauce">Prepare the Peanut Sauce:</h3>
-<ol type="1">
-<li>In a bowl, mix the peanut butter, 2 tablespoons soy sauce, 1 tablespoon rice vinegar, 1 tablespoon maple syrup (or honey), 1 teaspoon chili flakes, and finely chopped garlic.</li>
-<li>Gradually add water until the sauce reaches your desired consistency.</li>
-</ol>
-</section>
-<section id="assemble-the-poke-bowl" class="level3">
-<h3 class="anchored" data-anchor-id="assemble-the-poke-bowl">Assemble the Poke Bowl:</h3>
-<ol type="1">
-<li>Divide the sushi rice between bowls.</li>
-<li>Arrange the tofu, cucumber, wakame, edamame, broccoli, carrot, bell pepper, mango, and avocado on top of the rice.</li>
-<li>Drizzle the peanut sauce over the ingredients.</li>
-<li>Sprinkle with sesame seeds.</li>
-</ol>
-</section>
-<section id="serve" class="level3">
-<h3 class="anchored" data-anchor-id="serve">Serve:</h3>
-<ol type="1">
-<li>Serve the poke bowl immediately. Mix everything together before eating to ensure each bite is coated with the delicious peanut sauce.</li>
-<li>Enjoy your nutritious and flavorful poke bowl!</li>
-</ol>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>vegan</category>
-  <category>vietnamese</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/poke_bowl.html</guid>
-  <pubDate>Fri, 02 Aug 2024 18:40:06 GMT</pubDate>
-  <media:content url="https://www.okonomikitchen.com/wp-content/uploads/2019/09/easy-vegan-tofu-poke-bowl-with-ponzu-sauce-recipe-1-1-of-1-1-1024x683.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Muesli recipe</title>
-  <dc:creator>miriamrabels </dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/muesli.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<ul class="task-list">
-<li><input type="checkbox"><em>200 g</em> oats</li>
-<li><input type="checkbox"><em>20 g</em> flour</li>
-<li><input type="checkbox"><em>1 tbsp</em> honey</li>
-<li><input type="checkbox"><em>2 tbsp</em> sunflower oil</li>
-<li><input type="checkbox"><em>50 ml</em> water</li>
-</ul>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<ol type="1">
-<li>Place all the ingredients in a bowl and mix, preferably by hand, until the dough forms a large lump. The lump should not stick, but should also not fall apart easily. If, for example, the consistency is not right when adding up the ingredients, simply add water, flour or oat flakes carefully.</li>
-<li>Finally, crumble the mixture onto a baking tray lined with baking paper. The amount given is pretty much enough for a normal-sized tray. There’s no need to worry about the lumps baking together and you can use up all the space.</li>
-<li>Preheat the oven to <em>160 °C</em> and bake the muesli for about <em>30 minutes</em>.</li>
-<li>The baking time can vary depending on how the oven behaves or how tightly you have covered the tray. Just make sure that you take the muesli out when it starts to get a little dark. Don’t be disappointed if it isn’t crispy when you take it out: it will only be really crispy once it has cooled.</li>
-<li>Finally, you can add chocolate, nuts, seeds or dried fruit such as raisins or cranberries to taste.</li>
-</ol>
-
-
-</section>
-
- ]]></description>
-  <category>vegan</category>
-  <category>yummy</category>
-  <category>crispy</category>
-  <category>breakfast</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/muesli.html</guid>
-  <pubDate>Fri, 02 Aug 2024 18:40:06 GMT</pubDate>
-  <media:content url="https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/0293599B-0ED4-468A-A838-50045B7A80EF/Derivates/E87D2389-BC34-44D7-9DBD-410A84A86C3F.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
