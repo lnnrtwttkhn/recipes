@@ -1,0 +1,39 @@
+---
+title: "KababDigi"
+author:
+  - name: Maryamtohidi
+    url: https://github.com/Maryamtohidi
+
+categories:
+  - Add a list of catgeories here
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+- [500g ground beef or lamb (or a mix of both)] 
+- [1 large onion, grated and squeezed to remove excess water] 
+- [1 tbsp turmeric] 
+- [1 tsp black pepper] 
+- [1 tsp salt]
+- [1 tsp cinnamon (optional)]
+- [1 tbsp saffron, bloomed in 2 tbsp hot water]
+- [2 tbsp vegetable oil (for frying)] 
+
+## {{< fa kitchen-set >}} Procedure
+
+1. Prepare the Meat:
+
+In a large mixing bowl, combine the ground meat, grated onion (make sure to remove as much water as possible), turmeric, black pepper, salt, and cinnamon (if using).
+Add the bloomed saffron for a deeper flavor and color. Mix everything thoroughly until well combined.
+2. Shape the Kebab:
+
+Divide the mixture into small portions, then shape them into long, thin kebabs (like sausage shapes) or round patties, about 1 inch thick.
+3. Pan-Fry the Kebab:
+
+Heat the vegetable oil in a large, non-stick pan over medium heat.
+Once the oil is hot, carefully place the kebabs in the pan.
+Fry for about 5-7 minutes on each side until golden brown and fully cooked through.
+4. Serve:
+
+Serve the Kabab Digi with rice (Persian saffron rice works beautifully), fresh herbs (parsley, cilantro), grilled tomatoes, or even flatbread for a full Persian meal experience.
+
