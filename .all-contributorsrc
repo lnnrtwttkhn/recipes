@@ -352,6 +352,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "mrugseniisc",
+      "name": "mrugseniisc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34479644?v=4",
+      "profile": "https://github.com/mrugseniisc",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
