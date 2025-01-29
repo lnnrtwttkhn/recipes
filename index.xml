@@ -10,7 +10,7 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Wed, 29 Jan 2025 14:49:17 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Jan 2025 15:19:34 GMT</lastBuildDate>
 <item>
   <title>Pancakes</title>
   <dc:creator>Lennart Wittkuhn</dc:creator>
@@ -59,7 +59,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Wed, 29 Jan 2025 14:49:17 GMT</pubDate>
+  <pubDate>Wed, 29 Jan 2025 15:19:34 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -108,7 +108,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
-  <pubDate>Wed, 29 Jan 2025 14:49:17 GMT</pubDate>
+  <pubDate>Wed, 29 Jan 2025 15:19:34 GMT</pubDate>
   <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -202,7 +202,7 @@ Not vegan, contains eggs and milk!
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</guid>
-  <pubDate>Wed, 29 Jan 2025 14:49:17 GMT</pubDate>
+  <pubDate>Wed, 29 Jan 2025 15:19:34 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -249,7 +249,7 @@ Not vegan, contains eggs and milk!
   <category>vegetarian</category>
   <category>pasta</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</guid>
-  <pubDate>Wed, 29 Jan 2025 14:49:17 GMT</pubDate>
+  <pubDate>Wed, 29 Jan 2025 15:19:34 GMT</pubDate>
   <media:content url="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -308,8 +308,62 @@ Not vegan, contains eggs and milk!
   <category>cake</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
-  <pubDate>Wed, 29 Jan 2025 14:49:17 GMT</pubDate>
+  <pubDate>Wed, 29 Jan 2025 15:19:34 GMT</pubDate>
   <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Banoffee Pie</title>
+  <dc:creator>SamuSander </dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/banoffe-pie.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">1 can (400ml) sweetened condensed milk</li>
+<li><input type="checkbox">250g HobNobs biscuits (or other crunchy cookies)</li>
+<li><input type="checkbox">75g butter</li>
+<li><input type="checkbox">4 medium bananas</li>
+<li><input type="checkbox">280ml whipping cream</li>
+<li><input type="checkbox">Cocoa powder (optional, for decoration)</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<section id="prepare-the-toffee" class="level3">
+<h3 class="anchored" data-anchor-id="prepare-the-toffee">1. Prepare the Toffee:</h3>
+<p>Place the unopened can of condensed milk in a pot and cover completely with water. Boil for 2 hours, ensuring the can remains fully submerged at all times. IMPORTANT: Never open the can before or during cooking. Remove from heat and let cool completely.</p>
+</section>
+<section id="prepare-the-base" class="level3">
+<h3 class="anchored" data-anchor-id="prepare-the-base">2. Prepare the Base:</h3>
+<p>Crush the biscuits into fine crumbs (tip: use a freezer bag and rolling pin). Melt the butter and mix thoroughly with the biscuit crumbs. Press the mixture firmly onto a large plate or shallow dish to form a base (approximately 0.5-1cm thick). Refrigerate for 1 hour until firm.</p>
+</section>
+<section id="assembly" class="level3">
+<h3 class="anchored" data-anchor-id="assembly">3. Assembly:</h3>
+<p>Once the base is firm, spread the layers in this order: Layer 1: Spread the toffee (the cooked condensed milk) evenly over the base Layer 2: Peel and slice the bananas, arrange in a single layer Layer 3: Top with whipped cream (lightly sweetened) Dust with cocoa powder for decoration.</p>
+</section>
+<section id="tips" class="level3">
+<h3 class="anchored" data-anchor-id="tips">Tips:</h3>
+<ul>
+<li>Cook multiple cans of condensed milk at once to save time for future pies. Cooked cans have similar shelf life to unopened condensed milk.</li>
+<li>The toffee doesn’t need to be warmed before use.</li>
+<li>Sometimes sugar in the toffee crystallizes - this adds extra crunch.</li>
+<li>Butter amount can be adjusted: minimum 50g to hold the base together, can use up to 100g based on preference.</li>
+<li>For parties or individual servings: Skip the base preparation and layer toffee, bananas, and cream directly on whole biscuits (no butter needed).</li>
+</ul>
+<p>Let the pie set for a few hours before serving - the flavors develop better with time.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>dessert</category>
+  <category>british</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/banoffe-pie.html</guid>
+  <pubDate>Wed, 29 Jan 2025 15:19:34 GMT</pubDate>
 </item>
 <item>
   <title>A great evening</title>
@@ -341,7 +395,7 @@ Not vegan, contains eggs and milk!
  ]]></description>
   <category>super sweet</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/aGreatEvening.html</guid>
-  <pubDate>Wed, 29 Jan 2025 14:49:17 GMT</pubDate>
+  <pubDate>Wed, 29 Jan 2025 15:19:34 GMT</pubDate>
 </item>
 <item>
   <title>KababDigi</title>
@@ -389,7 +443,7 @@ Not vegan, contains eggs and milk!
  ]]></description>
   <category>Add a list of catgeories here</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/KababDigi.html</guid>
-  <pubDate>Wed, 29 Jan 2025 14:49:17 GMT</pubDate>
+  <pubDate>Wed, 29 Jan 2025 15:19:34 GMT</pubDate>
 </item>
 <item>
   <title>Cinnamon Roll</title>
@@ -428,7 +482,7 @@ Not vegan, contains eggs and milk!
  ]]></description>
   <category>sweet</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/AirFryerCinnamonRollBites.html</guid>
-  <pubDate>Wed, 29 Jan 2025 14:49:17 GMT</pubDate>
+  <pubDate>Wed, 29 Jan 2025 15:19:34 GMT</pubDate>
 </item>
 <item>
   <title>Peanut Udon</title>
@@ -476,7 +530,7 @@ Not vegan, contains eggs and milk!
  ]]></description>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/peanut_udon.html</guid>
-  <pubDate>Wed, 29 Jan 2025 14:49:17 GMT</pubDate>
+  <pubDate>Wed, 29 Jan 2025 15:19:34 GMT</pubDate>
   <media:content url="https://lennartwittkuhn.com/recipes/recipes/Add the URL to the image here" medium="image"/>
 </item>
 <item>
@@ -523,7 +577,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegan</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/vegan-carrot-cake.html</guid>
-  <pubDate>Wed, 29 Jan 2025 14:49:17 GMT</pubDate>
+  <pubDate>Wed, 29 Jan 2025 15:19:34 GMT</pubDate>
   <media:content url="https://biancazapatka.com/wp-content/uploads/2018/03/IMG_2437-720x895.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -573,7 +627,7 @@ Not vegan, contains eggs and milk!
   <category>Asian</category>
   <category>Date Night Food</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/gyoza.html</guid>
-  <pubDate>Wed, 29 Jan 2025 14:49:17 GMT</pubDate>
+  <pubDate>Wed, 29 Jan 2025 15:19:34 GMT</pubDate>
   <media:content url="https://assets.zuckerjagdwurst.com/pref3p553o311dnb3y67zffjmwte/1110/701/55/true/center/R883-Vegane-Teigtaschen-mit-Knusperboden-30.webp?animated=false" medium="image"/>
 </item>
 <item>
@@ -605,7 +659,7 @@ Not vegan, contains eggs and milk!
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/noodles.html</guid>
-  <pubDate>Wed, 29 Jan 2025 14:49:17 GMT</pubDate>
+  <pubDate>Wed, 29 Jan 2025 15:19:34 GMT</pubDate>
 </item>
 <item>
   <title>Bananabread</title>
@@ -644,7 +698,7 @@ Not vegan, contains eggs and milk!
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread-annabel.html</guid>
-  <pubDate>Wed, 29 Jan 2025 14:49:17 GMT</pubDate>
+  <pubDate>Wed, 29 Jan 2025 15:19:34 GMT</pubDate>
 </item>
 <item>
   <title>Granola</title>
@@ -689,7 +743,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/granola.html</guid>
-  <pubDate>Wed, 29 Jan 2025 14:49:17 GMT</pubDate>
+  <pubDate>Wed, 29 Jan 2025 15:19:34 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/c/ca/Banana_Walnut_Granola_%286796918872%29.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -737,7 +791,7 @@ Not vegan, contains eggs and milk!
   <category>noodles</category>
   <category>Asian cuisine</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiktok-ramen.html</guid>
-  <pubDate>Wed, 29 Jan 2025 14:49:17 GMT</pubDate>
+  <pubDate>Wed, 29 Jan 2025 15:19:34 GMT</pubDate>
   <media:content url="https://www.eatclub.tv/wp-content/uploads/2021/12/tiktok-ramen.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -796,7 +850,7 @@ Not vegan, contains eggs and milk!
   <category>vegan</category>
   <category>ramen</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/peanutbutter-ramen.html</guid>
-  <pubDate>Wed, 29 Jan 2025 14:49:17 GMT</pubDate>
+  <pubDate>Wed, 29 Jan 2025 15:19:34 GMT</pubDate>
   <media:content url="https://i.guim.co.uk/img/media/02ba2204e73993e25bc095c9bebf405057cace50/0_0_3573_4214/master/3573.jpg?width=1140&amp;dpr=2&amp;s=none" medium="image"/>
 </item>
 <item>
@@ -902,7 +956,7 @@ Not vegan, contains eggs and milk!
   <category>vegan</category>
   <category>vietnamese</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/poke_bowl.html</guid>
-  <pubDate>Wed, 29 Jan 2025 14:49:17 GMT</pubDate>
+  <pubDate>Wed, 29 Jan 2025 15:19:34 GMT</pubDate>
   <media:content url="https://www.okonomikitchen.com/wp-content/uploads/2019/09/easy-vegan-tofu-poke-bowl-with-ponzu-sauce-recipe-1-1-of-1-1-1024x683.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -946,7 +1000,7 @@ Not vegan, contains eggs and milk!
  ]]></description>
   <category>international</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/fesenjan.html</guid>
-  <pubDate>Wed, 29 Jan 2025 14:49:17 GMT</pubDate>
+  <pubDate>Wed, 29 Jan 2025 15:19:34 GMT</pubDate>
   <media:content url="https://cdn.faradeed.ir/thumbnail/LeNflz9GOtZN/KoeEnxIUgNp8HPWtyR4f3njefZWpQsc5QSfH7y-wEmOGb45E_dImxEpQi9avqdGE/Khoresh-e-Fesenjan-Tilda-Pure-Basmati-2-scaled.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -988,70 +1042,8 @@ Not vegan, contains eggs and milk!
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tomatosoup.html</guid>
-  <pubDate>Wed, 29 Jan 2025 14:49:17 GMT</pubDate>
+  <pubDate>Wed, 29 Jan 2025 15:19:34 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/b9/Basil_and_Organic_Tomato_Soup.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Tiramisù</title>
-  <dc:creator>matteocarpi </dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/tiramisu.html</link>
-  <description><![CDATA[ 
-
-
-
-<div class="callout callout-style-default callout-warning callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Contains raw eggs
-</div>
-</div>
-<div class="callout-body-container callout-body">
-
-</div>
-</div>
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<ul class="task-list">
-<li><input type="checkbox">4 fresh eggs</li>
-<li><input type="checkbox">100g sugar</li>
-<li><input type="checkbox">500g mascarpone</li>
-<li><input type="checkbox">Savoiardi (Ladyfingers)</li>
-<li><input type="checkbox">Espresso coffee</li>
-<li><input type="checkbox">Cocoa powder</li>
-</ul>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<ol type="1">
-<li>Put 4 egg yolks and 50g of sugar together, mix them well so they become a bit foamy.</li>
-<li>Add 500g mascarpone and mix to make it homogeneous.</li>
-<li>Mix 4 egg whites so they become like snow, towards the end add the other 50g of sugar.</li>
-<li>Mix the two mixtures together.</li>
-<li>Put a thin layer of the cream on the bottom of the tray.</li>
-<li>Dip the savoiardi in coffee (don’t make them too soaked as they will soften slowly and if you put too much coffee they become too liquid).</li>
-<li>As you dip the savoiardi, place them in the tray.</li>
-<li>Cover everything with the rest of the cream.</li>
-<li>Sprinkle cocoa powder on top before serving.</li>
-</ol>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://lennartwittkuhn.com/recipes/recipes/https:/imgix.bustle.com/uploads/image/2017/10/18/3dab9f48-53e3-49be-961d-3d8fe461ebdc-matilda_sony2.png?w=540&amp;fit=crop&amp;crop=faces&amp;auto=format%2Ccompress&amp;q=50&amp;dpr=2" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Yummy</figcaption>
-</figure>
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>dessert</category>
-  <category>Italian</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/tiramisu.html</guid>
-  <pubDate>Wed, 29 Jan 2025 14:49:17 GMT</pubDate>
-  <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tiramisu_-_Raffaele_Diomede.jpg/2560px-Tiramisu_-_Raffaele_Diomede.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
