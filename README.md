@@ -67,6 +67,7 @@ I welcome contributions to this project! Please see my [Contributing Guidelines]
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/IsabellePsych"><img src="https://avatars.githubusercontent.com/u/169543774?v=4?s=100" width="100px;" alt="Isabelle Engel"/><br /><sub><b>Isabelle Engel</b></sub></a><br /><a href="https://github.com/lnnrtwttkhn/recipes/issues?q=author%3AIsabellePsych" title="Bug reports">🐛</a> <a href="#content-IsabellePsych" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/recipes/commits?author=IsabellePsych" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.researchgate.net/profile/Julia_Beitner"><img src="https://avatars.githubusercontent.com/u/46441697?v=4?s=100" width="100px;" alt="Julia Beitner"/><br /><sub><b>Julia Beitner</b></sub></a><br /><a href="https://github.com/lnnrtwttkhn/recipes/issues?q=author%3AJuliaBeitner" title="Bug reports">🐛</a> <a href="#content-JuliaBeitner" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/recipes/commits?author=JuliaBeitner" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
