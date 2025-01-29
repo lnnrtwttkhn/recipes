@@ -65,6 +65,9 @@ I welcome contributions to this project! Please see my [Contributing Guidelines]
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SamuSander"><img src="https://avatars.githubusercontent.com/u/96007373?v=4?s=100" width="100px;" alt="Samuel Sander"/><br /><sub><b>Samuel Sander</b></sub></a><br /><a href="#content-SamuSander" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/recipes/commits?author=SamuSander" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ipopa1995"><img src="https://avatars.githubusercontent.com/u/50367313?v=4?s=100" width="100px;" alt="Ioana Popa"/><br /><sub><b>Ioana Popa</b></sub></a><br /><a href="#content-ipopa1995" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/recipes/commits?author=ipopa1995" title="Code">💻</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/IsabellePsych"><img src="https://avatars.githubusercontent.com/u/169543774?v=4?s=100" width="100px;" alt="Isabelle Engel"/><br /><sub><b>Isabelle Engel</b></sub></a><br /><a href="https://github.com/lnnrtwttkhn/recipes/issues?q=author%3AIsabellePsych" title="Bug reports">🐛</a> <a href="#content-IsabellePsych" title="Content">🖋</a> <a href="https://github.com/lnnrtwttkhn/recipes/commits?author=IsabellePsych" title="Code">💻</a></td>
+    </tr>
   </tbody>
 </table>
 
