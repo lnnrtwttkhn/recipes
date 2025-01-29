@@ -1,7 +1,7 @@
 ---
 title: "Bananacake"
 author: Stolen by Sebastian from https://sallysbakingaddiction.com/best-banana-cake/
-  - name: Sebastian
+  - author: Sebastian
     url: https://github.com/Sebastian-Keil
 image: "https://sallysbakingaddiction.com/wp-content/uploads/2016/08/the-best-banana-cake-3.jpg"
 image-alt: "Add the URL to the image here"
