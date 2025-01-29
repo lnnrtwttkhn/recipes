@@ -1,0 +1,20 @@
+---
+title: "A great evening"
+author:
+  - name: Maurizio
+    url: https://github.com/MaurizioSicorello
+categories:
+  - super sweet
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+- [ ] Golden glitter bath bombs (e.g., from lush)
+- [ ] Roses
+- [ ] Boombox
+
+## {{< fa kitchen-set >}} Procedure
+
+- [ ] Warm bath (slightly over body temperature, around 40°C)
+- [ ] Put in glitter bath
+- [ ] Start Bon Jovi (e.g., "bed of roses")
