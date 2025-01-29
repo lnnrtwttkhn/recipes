@@ -1,0 +1,25 @@
+---
+title: "Pear Chocolate Chip Muffins"
+author:
+  - name: JuliaBeitner
+    url: https://github.com/JuliaBeitner
+image: "Add the URL to the image here"
+image-alt: "Add the URL to the image here"
+categories:
+  - sweets
+  - easy
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+- [ ] 1 prepackage of chocolate chip muffins
+- [ ] anything the prepackage says you need (e.g., eggs, milk, etc.)
+- [ ] 1 can of pears
+
+## {{< fa kitchen-set >}} Procedure
+
+1. Dice the canned pears.
+2. Start preparing the muffins as indicated on the package.
+3. When putting the dough into the muffin molds, put some diced pears in there. 
+4. Put the muffins into the oven and bake as indicated on the package.
+5. Et voilà, now you have pear chocolate chip muffins =  chocolately but also fruity, and most importantly super easy to make! 
