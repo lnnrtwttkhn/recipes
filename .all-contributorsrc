@@ -415,6 +415,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "JuliaBeitner",
+      "name": "Julia Beitner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46441697?v=4",
+      "profile": "https://www.researchgate.net/profile/Julia_Beitner",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
