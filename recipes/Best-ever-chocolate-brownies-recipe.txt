@@ -1,17 +1,32 @@
-Best Brownies according to BBC Food
+---
+title: "Best Ever Brownies"
+author:
+  - name: Isabelle
+    url: https://github.com/IsabellePsych
+image: 
+image-alt: 
+categories:
+  - dessert
+  - diabetes risk
+---
 
-Ingredients
-Nutrition
-185g unsalted butter
-185g best dark chocolate
-85g plain flour
-40g cocoa powder
-50g white chocolate
-50g milk chocolate
-3 large eggs
-275g golden caster sugar
+::: callout-warning
 
-Method
+:::
+
+## {{< fa basket-shopping >}} Ingredients
+
+ - [ ] 185g unsalted butter
+ - [ ] 185g best dark chocolate
+ - [ ] 85g plain flour
+ - [ ] 40g cocoa powder
+ - [ ] 50g white chocolate
+ - [ ] 50g milk chocolate
+ - [ ] 3 large eggs
+ - [ ] 275g golden caster sugar
+
+## {{< fa kitchen-set >}} Procedure
+
 step 1
 Cut 185g unsalted butter into small cubes and tip into a medium bowl. Break 185g dark chocolate into small pieces and drop into the bowl.
 
@@ -56,4 +71,5 @@ Leave the whole thing in the tin until completely cold, then, if you’re using 
 
 step 15
 They’ll keep in an airtight container for a good two weeks and in the freezer for up to a month.This is a brownie recipe.
-Is it really a brownie recipe?
+
+![Yummy](https://www.bbcgoodfood.com/recipes/best-ever-chocolate-brownies-recipe)
