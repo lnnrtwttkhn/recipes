@@ -436,6 +436,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "Sebastian-Keil",
+      "name": "Sebastian-Keil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129391774?v=4",
+      "profile": "https://github.com/Sebastian-Keil",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
