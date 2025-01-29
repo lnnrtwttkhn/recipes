@@ -7,13 +7,11 @@ categories:
   - super sweet
 ---
 
-
 ## {{< fa basket-shopping >}} Ingredients
 
 - [ ] Golden glitter bath bombs (e.g., from lush)
 - [ ] Roses
 - [ ] Boombox
-
 
 ## {{< fa kitchen-set >}} Procedure
 
