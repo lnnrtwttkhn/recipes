@@ -404,6 +404,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "IsabellePsych",
+      "name": "Isabelle Engel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169543774?v=4",
+      "profile": "https://github.com/IsabellePsych",
+      "contributions": [
+        "bug",
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
