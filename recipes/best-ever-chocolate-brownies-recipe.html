@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="paul-gallenkemper">
+<meta name="author" content="Isabelle">
 
-<title>Recipes - Cup of Sugar</title>
+<title>Recipes - Best Ever Brownies</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,40 +20,6 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
-}
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -147,17 +113,20 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <ul>
   <li><a href="#fa-basket-shopping-ingredients" id="toc-fa-basket-shopping-ingredients" class="nav-link active" data-scroll-target="#fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</a></li>
   <li><a href="#fa-kitchen-set-procedure" id="toc-fa-kitchen-set-procedure" class="nav-link" data-scroll-target="#fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</a></li>
-  <li><a href="#photo-of-result" id="toc-photo-of-result" class="nav-link" data-scroll-target="#photo-of-result">Photo of result</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/lnnrtwttkhn/recipes/edit/main/recipes/cup_of_sugar.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/lnnrtwttkhn/recipes/blob/main/recipes/cup_of_sugar.qmd" class="toc-action">View source</a></p><p><a href="https://github.com/lnnrtwttkhn/recipes/issues" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/lnnrtwttkhn/recipes/edit/main/recipes/best-ever-chocolate-brownies-recipe.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/lnnrtwttkhn/recipes/blob/main/recipes/best-ever-chocolate-brownies-recipe.qmd" class="toc-action">View source</a></p><p><a href="https://github.com/lnnrtwttkhn/recipes/issues" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Cup of Sugar</h1>
-</div>
+<h1 class="title">Best Ever Brownies</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">dessert</div>
+    <div class="quarto-category">diabetes risk</div>
+  </div>
+  </div>
 
 
 
@@ -166,7 +135,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p><a href="https://github.com/paul-gallenkemper">paul-gallenkemper</a> </p>
+             <p><a href="https://github.com/IsabellePsych">Isabelle</a> </p>
           </div>
   </div>
     
@@ -179,19 +148,34 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <section id="fa-basket-shopping-ingredients" class="level2">
 <h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<p>roll the <strong>dice</strong> on how much sugar you <em>want</em>.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>dice <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="dv">1</span>,<span class="dv">2</span>,<span class="dv">3</span>,<span class="dv">4</span>,<span class="dv">5</span>,<span class="dv">6</span>)</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>amount_of_sugar <span class="ot">&lt;-</span> <span class="fu">sample</span>(dice, <span class="dv">1</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</div>
+<ul class="task-list">
+<li><input type="checkbox">185g unsalted butter</li>
+<li><input type="checkbox">185g best dark chocolate</li>
+<li><input type="checkbox">85g plain flour</li>
+<li><input type="checkbox">40g cocoa powder</li>
+<li><input type="checkbox">50g white chocolate</li>
+<li><input type="checkbox">50g milk chocolate</li>
+<li><input type="checkbox">3 large eggs</li>
+<li><input type="checkbox">275g golden caster sugar</li>
+</ul>
 </section>
 <section id="fa-kitchen-set-procedure" class="level2">
 <h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<p>You need to put 1 grams in a cup.</p>
-</section>
-<section id="photo-of-result" class="level2">
-<h2 class="anchored" data-anchor-id="photo-of-result">Photo of result</h2>
-<p><img src="https://www.happyballoon.de/thumbnail/4d/c1/d0/1701938245/63780351a985e5f5715ba9e630bf5d69ea268092_1920x1920.jpeg" class="img-fluid"></p>
+<p>step 1 Cut 185g unsalted butter into small cubes and tip into a medium bowl. Break 185g dark chocolate into small pieces and drop into the bowl.</p>
+<p>step 2 Fill a small saucepan about a quarter full with hot water, then sit the bowl on top so it rests on the rim of the pan, not touching the water. Put over a low heat until the butter and chocolate have melted, stirring occasionally to mix them.</p>
+<p>step 3 Remove the bowl from the pan. Alternatively, cover the bowl loosely with cling film and put in the microwave for 2 minutes on High. Leave the melted mixture to cool to room temperature.</p>
+<p>step 4 While you wait for the chocolate to cool, position a shelf in the middle of your oven and turn the oven on to 180C/160C fan/gas 4.</p>
+<p>step 5 Using a shallow 20cm square tin, cut out a square of kitchen foil (or non-stick baking parchment) to line the base. Tip 85g plain flour and 40g cocoa powder into a sieve held over a medium bowl. Tap and shake the sieve so they run through together and you get rid of any lumps.</p>
+<p>step 6 Chop 50g white chocolate and 50g milk chocolate into chunks on a board.</p>
+<p>step 7 Break 3 large eggs into a large bowl and tip in 275g golden caster sugar. With an electric mixer on maximum speed, whisk the eggs and sugar. They will look thick and creamy, like a milk shake. This can take 3-8 minutes, depending on how powerful your mixer is. You’ll know it’s ready when the mixture becomes really pale and about double its original volume. Another check is to turn off the mixer, lift out the beaters and wiggle them from side to side. If the mixture that runs off the beaters leaves a trail on the surface of the mixture in the bowl for a second or two, you’re there.</p>
+<p>step 8 Pour the cooled chocolate mixture over the eggy mousse, then gently fold together with a rubber spatula. Plunge the spatula in at one side, take it underneath and bring it up the opposite side and in again at the middle. Continue going under and over in a figure of eight, moving the bowl round after each folding so you can get at it from all sides, until the two mixtures are one and the colour is a mottled dark brown. The idea is to marry them without knocking out the air, so be as gentle and slow as you like.</p>
+<p>step 9 Hold the sieve over the bowl of eggy chocolate mixture and resift the cocoa and flour mixture, shaking the sieve from side to side, to cover the top evenly.</p>
+<p>step 10 Gently fold in this powder using the same figure of eight action as before. The mixture will look dry and dusty at first, and a bit unpromising, but if you keep going very gently and patiently, it will end up looking gungy and fudgy. Stop just before you feel you should, as you don’t want to overdo this mixing.</p>
+<p>step 11 Finally, stir in the white and milk chocolate chunks until they’re dotted throughout.</p>
+<p>step 12 Pour the mixture into the prepared tin, scraping every bit out of the bowl with the spatula. Gently ease the mixture into the corners of the tin and paddle the spatula from side to side across the top to level it.</p>
+<p>step 13 Put in the oven and set your timer for 25 mins. When the buzzer goes, open the oven, pull the shelf out a bit and gently shake the tin. If the brownie wobbles in the middle, it’s not quite done, so slide it back in and bake for another 5 minutes until the top has a shiny, papery crust and the sides are just beginning to come away from the tin. Take out of the oven.</p>
+<p>step 14 Leave the whole thing in the tin until completely cold, then, if you’re using the brownie tin, lift up the protruding rim slightly and slide the uncut brownie out on its base. If you’re using a normal tin, lift out the brownie with the foil (or parchment). Cut into quarters, then cut each quarter into four squares and finally into triangles.</p>
+<p>step 15 They’ll keep in an airtight container for a good two weeks and in the freezer for up to a month.</p>
 
 
 </section>
