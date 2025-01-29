@@ -1,0 +1,38 @@
+---
+title: "Romanian Sarmale"
+author:
+  - name: Ioana Popa
+    url: https://github.com/ipopa1995
+image: https://www.jocooks.com/wp-content/uploads/2019/04/cabbage-rolls-1-3-1229x1536.jpg
+image-alt: https://centraltransylvania.com/wp-content/uploads/2020/11/retete-de-sarmale-varza.jpg
+categories:
+  - traditional
+  - savory
+---
+
+## {{< fa basket-shopping >}} Ingredients
+
+- [ ] 1 medium pickled cabbage
+- [ ] 1.5 lbs ground pork (or a mix of pork and beef)
+- [ ] 1 cup rice, washed and drained
+- [ ] 1 large onion, finely chopped
+- [ ] 1/2 cup tomato paste
+- [ ] 1/2 cup tomato sauce
+- [ ] 2 tbsp vegetable oil
+- [ ] 1 tsp salt
+- [ ] 1/2 tsp black pepper
+- [ ] 1/2 tsp dried thyme
+- [ ] 1 tsp sweet paprika
+- [ ] 1 smoked pork hock or a few slices of smoked bacon (optional)
+- [ ] 3-4 bay leaves
+
+Water or broth, as needed
+
+## {{< fa kitchen-set >}} Procedure
+
+1. Prepare the pickled cabbage by carefully separating the leaves and trimming the thick veins to make rolling easier.
+2. Mix ground meat, rice, sautéed onion, and spices for the filling.
+3. Roll the filling into cabbage leaves and place in a pot with smoked meat and bay leaves.
+4. Cover with tomato paste, sauce, and water/broth, then simmer for 2-3 hours.
+5. Serve hot with sour cream and polenta.
+
