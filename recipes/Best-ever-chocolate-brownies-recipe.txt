@@ -3,16 +3,10 @@ title: "Best Ever Brownies"
 author:
   - name: Isabelle
     url: https://github.com/IsabellePsych
-image: 
-image-alt: 
 categories:
   - dessert
   - diabetes risk
 ---
-
-::: callout-warning
-
-:::
 
 ## {{< fa basket-shopping >}} Ingredients
 
@@ -70,6 +64,4 @@ step 14
 Leave the whole thing in the tin until completely cold, then, if you’re using the brownie tin, lift up the protruding rim slightly and slide the uncut brownie out on its base. If you’re using a normal tin, lift out the brownie with the foil (or parchment). Cut into quarters, then cut each quarter into four squares and finally into triangles.
 
 step 15
-They’ll keep in an airtight container for a good two weeks and in the freezer for up to a month.This is a brownie recipe.
-
-![Yummy](https://www.bbcgoodfood.com/recipes/best-ever-chocolate-brownies-recipe)
+They’ll keep in an airtight container for a good two weeks and in the freezer for up to a month.
