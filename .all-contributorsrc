@@ -384,6 +384,16 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "SamuSander",
+      "name": "Samuel Sander",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96007373?v=4",
+      "profile": "https://github.com/SamuSander",
+      "contributions": [
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
