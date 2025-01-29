@@ -394,6 +394,16 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "ipopa1995",
+      "name": "Ioana Popa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50367313?v=4",
+      "profile": "https://github.com/ipopa1995",
+      "contributions": [
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
