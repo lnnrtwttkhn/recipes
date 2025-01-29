@@ -10,7 +10,7 @@ categories:
   - savory
 ---
 
-{{< fa basket-shopping >}} Ingredients
+## {{< fa basket-shopping >}} Ingredients
 
 - [ ] 1 medium pickled cabbage
 - [ ] 1.5 lbs ground pork (or a mix of pork and beef)
@@ -28,7 +28,7 @@ categories:
 
 Water or broth, as needed
 
-{{< fa kitchen-set >}} Procedure
+## {{< fa kitchen-set >}} Procedure
 
 1. Prepare the pickled cabbage by carefully separating the leaves and trimming the thick veins to make rolling easier.
 2. Mix ground meat, rice, sautéed onion, and spices for the filling.
