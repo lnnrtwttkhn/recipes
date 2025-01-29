@@ -374,6 +374,16 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "MaurizioSicorello",
+      "name": "MaurizioSicorello",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51700288?v=4",
+      "profile": "https://github.com/MaurizioSicorello",
+      "contributions": [
+        "content",
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
