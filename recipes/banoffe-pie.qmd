@@ -9,6 +9,7 @@ categories:
 ---
 
 ## {{< fa basket-shopping >}} Ingredients
+
 - [ ] 1 can (400ml) sweetened condensed milk
 - [ ] 250g HobNobs biscuits (or other crunchy cookies)
 - [ ] 75g butter
@@ -19,17 +20,20 @@ categories:
 ## {{< fa kitchen-set >}} Procedure
 
 ### 1. Prepare the Toffee:
+
 Place the unopened can of condensed milk in a pot and cover completely with water.
 Boil for 2 hours, ensuring the can remains fully submerged at all times. IMPORTANT: Never open the can before or during cooking.
 Remove from heat and let cool completely.
 
 ### 2. Prepare the Base:
+
 Crush the biscuits into fine crumbs (tip: use a freezer bag and rolling pin).
 Melt the butter and mix thoroughly with the biscuit crumbs.
 Press the mixture firmly onto a large plate or shallow dish to form a base (approximately 0.5-1cm thick).
 Refrigerate for 1 hour until firm.
 
 ### 3. Assembly:
+
 Once the base is firm, spread the layers in this order:
 Layer 1: Spread the toffee (the cooked condensed milk) evenly over the base
 Layer 2: Peel and slice the bananas, arrange in a single layer
@@ -37,6 +41,7 @@ Layer 3: Top with whipped cream (lightly sweetened)
 Dust with cocoa powder for decoration.
 
 ### Tips:
+
 - Cook multiple cans of condensed milk at once to save time for future pies. Cooked cans have similar shelf life to unopened condensed milk.
 - The toffee doesn't need to be warmed before use.
 - Sometimes sugar in the toffee crystallizes - this adds extra crunch.
