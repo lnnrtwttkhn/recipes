@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="paul-gallenkemper">
+<meta name="author" content="Sebastian">
 
-<title>Recipes - Cup of Sugar</title>
+<title>Recipes - Bananacake</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,40 +20,6 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
-}
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -147,17 +113,21 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <ul>
   <li><a href="#fa-basket-shopping-ingredients" id="toc-fa-basket-shopping-ingredients" class="nav-link active" data-scroll-target="#fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</a></li>
   <li><a href="#fa-kitchen-set-procedure" id="toc-fa-kitchen-set-procedure" class="nav-link" data-scroll-target="#fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</a></li>
-  <li><a href="#photo-of-result" id="toc-photo-of-result" class="nav-link" data-scroll-target="#photo-of-result">Photo of result</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/lnnrtwttkhn/recipes/edit/main/recipes/cup_of_sugar.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/lnnrtwttkhn/recipes/blob/main/recipes/cup_of_sugar.qmd" class="toc-action">View source</a></p><p><a href="https://github.com/lnnrtwttkhn/recipes/issues" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/lnnrtwttkhn/recipes/edit/main/recipes/bananacake.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/lnnrtwttkhn/recipes/blob/main/recipes/bananacake.qmd" class="toc-action">View source</a></p><p><a href="https://github.com/lnnrtwttkhn/recipes/issues" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Cup of Sugar</h1>
-</div>
+<h1 class="title">Bananacake</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Sweet</div>
+    <div class="quarto-category">Cake</div>
+    <div class="quarto-category">Bananas</div>
+  </div>
+  </div>
 
 
 
@@ -166,7 +136,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p><a href="https://github.com/paul-gallenkemper">paul-gallenkemper</a> </p>
+             <p><a href="https://github.com/Sebastian-Keil">Sebastian</a> </p>
           </div>
   </div>
     
@@ -179,19 +149,41 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <section id="fa-basket-shopping-ingredients" class="level2">
 <h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<p>roll the <strong>dice</strong> on how much sugar you <em>want</em>.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>dice <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="dv">1</span>,<span class="dv">2</span>,<span class="dv">3</span>,<span class="dv">4</span>,<span class="dv">5</span>,<span class="dv">6</span>)</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>amount_of_sugar <span class="ot">&lt;-</span> <span class="fu">sample</span>(dice, <span class="dv">1</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</div>
+<p>Banana Cake</p>
+<ul class="task-list">
+<li><input type="checkbox">1 and 1/2 cups (345g) mashed bananas (about 4 medium or 3 large bananas)</li>
+<li><input type="checkbox">3 cups (375g) all-purpose flour (spooned &amp; leveled)</li>
+<li><input type="checkbox">1 teaspoon baking powder</li>
+<li><input type="checkbox">1 teaspoon baking soda</li>
+<li><input type="checkbox">1/2 teaspoon ground cinnamon</li>
+<li><input type="checkbox">1/2 teaspoon salt</li>
+<li><input type="checkbox">3/4 cup (12 Tbsp; 170g) unsalted butter, softened to room temperature</li>
+<li><input type="checkbox">1 cup (200g) granulated sugar</li>
+<li><input type="checkbox">1/2 cup (100g) packed light or dark brown sugar</li>
+<li><input type="checkbox">3 large eggs, at room temperature</li>
+<li><input type="checkbox">2 teaspoons pure vanilla extract</li>
+<li><input type="checkbox">1 and 1/2 cups (360ml) buttermilk, at room temperature*</li>
+</ul>
+<p>Cream Cheese Frosting</p>
+<ul class="task-list">
+<li><input type="checkbox">8 ounces (226g) full-fat brick cream cheese, softened to room temperature</li>
+<li><input type="checkbox">1/2 cup (8 Tbsp; 113g) unsalted butter, softened to room temperature</li>
+<li><input type="checkbox">3 cups (360g) confectioners’ sugar, plus an extra 1/4 cup if needed</li>
+<li><input type="checkbox">1 teaspoon pure vanilla extract</li>
+<li><input type="checkbox">1/8 teaspoon salt</li>
+</ul>
 </section>
 <section id="fa-kitchen-set-procedure" class="level2">
 <h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<p>You need to put 4 grams in a cup.</p>
-</section>
-<section id="photo-of-result" class="level2">
-<h2 class="anchored" data-anchor-id="photo-of-result">Photo of result</h2>
-<p><img src="https://www.happyballoon.de/thumbnail/4d/c1/d0/1701938245/63780351a985e5f5715ba9e630bf5d69ea268092_1920x1920.jpeg" class="img-fluid"></p>
+<ol type="1">
+<li>Preheat the oven to 350°F (177°C) and grease a 9×13-inch pan.</li>
+<li>Make the cake: Mash the bananas. I usually just use my mixer for this! Set mashed bananas aside.</li>
+<li>Whisk the flour, baking powder, baking soda, cinnamon, and salt together. Set aside.</li>
+<li>Using a handheld or stand mixer fitted with a paddle attachment, beat the butter on high speed until smooth and creamy—about 1 minute. Add both sugars and beat on high speed for 2 minutes until creamed together. Scrape down the sides and up the bottom of the bowl with a rubber spatula as needed. Add the eggs and the vanilla. Beat on medium-high speed until combined, then beat in the mashed bananas. Scrape down the sides and up the bottom of the bowl as needed. With the mixer on low speed, add the dry ingredients in three additions alternating with the buttermilk and mixing each addition just until incorporated. Do not overmix. The batter will be slightly thick and a few lumps is OK.</li>
+<li>Spread batter into the prepared pan. Bake for 45–50 minutes. Baking times vary, so keep an eye on yours. The cake is done when a toothpick inserted in the center comes out clean. If you find the top of the cake is browning too quickly in the oven, loosely cover it with aluminum foil.</li>
+<li>Remove the cake from the oven and set on a wire rack. Allow to cool completely. After about 45 minutes, I usually place it in the refrigerator to speed things up.</li>
+<li>Make the frosting: In a large bowl using a handheld or stand mixer fitted with a paddle or whisk attachment, beat the cream cheese and butter together on high speed until smooth and creamy. Add 3 cups confectioners’ sugar, vanilla, and salt. Beat on low speed for 30 seconds, then switch to high speed and beat for 2 minutes. If you want the frosting a little thicker, add the extra 1/4 cup of confectioners sugar (I add it). Spread the frosting on the cooled cake. Refrigerate for 30 minutes before serving. This helps sets the frosting and makes cutting easier. Cover leftover cake tightly and store in the refrigerator for 5 days.</li>
+</ol>
 
 
 </section>

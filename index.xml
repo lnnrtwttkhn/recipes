@@ -10,7 +10,7 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Wed, 29 Jan 2025 19:18:06 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Jan 2025 08:47:07 GMT</lastBuildDate>
 <item>
   <title>Pancakes</title>
   <dc:creator>Lennart Wittkuhn</dc:creator>
@@ -59,7 +59,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Wed, 29 Jan 2025 19:18:06 GMT</pubDate>
+  <pubDate>Thu, 30 Jan 2025 08:47:07 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -108,7 +108,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
-  <pubDate>Wed, 29 Jan 2025 19:18:06 GMT</pubDate>
+  <pubDate>Thu, 30 Jan 2025 08:47:07 GMT</pubDate>
   <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -202,7 +202,7 @@ Not vegan, contains eggs and milk!
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</guid>
-  <pubDate>Wed, 29 Jan 2025 19:18:06 GMT</pubDate>
+  <pubDate>Thu, 30 Jan 2025 08:47:07 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -249,7 +249,7 @@ Not vegan, contains eggs and milk!
   <category>vegetarian</category>
   <category>pasta</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</guid>
-  <pubDate>Wed, 29 Jan 2025 19:18:06 GMT</pubDate>
+  <pubDate>Thu, 30 Jan 2025 08:47:07 GMT</pubDate>
   <media:content url="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -308,8 +308,65 @@ Not vegan, contains eggs and milk!
   <category>cake</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
-  <pubDate>Wed, 29 Jan 2025 19:18:06 GMT</pubDate>
+  <pubDate>Thu, 30 Jan 2025 08:47:07 GMT</pubDate>
   <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Bananacake</title>
+  <dc:creator>Sebastian </dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/bananacake.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<p>Banana Cake</p>
+<ul class="task-list">
+<li><input type="checkbox">1 and 1/2 cups (345g) mashed bananas (about 4 medium or 3 large bananas)</li>
+<li><input type="checkbox">3 cups (375g) all-purpose flour (spooned &amp; leveled)</li>
+<li><input type="checkbox">1 teaspoon baking powder</li>
+<li><input type="checkbox">1 teaspoon baking soda</li>
+<li><input type="checkbox">1/2 teaspoon ground cinnamon</li>
+<li><input type="checkbox">1/2 teaspoon salt</li>
+<li><input type="checkbox">3/4 cup (12 Tbsp; 170g) unsalted butter, softened to room temperature</li>
+<li><input type="checkbox">1 cup (200g) granulated sugar</li>
+<li><input type="checkbox">1/2 cup (100g) packed light or dark brown sugar</li>
+<li><input type="checkbox">3 large eggs, at room temperature</li>
+<li><input type="checkbox">2 teaspoons pure vanilla extract</li>
+<li><input type="checkbox">1 and 1/2 cups (360ml) buttermilk, at room temperature*</li>
+</ul>
+<p>Cream Cheese Frosting</p>
+<ul class="task-list">
+<li><input type="checkbox">8 ounces (226g) full-fat brick cream cheese, softened to room temperature</li>
+<li><input type="checkbox">1/2 cup (8 Tbsp; 113g) unsalted butter, softened to room temperature</li>
+<li><input type="checkbox">3 cups (360g) confectioners’ sugar, plus an extra 1/4 cup if needed</li>
+<li><input type="checkbox">1 teaspoon pure vanilla extract</li>
+<li><input type="checkbox">1/8 teaspoon salt</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Preheat the oven to 350°F (177°C) and grease a 9×13-inch pan.</li>
+<li>Make the cake: Mash the bananas. I usually just use my mixer for this! Set mashed bananas aside.</li>
+<li>Whisk the flour, baking powder, baking soda, cinnamon, and salt together. Set aside.</li>
+<li>Using a handheld or stand mixer fitted with a paddle attachment, beat the butter on high speed until smooth and creamy—about 1 minute. Add both sugars and beat on high speed for 2 minutes until creamed together. Scrape down the sides and up the bottom of the bowl with a rubber spatula as needed. Add the eggs and the vanilla. Beat on medium-high speed until combined, then beat in the mashed bananas. Scrape down the sides and up the bottom of the bowl as needed. With the mixer on low speed, add the dry ingredients in three additions alternating with the buttermilk and mixing each addition just until incorporated. Do not overmix. The batter will be slightly thick and a few lumps is OK.</li>
+<li>Spread batter into the prepared pan. Bake for 45–50 minutes. Baking times vary, so keep an eye on yours. The cake is done when a toothpick inserted in the center comes out clean. If you find the top of the cake is browning too quickly in the oven, loosely cover it with aluminum foil.</li>
+<li>Remove the cake from the oven and set on a wire rack. Allow to cool completely. After about 45 minutes, I usually place it in the refrigerator to speed things up.</li>
+<li>Make the frosting: In a large bowl using a handheld or stand mixer fitted with a paddle or whisk attachment, beat the cream cheese and butter together on high speed until smooth and creamy. Add 3 cups confectioners’ sugar, vanilla, and salt. Beat on low speed for 30 seconds, then switch to high speed and beat for 2 minutes. If you want the frosting a little thicker, add the extra 1/4 cup of confectioners sugar (I add it). Spread the frosting on the cooled cake. Refrigerate for 30 minutes before serving. This helps sets the frosting and makes cutting easier. Cover leftover cake tightly and store in the refrigerator for 5 days.</li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>Sweet</category>
+  <category>Cake</category>
+  <category>Bananas</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/bananacake.html</guid>
+  <pubDate>Thu, 30 Jan 2025 08:47:07 GMT</pubDate>
+  <media:content url="https://sallysbakingaddiction.com/wp-content/uploads/2016/08/the-best-banana-cake-3.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Pear Chocolate Chip Muffins</title>
@@ -344,7 +401,7 @@ Not vegan, contains eggs and milk!
   <category>sweets</category>
   <category>easy</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pear-chocolate-chip-muffins.html</guid>
-  <pubDate>Wed, 29 Jan 2025 19:18:06 GMT</pubDate>
+  <pubDate>Thu, 30 Jan 2025 08:47:07 GMT</pubDate>
   <media:content url="https://lennartwittkuhn.com/recipes/recipes/Add the URL to the image here" medium="image"/>
 </item>
 <item>
@@ -393,7 +450,7 @@ Not vegan, contains eggs and milk!
   <category>dessert</category>
   <category>diabetes risk</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/best-ever-chocolate-brownies-recipe.html</guid>
-  <pubDate>Wed, 29 Jan 2025 19:18:06 GMT</pubDate>
+  <pubDate>Thu, 30 Jan 2025 08:47:07 GMT</pubDate>
 </item>
 <item>
   <title>Romanian Sarmale</title>
@@ -439,7 +496,7 @@ Not vegan, contains eggs and milk!
   <category>traditional</category>
   <category>savory</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/Sarmale.html</guid>
-  <pubDate>Wed, 29 Jan 2025 19:18:06 GMT</pubDate>
+  <pubDate>Thu, 30 Jan 2025 08:47:07 GMT</pubDate>
   <media:content url="https://www.jocooks.com/wp-content/uploads/2019/04/cabbage-rolls-1-3-1229x1536.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -494,7 +551,7 @@ Not vegan, contains eggs and milk!
   <category>dessert</category>
   <category>british</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/banoffe-pie.html</guid>
-  <pubDate>Wed, 29 Jan 2025 19:18:06 GMT</pubDate>
+  <pubDate>Thu, 30 Jan 2025 08:47:07 GMT</pubDate>
 </item>
 <item>
   <title>A great evening</title>
@@ -526,7 +583,7 @@ Not vegan, contains eggs and milk!
  ]]></description>
   <category>super sweet</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/aGreatEvening.html</guid>
-  <pubDate>Wed, 29 Jan 2025 19:18:06 GMT</pubDate>
+  <pubDate>Thu, 30 Jan 2025 08:47:07 GMT</pubDate>
 </item>
 <item>
   <title>KababDigi</title>
@@ -574,7 +631,7 @@ Not vegan, contains eggs and milk!
  ]]></description>
   <category>Add a list of catgeories here</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/KababDigi.html</guid>
-  <pubDate>Wed, 29 Jan 2025 19:18:06 GMT</pubDate>
+  <pubDate>Thu, 30 Jan 2025 08:47:07 GMT</pubDate>
 </item>
 <item>
   <title>Cinnamon Roll</title>
@@ -613,7 +670,7 @@ Not vegan, contains eggs and milk!
  ]]></description>
   <category>sweet</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/AirFryerCinnamonRollBites.html</guid>
-  <pubDate>Wed, 29 Jan 2025 19:18:06 GMT</pubDate>
+  <pubDate>Thu, 30 Jan 2025 08:47:07 GMT</pubDate>
 </item>
 <item>
   <title>Peanut Udon</title>
@@ -661,7 +718,7 @@ Not vegan, contains eggs and milk!
  ]]></description>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/peanut_udon.html</guid>
-  <pubDate>Wed, 29 Jan 2025 19:18:06 GMT</pubDate>
+  <pubDate>Thu, 30 Jan 2025 08:47:07 GMT</pubDate>
   <media:content url="https://lennartwittkuhn.com/recipes/recipes/Add the URL to the image here" medium="image"/>
 </item>
 <item>
@@ -708,7 +765,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegan</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/vegan-carrot-cake.html</guid>
-  <pubDate>Wed, 29 Jan 2025 19:18:06 GMT</pubDate>
+  <pubDate>Thu, 30 Jan 2025 08:47:07 GMT</pubDate>
   <media:content url="https://biancazapatka.com/wp-content/uploads/2018/03/IMG_2437-720x895.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -758,7 +815,7 @@ Not vegan, contains eggs and milk!
   <category>Asian</category>
   <category>Date Night Food</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/gyoza.html</guid>
-  <pubDate>Wed, 29 Jan 2025 19:18:06 GMT</pubDate>
+  <pubDate>Thu, 30 Jan 2025 08:47:07 GMT</pubDate>
   <media:content url="https://assets.zuckerjagdwurst.com/pref3p553o311dnb3y67zffjmwte/1110/701/55/true/center/R883-Vegane-Teigtaschen-mit-Knusperboden-30.webp?animated=false" medium="image"/>
 </item>
 <item>
@@ -790,7 +847,7 @@ Not vegan, contains eggs and milk!
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/noodles.html</guid>
-  <pubDate>Wed, 29 Jan 2025 19:18:06 GMT</pubDate>
+  <pubDate>Thu, 30 Jan 2025 08:47:07 GMT</pubDate>
 </item>
 <item>
   <title>Bananabread</title>
@@ -829,7 +886,7 @@ Not vegan, contains eggs and milk!
 
  ]]></description>
   <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread-annabel.html</guid>
-  <pubDate>Wed, 29 Jan 2025 19:18:06 GMT</pubDate>
+  <pubDate>Thu, 30 Jan 2025 08:47:07 GMT</pubDate>
 </item>
 <item>
   <title>Granola</title>
@@ -874,7 +931,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/granola.html</guid>
-  <pubDate>Wed, 29 Jan 2025 19:18:06 GMT</pubDate>
+  <pubDate>Thu, 30 Jan 2025 08:47:07 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/c/ca/Banana_Walnut_Granola_%286796918872%29.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -922,67 +979,8 @@ Not vegan, contains eggs and milk!
   <category>noodles</category>
   <category>Asian cuisine</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/tiktok-ramen.html</guid>
-  <pubDate>Wed, 29 Jan 2025 19:18:06 GMT</pubDate>
+  <pubDate>Thu, 30 Jan 2025 08:47:07 GMT</pubDate>
   <media:content url="https://www.eatclub.tv/wp-content/uploads/2021/12/tiktok-ramen.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Peanutbutter Ramen</title>
-  <dc:creator>helenebreuer </dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/peanutbutter-ramen.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<ul class="task-list">
-<li><input type="checkbox">3 banana shallots, peeled and chopped to get 100g</li>
-<li><input type="checkbox">2 lemongrass stalks, bottom two-thirds sliced, the rest discarded</li>
-<li><input type="checkbox">10 garlic cloves (30g), peeled and roughly chopped</li>
-<li><input type="checkbox">8cm x 8cm piece fresh ginger (60g), peeled and roughly chopped</li>
-<li><input type="checkbox">2½ tbsp gochujang paste</li>
-<li><input type="checkbox">1 tsp salt</li>
-<li><input type="checkbox">1¾ tsp salt, plus ½ tsp extra for the tempeh</li>
-<li><input type="checkbox">2 tsp Rapeseed oil</li>
-<li><input type="checkbox">3 tsp light brown soft sugar</li>
-<li><input type="checkbox">4 tbsp (65g) smooth peanut butter</li>
-<li><input type="checkbox">1 x 400ml tin coconut milk</li>
-<li><input type="checkbox">2 limes, zested and quartered</li>
-<li><input type="checkbox">250g ramen noodles</li>
-<li><input type="checkbox">200g tempeh, chopped into a mince with a knife</li>
-<li><input type="checkbox">250g pak choi, shredded lengthways</li>
-<li><input type="checkbox">40g fresh coriander, chopped</li>
-</ul>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<section id="make-curry-paste" class="level3">
-<h3 class="anchored" data-anchor-id="make-curry-paste">1. Make curry paste:</h3>
-<p>Put all the curry paste ingredients and two tablespoons each of rapeseed oil and water in a small blender and blitz to a smooth paste.</p>
-</section>
-<section id="make-the-ramen-broth" class="level3">
-<h3 class="anchored" data-anchor-id="make-the-ramen-broth">2. Make the ramen broth:</h3>
-<p>Next, make the ramen broth. Put three tablespoons of rapeseed oil in a large saucepan on a medium heat and, once hot, add the spice paste and fry, stirring regularly, for 10 minutes. Stir in two teaspoons of the sugar and cook for a further two minutes. Transfer a tablespoon and a half of the mix to a bowl and put to one side. Stir the peanut butter into the pan, then add the coconut milk, lime zest and a litre of water. Bring up to a simmer, then cook on a low heat for 10 minutes.</p>
-</section>
-<section id="make-the-noodles-tempeh" class="level3">
-<h3 class="anchored" data-anchor-id="make-the-noodles-tempeh">3. Make the noodles &amp; tempeh:</h3>
-<p>Meanwhile, make the noodles and tempeh. Cook the noodles according to the packet instructions, then drain in a colander, rinse under cold water and drain again. Add a little oil to the colander, toss to coat the noodles so they don’t stick, then set aside. To cook the tempeh, put two tablespoons of rapeseed oil in a nonstick frying pan on a medium heat and, when hot, add the tempeh mince and fry, stirring often, for five minutes, until crisp and browning. Add the reserved curry paste mix, the remaining teaspoon of sugar and the extra half-teaspoon of salt, fry, stirring, for another three or four minutes, then take off the heat.</p>
-</section>
-<section id="serve-the-ramen" class="level3">
-<h3 class="anchored" data-anchor-id="serve-the-ramen">4. Serve the ramen:</h3>
-<p>To serve, divide the ramen broth between four bowls, then divide the noodles between the bowls. Top with the shredded pak choy, crumbled tempeh and coriander, squeeze the juice of a quarter of a lime over each portion and serve with another lime wedge on the side of each bowl.</p>
-<p><img src="https://lennartwittkuhn.com/recipes/recipes/https:/www.theguardian.com/food/2024/mar/09/vegan-peanut-butter-ramen-recipe-meera-sodha.png" class="img-fluid"></p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>vegan</category>
-  <category>ramen</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/peanutbutter-ramen.html</guid>
-  <pubDate>Wed, 29 Jan 2025 19:18:06 GMT</pubDate>
-  <media:content url="https://i.guim.co.uk/img/media/02ba2204e73993e25bc095c9bebf405057cace50/0_0_3573_4214/master/3573.jpg?width=1140&amp;dpr=2&amp;s=none" medium="image"/>
 </item>
 </channel>
 </rss>
