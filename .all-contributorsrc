@@ -447,6 +447,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "nmoog",
+      "name": "nmoog",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205627081?v=4",
+      "profile": "https://github.com/nmoog",
+      "contributions": [
+        "code",
+        "content",
+        "bug"
+      ]
     }
   ],
   "commitType": "docs"
