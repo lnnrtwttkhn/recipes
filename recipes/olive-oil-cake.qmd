@@ -1,0 +1,29 @@
+---
+title: "Olive Oil Cake"
+categories:
+  - sweet
+  - vegetarian
+author: [nmoog|(https://github.com/nmoog)
+---
+
+::: callout-warning
+## Not vegan, contains eggs and milk!
+:::
+
+## {{< fa basket-shopping >}} Ingredients
+
+- [ ] 240 g flour
+- [ ] 1 tsp baking soda
+- [ ] 250 g sugar
+- [ ] 3 eggs
+- [ ] 140g olive oil
+- [ ] 150g milk
+- [ ] juice from 1-2 oranges
+- [ ] peel from 1-2 oranges
+
+## {{< fa kitchen-set >}} Preparation
+
+1. Whip eggs and sugar (3-5 minutes)
+2. Add oil, milk, orange juice and peel and mix
+3. Add flour mixed with baking soda
+4. Bake at 180°C for 45 minutes
