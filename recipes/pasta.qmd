@@ -1,24 +1,31 @@
 ---
-title: "Template for new recipe"
+title: Pasta with tomato sauce
 author:
-  - name: Your GitHub Name
-    url: URL of your GitHub profile
-image: "Add the URL to the image here"
-image-alt: "Add the URL to the image here"
+  - name: Elisa Stüwe
+    url: https://github.com/elisabotage/
+image: "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+image-alt: "Pasta sauce in container"
 categories:
-  - Add a list of catgeories here
+  - Dinner
 ---
+
+Serves 2-4 people
 
 ## {{< fa basket-shopping >}} Ingredients
 
-- [ ] Add your ingredients here
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] 800 g canned whole tomatoes
+- [ ] 1-3 cloves of garlic
+- [ ] 1 medium onion
+- [ ] 1 piece of parmesan rind
+- [ ] 500 g spaghetti
+- [ ] 20 g fresh basil
+- [ ] Salt, pepper to taste
 
 ## {{< fa kitchen-set >}} Procedure
 
-1. Step 1
-1. Step 2
-1. Step 3
+1.  Salt and sauté onions until translucent, but not brown
+2.  Add garlic and tomato paste and roast a bit
+3.  Add canned tomatoes, parmesan rind, fresh basil
+4.  Let simmer on low heat for 30-120 minutes
+5.  Cook pasta until al dente
+6.  Mix pasta and sauce
