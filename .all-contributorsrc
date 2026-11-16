@@ -467,6 +467,16 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "elisabotage",
+      "name": "Elisa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198880175?v=4",
+      "profile": "https://github.com/elisabotage",
+      "contributions": [
+        "code",
+        "bug"
+      ]
     }
   ],
   "commitType": "docs"
