@@ -10,7 +10,7 @@
 <atom:link href="https://lennartwittkuhn.com/recipes/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Mon, 16 Nov 2026 15:14:57 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 15:17:28 GMT</lastBuildDate>
 <item>
   <title>Pancakes</title>
   <dc:creator>Lennart Wittkuhn</dc:creator>
@@ -59,7 +59,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pancakes.html</guid>
-  <pubDate>Mon, 16 Nov 2026 15:14:57 GMT</pubDate>
+  <pubDate>Mon, 16 Nov 2026 15:17:28 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Thin_pancakes.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -118,7 +118,7 @@ Not vegan, contains eggs and milk!
   <category>cake</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/bananabread.html</guid>
-  <pubDate>Mon, 16 Nov 2026 15:14:57 GMT</pubDate>
+  <pubDate>Mon, 16 Nov 2026 15:17:28 GMT</pubDate>
   <media:content url="https://www.acozykitchen.com/wp-content/uploads/2013/09/EasyBananaNutBreadRecipe-9.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -165,7 +165,7 @@ Not vegan, contains eggs and milk!
   <category>vegetarian</category>
   <category>pasta</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/lentil-bolognese.html</guid>
-  <pubDate>Mon, 16 Nov 2026 15:14:57 GMT</pubDate>
+  <pubDate>Mon, 16 Nov 2026 15:17:28 GMT</pubDate>
   <media:content url="https://www.gaumenfreundin.de/wp-content/uploads/2021/04/Rote-Linsenbolognese-Schuessel.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -259,7 +259,7 @@ Not vegan, contains eggs and milk!
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/black-forest-cherry-dessert.html</guid>
-  <pubDate>Mon, 16 Nov 2026 15:14:57 GMT</pubDate>
+  <pubDate>Mon, 16 Nov 2026 15:17:28 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/750_565/public/2019-08/schwarzwaelder-kirsch-dessert.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -308,8 +308,49 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>baking</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/chocolate-cake-kids.html</guid>
-  <pubDate>Mon, 16 Nov 2026 15:14:57 GMT</pubDate>
+  <pubDate>Mon, 16 Nov 2026 15:17:28 GMT</pubDate>
   <media:content url="https://img.chefkoch-cdn.de/rezepte/3186881474309297/bilder/1367661/crop-960x640/feiner-schokokuchen-ohne-zuckerzusatz.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Pasta with tomato sauce</title>
+  <dc:creator>Elisa Stüwe</dc:creator>
+  <link>https://lennartwittkuhn.com/recipes/recipes/pasta.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Serves 2-4 people</p>
+<section id="fa-basket-shopping-ingredients" class="level2">
+<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
+<ul class="task-list">
+<li><input type="checkbox">800 g canned whole tomatoes</li>
+<li><input type="checkbox">1-3 cloves of garlic</li>
+<li><input type="checkbox">1 medium onion</li>
+<li><input type="checkbox">1 piece of parmesan rind</li>
+<li><input type="checkbox">500 g spaghetti</li>
+<li><input type="checkbox">20 g fresh basil</li>
+<li><input type="checkbox">Salt, pepper to taste</li>
+</ul>
+</section>
+<section id="fa-kitchen-set-procedure" class="level2">
+<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
+<ol type="1">
+<li>Salt and sauté onions until translucent, but not brown</li>
+<li>Add garlic and tomato paste and roast a bit</li>
+<li>Add canned tomatoes, parmesan rind, fresh basil</li>
+<li>Let simmer on low heat for 30-120 minutes</li>
+<li>Cook pasta until al dente</li>
+<li>Mix pasta and sauce</li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>Dinner</category>
+  <guid>https://lennartwittkuhn.com/recipes/recipes/pasta.html</guid>
+  <pubDate>Mon, 16 Nov 2026 15:17:28 GMT</pubDate>
+  <media:content url="https://images.unsplash.com/photo-1472476443507-c7a5948772fc?q=80&amp;w=1170&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=NHwxMjA3fDA%3D" medium="image"/>
 </item>
 <item>
   <title>Olive Oil Cake</title>
@@ -361,7 +402,7 @@ Not vegan, contains eggs and milk!
   <category>sweet</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/olive-oil-cake.html</guid>
-  <pubDate>Mon, 16 Nov 2026 15:14:57 GMT</pubDate>
+  <pubDate>Mon, 16 Nov 2026 15:17:28 GMT</pubDate>
 </item>
 <item>
   <title>Bananacake</title>
@@ -417,7 +458,7 @@ Not vegan, contains eggs and milk!
   <category>Cake</category>
   <category>Bananas</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/bananacake.html</guid>
-  <pubDate>Mon, 16 Nov 2026 15:14:57 GMT</pubDate>
+  <pubDate>Mon, 16 Nov 2026 15:17:28 GMT</pubDate>
   <media:content url="https://sallysbakingaddiction.com/wp-content/uploads/2016/08/the-best-banana-cake-3.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -453,7 +494,7 @@ Not vegan, contains eggs and milk!
   <category>sweets</category>
   <category>easy</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pear-chocolate-chip-muffins.html</guid>
-  <pubDate>Mon, 16 Nov 2026 15:14:57 GMT</pubDate>
+  <pubDate>Mon, 16 Nov 2026 15:17:28 GMT</pubDate>
   <media:content url="https://lennartwittkuhn.com/recipes/recipes/Add the URL to the image here" medium="image"/>
 </item>
 <item>
@@ -502,7 +543,7 @@ Not vegan, contains eggs and milk!
   <category>dessert</category>
   <category>diabetes risk</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/best-ever-chocolate-brownies-recipe.html</guid>
-  <pubDate>Mon, 16 Nov 2026 15:14:57 GMT</pubDate>
+  <pubDate>Mon, 16 Nov 2026 15:17:28 GMT</pubDate>
 </item>
 <item>
   <title>Romanian Sarmale</title>
@@ -548,7 +589,7 @@ Not vegan, contains eggs and milk!
   <category>traditional</category>
   <category>savory</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/Sarmale.html</guid>
-  <pubDate>Mon, 16 Nov 2026 15:14:57 GMT</pubDate>
+  <pubDate>Mon, 16 Nov 2026 15:17:28 GMT</pubDate>
   <media:content url="https://www.jocooks.com/wp-content/uploads/2019/04/cabbage-rolls-1-3-1229x1536.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -603,7 +644,7 @@ Not vegan, contains eggs and milk!
   <category>dessert</category>
   <category>british</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/banoffe-pie.html</guid>
-  <pubDate>Mon, 16 Nov 2026 15:14:57 GMT</pubDate>
+  <pubDate>Mon, 16 Nov 2026 15:17:28 GMT</pubDate>
 </item>
 <item>
   <title>A great evening</title>
@@ -635,7 +676,7 @@ Not vegan, contains eggs and milk!
  ]]></description>
   <category>super sweet</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/aGreatEvening.html</guid>
-  <pubDate>Mon, 16 Nov 2026 15:14:57 GMT</pubDate>
+  <pubDate>Mon, 16 Nov 2026 15:17:28 GMT</pubDate>
 </item>
 <item>
   <title>KababDigi</title>
@@ -683,7 +724,7 @@ Not vegan, contains eggs and milk!
  ]]></description>
   <category>Add a list of catgeories here</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/KababDigi.html</guid>
-  <pubDate>Mon, 16 Nov 2026 15:14:57 GMT</pubDate>
+  <pubDate>Mon, 16 Nov 2026 15:17:28 GMT</pubDate>
 </item>
 <item>
   <title>Cinnamon Roll</title>
@@ -722,7 +763,7 @@ Not vegan, contains eggs and milk!
  ]]></description>
   <category>sweet</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/AirFryerCinnamonRollBites.html</guid>
-  <pubDate>Mon, 16 Nov 2026 15:14:57 GMT</pubDate>
+  <pubDate>Mon, 16 Nov 2026 15:17:28 GMT</pubDate>
 </item>
 <item>
   <title>Banana Brownies</title>
@@ -769,7 +810,7 @@ Not vegan, contains eggs and milk!
   <category>dessert</category>
   <category>vegetarian</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/banana-brownies.html</guid>
-  <pubDate>Mon, 16 Nov 2026 15:14:57 GMT</pubDate>
+  <pubDate>Mon, 16 Nov 2026 15:17:28 GMT</pubDate>
   <media:content url="https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/1500_1130/public/2024-01/bananen_brownies_1.jpg?h=6adb09fa&amp;itok=w3gYvR7B" medium="image"/>
 </item>
 <item>
@@ -813,7 +854,7 @@ Not vegan, contains eggs and milk!
  ]]></description>
   <category>international</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/fesenjan.html</guid>
-  <pubDate>Mon, 16 Nov 2026 15:14:57 GMT</pubDate>
+  <pubDate>Mon, 16 Nov 2026 15:17:28 GMT</pubDate>
   <media:content url="https://cdn.faradeed.ir/thumbnail/LeNflz9GOtZN/KoeEnxIUgNp8HPWtyR4f3njefZWpQsc5QSfH7y-wEmOGb45E_dImxEpQi9avqdGE/Khoresh-e-Fesenjan-Tilda-Pure-Basmati-2-scaled.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -872,7 +913,7 @@ Not vegan, contains eggs and milk!
   <category>vegan</category>
   <category>ramen</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/peanutbutter-ramen.html</guid>
-  <pubDate>Mon, 16 Nov 2026 15:14:57 GMT</pubDate>
+  <pubDate>Mon, 16 Nov 2026 15:17:28 GMT</pubDate>
   <media:content url="https://i.guim.co.uk/img/media/02ba2204e73993e25bc095c9bebf405057cace50/0_0_3573_4214/master/3573.jpg?width=1140&amp;dpr=2&amp;s=none" medium="image"/>
 </item>
 <item>
@@ -912,7 +953,7 @@ Not vegan, contains eggs and milk!
   <category>crispy</category>
   <category>breakfast</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/muesli.html</guid>
-  <pubDate>Mon, 16 Nov 2026 15:14:57 GMT</pubDate>
+  <pubDate>Mon, 16 Nov 2026 15:17:28 GMT</pubDate>
   <media:content url="https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/0293599B-0ED4-468A-A838-50045B7A80EF/Derivates/E87D2389-BC34-44D7-9DBD-410A84A86C3F.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -974,58 +1015,8 @@ Not vegan, contains eggs and milk!
   <category>pasta</category>
   <category>Italian cuisine</category>
   <guid>https://lennartwittkuhn.com/recipes/recipes/pasta-alla-norma.html</guid>
-  <pubDate>Mon, 16 Nov 2026 15:14:57 GMT</pubDate>
+  <pubDate>Mon, 16 Nov 2026 15:17:28 GMT</pubDate>
   <media:content url="https://images.getrecipekit.com/20220310125111-dscf1118.jpg?width=650&amp;quality=90&amp;" medium="image"/>
-</item>
-<item>
-  <title>Gyoza</title>
-  <dc:creator>KaroBrix </dc:creator>
-  <link>https://lennartwittkuhn.com/recipes/recipes/gyoza.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="fa-basket-shopping-ingredients" class="level2">
-<h2 class="anchored" data-anchor-id="fa-basket-shopping-ingredients"><i class="fa-solid fa-basket-shopping" aria-label="basket-shopping"></i> Ingredients</h2>
-<ul class="task-list">
-<li><input type="checkbox">100 g pointed cabbage</li>
-<li><input type="checkbox">100 g carrots</li>
-<li><input type="checkbox">100 g minced beef (or tofu)</li>
-<li><input type="checkbox">180 g flour</li>
-<li><input type="checkbox">108 ml boiling water</li>
-<li><input type="checkbox">1 tbsp soy sauce</li>
-<li><input type="checkbox">1 garlic clove</li>
-<li><input type="checkbox">1 tsp stock powder</li>
-<li><input type="checkbox">1 tsp white wine</li>
-<li><input type="checkbox">1 tsp sesame oil</li>
-<li><input type="checkbox">salt</li>
-<li><input type="checkbox">potato starch</li>
-<li><input type="checkbox">cooking oil</li>
-</ul>
-</section>
-<section id="fa-kitchen-set-procedure" class="level2">
-<h2 class="anchored" data-anchor-id="fa-kitchen-set-procedure"><i class="fa-solid fa-kitchen-set" aria-label="kitchen-set"></i> Procedure</h2>
-<ol type="1">
-<li>Mix flour, 1 tsp of salt and boiling water. When cool enough, start kneading until a smooth dough forms. Leave the dough to rest in cling film for 15 minutes.</li>
-<li>Finely chop cabbage, garlic, carrots (and tofu) and mix with soy sauce, stock powder, sesame oil and white wine.</li>
-<li>Divide the dough into thirds, roll the thirds into rolls, and cut into 12 pieces. Shape the pieces into “flat cakes” and roll each one in potato starch. Roll out each piece into a thin circle using a rolling pin.</li>
-<li>Fill each dough piece with one tbsp of the cabbage mixture. Wet the edge of the circle with some water. Next, fold it into a half circle and pinch the edges together.</li>
-<li>Heat cooking oil in a pan. Add Gyoza for about 3 minutes until they brown on the bottom. Add about half a cup of water mixed with a tbsp of flour to the bottom of the pan. Cover the Gyoza for about 8 minutes and let it simmer. Then remove the top and keep the heat on until the water is gone and a crispy bottom has formed.</li>
-<li>Enjoy!</li>
-</ol>
-<p>Pro Tipp: The recipes works much faster and makes much more fun when you do it with another person, which is why it is the perfect food for a date or an evening with friends :)</p>
-
-
-</section>
-
- ]]></description>
-  <category>vegetarian</category>
-  <category>vegan</category>
-  <category>Asian</category>
-  <category>Date Night Food</category>
-  <guid>https://lennartwittkuhn.com/recipes/recipes/gyoza.html</guid>
-  <pubDate>Mon, 16 Nov 2026 15:14:57 GMT</pubDate>
-  <media:content url="https://assets.zuckerjagdwurst.com/pref3p553o311dnb3y67zffjmwte/1110/701/55/true/center/R883-Vegane-Teigtaschen-mit-Knusperboden-30.webp?animated=false" medium="image"/>
 </item>
 </channel>
 </rss>
