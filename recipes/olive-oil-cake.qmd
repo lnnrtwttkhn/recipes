@@ -3,7 +3,9 @@ title: "Olive Oil Cake"
 categories:
   - sweet
   - vegetarian
-author: [nmoog|(https://github.com/nmoog)
+author:
+  - name: nmoog
+    url: https://github.com/nmoog
 ---
 
 ::: callout-warning
